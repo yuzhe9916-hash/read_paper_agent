@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42716355",
+    "doi": "10.1016/j.biotechadv.2026.109033",
+    "title": "Emerging strategies for regulating Cas12a and Cas13a trans-cleavage activity in biosensing."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a and Cas13a have become widely used platforms for molecular diagnostics and biosensing, because target recognition can trigger collateral nucleic acid cleavage for signal amplification. Leveraging this mechanism, numerous biosensing platforms have been developed with high sensitivity, high specificity, and compatibility with point-of-care testing. However, their analytical performance depends strongly on the regulation of trans-cleavage activity. This review summarizes recent advances in the molecular basis and activity regulation of CRISPR-Cas12a- and Cas13a-based biosensing systems. We discuss the target-recognition and conformational activation mechanisms underlying Cas12a and Cas13a trans-cleavage. We then examine how Cas effector properties, crRNA architecture and composition, activator accessibility and structure, reaction conditions, and reporter design regulate target-induced activation and signal output. We further highlight the use of these strategies for controlled activation, tunable signal generation, and broader biosensing applications. By organizing these strategies across different regulatory layers, this review aims to provide a framework for designing more controllable and adaptable CRISPR trans-cleavage biosensing systems.",
+    "keywords": [
+      "Activity regulation",
+      "Biosensing",
+      "CRISPR-Cas12a",
+      "CRISPR-Cas13a",
+      "Trans-cleavage"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Xiaohui",
+        "Huang, Yaru",
+        "Zhang, Lei",
+        "Zheng, Le"
+      ],
+      "short_names": [
+        "Wang X",
+        "Huang Y",
+        "Zhang L",
+        "Zheng L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China.",
+        "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China.",
+        "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China. Electronic address: lzheng@shu.edu.cn.",
+        "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China. Electronic address: zhangleich@shu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Xiaohui",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yaru",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lei",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China. Electronic address: lzheng@shu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Le",
+        "short_name": "Zheng L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Microelectronics, Shanghai University, Shanghai 201899, China; Sino-Swiss Institute of Advanced Technology, Shanghai University, Shanghai 201899, China. Electronic address: zhangleich@shu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology advances"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Adv"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716355",
+      "41796733",
+      "42213084",
+      "37531567",
+      "41587498",
+      "41686171",
+      "34418634",
+      "41606937",
+      "41603277",
+      "41938130",
+      "37116358",
+      "42600477",
+      "36738621",
+      "39788669",
+      "37278518",
+      "42648078",
+      "38472096",
+      "41555514",
+      "42441514",
+      "36843874",
+      "38552526",
+      "42027081",
+      "36240131",
+      "39394452",
+      "41500123",
+      "36327313",
+      "38861812",
+      "33940494",
+      "41889087",
+      "40544408",
+      "40261268",
+      "34653714",
+      "41783155",
+      "36840654",
+      "41745936",
+      "39982896",
+      "42624339",
+      "42144912",
+      "35615910",
+      "36117747",
+      "37819747",
+      "37683439",
+      "41002335",
+      "40199100",
+      "41149312",
+      "42659818",
+      "30654914",
+      "39980302",
+      "35193353",
+      "41330674",
+      "38245957",
+      "34928030",
+      "34505008",
+      "39426279",
+      "38217497",
+      "39746849",
+      "38866727",
+      "37252785",
+      "38636316",
+      "38490023",
+      "40469012",
+      "40187291",
+      "37870387",
+      "35946354",
+      "36569102",
+      "42330666",
+      "31800219",
+      "36399094",
+      "31671185",
+      "39183441",
+      "38969428",
+      "41800529",
+      "34455224",
+      "42138212",
+      "40751732",
+      "40745870",
+      "36290917",
+      "34271398",
+      "36120975",
+      "38284432",
+      "40558442",
+      "40544550",
+      "39324194",
+      "41834687",
+      "33703873",
+      "36651835",
+      "41144643",
+      "41709870",
+      "42405767",
+      "42184674",
+      "40263707",
+      "35016109",
+      "40716775",
+      "42549575",
+      "38604773",
+      "41039127",
+      "30873832",
+      "38493286",
+      "41638184",
+      "36270083"
+    ],
+    "review": [
+      "42716355",
+      "41796733",
+      "42213084",
+      "41587498",
+      "34418634",
+      "41606937",
+      "41938130",
+      "36843874",
+      "42027081",
+      "41500123",
+      "41889087",
+      "41783155",
+      "36840654",
+      "41745936",
+      "42624339",
+      "42144912",
+      "41002335",
+      "41149312",
+      "30654914",
+      "37870387",
+      "36569102",
+      "31671185",
+      "36290917",
+      "36120975",
+      "40558442",
+      "39324194",
+      "41709870"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0734-9750(26)00239-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

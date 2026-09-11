@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42694041",
+  "title": "Functional Annotation of the Major Histocompatibility Complex Locus.",
+  "authors": "Bounds, Lexi R; Barrera, Alejandro; Ter Weele, Maria; Liu, Siyan; Wu, Euphy; Li, Shengyu; Venukuttan, Revathy; Rai, Ruhi; Mu, Wancen; Iglesias, Nahid; Giusti-Rodriguez, Paola; Reddy, Timothy E; Li, Yun; Gordan, Raluca; Allen, Andrew S; Love, Michael I; Sullivan, Patrick F; Crawford, Gregory E; Gersbach, Charles A",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-09-04",
+  "window": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "score": 0,
+  "one_liner_zh": "该文通过CRISPR筛选和单细胞转录组研究MHC基因座的调控元件-基因连接，不涉及无序蛋白、蛋白互作或AI/物理模拟方法，与本课题无关。",
+  "abstract": "The human major histocompatibility complex (MHC) locus has the greatest density of disease-associations in the human genome, including links to over 100 polygenic disorders. Its complex haplotype structure, rich gene density, and high degree of linkage disequilibrium combine to make deciphering the gene regulatory logic of the MHC locus extremely challenging. Employing complementary high-throughput CRISPR interference (CRISPRi) and activation (CRISPRa) epigenetic screens coupled with single-cell transcriptome profiling across three distinct human cell types, we identified hundreds of new connections between cis -regulatory elements (CREs) and their target genes in this locus. These CRE-gene links are largely cell type-specific and act as enhancers. Additionally, some CREs have complex features, including harboring both active and repressive histone marks, lacking chromatin accessibility, targeting multiple genes, or acting as silencers. Computational methods fail to predict a majority of these CRE-gene connections. These findings emphasize the potential for functional perturbation experiments to dissect complex loci and reveal shared and cell type-specific regulatory mechanisms relevant to genomics of complex diseases. Collectively, this study provides a unique resource for understanding the complex regulatory landscape within the MHC locus and supports the need for creating new models that encompass CRE-gene interactions, cell type-specific gene expression, and disease genetics in the noncoding genome.",
+  "abstract_zh": "人类主要组织相容性复合体（major histocompatibility complex, MHC）基因座在人类基因组中具有最高的疾病关联密度，包括与超过100种多基因疾病的关联。其复杂的单倍型结构、丰富的基因密度以及高度的连锁不平衡（linkage disequilibrium）共同使得解析MHC基因座的基因调控逻辑极具挑战性。通过结合互补的高通量CRISPR干扰（CRISPRi）和激活（CRISPRa）表观遗传学筛选，并在三种不同的人类细胞类型中进行单细胞转录组分析，我们鉴定出该基因座中数百个新的顺式调控元件（cis-regulatory elements, CREs）与其靶基因之间的连接。这些CRE-基因连接主要具有细胞类型特异性，并发挥增强子（enhancer）功能。此外，部分CREs具有复杂特征，包括同时携带激活性和抑制性组蛋白修饰、缺乏染色质可及性、靶向多个基因，或发挥沉默子（silencer）作用。计算方法无法预测这些CRE-基因连接中的大多数。这些发现强调了功能扰动实验在解析复杂基因座中的潜力，并揭示了与复杂疾病基因组学相关的共享及细胞类型特异性调控机制。总体而言，本研究为理解MHC基因座内的复杂调控景观提供了独特资源，并支持了在非编码基因组中建立涵盖CRE-基因相互作用、细胞类型特异性基因表达及疾病遗传学的新模型的必要性。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42694041/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42694041/",
+  "paper_page_path": "papers/pubmed/42694041/index.html"
+}

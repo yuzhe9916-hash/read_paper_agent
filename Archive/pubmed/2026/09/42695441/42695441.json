@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42695441",
+    "doi": "10.1002/jbm.a.70144",
+    "title": "Artificial Intelligence in Biomaterials: Revolutionizing Design and Manufacturing."
+  },
+  "content": {
+    "abstract": "Biomaterials are indispensable to modern healthcare, yet their development remains hindered by traditional trial-and-error approaches that are costly, time-intensive, and inefficient. Artificial intelligence (AI) offers a powerful alternative, but most existing reviews treat AI merely as a computational tool for property prediction rather than as a systemic driver of innovation across the entire biomaterials' lifecycle. This review bridges that gap by providing a holistic, end-to-end perspective that integrates AI-driven design, intelligent manufacturing, and clinical translation into a unified framework. We systematically examine how AI-powered predictive modeling and structure-function optimization are reshaping the discovery of polymers, proteins, drug carriers, and tissue scaffolds, while also driving breakthroughs in 3D bioprinting, laser processing, composite manufacturing, and genetically programmed bio-fabrication. Recognizing that computational promise does not automatically translate into clinical reality, we critically evaluate persistent barriers such as data scarcity, poor data quality, the interpretability-accuracy trade-off, and regulatory uncertainties, and discuss strategies to overcome them through Explainable AI and rigorous validation protocols. Looking forward, we explore the convergence of AI with quantum computing and CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) gene editing, which together could enable a new generation of multifunctional, responsive biomaterials. By synthesizing advances across the full lifecycle and offering a structured framework for selecting AI methodologies tailored to specific biomaterials challenges, this review aims to serve as both a comprehensive resource and a strategic roadmap for translating computational innovation into tangible clinical impact.",
+    "keywords": [
+      "artificial intelligence (AI)",
+      "biomaterials",
+      "deep learning (DL)",
+      "machine learning (ML)",
+      "predictive modeling",
+      "structure-function optimization"
+    ],
+    "mesh_terms": [
+      "*Biocompatible Materials/chemistry",
+      "*Artificial Intelligence",
+      "Humans",
+      "Tissue Scaffolds/chemistry",
+      "Tissue Engineering"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yichen",
+        "Wang, Zhiting",
+        "Wei, Haojie",
+        "Ding, Xili",
+        "Fan, Yubo"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Wang Z",
+        "Wei H",
+        "Ding X",
+        "Fan Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7653-7686"
+      ],
+      "affiliations": [
+        "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China.",
+        "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China.",
+        "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China.",
+        "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China.",
+        "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yichen",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhiting",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Haojie",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Xili",
+        "short_name": "Ding X",
+        "identifiers": [
+          "0000-0002-7653-7686"
+        ],
+        "affiliations": [
+          "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yubo",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomechanics and Mechanobiology, Ministry of Education; National Medical Innovation Platform for Industry-Education Integration in Advanced Medical Devices; School of Biological Science and Medical Engineering, School of Engineering Medicine, Beihang University, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomedical materials research. Part A"
+    ],
+    "journal_abbrev": [
+      "J Biomed Mater Res A"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42695441",
+      "40314572",
+      "42475469",
+      "41768702",
+      "35202854",
+      "40414522",
+      "42128714",
+      "40406131",
+      "40695076",
+      "40241963",
+      "40081552",
+      "42226588",
+      "41957161",
+      "41075468",
+      "42242512",
+      "41996874",
+      "42638493",
+      "41218468",
+      "41939694",
+      "41146636",
+      "42357379",
+      "41584179",
+      "40531093",
+      "42058982",
+      "41982233",
+      "42349054",
+      "40524056",
+      "41758998",
+      "42377676",
+      "42491104",
+      "42344774",
+      "41630488",
+      "42285388",
+      "40744834",
+      "41766174",
+      "40251567",
+      "41131749",
+      "40951387",
+      "41508193",
+      "39374681",
+      "39189880",
+      "38964243",
+      "42402276",
+      "42123604",
+      "41691797",
+      "41388211",
+      "42011244",
+      "41653969",
+      "41012456",
+      "42159544",
+      "41025745",
+      "42031452",
+      "42128801",
+      "41859342",
+      "41348251",
+      "42080108",
+      "42030977",
+      "42086397",
+      "42044246",
+      "41676817",
+      "41961090",
+      "38956008",
+      "42514923",
+      "40887563",
+      "41441056",
+      "41096677",
+      "42597681",
+      "41749736",
+      "41465283",
+      "41900842",
+      "40476698",
+      "41025068",
+      "41901808",
+      "41463599",
+      "34833853",
+      "41828604",
+      "42594953",
+      "42512547",
+      "40483546",
+      "42314831",
+      "41253282",
+      "42196328",
+      "42003205",
+      "42535626",
+      "42330856",
+      "39069377",
+      "42107050",
+      "40725054",
+      "42611956",
+      "41457471",
+      "42226986",
+      "40873579",
+      "40813104",
+      "41155330",
+      "42575519",
+      "39651398",
+      "42270271",
+      "40574194",
+      "40992526",
+      "41636234"
+    ],
+    "review": [
+      "42695441",
+      "40314572",
+      "41768702",
+      "35202854",
+      "40414522",
+      "42128714",
+      "40406131",
+      "40695076",
+      "40241963",
+      "40081552",
+      "42226588",
+      "41075468",
+      "42242512",
+      "41996874",
+      "42638493",
+      "41218468",
+      "41939694",
+      "41146636",
+      "42357379",
+      "41584179",
+      "42058982",
+      "41982233",
+      "42349054",
+      "40524056",
+      "42377676",
+      "42491104",
+      "42344774",
+      "41630488",
+      "42285388",
+      "40744834",
+      "41766174",
+      "40251567",
+      "41131749",
+      "40951387",
+      "41508193",
+      "39374681",
+      "39189880",
+      "38964243",
+      "42402276",
+      "42123604",
+      "41691797",
+      "41388211",
+      "42011244",
+      "41653969",
+      "41012456",
+      "42159544",
+      "41025745",
+      "42031452",
+      "42128801",
+      "41859342",
+      "41348251",
+      "42080108",
+      "42030977",
+      "42086397",
+      "41676817",
+      "41961090",
+      "38956008",
+      "42514923",
+      "40887563",
+      "41441056",
+      "41096677",
+      "42597681",
+      "41749736",
+      "41465283",
+      "41900842",
+      "40476698",
+      "41025068",
+      "41901808",
+      "41463599",
+      "34833853",
+      "41828604",
+      "42594953",
+      "42512547",
+      "42314831",
+      "41253282",
+      "42196328",
+      "42003205",
+      "42535626",
+      "42330856",
+      "39069377",
+      "42107050",
+      "40725054",
+      "42611956",
+      "41457471",
+      "42226986",
+      "40873579",
+      "40813104",
+      "41155330",
+      "42575519",
+      "39651398",
+      "42270271",
+      "40574194",
+      "40992526",
+      "41636234"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/jbm.a.70144",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

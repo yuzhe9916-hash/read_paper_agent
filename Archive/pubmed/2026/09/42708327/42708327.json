@@ -1,0 +1,328 @@
+{
+  "identity": {
+    "pmid": "42708327",
+    "doi": "10.1016/j.gim.2026.102716",
+    "title": "Evaluating the pathogenic significance of unique chromosomal variants in craniosynostosis using patient-derived induced pluripotent stem cells and mouse modelling."
+  },
+  "content": {
+    "abstract": "PURPOSE: Unravelling causal links between unique structural/copy-number variants (SV/CNV) and associated phenotypes is essential for correct genetic counselling. We investigated two families in which patients with craniosynostosis had SV/CNV potentially dysregulating a fibroblast growth factor (FGF)-encoding gene; a 730 kb dup(4)(q21.21) including FGF5; and a complex 568 kb interspersed 13q12.11 duplication, located 841 kb from FGF9. METHODS: We combined bioinformatic predictions of altered topologically-associating domain (TAD) structure, with experimental analysis (RNA- and ATAC- [assay for transposase-accessible chromatin] sequencing) of patient induced pluripotent stem cell lines (iPSCs) differentiated to neural crest (NCC) and osteoprogenitor (OPC) identities. For the dup(4)(q21.21) we generated a mouse bearing an equivalent rearrangement using CRISPR-Cas9 targeting. RESULTS: TAD analysis suggested potential dysregulation of the FGF5/FGF9 gene by bringing it into a novel genomic milieu. The RNA- and ATAC-seq assays demonstrated FGF5/FGF9 upregulation (2.7-18x) and local opening of chromatin, in 3/4 cell lines. For the dup(4)(q21.21), a causal role was supported by the mouse model, whereas interpretation of the 13q12.11 SV is confounded by a co-existing FOXP2 pathogenic variant. CONCLUSION: Patient iPSC-differentiated NCC and OPC lines, combined with TAD-based modelling to generate testable functional hypotheses, provide valuable functional evidence when evaluating causation of unique SV/CNV in craniosynostosis.",
+    "keywords": [
+      "copy-number variant",
+      "craniosynostosis",
+      "mouse models",
+      "neural crest cells",
+      "osteogenic cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Korona, Dagmara",
+        "Hashimoto, Akiko Soneda",
+        "Pei, Yang",
+        "Calpena, Eduardo",
+        "Sloane-Stanley, Jackie",
+        "Riva, Simone G",
+        "Schwessinger, Ron",
+        "Forzano, Francesca",
+        "Chintawar, Satyan",
+        "Duggal, Galbha",
+        "Wall, Steven A",
+        "Hughes, Jim R",
+        "Twigg, Stephen R F",
+        "Wilkie, Andrew O M"
+      ],
+      "short_names": [
+        "Korona D",
+        "Hashimoto AS",
+        "Pei Y",
+        "Calpena E",
+        "Sloane-Stanley J",
+        "Riva SG",
+        "Schwessinger R",
+        "Forzano F",
+        "Chintawar S",
+        "Duggal G",
+        "Wall SA",
+        "Hughes JR",
+        "Twigg SRF",
+        "Wilkie AOM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; Grupo de Investigacion en Biomedicina Molecular, Celular y Genomica, Unidad CIBERER (U755), Instituto de Investigacion Sanitaria La Fe (IIS La Fe), Valencia, Spain.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "Clinical Genetics Department, Guy's & St Thomas' NHS Foundation Trust, Guy's Hospital, London SE1 9RT, UK.",
+        "Oxford StemTech, Hayakawa Building, The Oxford Science Park, Edmund Halley Road, Oxford OX4 4GB, UK.",
+        "Oxford StemTech, Hayakawa Building, The Oxford Science Park, Edmund Halley Road, Oxford OX4 4GB, UK.",
+        "Craniofacial Unit, Oxford University Hospitals NHS Foundation Trust, John Radcliffe Hospital, Oxford OX3 9DU, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK.",
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; NIHR Oxford Biomedical Research Centre, Oxford OX3 9DU, UK.",
+        "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; Craniofacial Unit, Oxford University Hospitals NHS Foundation Trust, John Radcliffe Hospital, Oxford OX3 9DU, UK; NIHR Oxford Biomedical Research Centre, Oxford OX3 9DU, UK. Electronic address: andrew.wilkie@imm.ox.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Korona, Dagmara",
+        "short_name": "Korona D",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Hashimoto, Akiko Soneda",
+        "short_name": "Hashimoto AS",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Pei, Yang",
+        "short_name": "Pei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Calpena, Eduardo",
+        "short_name": "Calpena E",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; Grupo de Investigación en Biomedicina Molecular, Celular y Genómica, Unidad CIBERER (U755), Instituto de Investigación Sanitaria La Fe (IIS La Fe), Valencia, Spain."
+        ]
+      },
+      {
+        "full_name": "Sloane-Stanley, Jackie",
+        "short_name": "Sloane-Stanley J",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Riva, Simone G",
+        "short_name": "Riva SG",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Schwessinger, Ron",
+        "short_name": "Schwessinger R",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Forzano, Francesca",
+        "short_name": "Forzano F",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Department, Guy's & St Thomas' NHS Foundation Trust, Guy's Hospital, London SE1 9RT, UK."
+        ]
+      },
+      {
+        "full_name": "Chintawar, Satyan",
+        "short_name": "Chintawar S",
+        "identifiers": [],
+        "affiliations": [
+          "Oxford StemTech, Hayakawa Building, The Oxford Science Park, Edmund Halley Road, Oxford OX4 4GB, UK."
+        ]
+      },
+      {
+        "full_name": "Duggal, Galbha",
+        "short_name": "Duggal G",
+        "identifiers": [],
+        "affiliations": [
+          "Oxford StemTech, Hayakawa Building, The Oxford Science Park, Edmund Halley Road, Oxford OX4 4GB, UK."
+        ]
+      },
+      {
+        "full_name": "Wall, Steven A",
+        "short_name": "Wall SA",
+        "identifiers": [],
+        "affiliations": [
+          "Craniofacial Unit, Oxford University Hospitals NHS Foundation Trust, John Radcliffe Hospital, Oxford OX3 9DU, UK."
+        ]
+      },
+      {
+        "full_name": "Hughes, Jim R",
+        "short_name": "Hughes JR",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK."
+        ]
+      },
+      {
+        "full_name": "Twigg, Stephen R F",
+        "short_name": "Twigg SRF",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; NIHR Oxford Biomedical Research Centre, Oxford OX3 9DU, UK."
+        ]
+      },
+      {
+        "full_name": "Wilkie, Andrew O M",
+        "short_name": "Wilkie AOM",
+        "identifiers": [],
+        "affiliations": [
+          "Clinical Genetics Group, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK; Craniofacial Unit, Oxford University Hospitals NHS Foundation Trust, John Radcliffe Hospital, Oxford OX3 9DU, UK; NIHR Oxford Biomedical Research Centre, Oxford OX3 9DU, UK. Electronic address: andrew.wilkie@imm.ox.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genetics in medicine : official journal of the American College of Medical Genetics"
+    ],
+    "journal_abbrev": [
+      "Genet Med"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42708327",
+      "29914921",
+      "41943166",
+      "25694803",
+      "41233895",
+      "37662218",
+      "34729306",
+      "39453535",
+      "32887585",
+      "26131765",
+      "39425080",
+      "29957233",
+      "39616960",
+      "25586786",
+      "40015453",
+      "36609218",
+      "24965231",
+      "41470026",
+      "32735620",
+      "31638832",
+      "36655574",
+      "35400201",
+      "28342760",
+      "40556978",
+      "39350244",
+      "40028843",
+      "34750192",
+      "33830454",
+      "41808829",
+      "38104115",
+      "40254569",
+      "31402430",
+      "24763686",
+      "42475469",
+      "39643619",
+      "35195064",
+      "26423934",
+      "33743584",
+      "38497452",
+      "37732247",
+      "30408744",
+      "41484984",
+      "40937943",
+      "38049901",
+      "40361250",
+      "34346740",
+      "23222420",
+      "42108505",
+      "24472662",
+      "39684611",
+      "31921404",
+      "36370261",
+      "38956727",
+      "24736403",
+      "40843495",
+      "32376152",
+      "33025817",
+      "34448118",
+      "33417713",
+      "38323811",
+      "34712574",
+      "27437574",
+      "41057395",
+      "39201382",
+      "30217742",
+      "37317833",
+      "38516405",
+      "42249589",
+      "21982236",
+      "33208191",
+      "33130086",
+      "27206577",
+      "41877289",
+      "22613578",
+      "33938231",
+      "40600194",
+      "41023835",
+      "41015095",
+      "33956078",
+      "41218606",
+      "28587749",
+      "27013738",
+      "38908378",
+      "28388430",
+      "40654907",
+      "26319495",
+      "36581494",
+      "33160308",
+      "41373403",
+      "34874743",
+      "40421531",
+      "37354689",
+      "42438139",
+      "38018454",
+      "32487215",
+      "41399436",
+      "41232918",
+      "36264199",
+      "27631155",
+      "25298370"
+    ],
+    "review": [
+      "42708327",
+      "26423934",
+      "36370261"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1098-3600(26)01034-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

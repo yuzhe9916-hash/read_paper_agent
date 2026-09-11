@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42716156",
+    "doi": "10.1016/j.ijbiomac.2026.154405",
+    "title": "PDK1 signaling in cancer: Current status and future perspectives."
+  },
+  "content": {
+    "abstract": "Dysregulation of signaling pathways governing cell growth, survival, metabolism, angiogenesis, invasion, metastasis, and therapeutic response drives cancer progression. The AGC family of kinases, such as AKT, S6K, SGK, RSK, and PKC, is important for downstream signaling. The 3-phosphoinositide-dependent protein kinase-1 protein (PDK1), encoded by the PDPK1 gene, phosphorylates activation-loop residues in these kinases and links phosphoinositide signaling to cellular growth, survival, metabolism, and transformation. The structure, regulation, cancer-associated functions, and therapeutic targeting of PDK1 are critically reviewed, with a focus on the pleckstrin homology domain, PIF pocket-mediated substrate docking, the kinase domain, and reported non-catalytic interactions. Experimental results from breast, lung, gastric, liver, hematological, and melanoma models suggest that dysregulated PDK1 signaling can increase the output of the PI3K-AKT-mTOR pathway, invasion, metabolic adaptation, and resistance to specific hormonal, chemotherapeutic, and targeted therapies. In some preclinical models, genetic suppression of PDK1 using siRNA, shRNA, or CRISPR-based methods has been shown to slow tumor cell growth and restore drug sensitivity. However, PDK1 remains an unvalidated therapeutic target in the clinic. There is no selective PDK1 inhibitor that has been clinically approved, and most pharmacological candidates are based on biochemical and cellular data. There is limited genetic evidence and in vivo evidence, and no validated clinical evidence specific to PDK1. Emerging PIF-pocket ligands, dual-site inhibitors, allosteric modulators, and protein-degradation strategies are therefore investigational strategies that need to be improved in terms of selectivity, pharmacokinetic characterization, tumor-context validation, and biomarker-guided evaluation.",
+    "keywords": [
+      "Drug resistance",
+      "Oncogene",
+      "PDK1",
+      "PI3K/AKT pathway",
+      "cancer signaling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Honnasiddappa, Darshana Ballagere",
+        "Ramar, Mohankumar",
+        "Biju, Tincy",
+        "Sajjan, Mallikarjun",
+        "Venkatesh, Chidananda",
+        "Mahadeva, Nayan Kumar",
+        "Kunjiappan, Selvaraj",
+        "Ammunje, Damodar Nayak",
+        "Pavadai, Parasuraman"
+      ],
+      "short_names": [
+        "Honnasiddappa DB",
+        "Ramar M",
+        "Biju T",
+        "Sajjan M",
+        "Venkatesh C",
+        "Mahadeva NK",
+        "Kunjiappan S",
+        "Ammunje DN",
+        "Pavadai P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India.",
+        "Department of Pharmacology, Sir Issac Newton College of Pharmacy, Pappakovil, Nagapattinam, 611 102, Tamil Nadu, India.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India.",
+        "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India.",
+        "Department of Pharmacognosy, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India.",
+        "Center for Computational Biology, SRM Institute of Science and Technology, Tiruchirappalli, Tiruchirappalli, 621105, Tamil Nadu, India.",
+        "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India. Electronic address: superdamu@gmail.com.",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India. Electronic address: pvpram@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Honnasiddappa, Darshana Ballagere",
+        "short_name": "Honnasiddappa DB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Ramar, Mohankumar",
+        "short_name": "Ramar M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Sir Issac Newton College of Pharmacy, Pappakovil, Nagapattinam, 611 102, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Biju, Tincy",
+        "short_name": "Biju T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Sajjan, Mallikarjun",
+        "short_name": "Sajjan M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Venkatesh, Chidananda",
+        "short_name": "Venkatesh C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Mahadeva, Nayan Kumar",
+        "short_name": "Mahadeva NK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacognosy, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Kunjiappan, Selvaraj",
+        "short_name": "Kunjiappan S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Computational Biology, SRM Institute of Science and Technology, Tiruchirappalli, Tiruchirappalli, 621105, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Ammunje, Damodar Nayak",
+        "short_name": "Ammunje DN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India. Electronic address: superdamu@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Pavadai, Parasuraman",
+        "short_name": "Pavadai P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, M.S. Ramaiah University of Applied Sciences, Bengaluru, 560054, Karnataka, India. Electronic address: pvpram@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716156",
+      "24039447",
+      "32197467",
+      "41928774",
+      "16219676",
+      "21087210",
+      "12912918",
+      "30734603",
+      "23030823",
+      "37640147",
+      "37792325",
+      "39348509",
+      "31088502",
+      "18802401",
+      "19602588",
+      "23887393",
+      "21568903",
+      "20385558",
+      "19207420",
+      "21118801",
+      "34175443",
+      "24979759",
+      "24037523",
+      "28287465",
+      "22952425",
+      "28591657",
+      "41270611",
+      "19065678",
+      "37531320",
+      "23377372",
+      "15772071",
+      "27699769",
+      "22845486",
+      "23524293",
+      "20200230",
+      "35318320",
+      "11500365",
+      "12169624",
+      "34353330",
+      "37107587",
+      "16207722",
+      "35387990",
+      "23119004",
+      "23893244",
+      "35603651",
+      "12822887",
+      "25518860",
+      "15116068",
+      "18662999",
+      "25726712",
+      "41774454",
+      "39002682",
+      "30897008",
+      "11779851",
+      "12374740",
+      "24140475",
+      "22114931",
+      "28343126",
+      "22999883",
+      "26238471",
+      "38035024",
+      "41698153",
+      "10801415",
+      "19531564",
+      "32048762",
+      "27693059",
+      "23581296",
+      "10698939",
+      "28430130",
+      "24739482",
+      "10074427",
+      "42518131",
+      "38277080",
+      "21908616",
+      "28473254",
+      "15611161",
+      "41218707",
+      "12738763",
+      "31004362",
+      "10601311",
+      "21779981",
+      "27323812",
+      "20361045",
+      "10191262",
+      "37311034",
+      "20197379",
+      "39039255",
+      "32188393",
+      "41106249",
+      "19822882",
+      "26876212",
+      "31197600",
+      "16251192",
+      "23343422",
+      "42351448",
+      "20068177",
+      "30770351",
+      "18837915",
+      "23215724",
+      "30622697"
+    ],
+    "review": [
+      "42716156",
+      "24039447",
+      "41928774",
+      "30734603",
+      "37640147",
+      "37792325",
+      "18802401",
+      "21568903",
+      "34175443",
+      "28287465",
+      "28591657",
+      "41270611",
+      "23377372",
+      "22845486",
+      "23524293",
+      "12822887",
+      "41774454",
+      "30897008",
+      "24140475",
+      "22114931",
+      "28343126",
+      "26238471",
+      "42518131",
+      "28473254",
+      "42351448"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)04351-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1052",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

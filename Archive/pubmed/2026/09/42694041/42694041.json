@@ -1,0 +1,349 @@
+{
+  "identity": {
+    "pmid": "42694041",
+    "doi": "10.64898/2026.02.01.703124",
+    "title": "Functional Annotation of the Major Histocompatibility Complex Locus."
+  },
+  "content": {
+    "abstract": "The human major histocompatibility complex (MHC) locus has the greatest density of disease-associations in the human genome, including links to over 100 polygenic disorders. Its complex haplotype structure, rich gene density, and high degree of linkage disequilibrium combine to make deciphering the gene regulatory logic of the MHC locus extremely challenging. Employing complementary high-throughput CRISPR interference (CRISPRi) and activation (CRISPRa) epigenetic screens coupled with single-cell transcriptome profiling across three distinct human cell types, we identified hundreds of new connections between cis -regulatory elements (CREs) and their target genes in this locus. These CRE-gene links are largely cell type-specific and act as enhancers. Additionally, some CREs have complex features, including harboring both active and repressive histone marks, lacking chromatin accessibility, targeting multiple genes, or acting as silencers. Computational methods fail to predict a majority of these CRE-gene connections. These findings emphasize the potential for functional perturbation experiments to dissect complex loci and reveal shared and cell type-specific regulatory mechanisms relevant to genomics of complex diseases. Collectively, this study provides a unique resource for understanding the complex regulatory landscape within the MHC locus and supports the need for creating new models that encompass CRE-gene interactions, cell type-specific gene expression, and disease genetics in the noncoding genome.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bounds, Lexi R",
+        "Barrera, Alejandro",
+        "Ter Weele, Maria",
+        "Liu, Siyan",
+        "Wu, Euphy",
+        "Li, Shengyu",
+        "Venukuttan, Revathy",
+        "Rai, Ruhi",
+        "Mu, Wancen",
+        "Iglesias, Nahid",
+        "Giusti-Rodriguez, Paola",
+        "Reddy, Timothy E",
+        "Li, Yun",
+        "Gordan, Raluca",
+        "Allen, Andrew S",
+        "Love, Michael I",
+        "Sullivan, Patrick F",
+        "Crawford, Gregory E",
+        "Gersbach, Charles A"
+      ],
+      "short_names": [
+        "Bounds LR",
+        "Barrera A",
+        "Ter Weele M",
+        "Liu S",
+        "Wu E",
+        "Li S",
+        "Venukuttan R",
+        "Rai R",
+        "Mu W",
+        "Iglesias N",
+        "Giusti-Rodriguez P",
+        "Reddy TE",
+        "Li Y",
+        "Gordan R",
+        "Allen AS",
+        "Love MI",
+        "Sullivan PF",
+        "Crawford GE",
+        "Gersbach CA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5061-7581",
+        "ORCID: 0000-0003-1478-4013"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Bounds, Lexi R",
+        "short_name": "Bounds LR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Barrera, Alejandro",
+        "short_name": "Barrera A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ter Weele, Maria",
+        "short_name": "Ter Weele M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Siyan",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wu, Euphy",
+        "short_name": "Wu E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Shengyu",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Venukuttan, Revathy",
+        "short_name": "Venukuttan R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rai, Ruhi",
+        "short_name": "Rai R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Mu, Wancen",
+        "short_name": "Mu W",
+        "identifiers": [
+          "0000-0002-5061-7581"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Iglesias, Nahid",
+        "short_name": "Iglesias N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Giusti-Rodríguez, Paola",
+        "short_name": "Giusti-Rodríguez P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reddy, Timothy E",
+        "short_name": "Reddy TE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Yun",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gordan, Raluca",
+        "short_name": "Gordan R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Allen, Andrew S",
+        "short_name": "Allen AS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Love, Michael I",
+        "short_name": "Love MI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sullivan, Patrick F",
+        "short_name": "Sullivan PF",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Crawford, Gregory E",
+        "short_name": "Crawford GE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gersbach, Charles A",
+        "short_name": "Gersbach CA",
+        "identifiers": [
+          "0000-0003-1478-4013"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Feb 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 11:39",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42694041",
+      "42475469",
+      "40653285",
+      "40421528",
+      "40205616",
+      "34462306",
+      "23935528",
+      "40127183",
+      "21628452",
+      "31396896",
+      "32994224",
+      "37410590",
+      "40882622",
+      "41731605",
+      "41000760",
+      "30612741",
+      "42402843",
+      "33988505",
+      "38504114",
+      "38260486",
+      "39948336",
+      "39341862",
+      "38260561",
+      "41826830",
+      "35997588",
+      "40034789",
+      "33155827",
+      "37398408",
+      "40382355",
+      "26635396",
+      "41810371",
+      "38631728",
+      "39571581",
+      "41676679",
+      "40660252",
+      "42547575",
+      "36945371",
+      "38811842",
+      "41573836",
+      "29772251",
+      "39392676",
+      "36427144",
+      "28475862",
+      "41862973",
+      "39302339",
+      "42190655",
+      "38369936",
+      "42278322",
+      "38639992",
+      "34524848",
+      "36549923",
+      "40784520",
+      "41299571",
+      "40950476",
+      "38358392",
+      "31533978",
+      "38760655",
+      "31504167",
+      "28683826",
+      "22955617",
+      "38038259",
+      "38695538",
+      "36777038",
+      "41659577",
+      "22215325",
+      "40725473",
+      "37309871",
+      "15121991",
+      "32442411",
+      "32363570",
+      "40654604",
+      "37034704",
+      "39855972",
+      "35976093",
+      "40143812",
+      "24127591",
+      "29378629",
+      "32005150",
+      "21441907",
+      "42367874",
+      "36094314",
+      "39605382",
+      "39606421",
+      "41420926",
+      "29030344",
+      "39843737",
+      "34321217",
+      "40826469",
+      "31915147",
+      "41299220",
+      "40760451",
+      "41237776",
+      "41676689",
+      "40409268",
+      "34761274",
+      "36909938",
+      "42482180",
+      "28863138",
+      "42281968",
+      "34774128"
+    ],
+    "review": [
+      "42694041",
+      "29772251",
+      "41862973",
+      "36549923",
+      "37309871",
+      "15121991",
+      "39855972",
+      "41420926"
+    ],
+    "pmc": [
+      "13535928"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42694041/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-C-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.02.01.703124",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

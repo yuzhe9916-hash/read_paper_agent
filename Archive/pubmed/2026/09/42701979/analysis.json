@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42701979",
+  "title": "Regulatory Evolution and the Genetic Basis of Human Brain Expansion.",
+  "authors": "Hettiarachchi, Nilmini",
+  "journal": "Journal of molecular evolution",
+  "published_date": "2026-09-06",
+  "window": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "score": 2,
+  "one_liner_zh": "该综述探讨人类大脑扩张的调控进化与基因调控元件，不涉及无序蛋白、蛋白互作或AI/物理模拟方法，与本课题无关。",
+  "abstract": "The evolution of the human brain is characterized by profound changes in structure and function, despite relatively limited divergence in protein-coding genes compared to other primates. This paradox has led to increasing recognition of gene regulatory elements (GREs) as primary drivers of evolutionary innovation. In this review, we synthesize current knowledge on the role of conserved noncoding elements (CNEs), human accelerated regions (HARs), and transposable element (TE)-derived sequences in shaping gene regulatory networks (GRNs) underlying brain development. Comparative analyses across humans and closely related primates, including the chimpanzee, gorilla, and orangutan, reveal that while core regulatory architectures are highly conserved, subtle changes in regulatory elements drive species-specific gene expression patterns. We highlight how CNEs provide a stable regulatory framework, whereas HARs and TE-derived elements introduce lineage-specific modifications that fine-tune neurodevelopmental processes. Advances in functional genomics, including CRISPR-based perturbations, massively parallel reporter assays, and single-cell multi-omics, have enabled direct interrogation of regulatory function, linking sequence variation to cellular phenotypes. Furthermore, we discuss how regulatory evolution contributes to both cognitive innovation and susceptibility to neurological disorders. Despite significant progress, challenges remain in establishing causal relationships between regulatory variation and phenotypic outcomes. Future integration of multi-omics data and comparative models will be essential for resolving these complexities. Together, this review provides a comprehensive framework for understanding the molecular basis of primate brain evolution through the lens of gene regulation.",
+  "abstract_zh": "人类大脑的进化以结构和功能的深刻变化为特征，尽管与其他灵长类动物相比，其蛋白质编码基因的差异相对有限。这一悖论使得基因调控元件（gene regulatory elements, GREs）逐渐被认识到是进化创新的主要驱动力。在本综述中，我们综合了关于保守非编码元件（conserved noncoding elements, CNEs）、人类加速区域（human accelerated regions, HARs）以及转座元件（transposable element, TE）衍生序列在塑造大脑发育的基因调控网络（gene regulatory networks, GRNs）中作用的现有知识。跨人类及近缘灵长类动物（包括黑猩猩、大猩猩和猩猩）的比较分析揭示，尽管核心调控架构高度保守，但调控元件的细微变化驱动了物种特异的基因表达模式。我们强调CNEs如何提供稳定的调控框架，而HARs和TE衍生元件则引入谱系特异的修饰，精细调控神经发育过程。功能基因组学的进展，包括基于CRISPR的扰动、大规模平行报告基因检测和单细胞多组学，已能够直接探究调控功能，将序列变异与细胞表型联系起来。此外，我们讨论了调控进化如何同时促进认知创新和对神经系统疾病的易感性。尽管取得了显著进展，但在建立调控变异与表型结果之间的因果关系方面仍存在挑战。未来多组学数据与比较模型的整合对于解决这些复杂性至关重要。总之，本综述通过基因调控的视角，为理解灵长类动物大脑进化的分子基础提供了一个全面的框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42701979/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42701979/",
+  "paper_page_path": "papers/pubmed/42701979/index.html"
+}

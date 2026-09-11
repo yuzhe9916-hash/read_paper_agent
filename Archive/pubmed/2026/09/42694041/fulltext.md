@@ -1,0 +1,9 @@
+# Functional Annotation of the Major Histocompatibility Complex Locus
+
+
+## Abstract
+  The human major histocompatibility complex (MHC) locus has the greatest density of disease-associations in the human genome, including links to over 100 polygenic disorders. Its complex haplotype structure, rich gene density, and high degree of linkage disequilibrium combine to make deciphering the gene regulatory logic of the MHC locus extremely challenging. Employing complementary high-throughput CRISPR interference (CRISPRi) and activation (CRISPRa) epigenetic screens coupled with single-cell transcriptome profiling across three distinct human cell types, we identified hundreds of new connections between cis -regulatory elements (CREs) and their target genes in this locus. These CRE-gene links are largely cell type-specific and act as enhancers. Additionally, some CREs have complex features, including harboring both active and repressive histone marks, lacking chromatin accessibility, targeting multiple genes, or acting as silencers. Computational methods fail to predict a majority of these CRE-gene connections. These findings emphasize the potential for functional perturbation experiments to dissect complex loci and reveal shared and cell type-specific regulatory mechanisms relevant to genomics of complex diseases. Collectively, this study provides a unique resource for understanding the complex regulatory landscape within the MHC locus and supports the need for creating new models that encompass CRE-gene interactions, cell type-specific gene expression, and disease genetics in the noncoding genome.
+
+
+## Full Text Availability
+  The license terms selected by the author(s) for this preprint version do not permit archiving in PMC. The full text is available from the preprint server.

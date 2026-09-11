@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42701979",
+    "doi": "10.1007/s00239-026-10344-1",
+    "title": "Regulatory Evolution and the Genetic Basis of Human Brain Expansion."
+  },
+  "content": {
+    "abstract": "The evolution of the human brain is characterized by profound changes in structure and function, despite relatively limited divergence in protein-coding genes compared to other primates. This paradox has led to increasing recognition of gene regulatory elements (GREs) as primary drivers of evolutionary innovation. In this review, we synthesize current knowledge on the role of conserved noncoding elements (CNEs), human accelerated regions (HARs), and transposable element (TE)-derived sequences in shaping gene regulatory networks (GRNs) underlying brain development. Comparative analyses across humans and closely related primates, including the chimpanzee, gorilla, and orangutan, reveal that while core regulatory architectures are highly conserved, subtle changes in regulatory elements drive species-specific gene expression patterns. We highlight how CNEs provide a stable regulatory framework, whereas HARs and TE-derived elements introduce lineage-specific modifications that fine-tune neurodevelopmental processes. Advances in functional genomics, including CRISPR-based perturbations, massively parallel reporter assays, and single-cell multi-omics, have enabled direct interrogation of regulatory function, linking sequence variation to cellular phenotypes. Furthermore, we discuss how regulatory evolution contributes to both cognitive innovation and susceptibility to neurological disorders. Despite significant progress, challenges remain in establishing causal relationships between regulatory variation and phenotypic outcomes. Future integration of multi-omics data and comparative models will be essential for resolving these complexities. Together, this review provides a comprehensive framework for understanding the molecular basis of primate brain evolution through the lens of gene regulation.",
+    "keywords": [
+      "Brain evolution",
+      "Epigenomics",
+      "Gene regulatory networks",
+      "Multi-omics integration",
+      "Neurodevelopment",
+      "Primates"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hettiarachchi, Nilmini"
+      ],
+      "short_names": [
+        "Hettiarachchi N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tokyo Metropolitan Institute of Medical Science, 2-1-6 Kamikitazawa, Setagaya ku, Tokyo, Japan. nilminihett@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hettiarachchi, Nilmini",
+        "short_name": "Hettiarachchi N",
+        "identifiers": [],
+        "affiliations": [
+          "Tokyo Metropolitan Institute of Medical Science, 2-1-6 Kamikitazawa, Setagaya ku, Tokyo, Japan. nilminihett@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular evolution"
+    ],
+    "journal_abbrev": [
+      "J Mol Evol"
+    ],
+    "pub_date": "2026 Sep 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 18:28",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42701979",
+      "42475469",
+      "41247408",
+      "36121513",
+      "37494289",
+      "40543151",
+      "37231806",
+      "36835010",
+      "34478631",
+      "27825385",
+      "28633494",
+      "29335803",
+      "41898648",
+      "40607808",
+      "31730374",
+      "36342464",
+      "25956794",
+      "39091792",
+      "28855262",
+      "42169411",
+      "24218637",
+      "30053206",
+      "34035253",
+      "26744417",
+      "25523630",
+      "33973014",
+      "18485226",
+      "27503290",
+      "38187729",
+      "15045028",
+      "17274809",
+      "36824965",
+      "39217658",
+      "39631404",
+      "42121716",
+      "42527403",
+      "21988730",
+      "37667001",
+      "40011774",
+      "30930929",
+      "26104583",
+      "42234579",
+      "15342797",
+      "34400477",
+      "28399667",
+      "20011110",
+      "25394183",
+      "26253316",
+      "42118842",
+      "40928843",
+      "30059966",
+      "38924416",
+      "42478686",
+      "31920559",
+      "21738707",
+      "41146606",
+      "32902713",
+      "29986162",
+      "22761590",
+      "39137740",
+      "37104592",
+      "26395902",
+      "38604126",
+      "42390000",
+      "35866592",
+      "17096848",
+      "38175672",
+      "41802886",
+      "31012843",
+      "11804602",
+      "34663447",
+      "32235023",
+      "38358392",
+      "19492354",
+      "41986815",
+      "41862973",
+      "33514394",
+      "42412056",
+      "26642006",
+      "41620470",
+      "33109720",
+      "42074532",
+      "31100635",
+      "29897475",
+      "20961963",
+      "27867146",
+      "26355593",
+      "33671852",
+      "23912807",
+      "42475681",
+      "41473691",
+      "39302728",
+      "23697381",
+      "18380860",
+      "38781344",
+      "31359064",
+      "39889695",
+      "36640767",
+      "28391320",
+      "40983656"
+    ],
+    "review": [
+      "42701979",
+      "40543151",
+      "37231806",
+      "36835010",
+      "41898648",
+      "39217658",
+      "28399667",
+      "25394183",
+      "39137740",
+      "26395902",
+      "42390000",
+      "11804602",
+      "34663447",
+      "19492354",
+      "41862973",
+      "26642006",
+      "42074532",
+      "27867146",
+      "26355593",
+      "41473691",
+      "18380860"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00239-026-10344-1",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

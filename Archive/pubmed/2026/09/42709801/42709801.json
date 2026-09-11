@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "42709801",
+    "doi": "10.1073/pnas.2615890123",
+    "title": "A host-encoded prophage targets a Candidate Phyla Radiation bacterium and shapes episymbiotic interactions."
+  },
+  "content": {
+    "abstract": "The Patescibacteriota, also known as the Candidate Phyla Radiation (CPR), represent a large lineage of ultrasmall bacteria with highly reduced genomes and obligate dependence on bacterial hosts. Although genomic analyses have revealed CRISPR-Cas and restriction-modification systems in many CPR genomes, no cognate bacteriophages (phages) have been isolated, leaving CPR-phage interactions unexplored. Nanosynbacter lyticus TM7x, the first cultivated CPR bacterium, grows episymbiotically on its host, Schaalia odontolytica XH001, in the human oral microbiome. Here, we identify Xhp1, an inducible prophage of XH001 that is preferentially activated during episymbiosis with TM7x. Released Xhp1 particles infect prophage-free XH001 via distinct strategies determined by host growth mode, establishing lysogeny under planktonic conditions but driving lytic infection during surface-associated growth. Xhp1 also binds efficiently to TM7x and exhibits limited infection under the conditions tested, indicating direct phage-CPR interactions. Importantly, TM7x modulates Xhp1 availability in a spatially dependent manner. In planktonic culture, free-floating TM7x reduces lysogenic conversion of XH001DeltaXhp1, consistent with TM7x acting as a phage sink that lowers effective phage concentration. In contrast, during surface-associated growth, TM7x increases XH001DeltaXhp1 susceptibility to lytic infection, likely by locally concentrating phage particles within a constrained niche. These results demonstrate that CPR bacteria can regulate viral encounter rates through spatial organization. In spatially structured environments such as oral biofilms, such modulation may shape infection dynamics and community structure. Together, this work characterizes the first CPR-targeting phage and reveals a an important role for phages in CPR-host bacteria interactions.",
+    "keywords": [
+      "Candidate Phyla Radiation",
+      "Patescibacteria",
+      "bacteriophage",
+      "episymbiosis",
+      "oral microbiome"
+    ],
+    "mesh_terms": [
+      "*Prophages/genetics/physiology",
+      "*Symbiosis",
+      "Lysogeny",
+      "Humans",
+      "Bacteriophages"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kumar, Ajay",
+        "Nahar, Nusrat",
+        "Chouhan, Deepak",
+        "McLean, Jeffrey S",
+        "Bor, Batbileg",
+        "Dong, Pu-Ting",
+        "He, Xuesong"
+      ],
+      "short_names": [
+        "Kumar A",
+        "Nahar N",
+        "Chouhan D",
+        "McLean JS",
+        "Bor B",
+        "Dong PT",
+        "He X"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-9757-3085",
+        "ORCID: 0009-0005-1898-5121",
+        "ORCID: 0000-0001-9934-5137",
+        "ORCID: 0000-0002-1797-1730",
+        "ORCID: 0000-0002-3333-9188"
+      ],
+      "affiliations": [
+        "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143. ROR: https://ror.org/00cb9nn43",
+        "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143. ROR: https://ror.org/00cb9nn43",
+        "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143. ROR: https://ror.org/00cb9nn43",
+        "Department of Periodontics, University of Washington, Seattle, WA 98195. ROR: https://ror.org/00cvxb145",
+        "Department of Oral Health Sciences, University of Washington, Seattle, WA 98195. ROR: https://ror.org/00cvxb145",
+        "Department of Microbiology, University of Washington, Seattle, WA 98195. ROR: https://ror.org/00cvxb145",
+        "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143. ROR: https://ror.org/00cb9nn43",
+        "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY 11794. ROR: https://ror.org/05qghxh33",
+        "Department of Microbiology and Immunology, Stony Brook University, Stony Brook, NY 11794. ROR: https://ror.org/05qghxh33",
+        "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143. ROR: https://ror.org/00cb9nn43"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kumar, Ajay",
+        "short_name": "Kumar A",
+        "identifiers": [
+          "0009-0002-9757-3085"
+        ],
+        "affiliations": [
+          "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143."
+        ]
+      },
+      {
+        "full_name": "Nahar, Nusrat",
+        "short_name": "Nahar N",
+        "identifiers": [
+          "0009-0005-1898-5121"
+        ],
+        "affiliations": [
+          "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143."
+        ]
+      },
+      {
+        "full_name": "Chouhan, Deepak",
+        "short_name": "Chouhan D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143."
+        ]
+      },
+      {
+        "full_name": "McLean, Jeffrey S",
+        "short_name": "McLean JS",
+        "identifiers": [
+          "0000-0001-9934-5137"
+        ],
+        "affiliations": [
+          "Department of Periodontics, University of Washington, Seattle, WA 98195.",
+          "Department of Oral Health Sciences, University of Washington, Seattle, WA 98195.",
+          "Department of Microbiology, University of Washington, Seattle, WA 98195."
+        ]
+      },
+      {
+        "full_name": "Bor, Batbileg",
+        "short_name": "Bor B",
+        "identifiers": [
+          "0000-0002-1797-1730"
+        ],
+        "affiliations": [
+          "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143."
+        ]
+      },
+      {
+        "full_name": "Dong, Pu-Ting",
+        "short_name": "Dong PT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY 11794.",
+          "Department of Microbiology and Immunology, Stony Brook University, Stony Brook, NY 11794."
+        ]
+      },
+      {
+        "full_name": "He, Xuesong",
+        "short_name": "He X",
+        "identifiers": [
+          "0000-0002-3333-9188"
+        ],
+        "affiliations": [
+          "Department of Microbiology, American Dental Association Forsyth Institute, Somerville, MA 02143."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 17:36",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42709801",
+      "35975994",
+      "38593079",
+      "38366018",
+      "41459732",
+      "42101953",
+      "29915115",
+      "38188073",
+      "37732248",
+      "36000841",
+      "42513953",
+      "40748072",
+      "30442671",
+      "40488407",
+      "30224437",
+      "40472406",
+      "30890613",
+      "38236026",
+      "39475284",
+      "34992141",
+      "36779718",
+      "30150232",
+      "33938896",
+      "26597961",
+      "32839546",
+      "30319555",
+      "31969710",
+      "30249194",
+      "32075512",
+      "30894042",
+      "29378882",
+      "41490344",
+      "28594392",
+      "39832281",
+      "30890601",
+      "29311700",
+      "35343799",
+      "39071323",
+      "41805398",
+      "32935433",
+      "41915686",
+      "40738085",
+      "33724208",
+      "34597593",
+      "23243039",
+      "39023219",
+      "39651235",
+      "37404190",
+      "40010333",
+      "41677854",
+      "35323045",
+      "28590013",
+      "29416123",
+      "36877024",
+      "33918348",
+      "31827247",
+      "38009957",
+      "39090708",
+      "31676478",
+      "32022660",
+      "33459590",
+      "28089325",
+      "41294326",
+      "11316465",
+      "29259581",
+      "35311569",
+      "36250060",
+      "18521076",
+      "38926906",
+      "41168883",
+      "39656008",
+      "34183048",
+      "31506310",
+      "34260308",
+      "40409266",
+      "42372072",
+      "34517752",
+      "27639668",
+      "26373372",
+      "40902604",
+      "42447023",
+      "36798152",
+      "30635074",
+      "31527115",
+      "41772715",
+      "33781335",
+      "28721247",
+      "42405957",
+      "40152610",
+      "31653117",
+      "42584065",
+      "39174532",
+      "21187931",
+      "38775467",
+      "29490612",
+      "30629725",
+      "38084945",
+      "28067906",
+      "34787442",
+      "34343015"
+    ],
+    "review": [
+      "42709801",
+      "42513953",
+      "30894042",
+      "28594392",
+      "32935433",
+      "33724208",
+      "41677854",
+      "28089325",
+      "18521076",
+      "26373372",
+      "42447023",
+      "30635074"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2615890123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

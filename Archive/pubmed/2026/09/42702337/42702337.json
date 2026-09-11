@@ -1,0 +1,309 @@
+{
+  "identity": {
+    "pmid": "42702337",
+    "doi": "10.1016/j.imlet.2026.107238",
+    "title": "Aire deficiency disrupts thymic architecture but preserves TCRVbeta repertoire diversity while altering thymic output."
+  },
+  "content": {
+    "abstract": "The autoimmune regulator (Aire) gene is essential for the establishment of central tolerance by promoting the ectopic expression of tissue-restricted antigens in medullary thymic epithelial cells (mTECs). Although Aire deficiency impairs negative selection, its impact on thymic architecture, output, and early T cell development remains incompletely understood. Here, we used a murine Aire-deficient model carrying a CRISPR-Cas9-induced deletion within exon 6, disrupting the SAND domain, to investigate the consequences of Aire loss on thymic structure and function. Aire-deficient mice exhibited focal alopecia and marked disorganization of the thymic medulla. T cell receptor excision circle (TREC) analyses revealed altered peripheral TREC dynamics and a reduced sj/betaTREC ratio, indicating altered thymic output and impaired intrathymic precursor expansion. Complementary flow-cytometric analysis showed a significant reduction in the proportion of CD4(+)CD8(+) double-positive thymocytes in heterozygous mutants, supporting altered intrathymic maturation. Serum IL-27, IL-28B, and IL-31 were decreased in homozygous mutants, whereas IL-22 and IL-23 remained unchanged. Despite these alterations, TCRVbeta repertoire sequencing revealed no significant differences in rearrangements, clonality, or V/J gene usage. Together, these findings indicate that Aire deficiency disrupts thymic architecture and output, while preserving overall TCR repertoire diversity.",
+    "keywords": [
+      "Aire",
+      "Aire knockout",
+      "Autoimmunity",
+      "Repertoire",
+      "TCRbeta",
+      "TRECs",
+      "Thymic output",
+      "Thymus"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Matos, Adriana Arruda",
+        "Araujo, Itaua Leston",
+        "Munuera, Matheus Dominato",
+        "Palma, Patricia Viana Bonini",
+        "Bonaldo, Camila",
+        "Brito, Leticia Agrelli",
+        "Mendes-da-Cruz, Daniella Areas",
+        "Savino, Wilson",
+        "Passos, Geraldo Aleixo",
+        "Donadi, Eduardo Antonio"
+      ],
+      "short_names": [
+        "Matos AA",
+        "Araujo IL",
+        "Munuera MD",
+        "Palma PVB",
+        "Bonaldo C",
+        "Brito LA",
+        "Mendes-da-Cruz DA",
+        "Savino W",
+        "Passos GA",
+        "Donadi EA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Molecular Immunogenetics Group, Department of Genetics, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, 14049-900, Brazil.",
+        "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil.",
+        "Molecular Immunogenetics Group, Department of Genetics, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, 14049-900, Brazil.",
+        "National Institute of Science and Technology in Stem Cell and for Cell Therapy (INCTC) Center for Cell Therapy (CTC) and Regional Blood Center, Ribeirao Preto, SP, Brazil.",
+        "National Institute of Science and Technology in Stem Cell and for Cell Therapy (INCTC) Center for Cell Therapy (CTC) and Regional Blood Center, Ribeirao Preto, SP, Brazil.",
+        "Molecular Immunogenetics Group, Department of Genetics, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, 14049-900, Brazil.",
+        "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil.",
+        "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil.",
+        "Molecular Immunogenetics Group, Department of Genetics, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, 14049-900, Brazil; Program of Basic and Applied Immunology, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, Brazil; Laboratory of Genetics and Molecular Biology, Department of Basic and Oral Biology, Ribeirao Preto School of Dentistry, University of Sao Paulo, Ribeirao Preto, SP, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil. Electronic address: passos@usp.br.",
+        "Division of Clinical Immunology, Department of Medicine, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, Brazil; Program of Basic and Applied Immunology, Ribeirao Preto Medical School, University of Sao Paulo, Ribeirao Preto, SP, Brazil. Electronic address: eadonadi@fmrp.usp.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Matos, Adriana Arruda",
+        "short_name": "Matos AA",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Immunogenetics Group, Department of Genetics, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, 14049-900, Brazil."
+        ]
+      },
+      {
+        "full_name": "Araujo, Itauá Leston",
+        "short_name": "Araujo IL",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil."
+        ]
+      },
+      {
+        "full_name": "Munuera, Matheus Dominato",
+        "short_name": "Munuera MD",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Immunogenetics Group, Department of Genetics, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, 14049-900, Brazil."
+        ]
+      },
+      {
+        "full_name": "Palma, Patrícia Viana Bonini",
+        "short_name": "Palma PVB",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Science and Technology in Stem Cell and for Cell Therapy (INCTC) Center for Cell Therapy (CTC) and Regional Blood Center, Ribeirão Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Bonaldo, Camila",
+        "short_name": "Bonaldo C",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Science and Technology in Stem Cell and for Cell Therapy (INCTC) Center for Cell Therapy (CTC) and Regional Blood Center, Ribeirão Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Brito, Letícia Agrelli",
+        "short_name": "Brito LA",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Immunogenetics Group, Department of Genetics, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, 14049-900, Brazil."
+        ]
+      },
+      {
+        "full_name": "Mendes-da-Cruz, Daniella Arêas",
+        "short_name": "Mendes-da-Cruz DA",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil."
+        ]
+      },
+      {
+        "full_name": "Savino, Wilson",
+        "short_name": "Savino W",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory on Thymus Research, Oswaldo Cruz Institute. Av. Brasil 4365, Rio de Janeiro, RJ, 21040-900, Brazil; Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM, CNPq), Rio de Janeiro Research Network on Neuroinflammation, Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil."
+        ]
+      },
+      {
+        "full_name": "Passos, Geraldo Aleixo",
+        "short_name": "Passos GA",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Immunogenetics Group, Department of Genetics, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, 14049-900, Brazil; Program of Basic and Applied Immunology, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, Brazil; Laboratory of Genetics and Molecular Biology, Department of Basic and Oral Biology, Ribeirão Preto School of Dentistry, University of São Paulo, Ribeirão Preto, SP, Brazil; Latin American Network for Thymus-Brain Connection Research, National Counsil for Scientific and Technological Development (CNPq), Oswaldo Cruz Foundation, Rio de Janeiro, RJ, Brazil. Electronic address: passos@usp.br."
+        ]
+      },
+      {
+        "full_name": "Donadi, Eduardo Antônio",
+        "short_name": "Donadi EA",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Clinical Immunology, Department of Medicine, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, Brazil; Program of Basic and Applied Immunology, Ribeirão Preto Medical School, University of São Paulo, Ribeirão Preto, SP, Brazil. Electronic address: eadonadi@fmrp.usp.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Immunology letters"
+    ],
+    "journal_abbrev": [
+      "Immunol Lett"
+    ],
+    "pub_date": "2026 Sep 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 23:34",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702337",
+      "41831309",
+      "41686483",
+      "35535798",
+      "23116172",
+      "39328409",
+      "26453754",
+      "15981475",
+      "18566406",
+      "35331137",
+      "17502664",
+      "19479827",
+      "41429646",
+      "29285761",
+      "38709934",
+      "29867946",
+      "35172142",
+      "21858238",
+      "26236310",
+      "38581680",
+      "21505196",
+      "25326516",
+      "24515814",
+      "20861360",
+      "19923453",
+      "37595021",
+      "21822418",
+      "19015306",
+      "33226342",
+      "17312146",
+      "10925280",
+      "19234163",
+      "27505711",
+      "27965471",
+      "42623268",
+      "32194555",
+      "28871661",
+      "32508833",
+      "28931462",
+      "24752296",
+      "37889983",
+      "30061015",
+      "24029068",
+      "29872433",
+      "17360567",
+      "27765528",
+      "30949166",
+      "18350550",
+      "29297233",
+      "29753741",
+      "42528816",
+      "35061506",
+      "33869219",
+      "41366551",
+      "32994995",
+      "24974924",
+      "37990032",
+      "35188458",
+      "22506061",
+      "42493359",
+      "26275017",
+      "22425250",
+      "35643451",
+      "25552543",
+      "40665793",
+      "27543048",
+      "26729097",
+      "31164995",
+      "21683072",
+      "23885257",
+      "39321290",
+      "18799151",
+      "25220213",
+      "20856819",
+      "29386114",
+      "15492124",
+      "40067590",
+      "19721455",
+      "21048786",
+      "24130560",
+      "23228244",
+      "19950188",
+      "19302042",
+      "17876107",
+      "34930780",
+      "18838677",
+      "29101311",
+      "23585674",
+      "33269476",
+      "22448160",
+      "26531897",
+      "16111640",
+      "42562311",
+      "22552229",
+      "27401343",
+      "26364592",
+      "31276223",
+      "17908938",
+      "26697330",
+      "34700158"
+    ],
+    "review": [
+      "42702337",
+      "15981475",
+      "26236310",
+      "28871661",
+      "42528816",
+      "24974924",
+      "42493359",
+      "40067590",
+      "24130560",
+      "19302042",
+      "17876107"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0165-2478(26)00112-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0165-2478(26)00112-4",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

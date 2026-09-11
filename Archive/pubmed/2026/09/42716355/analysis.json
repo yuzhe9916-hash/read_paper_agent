@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42716355",
+  "title": "Emerging strategies for regulating Cas12a and Cas13a trans-cleavage activity in biosensing.",
+  "authors": "Wang, Xiaohui; Huang, Yaru; Zhang, Lei; Zheng, Le",
+  "journal": "Biotechnology advances",
+  "published_date": "2026-09-09",
+  "window": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "score": 2,
+  "one_liner_zh": "该文综述CRISPR-Cas12a/13a反式切割活性调控策略用于生物传感，不涉及无序蛋白、蛋白-蛋白互作或AI/物理模拟方法，与本课题无关。",
+  "abstract": "CRISPR-Cas12a and Cas13a have become widely used platforms for molecular diagnostics and biosensing, because target recognition can trigger collateral nucleic acid cleavage for signal amplification. Leveraging this mechanism, numerous biosensing platforms have been developed with high sensitivity, high specificity, and compatibility with point-of-care testing. However, their analytical performance depends strongly on the regulation of trans-cleavage activity. This review summarizes recent advances in the molecular basis and activity regulation of CRISPR-Cas12a- and Cas13a-based biosensing systems. We discuss the target-recognition and conformational activation mechanisms underlying Cas12a and Cas13a trans-cleavage. We then examine how Cas effector properties, crRNA architecture and composition, activator accessibility and structure, reaction conditions, and reporter design regulate target-induced activation and signal output. We further highlight the use of these strategies for controlled activation, tunable signal generation, and broader biosensing applications. By organizing these strategies across different regulatory layers, this review aims to provide a framework for designing more controllable and adaptable CRISPR trans-cleavage biosensing systems.",
+  "abstract_zh": "CRISPR-Cas12a和Cas13a已成为分子诊断和生物传感领域广泛使用的平台，因为靶标识别可触发侧支核酸切割以实现信号放大。利用这一机制，已开发出众多具有高灵敏度、高特异性且适用于即时检测（point-of-care testing）的生物传感平台。然而，其分析性能强烈依赖于反式切割活性（trans-cleavage activity）的调控。本综述总结了基于CRISPR-Cas12a和Cas13a的生物传感系统在分子基础与活性调控方面的最新进展。我们讨论了Cas12a和Cas13a反式切割所涉及的靶标识别与构象激活机制。随后，我们考察了Cas效应蛋白特性、crRNA结构与组成、激活子的可及性与结构、反应条件以及报告分子设计如何调控靶标诱导的激活与信号输出。我们进一步强调了这些策略在可控激活、可调信号生成以及更广泛的生物传感应用中的运用。通过将这些策略组织到不同的调控层面，本综述旨在为设计更可控、更适应性强的CRISPR反式切割生物传感系统提供一个框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42716355/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42716355/",
+  "paper_page_path": "papers/pubmed/42716355/index.html"
+}

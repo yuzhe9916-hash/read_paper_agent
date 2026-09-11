@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42707636",
+    "doi": "10.3389/fpls.2026.1903346",
+    "title": "BioCNT-TLS engineered systemic mobile resistome for sustainable crop protection."
+  },
+  "content": {
+    "abstract": "The global agricultural sector faces an existential threat from viral quasispecies that bypass traditional resistance through high-frequency mutation and rapid systemic colonization. Conventional strategies, including chemical pesticides and transgenic modifications, are increasingly constrained by environmental toxicity, regulatory hurdles, and the biological arms race of viral evasion. This review critically expands upon the transformative potential of biocompatible carbon nanotubes conjugated with tRNA-like structures as a non-transgenic, systemic delivery platform for RNA interference effectors. We analyze the mechanistic synergy between nanomaterial-mediated incorporation and vascular trafficking, proposing a systemic mobile resistome concept, in which BioCNT-TLS complexes may provide transgene-free, RNA-mediated interference distributed across aerial tissues from a single foliar application, an effect demonstrated in a single recent study and not yet validated at the whole-plant or field scale. By synthesizing data on RNAi pyramiding, spray-to-edit CRISPR technologies, and the ecotoxicological footprint of carbon nanomaterials, we provide a blueprint for the future of precision crop protection.",
+    "keywords": [
+      "SIGS",
+      "SWCNTs",
+      "nanobionics",
+      "phloem-mediated transport",
+      "plant virus management",
+      "sustainable crop protection",
+      "systemic mobile resistome",
+      "tRNA-like structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Wenbo",
+        "Farooq, Tahir",
+        "Hussain, Muhammad Dilshad",
+        "Brosnan, Christopher A",
+        "Chen, Huanhuan"
+      ],
+      "short_names": [
+        "Li W",
+        "Farooq T",
+        "Hussain MD",
+        "Brosnan CA",
+        "Chen H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Biology and Food Engineering, Qujing Normal University, Qujing, China.",
+        "College of Biology and Food Engineering, Qujing Normal University, Qujing, China.",
+        "MARA-Key Laboratory of Surveillance and Management for Plant Quarantine Pests, College of Plant Protection, China Agricultural University, Beijing, China.",
+        "Centre for Horticultural Science, Queensland Alliance for Food and Agriculture Innovation, University of Queensland, Brisbane, QLD, Australia.",
+        "College of Biology and Food Engineering, Qujing Normal University, Qujing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Wenbo",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biology and Food Engineering, Qujing Normal University, Qujing, China."
+        ]
+      },
+      {
+        "full_name": "Farooq, Tahir",
+        "short_name": "Farooq T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biology and Food Engineering, Qujing Normal University, Qujing, China."
+        ]
+      },
+      {
+        "full_name": "Hussain, Muhammad Dilshad",
+        "short_name": "Hussain MD",
+        "identifiers": [],
+        "affiliations": [
+          "MARA-Key Laboratory of Surveillance and Management for Plant Quarantine Pests, College of Plant Protection, China Agricultural University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Brosnan, Christopher A",
+        "short_name": "Brosnan CA",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Horticultural Science, Queensland Alliance for Food and Agriculture Innovation, University of Queensland, Brisbane, QLD, Australia."
+        ]
+      },
+      {
+        "full_name": "Chen, Huanhuan",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biology and Food Engineering, Qujing Normal University, Qujing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707636",
+      "41656714",
+      "41422436",
+      "41550334",
+      "40985298",
+      "42663689",
+      "42565907",
+      "42270525",
+      "42628145",
+      "37569766",
+      "35743077",
+      "34899771",
+      "42231891",
+      "42306978",
+      "42475469",
+      "41798691",
+      "42219400",
+      "42350842",
+      "41280480",
+      "42015580",
+      "41831902",
+      "42171831",
+      "42523892",
+      "39861836",
+      "42599546",
+      "37746174",
+      "40226962",
+      "34299307",
+      "42328080",
+      "40974940",
+      "39530910",
+      "40613640",
+      "41022517",
+      "27499678",
+      "34721485",
+      "40612601",
+      "40056242",
+      "38147708",
+      "32710411",
+      "41521660",
+      "39122031",
+      "39640850",
+      "42627584",
+      "41652779",
+      "29194942",
+      "40051878",
+      "42537305",
+      "41422562",
+      "32202134",
+      "29549797",
+      "39848650",
+      "39855404",
+      "41744495",
+      "36969097",
+      "41064763",
+      "42357122",
+      "34904892",
+      "28125282",
+      "31708946",
+      "41748164",
+      "41923938",
+      "32595687",
+      "31084885",
+      "41831879",
+      "36124943",
+      "36321557",
+      "30191564",
+      "29782023",
+      "41614122",
+      "39777080",
+      "41735810",
+      "35920132",
+      "39683262",
+      "37351220",
+      "42469498",
+      "38175411",
+      "40080402",
+      "35837551",
+      "41083509",
+      "34830030",
+      "42551559",
+      "41613398",
+      "41702797",
+      "36095333",
+      "40627498",
+      "40496602",
+      "31197814",
+      "34744371",
+      "37821961",
+      "32670336",
+      "29019352",
+      "42646142",
+      "26646750",
+      "42345213",
+      "40744587",
+      "31337070",
+      "31678220",
+      "42466324",
+      "33401751",
+      "41559270"
+    ],
+    "review": [
+      "42707636",
+      "41656714",
+      "41550334",
+      "42663689",
+      "42565907",
+      "42270525",
+      "42628145",
+      "37569766",
+      "35743077",
+      "42231891",
+      "42306978",
+      "42350842",
+      "41280480",
+      "42015580",
+      "41831902",
+      "42171831",
+      "42523892",
+      "39861836",
+      "42599546",
+      "37746174",
+      "34299307",
+      "42328080",
+      "40974940",
+      "40613640",
+      "41022517",
+      "34721485",
+      "40612601",
+      "40056242",
+      "38147708",
+      "39122031",
+      "39640850",
+      "42627584",
+      "41652779",
+      "29194942",
+      "40051878",
+      "42537305",
+      "41422562",
+      "32202134",
+      "29549797",
+      "39848650",
+      "39855404",
+      "41744495",
+      "36969097",
+      "41064763",
+      "42357122",
+      "28125282",
+      "31708946",
+      "41923938",
+      "41831879",
+      "36124943",
+      "36321557",
+      "30191564",
+      "41614122",
+      "39777080",
+      "41735810",
+      "35920132",
+      "39683262",
+      "37351220",
+      "42469498",
+      "38175411",
+      "40080402",
+      "35837551",
+      "34830030",
+      "42551559",
+      "41613398",
+      "41702797",
+      "36095333",
+      "40627498",
+      "40496602",
+      "34744371",
+      "37821961",
+      "32670336",
+      "42646142",
+      "42345213",
+      "40744587",
+      "31337070",
+      "31678220",
+      "33401751"
+    ],
+    "pmc": [
+      "13549130"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42707636/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1903346",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

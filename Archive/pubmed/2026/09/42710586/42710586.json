@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42710586",
+    "doi": "10.1016/j.jgar.2026.09.001",
+    "title": "Clonal diversity and genetic characteristics of extraintestinal pathogenic Escherichia coli in northern Japan: identification of the potentially prevalent clones phylogroup B2-ST357 and ST1193."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: Extraintestinal pathogenic Escherichia coli (ExPEC) is a leading cause of bloodstream and urinary tract infections, often showing multiple drug resistance associated with production of extended-spectrum beta-lactamases (ESBLs). The present study aimed at revealing the clonal structure and diversity of ExPEC in northern Japan and its relation to antimicrobial resistance (AMR) profiles and determinants, and genetic features. METHODS: Phylogenetic group and sequence type (ST) based on MLST scheme were determined for clinical isolates of ExPEC. PCR and sequencing were used to identify AMR determinants, virulence factors and CRISPR-Cas systems, along with antimicrobial susceptibility test by the broth microdilution method. RESULTS: A total of 454 ExPEC isolates (150 from blood and 304 from urine/other specimens) were collected for 6 months. The major phylogenetic group was B2 (79.5%), and the remaining were D (9.9%), B1 (5.7%), F (3.1%), and other groups (A, C, G; 1.8% in all). Among the 68 STs identified, ST131 was the most common (33.7%), followed by ST95 (15.6%), ST357 (9.9%), ST1193 (7%), and ST73 (4%), all of which belonged to phylogroup B2. Five types of ESBL genes including the dominant bla(CTX-M-15) or bla(CTX-M-27) were detected in 17% of isolates, which belonged mostly to the ST131 complex. CRISPR-Cas type I-E was present mostly in phylogroup B1 and D, while I-F in 3 STs of phylogroup B2. CONCLUSION: The potentially increased prevalence of ST357, ST1193, and animal-related clones was revealed to be novel clonal features of ExPEC in northern Japan.",
+    "keywords": [
+      "CRISPR-Cas",
+      "Extra intestinal pathogenic Escherichia coli",
+      "extended-spectrum beta-lactamase",
+      "sequence type",
+      "virulence factor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suzuki, Satoshi",
+        "Aung, Meiji Soe",
+        "Matsubara, Kana",
+        "Kimura, Yuuki",
+        "Ito, Masahiko",
+        "Urushibara, Noriko",
+        "Kawaguchiya, Mitsuyo",
+        "Ohashi, Nobuhide",
+        "Higuchi, Toru",
+        "Takahashi, Satoshi",
+        "Kobayashi, Nobumichi"
+      ],
+      "short_names": [
+        "Suzuki S",
+        "Aung MS",
+        "Matsubara K",
+        "Kimura Y",
+        "Ito M",
+        "Urushibara N",
+        "Kawaguchiya M",
+        "Ohashi N",
+        "Higuchi T",
+        "Takahashi S",
+        "Kobayashi N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Infection Control and Laboratory Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan; Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: s.satoshi@sapmed.ac.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: meijisoeaung@sapmed.ac.jp.",
+        "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: pcr@saturin.co.jp.",
+        "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: saturin-sakin@saturin.co.jp.",
+        "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: m-ito@saturin.co.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: noriko-u@sapmed.ac.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: kawaguchiya@sapmed.ac.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: ohashin@sapmed.ac.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan; Department of Pediatric Infectious Diseases, Hokkaido Medical Center for Child Health and Rehabilitation, Sapporo 006-0041, Japan. Electronic address: t.higuchi.0527@gmail.com.",
+        "Department of Infection Control and Laboratory Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: stakahas@sapmed.ac.jp.",
+        "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: nkobayas@sapmed.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suzuki, Satoshi",
+        "short_name": "Suzuki S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infection Control and Laboratory Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan; Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: s.satoshi@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Aung, Meiji Soe",
+        "short_name": "Aung MS",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: meijisoeaung@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Matsubara, Kana",
+        "short_name": "Matsubara K",
+        "identifiers": [],
+        "affiliations": [
+          "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: pcr@saturin.co.jp."
+        ]
+      },
+      {
+        "full_name": "Kimura, Yuuki",
+        "short_name": "Kimura Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: saturin-sakin@saturin.co.jp."
+        ]
+      },
+      {
+        "full_name": "Ito, Masahiko",
+        "short_name": "Ito M",
+        "identifiers": [],
+        "affiliations": [
+          "Sapporo Clinical Laboratory, Inc., Sapporo 060-0003, Japan. Electronic address: m-ito@saturin.co.jp."
+        ]
+      },
+      {
+        "full_name": "Urushibara, Noriko",
+        "short_name": "Urushibara N",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: noriko-u@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Kawaguchiya, Mitsuyo",
+        "short_name": "Kawaguchiya M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: kawaguchiya@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Ohashi, Nobuhide",
+        "short_name": "Ohashi N",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: ohashin@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Higuchi, Toru",
+        "short_name": "Higuchi T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan; Department of Pediatric Infectious Diseases, Hokkaido Medical Center for Child Health and Rehabilitation, Sapporo 006-0041, Japan. Electronic address: t.higuchi.0527@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Takahashi, Satoshi",
+        "short_name": "Takahashi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Infection Control and Laboratory Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: stakahas@sapmed.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Kobayashi, Nobumichi",
+        "short_name": "Kobayashi N",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hygiene, Department of Social Medicine, Sapporo Medical University School of Medicine, Sapporo 060-8556, Japan. Electronic address: nkobayas@sapmed.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of global antimicrobial resistance"
+    ],
+    "journal_abbrev": [
+      "J Glob Antimicrob Resist"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710586",
+      "30155366",
+      "31231344",
+      "31963265",
+      "31118697",
+      "37992119",
+      "31519655",
+      "19583828",
+      "37367488",
+      "26229711",
+      "40426551",
+      "29066550",
+      "38547882",
+      "37695819",
+      "40426089",
+      "40342604",
+      "39287461",
+      "36409140",
+      "38218869",
+      "32260467",
+      "35369469",
+      "28811343",
+      "21669946",
+      "41276020",
+      "37491387",
+      "33206038",
+      "27899921",
+      "33187055",
+      "34496873",
+      "31411497",
+      "30682563",
+      "35604206",
+      "28062464",
+      "34935444",
+      "40868013",
+      "30744567",
+      "20228098",
+      "27986723",
+      "31245301",
+      "40140916",
+      "38823724",
+      "24398338",
+      "34509695",
+      "25576024",
+      "38576671",
+      "32609048",
+      "35674442",
+      "22843833",
+      "19932131",
+      "35934230",
+      "22369535",
+      "42557571",
+      "27494832",
+      "32456818",
+      "34303856",
+      "28365752",
+      "39433645",
+      "35862950",
+      "32266173",
+      "26135894",
+      "38510968",
+      "34671331",
+      "38782931",
+      "30286725",
+      "31146674",
+      "28380311",
+      "41975263",
+      "28388949",
+      "35144632",
+      "27530830",
+      "39996143",
+      "35180845",
+      "42656392",
+      "30021879",
+      "29519514",
+      "32659505",
+      "23221627",
+      "31617912",
+      "17981835",
+      "28594893",
+      "39101041",
+      "33362261",
+      "28825894",
+      "40491836",
+      "19464856",
+      "37641799",
+      "30658198",
+      "40530882",
+      "39094658",
+      "37974051",
+      "39907737",
+      "35003019",
+      "41761975",
+      "23554186",
+      "31889850",
+      "25246402",
+      "35418762",
+      "42041374",
+      "41918017",
+      "29503639"
+    ],
+    "review": [
+      "42710586"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2213-7165(26)00167-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S2213-7165(26)00167-0",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/nursing/content/playBy/pii?v=S2213-7165(26)00167-0",
+        "provider": "ClinicalKey Nursing",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

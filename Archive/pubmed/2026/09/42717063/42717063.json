@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42717063",
+    "doi": "10.1038/s41594-026-01894-5",
+    "title": "Architecture of a DNA-guided Cas12a."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas systems have largely been restricted to RNA-guided nucleases. Here, we present the cryo-electron microscopy structure of Acidaminococcus sp. Cas12a bound to a pseudo-DNA (PsiDNA) guide and RNA target, revealing how Cas12a can accomplish DNA-guided RNA recognition. The PsiDNA hairpin bridges the recognition and nuclease lobes, mimicking a PAM-proximal duplex and positioning the spacer to allow formation of a canonical RNA-DNA heteroduplex along the recognition lobe. This provides a structural framework for its activity and provides a potential blueprint for future engineering.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ocampo, Rodrigo Fregoso",
+        "Orosco, Carlos",
+        "Huang, Boyu",
+        "West, Madeline S",
+        "Parker, Bay",
+        "Jain, Piyush K",
+        "Taylor, David W"
+      ],
+      "short_names": [
+        "Ocampo RF",
+        "Orosco C",
+        "Huang B",
+        "West MS",
+        "Parker B",
+        "Jain PK",
+        "Taylor DW"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-0951-8975",
+        "ORCID: 0009-0009-4865-2300",
+        "ORCID: 0000-0003-2646-7656",
+        "ORCID: 0009-0007-6299-5145",
+        "ORCID: 0000-0001-7153-442X",
+        "ORCID: 0000-0002-6198-1194"
+      ],
+      "affiliations": [
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "Interdisciplinary Life Sciences Graduate Programs, University of Texas at Austin, Austin, TX, USA.",
+        "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA.",
+        "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "Department of Chemistry, University of Florida, Gainesville, FL, USA.",
+        "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu.",
+        "Department of Molecular Genetics and Microbiology, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu.",
+        "UF Health Cancer Center, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+        "Interdisciplinary Life Sciences Graduate Programs, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+        "Center for Systems and Synthetic Biology, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+        "LIVESTRONG Cancer Institutes, Dell Medical School, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ocampo, Rodrigo Fregoso",
+        "short_name": "Ocampo RF",
+        "identifiers": [
+          "0009-0006-0951-8975"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "Interdisciplinary Life Sciences Graduate Programs, University of Texas at Austin, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Orosco, Carlos",
+        "short_name": "Orosco C",
+        "identifiers": [
+          "0009-0009-4865-2300"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Boyu",
+        "short_name": "Huang B",
+        "identifiers": [
+          "0000-0003-2646-7656"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "West, Madeline S",
+        "short_name": "West MS",
+        "identifiers": [
+          "0009-0007-6299-5145"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Parker, Bay",
+        "short_name": "Parker B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Florida, Gainesville, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Jain, Piyush K",
+        "short_name": "Jain PK",
+        "identifiers": [
+          "0000-0001-7153-442X"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu.",
+          "Department of Molecular Genetics and Microbiology, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu.",
+          "UF Health Cancer Center, University of Florida, Gainesville, FL, USA. Jainp@ufl.edu."
+        ]
+      },
+      {
+        "full_name": "Taylor, David W",
+        "short_name": "Taylor DW",
+        "identifiers": [
+          "0000-0002-6198-1194"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+          "Interdisciplinary Life Sciences Graduate Programs, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+          "Center for Systems and Synthetic Biology, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu.",
+          "LIVESTRONG Cancer Institutes, Dell Medical School, University of Texas at Austin, Austin, TX, USA. dtaylor@utexas.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature structural & molecular biology"
+    ],
+    "journal_abbrev": [
+      "Nat Struct Mol Biol"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-11 11:10:59"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717063",
+      "41889958",
+      "28781234",
+      "30078724",
+      "38955179",
+      "30639240",
+      "40966510",
+      "42067668",
+      "27114038",
+      "28595896",
+      "31155345",
+      "39929897",
+      "36344504",
+      "29735714",
+      "32687187",
+      "38477377",
+      "31004485",
+      "28431230",
+      "30018371",
+      "40075056",
+      "37522352",
+      "42531075",
+      "42470400",
+      "41495894",
+      "42549572",
+      "35617371",
+      "31656887",
+      "38284432",
+      "33333018",
+      "39698811",
+      "39131396",
+      "39774105",
+      "28781236",
+      "38647045",
+      "26863189",
+      "33619539",
+      "40473912",
+      "40958477",
+      "36917574",
+      "41702403",
+      "28484024",
+      "35366394",
+      "40595633",
+      "35468792",
+      "28375731",
+      "40754777",
+      "42182444",
+      "36641031",
+      "37292754",
+      "34951459",
+      "31853065",
+      "41781609",
+      "33483498",
+      "24748111",
+      "36012553",
+      "34948095",
+      "35388146",
+      "32329776",
+      "34450043",
+      "34759315",
+      "36682874",
+      "27096362",
+      "37020030",
+      "40869944",
+      "36824842",
+      "36306733",
+      "36778248",
+      "39009379",
+      "36637878",
+      "36170834",
+      "35836018",
+      "33495647",
+      "41617991",
+      "35219382",
+      "40403646",
+      "40133266",
+      "37020015",
+      "29790280",
+      "37460897",
+      "37669948",
+      "29281823",
+      "29486239",
+      "32241913",
+      "32564655",
+      "36002571",
+      "42143446",
+      "37267904",
+      "30936531",
+      "42441514",
+      "32013399",
+      "28757251",
+      "36558152",
+      "38521316",
+      "39516870",
+      "32539804",
+      "42045650",
+      "36321657",
+      "39143216",
+      "33764415",
+      "32161115"
+    ],
+    "review": [
+      "42717063",
+      "28375731",
+      "33483498",
+      "40869944",
+      "29790280"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
