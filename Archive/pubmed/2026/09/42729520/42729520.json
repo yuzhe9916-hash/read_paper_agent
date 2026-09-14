@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42729520",
+    "doi": "10.3389/fpls.2026.1942553",
+    "title": "Functional divergence of two soybean cytosolic serine hydroxymethyltransferases in development and defense against soybean cyst nematode."
+  },
+  "content": {
+    "abstract": "Serine hydroxymethyltransferase (SHMT) is an enzyme essential for one-carbon metabolism. In higher plants, multiple SHMT genes code for isoforms that function in the cytosol, nucleus, mitochondria, and chloroplasts. The soybean genome contains two cytosolic SHMTs, GmSHMT05 and GmSHMT08, sharing high sequence identity and similar expression throughout soybean development. In certain soybean genotypes, two amino acid substitutions negatively impact GmSHMT08's ability to bind to tetrahydrofolate (THF), leading to a gain-of-function in resistance to the soybean cyst nematode (SCN). Whether this perturbation to the enzyme has other functional consequences for soybean growth and development remains unknown. Here, we investigated the roles of cytosolic GmSHMTs in soybean growth and development. We determined that the 3D structure and folate-binding affinity of GmSHMT05 are highly similar to the version of GmSHMT08 found in susceptible soybeans. We further measured phenotypic traits of two ethyl methanesulfonate-derived Gmshmt08 mutant plants in an SCN-resistant soybean background. Aboveground soybean growth and development were similar, except the Gmshmt08 mutant plants showed a significant increase in pods/plant in field phenotyping trials. Belowground analyses revealed a significant increase in lateral root and total root length in mutant plants, and CRISPR-Cas9 editing demonstrated an essential role of cytosolic SHMTs in root growth. Taken together, our results indicate that GmSHMT05 sustains overall soybean growth and development in the absence of GmSHMT08; however, GmSHMT08's gain-of-function in SCN resistance negatively influences pod and root growth, highlighting a potential trade-off between soybean defense and development that may impact yield when breeding with GmSHMT08 to develop SCN-resistant varieties.",
+    "keywords": [
+      "1-C folate metabolism",
+      "Glycine max (L)",
+      "Heterodera glycines Ichinohe",
+      "resistance",
+      "serine hydroxymethyltransferase (SHMT)",
+      "soybean",
+      "soybean cyst nematode"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gamage, Vinavi A",
+        "Owuocha, Luckio F",
+        "Lin, Feng",
+        "Li, Zenglu",
+        "Beamer, Lesa J",
+        "Mitchum, Melissa G"
+      ],
+      "short_names": [
+        "Gamage VA",
+        "Owuocha LF",
+        "Lin F",
+        "Li Z",
+        "Beamer LJ",
+        "Mitchum MG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Plant Pathology and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States.",
+        "Department of Biochemistry, University of Missouri, Columbia, MO, United States.",
+        "Division of Plant Science and Technology, University of Missouri, Columbia, MO, United States.",
+        "Department of Crop and Soil Sciences, and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States.",
+        "Department of Biochemistry, University of Missouri, Columbia, MO, United States.",
+        "Department of Plant Pathology and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gamage, Vinavi A",
+        "short_name": "Gamage VA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Pathology and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States."
+        ]
+      },
+      {
+        "full_name": "Owuocha, Luckio F",
+        "short_name": "Owuocha LF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Missouri, Columbia, MO, United States."
+        ]
+      },
+      {
+        "full_name": "Lin, Feng",
+        "short_name": "Lin F",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Plant Science and Technology, University of Missouri, Columbia, MO, United States."
+        ]
+      },
+      {
+        "full_name": "Li, Zenglu",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Crop and Soil Sciences, and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States."
+        ]
+      },
+      {
+        "full_name": "Beamer, Lesa J",
+        "short_name": "Beamer LJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Missouri, Columbia, MO, United States."
+        ]
+      },
+      {
+        "full_name": "Mitchum, Melissa G",
+        "short_name": "Mitchum MG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Pathology and Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-14 15:56:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42729520",
+      "36232579",
+      "41254880",
+      "40515504",
+      "32014996",
+      "28912378",
+      "31960590",
+      "38140445",
+      "41776743",
+      "25880563",
+      "32645235",
+      "17664250",
+      "27064027",
+      "30688400",
+      "29169106",
+      "35439035",
+      "31031779",
+      "38733408",
+      "30335911",
+      "42452220",
+      "24034273",
+      "20529370",
+      "41591297",
+      "35050680",
+      "38171485",
+      "35133563",
+      "40898604",
+      "21335526",
+      "30732586",
+      "34879718",
+      "41914311",
+      "36959928",
+      "28856099",
+      "31936278",
+      "40960553",
+      "22857610",
+      "33846373",
+      "31570969",
+      "40772058",
+      "23235880",
+      "33394061",
+      "42050218",
+      "27441552",
+      "19861652",
+      "32152894",
+      "17119912",
+      "35371127",
+      "24739302",
+      "30728404",
+      "19274272",
+      "34171147",
+      "26268218",
+      "19277315",
+      "32629961",
+      "27458476",
+      "12744515",
+      "23389673",
+      "41318961",
+      "32748725",
+      "39392447",
+      "31775625",
+      "17977850",
+      "32180382",
+      "32815305",
+      "19265980",
+      "28768484",
+      "27582748",
+      "22066186",
+      "34851539",
+      "38003422",
+      "37811683",
+      "30708422",
+      "30722601",
+      "38976643",
+      "39822960",
+      "36912956",
+      "40982379",
+      "42461806",
+      "41834347",
+      "39342079",
+      "24844661",
+      "31230117",
+      "39575886",
+      "32757880",
+      "27994197",
+      "30812490",
+      "31250041",
+      "40465328",
+      "42475469",
+      "15060591",
+      "41652776",
+      "38288404",
+      "30812246",
+      "26566850",
+      "24169883",
+      "34494868",
+      "23136498",
+      "41591312",
+      "30264924",
+      "31561499"
+    ],
+    "review": [
+      "42729520",
+      "41652776",
+      "41591312"
+    ],
+    "pmc": [
+      "13563002"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1942553",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

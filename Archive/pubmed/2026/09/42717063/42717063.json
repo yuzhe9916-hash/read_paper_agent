@@ -148,7 +148,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/10 05:36",
-    "fetched_at": "2026-09-11 11:10:59"
+    "fetched_at": "2026-09-14 15:56:39"
   },
   "links": {
     "cites": [],
@@ -264,7 +264,22 @@
     ],
     "pmc": [],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41594-026-01894-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

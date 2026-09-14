@@ -1,0 +1,515 @@
+{
+  "identity": {
+    "pmid": "42727848",
+    "doi": "10.1016/j.jbc.2026.113551",
+    "title": "Genetic and biochemical screens identify MGAT1 as a druggable glycosyltransferase target in STK11-mutant lung cancer."
+  },
+  "content": {
+    "abstract": "Checkpoint inhibitors are standard-of-care therapies for non-small cell lung cancer (NSCLC), but their efficacy is limited in tumors with STK11 mutations, highlighting the need for new therapeutic strategies. Here, we performed complementary in vivo and in vitro CRISPR-Cas9 functional genomic screens to identify genes whose loss restores sensitivity to anti-PD-1 therapy. We found that loss of MGAT1, a Golgi glycosyltransferase critical for the maturation of high-mannose N-glycans into hybrid and complex glycan structures, reversed resistance to anti-PD-1 treatment in syngeneic mouse tumor models harboring STK11 mutations. Parallel co-culture screens with antigen-matched CD8(+) T cells further showed that disruption of N-glycosylation strongly sensitized tumor cells to T cell-mediated killing. Genetic rescue studies demonstrated that this immune-evasion phenotype depends on MGAT1 catalytic activity, supporting direct biochemical interrogation of the enzyme. Using purified human MGAT1 and a UDP-Glo glycosyltransferase assay, we established a tractable screening platform and performed a 500,000-compound biochemical high-throughput screen, identifying an initial hit (compound 1; IC(50) = 197 muM). Subsequent medicinal chemistry optimization delivered progressively more potent analogs, including TNG-9333 (0.814 muM) and TNG-2673 (0.043 muM) and represented a >1000-fold improvement in biochemical potency from the starting hit. Crystal structures of human MGAT1 in apo, UDP-bound, UDP-GlcNAc-bound, and inhibitor-bound states, together with SPR and DSF analyses, revealed that this chemical series engages a previously unrecognized allosteric pocket and inhibits MGAT1 through a UDP-noncompetitive mechanism. Collectively, our work implicates N-glycosylation as a key mediator of immune evasion and establishes MGAT1 as a ligandable, structurally tractable target for small-molecule drug discovery.",
+    "keywords": [
+      "CRISPR/Cas9 target discovery",
+      "Glycosyltransferase",
+      "MGAT1 inhibition",
+      "N-glycosylation pathway",
+      "STK11",
+      "T cell-mediated killing sensitization",
+      "allosteric small-molecule inhibitor",
+      "crystal structure",
+      "enzyme inhibitor",
+      "high-throughput screening (HTS)",
+      "immune checkpoint inhibitor resistance",
+      "immunotherapy potentiation",
+      "lung cancer",
+      "medicinal chemistry",
+      "tumor immune evasion"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vassallo, Kiera M",
+        "Chen, Ying-Nan P",
+        "Handing, Katarzyna B",
+        "Lu, Alvin Z",
+        "Meier, Samuel R",
+        "Liu, Shangtao",
+        "Shen, Binzhang",
+        "Teng, Teng",
+        "Yu, Yi",
+        "Ji, Lei",
+        "Lazarides, Katherine",
+        "Huang, Alan",
+        "Min, Chengyin",
+        "Haines, Brian B",
+        "Mallender, William D",
+        "Sun, Sining",
+        "Liu, Mu-Sen",
+        "Amor, Alvaro J",
+        "Whittington, Douglas A",
+        "Salerno, Rebecca",
+        "Bruzzese, Frank J",
+        "Maxwell, John P",
+        "Maynard, Andrew",
+        "McCarren, Patrick",
+        "Come, Jon H",
+        "Throner, Scott",
+        "Andersen, Jannik N",
+        "Zhang, Wenhai",
+        "Gueroussov, Serge"
+      ],
+      "short_names": [
+        "Vassallo KM",
+        "Chen YP",
+        "Handing KB",
+        "Lu AZ",
+        "Meier SR",
+        "Liu S",
+        "Shen B",
+        "Teng T",
+        "Yu Y",
+        "Ji L",
+        "Lazarides K",
+        "Huang A",
+        "Min C",
+        "Haines BB",
+        "Mallender WD",
+        "Sun S",
+        "Liu MS",
+        "Amor AJ",
+        "Whittington DA",
+        "Salerno R",
+        "Bruzzese FJ",
+        "Maxwell JP",
+        "Maynard A",
+        "McCarren P",
+        "Come JH",
+        "Throner S",
+        "Andersen JN",
+        "Zhang W",
+        "Gueroussov S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA. Electronic address: jandersen@tangotx.com.",
+        "Tango Therapeutics, Boston, MA.",
+        "Tango Therapeutics, Boston, MA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vassallo, Kiera M",
+        "short_name": "Vassallo KM",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Chen, Ying-Nan P",
+        "short_name": "Chen YP",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Handing, Katarzyna B",
+        "short_name": "Handing KB",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Lu, Alvin Z",
+        "short_name": "Lu AZ",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Meier, Samuel R",
+        "short_name": "Meier SR",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Liu, Shangtao",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Shen, Binzhang",
+        "short_name": "Shen B",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Teng, Teng",
+        "short_name": "Teng T",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Yu, Yi",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Ji, Lei",
+        "short_name": "Ji L",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Lazarides, Katherine",
+        "short_name": "Lazarides K",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Huang, Alan",
+        "short_name": "Huang A",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Min, Chengyin",
+        "short_name": "Min C",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Haines, Brian B",
+        "short_name": "Haines BB",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Mallender, William D",
+        "short_name": "Mallender WD",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Sun, Sining",
+        "short_name": "Sun S",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Liu, Mu-Sen",
+        "short_name": "Liu MS",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Amor, Alvaro J",
+        "short_name": "Amor AJ",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Whittington, Douglas A",
+        "short_name": "Whittington DA",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Salerno, Rebecca",
+        "short_name": "Salerno R",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Bruzzese, Frank J",
+        "short_name": "Bruzzese FJ",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Maxwell, John P",
+        "short_name": "Maxwell JP",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Maynard, Andrew",
+        "short_name": "Maynard A",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "McCarren, Patrick",
+        "short_name": "McCarren P",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Come, Jon H",
+        "short_name": "Come JH",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Throner, Scott",
+        "short_name": "Throner S",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Andersen, Jannik N",
+        "short_name": "Andersen JN",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA. Electronic address: jandersen@tangotx.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenhai",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      },
+      {
+        "full_name": "Gueroussov, Serge",
+        "short_name": "Gueroussov S",
+        "identifiers": [],
+        "affiliations": [
+          "Tango Therapeutics, Boston, MA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 23:36",
+    "fetched_at": "2026-09-14 15:56:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42727848",
+      "40091029",
+      "40882030",
+      "34416901",
+      "40229283",
+      "35281267",
+      "41209621",
+      "41199296",
+      "41479910",
+      "32763972",
+      "33537094",
+      "32723834",
+      "41922082",
+      "39514336",
+      "30242021",
+      "42048614",
+      "37495171",
+      "39694700",
+      "35492873",
+      "39531934",
+      "39385035",
+      "37858248",
+      "42721203",
+      "42689513",
+      "41088878",
+      "34054817",
+      "39932765",
+      "39664300",
+      "41135949",
+      "39004699",
+      "39671912",
+      "42187558",
+      "41821004",
+      "42055144",
+      "42263544",
+      "37817679",
+      "19706602",
+      "38330261",
+      "40275340",
+      "42723882",
+      "33655698",
+      "40128846",
+      "37963637",
+      "41785601",
+      "36271541",
+      "32944405",
+      "35793868",
+      "27252534",
+      "31442407",
+      "42007530",
+      "35288462",
+      "32727810",
+      "40050048",
+      "41313840",
+      "42018410",
+      "34230008",
+      "31399043",
+      "42367921",
+      "37732732",
+      "32375580",
+      "41378285",
+      "25944857",
+      "31333652",
+      "42607553",
+      "40253947",
+      "40346531",
+      "36419183",
+      "41265176",
+      "41648446",
+      "40269245",
+      "42028950",
+      "40777267",
+      "42358957",
+      "37028818",
+      "42515717",
+      "39362388",
+      "37001908",
+      "40828448",
+      "42503804",
+      "42398850",
+      "39649017",
+      "40463377",
+      "39896806",
+      "22957033",
+      "33408094",
+      "42497523",
+      "29776993",
+      "35811500",
+      "42378460",
+      "39134346",
+      "41424613",
+      "41565695",
+      "42419879",
+      "40963238",
+      "41016188",
+      "38965534",
+      "39892819",
+      "39113608",
+      "40948762",
+      "39250241"
+    ],
+    "review": [
+      "42727848",
+      "42187558",
+      "38330261",
+      "42723882",
+      "32944405",
+      "41313840",
+      "31333652",
+      "39649017"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02423-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

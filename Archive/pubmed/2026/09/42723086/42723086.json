@@ -1,0 +1,401 @@
+{
+  "identity": {
+    "pmid": "42723086",
+    "doi": "10.1186/s12964-026-03067-9",
+    "title": "Virobiome-mediated regulation of microbiota-gut-brain axis signaling and neuroimmune homeostasis."
+  },
+  "content": {
+    "abstract": "The human gut-brain axis (GBA) is increasingly recognized as a complex bidirectional communication system integrating microbial, neural, endocrine, and immune networks that shape neurological health. While bacterial contributions to this dialogue have been extensively characterized, the viral component of the gut ecosystem, the virome, has emerged as an important component associated with host physiological regulation. This review synthesizes evidence suggesting that bacteriophages and eukaryotic viruses may contribute to microbial and immune homeostasis and may influence signaling along the microbiota-gut-brain axis. In experimental studies, Bacteriophages have been shown to influence microbial community structure through lytic and lysogenic cycles, horizontal gene transfer, and metabolic modulation, indirectly regulating production of neuroactive metabolites such as short-chain fatty acids and tryptophan derivatives which in turn have been linked to blood brain barrier integrity and modulate microglial activation. In observational human studies and experimental models, eukaryotic viruses including Epstein Barr virus and cytomegalovirus have been associated with systemic inflammation, molecular mimicry, and cytokine dysregulation, amplifying neuroimmune cascades implicated in Alzheimer's disease (AD), multiple sclerosis (MS), autism spectrum disorder (ASD), and major depressive disorder (MDD). The convergence of viral-bacterial interactions highlights a transkingdom signaling network shaping neuroinflammatory tone and influencing disease susceptibility. Emerging experimental strategies, including precision phage therapy, engineered probiotics incorporating CRISPR-based antiviral systems, and fecal virome transplantation (FVT), are being explored as potential approaches to modulate virome-microbiome interactions. Integration of multiomics platforms with artificial intelligence-driven modeling will be critical for clarifying the temporal and mechanistic relationships between virome dynamics and neurological function. Collectively, these insights highlight the gut virobiome as a potentially important contributor to neuroimmune equilibrium and illuminate avenues for microbiome-informed diagnostics and interventions in neurodegenerative and neuropsychiatric disorders. This review therefore highlights the often underappreciated role of the gut virobiome and proposes an integrative conceptual model linking virome dynamics with microbiota-gut-brain axis signaling.",
+    "keywords": [
+      "Bacteriophages",
+      "Gut-brain Axis",
+      "Microbiota-gut-brain communication",
+      "Neurodegenerative diseases",
+      "Neuroinflammation",
+      "Virobiome"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Homeostasis",
+      "Animals",
+      "*Signal Transduction",
+      "*Brain/immunology/metabolism",
+      "*Gastrointestinal Microbiome",
+      "*Virome"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Afkhamian, Alireza",
+        "Saffari Natanzi, Abolfazl",
+        "Jafaridarabjerdi, Mahin",
+        "Aghaei, Sara",
+        "Haghjou, Ali",
+        "Shafiei, Mohammadreza",
+        "Bashkandi, Aysa Hasanzade",
+        "Shahraki, Sajjad",
+        "Reiter, Russel J",
+        "Haddad Kashani, Hamed",
+        "Yang, Yanchao"
+      ],
+      "short_names": [
+        "Afkhamian A",
+        "Saffari Natanzi A",
+        "Jafaridarabjerdi M",
+        "Aghaei S",
+        "Haghjou A",
+        "Shafiei M",
+        "Bashkandi AH",
+        "Shahraki S",
+        "Reiter RJ",
+        "Haddad Kashani H",
+        "Yang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran.",
+        "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran.",
+        "Faculty of Medicine, Jahrom University of Medical Science, Jahrom, Iran.",
+        "Faculty of Medicine, Tehran University of Medical Sciences, Tehran, Iran.",
+        "Faculty of Medicine, Urmia University of Medical Sciences, Urmia, Iran.",
+        "Student Research Committee, Alborz University of Medical Sciences, Karaj, Iran.",
+        "Faculty of Medicine, Urmia University of Medical Sciences, Urmia, Iran.",
+        "Department of Environmental Health Engineering, School of Public Health, Kashan University of Medical Sciences, Kashan, Iran.",
+        "Department of Cell Systems & Anatomy, University of Texas Health Science Center at San Antonio, San Antonio, TX, 78229, USA.",
+        "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran.",
+        "Department of Anesthesiology, Shengjing Hospital of China Medical University, Shenyang, Liaoning Province, China. yanchao_yangg@outlook.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Afkhamian, Alireza",
+        "short_name": "Afkhamian A",
+        "identifiers": [],
+        "affiliations": [
+          "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran."
+        ]
+      },
+      {
+        "full_name": "Saffari Natanzi, Abolfazl",
+        "short_name": "Saffari Natanzi A",
+        "identifiers": [],
+        "affiliations": [
+          "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran."
+        ]
+      },
+      {
+        "full_name": "Jafaridarabjerdi, Mahin",
+        "short_name": "Jafaridarabjerdi M",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine, Jahrom University of Medical Science, Jahrom, Iran."
+        ]
+      },
+      {
+        "full_name": "Aghaei, Sara",
+        "short_name": "Aghaei S",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Haghjou, Ali",
+        "short_name": "Haghjou A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine, Urmia University of Medical Sciences, Urmia, Iran."
+        ]
+      },
+      {
+        "full_name": "Shafiei, Mohammadreza",
+        "short_name": "Shafiei M",
+        "identifiers": [],
+        "affiliations": [
+          "Student Research Committee, Alborz University of Medical Sciences, Karaj, Iran."
+        ]
+      },
+      {
+        "full_name": "Bashkandi, Aysa Hasanzade",
+        "short_name": "Bashkandi AH",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine, Urmia University of Medical Sciences, Urmia, Iran."
+        ]
+      },
+      {
+        "full_name": "Shahraki, Sajjad",
+        "short_name": "Shahraki S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Health Engineering, School of Public Health, Kashan University of Medical Sciences, Kashan, Iran."
+        ]
+      },
+      {
+        "full_name": "Reiter, Russel J",
+        "short_name": "Reiter RJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Systems & Anatomy, University of Texas Health Science Center at San Antonio, San Antonio, TX, 78229, USA."
+        ]
+      },
+      {
+        "full_name": "Haddad Kashani, Hamed",
+        "short_name": "Haddad Kashani H",
+        "identifiers": [],
+        "affiliations": [
+          "Anatomical Sciences Research Center, Institute for Basic Sciences, Kashan University of Medical Sciences, Kashan, Iran."
+        ]
+      },
+      {
+        "full_name": "Yang, Yanchao",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology, Shengjing Hospital of China Medical University, Shenyang, Liaoning Province, China. yanchao_yangg@outlook.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell communication and signaling : CCS"
+    ],
+    "journal_abbrev": [
+      "Cell Commun Signal"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-14 15:56:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42723086",
+      "41539110",
+      "42439335",
+      "41678917",
+      "41886797",
+      "41010510",
+      "42694564",
+      "42514986",
+      "40952592",
+      "42404763",
+      "41683467",
+      "41276714",
+      "42707709",
+      "41630697",
+      "42475469",
+      "41974570",
+      "41186720",
+      "41884457",
+      "42015346",
+      "42445792",
+      "41104042",
+      "40704582",
+      "41754433",
+      "40662222",
+      "40712930",
+      "42043454",
+      "40505847",
+      "41597211",
+      "42296911",
+      "42158204",
+      "40681117",
+      "40804450",
+      "42542073",
+      "42311688",
+      "39733842",
+      "41645047",
+      "40909294",
+      "42505396",
+      "40088964",
+      "41534880",
+      "41931118",
+      "41235242",
+      "40482955",
+      "40908772",
+      "42259432",
+      "41475542",
+      "41593440",
+      "41928387",
+      "42451154",
+      "42511589",
+      "42642834",
+      "42307649",
+      "40361641",
+      "41460655",
+      "41525005",
+      "40903950",
+      "32473843",
+      "41539591",
+      "41097145",
+      "41898630",
+      "40332186",
+      "41160236",
+      "42650766",
+      "42508695",
+      "42413380",
+      "42589280",
+      "34621267",
+      "42459649",
+      "42652141",
+      "42074015",
+      "40087204",
+      "41193697",
+      "40442386",
+      "41146563",
+      "42592659",
+      "40642089",
+      "41292506",
+      "40680898",
+      "42079748",
+      "42099620",
+      "42724165",
+      "42638898",
+      "42681656",
+      "42722874",
+      "40796226",
+      "41117388",
+      "41829891",
+      "42123938",
+      "41803336",
+      "42287567",
+      "42319691",
+      "40202676",
+      "42059647",
+      "42495627",
+      "42682873",
+      "40584220",
+      "42051550",
+      "40728958",
+      "41747877",
+      "40971199"
+    ],
+    "review": [
+      "42723086",
+      "41539110",
+      "41678917",
+      "41886797",
+      "41010510",
+      "42694564",
+      "42514986",
+      "40952592",
+      "42404763",
+      "41683467",
+      "41276714",
+      "42707709",
+      "41630697",
+      "41974570",
+      "41186720",
+      "41884457",
+      "42015346",
+      "42445792",
+      "41104042",
+      "40704582",
+      "41754433",
+      "40662222",
+      "40712930",
+      "42043454",
+      "40505847",
+      "41597211",
+      "42296911",
+      "42158204",
+      "40681117",
+      "40804450",
+      "42542073",
+      "42311688",
+      "39733842",
+      "41645047",
+      "40909294",
+      "42505396",
+      "40088964",
+      "41534880",
+      "41931118",
+      "41235242",
+      "40482955",
+      "40908772",
+      "42259432",
+      "41475542",
+      "41593440",
+      "41928387",
+      "42451154",
+      "42511589",
+      "42642834",
+      "42307649",
+      "40361641",
+      "41460655",
+      "41525005",
+      "32473843",
+      "41539591",
+      "41097145",
+      "41898630",
+      "40332186",
+      "41160236",
+      "42650766",
+      "42508695",
+      "42413380",
+      "42589280",
+      "34621267",
+      "42459649",
+      "42652141",
+      "42074015",
+      "40087204",
+      "41193697",
+      "40442386",
+      "41146563",
+      "42592659",
+      "40642089",
+      "41292506",
+      "40680898",
+      "42079748",
+      "42099620",
+      "42724165",
+      "42638898",
+      "42681656",
+      "42722874",
+      "40796226",
+      "41117388",
+      "41829891",
+      "42123938",
+      "41803336",
+      "42287567",
+      "42319691",
+      "40202676",
+      "42495627",
+      "42682873",
+      "40584220",
+      "42051550",
+      "40728958",
+      "41747877",
+      "40971199"
+    ],
+    "pmc": [
+      "13560254"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://biosignaling.biomedcentral.com/articles/10.1186/s12964-026-03067-9",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

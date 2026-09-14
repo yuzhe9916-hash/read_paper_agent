@@ -1,0 +1,457 @@
+{
+  "identity": {
+    "pmid": "42728307",
+    "doi": "10.1038/s41556-026-02063-y",
+    "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development."
+  },
+  "content": {
+    "abstract": "Changes of three-dimensional chromosome organization in cancers are well established, but little focus has been placed on the behaviour of X chromosome (chrX). Here we show that hepatic chrX of male mice exhibits chromosome segregation, which is attenuated during hepatocellular carcinoma (HCC) development. Using F1 hybrid mice, we find that both conformation change and gene activation on male active chrX (Xa) are more pronounced than those on female Xa, which is correlated with male bias in liver diseases. Of note, analysis of human hepatic tissues demonstrates that normal Xa possesses a bipartite mega-domain structure, which is dissolved in fibrotic and HCC tissues across both sexes. This bipartite Xa is liver-specific, and shows little correlation with ploidy status. Furthermore, deletion of the megabase-scale Xa boundary via CRISPR-Cas3 disrupts the bipartite Xa conformation and drives a premalignant transition. Together, this comprehensive analysis highlights a key role of Xa conformation change in promoting HCC development.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Xiaoli",
+        "Tan, Delin",
+        "Mo, Jingyun",
+        "Xu, Yang",
+        "Ni, Qingqiang",
+        "Liu, Ting",
+        "Wang, Huaiming",
+        "Chen, Bingjie",
+        "Liao, Yujia",
+        "Lin, Yingnan",
+        "Chen, Wanting",
+        "Luo, Susu",
+        "Fang, Qing",
+        "Zhao, Menglan",
+        "Yu, Yangyinhui",
+        "Zheng, Cunjing",
+        "Cui, Ruolin",
+        "Wang, Jiaying",
+        "Chang, Hong",
+        "Gong, Qing",
+        "Cheng, Alfred Sze-Lok",
+        "Jiang, Huiqing",
+        "Li, Tingting",
+        "Wang, Jia"
+      ],
+      "short_names": [
+        "Xie X",
+        "Tan D",
+        "Mo J",
+        "Xu Y",
+        "Ni Q",
+        "Liu T",
+        "Wang H",
+        "Chen B",
+        "Liao Y",
+        "Lin Y",
+        "Chen W",
+        "Luo S",
+        "Fang Q",
+        "Zhao M",
+        "Yu Y",
+        "Zheng C",
+        "Cui R",
+        "Wang J",
+        "Chang H",
+        "Gong Q",
+        "Cheng AS",
+        "Jiang H",
+        "Li T",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7689-2146",
+        "ORCID: 0009-0003-8974-2384",
+        "ORCID: 0000-0003-2345-6951",
+        "ORCID: 0000-0001-8706-0943",
+        "ORCID: 0000-0003-0534-6492",
+        "ORCID: 0000-0001-5339-8954"
+      ],
+      "affiliations": [
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China.",
+        "Department of Colorectal Surgery, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "Department of Hepatobiliary Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China.",
+        "Gastrointestinal Disease Diagnosis and Treatment Center, The First Hospital of Hebei Medical University, Shijiazhuang, China.",
+        "Department of Colorectal Surgery, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "School of Life Sciences, Peking University, Beijing, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Radiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China.",
+        "Department of Hepatobiliary Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+        "School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong, China.",
+        "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China. jianghq@hebmu.edu.cn.",
+        "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA, also known as National Center of Biomedical Analysis), Beijing, China. tingtingli@xmail.ncba.ac.cn.",
+        "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China. wangjia@gzhmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Xiaoli",
+        "short_name": "Xie X",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Delin",
+        "short_name": "Tan D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Mo, Jingyun",
+        "short_name": "Mo J",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yang",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ni, Qingqiang",
+        "short_name": "Ni Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatobiliary Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ting",
+        "short_name": "Liu T",
+        "identifiers": [],
+        "affiliations": [
+          "Gastrointestinal Disease Diagnosis and Treatment Center, The First Hospital of Hebei Medical University, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Huaiming",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal Surgery, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Bingjie",
+        "short_name": "Chen B",
+        "identifiers": [
+          "0000-0001-7689-2146"
+        ],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liao, Yujia",
+        "short_name": "Liao Y",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yingnan",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+          "School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wanting",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Susu",
+        "short_name": "Luo S",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Qing",
+        "short_name": "Fang Q",
+        "identifiers": [
+          "0009-0003-8974-2384"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Menglan",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yangyinhui",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China.",
+          "Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Cunjing",
+        "short_name": "Zheng C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Ruolin",
+        "short_name": "Cui R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiaying",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Hong",
+        "short_name": "Chang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Hepatobiliary Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Qing",
+        "short_name": "Gong Q",
+        "identifiers": [],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Alfred Sze-Lok",
+        "short_name": "Cheng AS",
+        "identifiers": [
+          "0000-0003-2345-6951"
+        ],
+        "affiliations": [
+          "School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Huiqing",
+        "short_name": "Jiang H",
+        "identifiers": [
+          "0000-0001-8706-0943"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, The Second Hospital of Hebei Medical University, Hebei Key Laboratory of Gastroenterology, Hebei Institute of Gastroenterology, Hebei Clinical Research Center for Digestive Diseases, Shijiazhuang, China. jianghq@hebmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Tingting",
+        "short_name": "Li T",
+        "identifiers": [
+          "0000-0003-0534-6492"
+        ],
+        "affiliations": [
+          "Nanhu Laboratory, State Key Laboratory of Biomedical Analysis (SKLBA, also known as National Center of Biomedical Analysis), Beijing, China. tingtingli@xmail.ncba.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Jia",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0001-5339-8954"
+        ],
+        "affiliations": [
+          "GMU-GIBH Joint School of Life Sciences, Guangdong Provincial Key Laboratory of Protein Modification and Disease, The Guangdong-Hong Kong-Macao Joint Laboratory for Cell Fate Regulation and Diseases, Guangzhou Medical University, Guangzhou, China. wangjia@gzhmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature cell biology"
+    ],
+    "journal_abbrev": [
+      "Nat Cell Biol"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/12 05:36",
+    "fetched_at": "2026-09-14 15:56:39"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42728307",
+      "40359939",
+      "28923495",
+      "39289044",
+      "39761726",
+      "27437574",
+      "28163062",
+      "41223092",
+      "28249813",
+      "42030359",
+      "42475469",
+      "37381005",
+      "40014450",
+      "29848298",
+      "33115780",
+      "26409216",
+      "39716176",
+      "33038431",
+      "16817970",
+      "40715029",
+      "8353309",
+      "36721234",
+      "41121265",
+      "42227003",
+      "32243868",
+      "17322062",
+      "26248554",
+      "33386706",
+      "35508720",
+      "36321557",
+      "36603729",
+      "40025499",
+      "33754058",
+      "14969851",
+      "39150724",
+      "38412887",
+      "41078702",
+      "39486405",
+      "31899206",
+      "32987153",
+      "28810875",
+      "31279903",
+      "12378619",
+      "40721811",
+      "33992711",
+      "23648141",
+      "36819663",
+      "10862032",
+      "35867177",
+      "31344396",
+      "30833799",
+      "37663116",
+      "42097491",
+      "30738580",
+      "18285497",
+      "34775955",
+      "40500691",
+      "40595076",
+      "38718791",
+      "26030525",
+      "34282556",
+      "34280005",
+      "32430013",
+      "39447409",
+      "29297312",
+      "31560893",
+      "34596084",
+      "39478014",
+      "36434180",
+      "20604928",
+      "24564407",
+      "41506664",
+      "31488102",
+      "22899566",
+      "34649567",
+      "28750679",
+      "39090641",
+      "31678303",
+      "34193219",
+      "23239537",
+      "39106149",
+      "41722834",
+      "35089546",
+      "31862487",
+      "40076869",
+      "32117590",
+      "32907830",
+      "38952090",
+      "24713664",
+      "30556279",
+      "28668554",
+      "22685290",
+      "40847407",
+      "37600802",
+      "38255847",
+      "29497174",
+      "32115688",
+      "41128607",
+      "34044846",
+      "29439259"
+    ],
+    "review": [
+      "42728307",
+      "36321557",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41556-026-02063-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

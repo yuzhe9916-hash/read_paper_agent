@@ -6,13 +6,13 @@
   "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
   "published_date": "2026-09-08",
   "window": {
-    "start": "2026-09-04",
-    "end": "2026-09-10"
+    "start": "2026-09-07",
+    "end": "2026-09-13"
   },
-  "score": 0,
-  "one_liner_zh": "该研究利用患者iPSC和CRISPR小鼠模型评估颅缝早闭相关染色体结构变异对FGF基因的调控影响，属于基因组疾病机制研究，不涉及无序蛋白、蛋白互作或AI/物理模拟方法，与本课题无关。",
+  "score": 2,
+  "one_liner_zh": "该研究用患者iPSC和CRISPR小鼠模型评估颅缝早闭相关染色体结构变异对FGF基因的调控影响，涉及TAD结构预测，但对象非无序蛋白/IDR，无PPI机制建模，也无AI或物理模拟方法，与本课题关联极弱。",
   "abstract": "PURPOSE: Unravelling causal links between unique structural/copy-number variants (SV/CNV) and associated phenotypes is essential for correct genetic counselling. We investigated two families in which patients with craniosynostosis had SV/CNV potentially dysregulating a fibroblast growth factor (FGF)-encoding gene; a 730 kb dup(4)(q21.21) including FGF5; and a complex 568 kb interspersed 13q12.11 duplication, located 841 kb from FGF9. METHODS: We combined bioinformatic predictions of altered topologically-associating domain (TAD) structure, with experimental analysis (RNA- and ATAC- [assay for transposase-accessible chromatin] sequencing) of patient induced pluripotent stem cell lines (iPSCs) differentiated to neural crest (NCC) and osteoprogenitor (OPC) identities. For the dup(4)(q21.21) we generated a mouse bearing an equivalent rearrangement using CRISPR-Cas9 targeting. RESULTS: TAD analysis suggested potential dysregulation of the FGF5/FGF9 gene by bringing it into a novel genomic milieu. The RNA- and ATAC-seq assays demonstrated FGF5/FGF9 upregulation (2.7-18x) and local opening of chromatin, in 3/4 cell lines. For the dup(4)(q21.21), a causal role was supported by the mouse model, whereas interpretation of the 13q12.11 SV is confounded by a co-existing FOXP2 pathogenic variant. CONCLUSION: Patient iPSC-differentiated NCC and OPC lines, combined with TAD-based modelling to generate testable functional hypotheses, provide valuable functional evidence when evaluating causation of unique SV/CNV in craniosynostosis.",
-  "abstract_zh": "目的：揭示独特的结构变异/拷贝数变异（SV/CNV）与相关表型之间的因果联系，对于正确的遗传咨询至关重要。我们研究了两例颅缝早闭患者携带可能失调成纤维细胞生长因子（FGF）编码基因的SV/CNV的家系：一个包含FGF5的730 kb dup(4)(q21.21)；以及一个位于FGF9下游841 kb处的复杂568 kb散布性13q12.11重复。方法：我们结合了拓扑关联结构域（TAD）结构改变的计算预测，以及对患者诱导多能干细胞系（iPSCs）分化为神经嵴细胞（NCC）和成骨前体细胞（OPC）身份后的实验分析（RNA测序和ATAC- [转座酶可及染色质测定] 测序）。针对dup(4)(q21.21)，我们利用CRISPR-Cas9靶向技术生成了携带等效重排的小鼠。结果：TAD分析提示FGF5/FGF9基因可能因被置于新的基因组环境而失调。RNA-seq和ATAC-seq检测显示，在3/4的细胞系中FGF5/FGF9表达上调（2.7-18倍）并伴随局部染色质开放。对于dup(4)(q21.21)，小鼠模型支持其因果作用，而13q12.11 SV的解释因共存的FOXP2致病性变异而复杂化。结论：患者iPSC分化的NCC和OPC细胞系，结合基于TAD的建模以生成可检验的功能假说，为评估颅缝早闭中独特SV/CNV的因果关系提供了有价值的功能证据。",
+  "abstract_zh": "目的：揭示独特的结构变异/拷贝数变异（SV/CNV）与相关表型之间的因果联系，对于正确的遗传咨询至关重要。我们研究了两例颅缝早闭患者携带可能失调成纤维细胞生长因子（FGF）编码基因的SV/CNV的家系：一个包含FGF5的730 kb dup(4)(q21.21)；以及一个位于FGF9下游841 kb处的复杂568 kb散布性13q12.11重复。方法：我们结合了对拓扑关联结构域（TAD）改变的生物信息学预测，以及对患者诱导多能干细胞系（iPSCs）分化为神经嵴细胞（NCC）和成骨前体细胞（OPC）身份后的实验分析（RNA测序和ATAC- [转座酶可及染色质测定] 测序）。针对dup(4)(q21.21)，我们利用CRISPR-Cas9靶向技术生成了携带等效重排的小鼠。结果：TAD分析表明，FGF5/FGF9基因可能因被置于新的基因组环境而失调。RNA-seq和ATAC-seq检测显示，在3/4的细胞系中，FGF5/FGF9表达上调（2.7-18倍）并伴随局部染色质开放。对于dup(4)(q21.21)，小鼠模型支持其因果作用，而13q12.11 SV的解释因共存的FOXP2致病性变异而复杂化。结论：患者iPSC分化的NCC和OPC细胞系，结合基于TAD的建模以生成可检验的功能假说，为评估颅缝早闭中独特SV/CNV的因果关系提供了有价值的功能证据。",
   "has_fulltext": false,
   "fulltext_source": "abstract",
   "fulltext_path": "fulltext.md",

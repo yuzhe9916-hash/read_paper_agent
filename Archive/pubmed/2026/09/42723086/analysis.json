@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42723086",
+  "title": "Virobiome-mediated regulation of microbiota-gut-brain axis signaling and neuroimmune homeostasis.",
+  "authors": "Afkhamian, Alireza; Saffari Natanzi, Abolfazl; Jafaridarabjerdi, Mahin; Aghaei, Sara; Haghjou, Ali; Shafiei, Mohammadreza; Bashkandi, Aysa Hasanzade; Shahraki, Sajjad; Reiter, Russel J; Haddad Kashani, Hamed; Yang, Yanchao",
+  "journal": "Cell communication and signaling : CCS",
+  "published_date": "2026-09-11",
+  "window": {
+    "start": "2026-09-07",
+    "end": "2026-09-13"
+  },
+  "score": 2,
+  "one_liner_zh": "综述肠道病毒组通过菌群-肠-脑轴调控神经免疫，虽提及AI建模但无无序蛋白/PPI机制建模，与本课题无关。",
+  "abstract": "The human gut-brain axis (GBA) is increasingly recognized as a complex bidirectional communication system integrating microbial, neural, endocrine, and immune networks that shape neurological health. While bacterial contributions to this dialogue have been extensively characterized, the viral component of the gut ecosystem, the virome, has emerged as an important component associated with host physiological regulation. This review synthesizes evidence suggesting that bacteriophages and eukaryotic viruses may contribute to microbial and immune homeostasis and may influence signaling along the microbiota-gut-brain axis. In experimental studies, Bacteriophages have been shown to influence microbial community structure through lytic and lysogenic cycles, horizontal gene transfer, and metabolic modulation, indirectly regulating production of neuroactive metabolites such as short-chain fatty acids and tryptophan derivatives which in turn have been linked to blood brain barrier integrity and modulate microglial activation. In observational human studies and experimental models, eukaryotic viruses including Epstein Barr virus and cytomegalovirus have been associated with systemic inflammation, molecular mimicry, and cytokine dysregulation, amplifying neuroimmune cascades implicated in Alzheimer's disease (AD), multiple sclerosis (MS), autism spectrum disorder (ASD), and major depressive disorder (MDD). The convergence of viral-bacterial interactions highlights a transkingdom signaling network shaping neuroinflammatory tone and influencing disease susceptibility. Emerging experimental strategies, including precision phage therapy, engineered probiotics incorporating CRISPR-based antiviral systems, and fecal virome transplantation (FVT), are being explored as potential approaches to modulate virome-microbiome interactions. Integration of multiomics platforms with artificial intelligence-driven modeling will be critical for clarifying the temporal and mechanistic relationships between virome dynamics and neurological function. Collectively, these insights highlight the gut virobiome as a potentially important contributor to neuroimmune equilibrium and illuminate avenues for microbiome-informed diagnostics and interventions in neurodegenerative and neuropsychiatric disorders. This review therefore highlights the often underappreciated role of the gut virobiome and proposes an integrative conceptual model linking virome dynamics with microbiota-gut-brain axis signaling.",
+  "abstract_zh": "人类肠脑轴（gut-brain axis, GBA）日益被认识到是一个复杂的双向通信系统，整合了微生物、神经、内分泌和免疫网络，塑造神经健康。虽然细菌在这一对话中的贡献已被广泛表征，但肠道生态系统的病毒组分——病毒组（virome）——已成为与宿主生理调节相关的重要成分。本综述综合了表明噬菌体（bacteriophages）和真核病毒（eukaryotic viruses）可能促进微生物和免疫稳态，并可能影响沿微生物群-肠脑轴（microbiota-gut-brain axis）信号传导的证据。在实验研究中，噬菌体已被证明通过裂解和溶原周期、水平基因转移和代谢调节影响微生物群落结构，间接调节神经活性代谢物（如短链脂肪酸和色氨酸衍生物）的产生，而这些代谢物又与血脑屏障完整性相关并调节小胶质细胞激活。在观察性人体研究和实验模型中，包括Epstein-Barr病毒和巨细胞病毒在内的真核病毒与全身性炎症、分子模拟和细胞因子失调相关，放大了与阿尔茨海默病（Alzheimer's disease, AD）、多发性硬化（multiple sclerosis, MS）、自闭症谱系障碍（autism spectrum disorder, ASD）和重度抑郁障碍（major depressive disorder, MDD）相关的神经免疫级联反应。病毒-细菌相互作用的汇聚突显了一个跨王国信号网络，塑造神经炎症基调并影响疾病易感性。新兴的实验策略，包括精准噬菌体疗法、整合CRISPR抗病毒系统的工程化益生菌以及粪便病毒组移植（fecal virome transplantation, FVT），正在被探索为调节病毒组-微生物组相互作用的潜在方法。将多组学平台与人工智能驱动建模相结合，对于阐明病毒组动态与神经功能之间的时间和机制关系至关重要。总体而言，这些见解强调了肠道病毒组（gut virobiome）作为神经免疫平衡潜在重要贡献者的作用，并为神经退行性和神经精神疾病的微生物组知情诊断和干预开辟了途径。因此，本综述强调了常被低估的肠道病毒组作用，并提出了一个整合性概念模型，将病毒组动态与微生物群-肠脑轴信号传导联系起来。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42723086/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42723086/",
+  "paper_page_path": "papers/pubmed/42723086/index.html"
+}
