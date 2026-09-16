@@ -51,8 +51,9 @@ platforms:
     max_results: 100
     query: >
       (all:"staggered cleavage" 
-      OR all:"CRISPR and structure" 
-    
+      OR all:"CRISPR and structure") 
+
+  biorxiv:  
     # 与 arXiv 同构的括号三段式（对象×互作×方法，纯短语、无字段前缀）
     # 实测（2026-09-07）：
     # 1. 必须保留括号、不能改平铺DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱（同一逻辑 query 实测：平铺 DNF=1 命中 vs 括号三段式=13 命中）→ 平铺只在 Crossref 客户端对、却弄坏唯一严格的 Europe PMC
