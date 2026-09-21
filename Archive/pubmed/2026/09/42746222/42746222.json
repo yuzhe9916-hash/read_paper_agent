@@ -1,0 +1,396 @@
+{
+  "identity": {
+    "pmid": "42746222",
+    "doi": "10.3389/fcell.2026.1879681",
+    "title": "Target, silence, replace: a review on RNA-based drugs in modern medicine."
+  },
+  "content": {
+    "abstract": "RNA therapies have evolved into a revolutionary approach in contemporary medicine for treating various diseases by directly targeting RNA molecules engaged in disease pathogenesis. These therapeutic agents regulate biological processes through diverse mechanisms, including modulation of RNA function and gene expression. Medical applications of RNA are greatly enhanced by its structure, adaptability, and capacity for targeted binding. Among these traits is its ability to bind to certain molecules unique to those chemicals. RNA-based treatments have emerged from advancements in the production, modification, and cellular transport of RNA molecules. Several RNA drugs have been approved whereas some are under trial for few diseases. RNA therapeutics can function at the level of RNAs, DNAs and proteins. The evolution of mRNA vaccines during the COVID-19 epidemic emphasizes the exciting potential of RNA therapies in the treatment of diseases. This article provides a comprehensive overview of the several forms of RNA therapies, including small-interfering RNA (siRNA), messenger RNA (mRNA), and antisense-oligonucleotides (ASOs), together with information on their action mechanisms and delivery strategies that improve cellular absorption and shield RNA molecules from degradation. Further, CRISPR-based editing of the genome can be employed for modification of target RNA sequences for various disorders. Development of RNA aptamers have also been identified as pivotal RNA-therapeutic candidate. Additionally, we have explained mechanistic details and examples of drugs approved for RNA therapy. Emphasizing their potential to enhance patient outcomes and fulfil unmet medical requirements, we also highlight the clinical development of RNA therapies in treating cancer and other infectious diseases.",
+    "keywords": [
+      "RNA interference",
+      "RNA therapeutics",
+      "antisense oligonucleotides",
+      "aptamer",
+      "messenger RNA",
+      "nanoparticle delivery"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mundlia, Poonam",
+        "Singh, Suraj Pratap",
+        "Pothal, Pritiman",
+        "Thakur, Tanya",
+        "Kathuria, Reema",
+        "Maurya, Sudhanshu",
+        "Sharma, Akanksha",
+        "Goel, Honey",
+        "Pandey, Ankur",
+        "Ranawat, Pavitra",
+        "Singh, Gurpal",
+        "Barnwal, Ravi Pratap"
+      ],
+      "short_names": [
+        "Mundlia P",
+        "Singh SP",
+        "Pothal P",
+        "Thakur T",
+        "Kathuria R",
+        "Maurya S",
+        "Sharma A",
+        "Goel H",
+        "Pandey A",
+        "Ranawat P",
+        "Singh G",
+        "Barnwal RP"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India.",
+        "Department of Biotechnology, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India.",
+        "Department of Pharmaceutics, University Institute of Pharmaceutical Sciences and Research, Baba Farid University of Health Sciences, Faridkot, India.",
+        "Department of Chemistry, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India.",
+        "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India.",
+        "Department of Biophysics, Panjab University, Chandigarh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mundlia, Poonam",
+        "short_name": "Mundlia P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Suraj Pratap",
+        "short_name": "Singh SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Pothal, Pritiman",
+        "short_name": "Pothal P",
+        "identifiers": [],
+        "affiliations": [
+          "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Thakur, Tanya",
+        "short_name": "Thakur T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Kathuria, Reema",
+        "short_name": "Kathuria R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India.",
+          "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Maurya, Sudhanshu",
+        "short_name": "Maurya S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Akanksha",
+        "short_name": "Sharma A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India.",
+          "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Goel, Honey",
+        "short_name": "Goel H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutics, University Institute of Pharmaceutical Sciences and Research, Baba Farid University of Health Sciences, Faridkot, India."
+        ]
+      },
+      {
+        "full_name": "Pandey, Ankur",
+        "short_name": "Pandey A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Ranawat, Pavitra",
+        "short_name": "Ranawat P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Gurpal",
+        "short_name": "Singh G",
+        "identifiers": [],
+        "affiliations": [
+          "University Institute of Pharmaceutical Sciences, Panjab University, Chandigarh, India."
+        ]
+      },
+      {
+        "full_name": "Barnwal, Ravi Pratap",
+        "short_name": "Barnwal RP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, Panjab University, Chandigarh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-21 06:31:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746222",
+      "42475469",
+      "39944202",
+      "32929000",
+      "30090066",
+      "41155961",
+      "41479113",
+      "37643975",
+      "39596348",
+      "38359994",
+      "38360005",
+      "40534528",
+      "41211454",
+      "34792013",
+      "37916491",
+      "39272802",
+      "34631795",
+      "35849888",
+      "30912917",
+      "41660305",
+      "40118328",
+      "34403681",
+      "41791686",
+      "34332771",
+      "40045577",
+      "23770039",
+      "42736690",
+      "41068915",
+      "41832734",
+      "41580000",
+      "40340000",
+      "41111990",
+      "42651807",
+      "40131145",
+      "39897578",
+      "32350510",
+      "23130020",
+      "37561647",
+      "28655327",
+      "35364795",
+      "34540356",
+      "35063535",
+      "40874255",
+      "31342441",
+      "40149911",
+      "42164756",
+      "41026857",
+      "41621836",
+      "38970537",
+      "30340426",
+      "32509554",
+      "40023357",
+      "37845731",
+      "27570789",
+      "39998478",
+      "38576085",
+      "41632511",
+      "41394159",
+      "41970208",
+      "36100838",
+      "32233021",
+      "41115768",
+      "31566126",
+      "42398059",
+      "28962871",
+      "40568899",
+      "31135134",
+      "16440307",
+      "42737622",
+      "41340279",
+      "40487670",
+      "35482908",
+      "41153385",
+      "41996006",
+      "39281702",
+      "39765293",
+      "30747088",
+      "30726003",
+      "38860908",
+      "31397996",
+      "42076098",
+      "34463324",
+      "41863227",
+      "37728251",
+      "40858064",
+      "41832714",
+      "38918987",
+      "38359993",
+      "34668716",
+      "37047090",
+      "36106499",
+      "42592452",
+      "35701833",
+      "37626929",
+      "19860714",
+      "42510820",
+      "36012138",
+      "38360008",
+      "39804615",
+      "39940794"
+    ],
+    "review": [
+      "42746222",
+      "39944202",
+      "32929000",
+      "30090066",
+      "41155961",
+      "41479113",
+      "39596348",
+      "38359994",
+      "40534528",
+      "41211454",
+      "39272802",
+      "34631795",
+      "35849888",
+      "41660305",
+      "40118328",
+      "34403681",
+      "41791686",
+      "34332771",
+      "40045577",
+      "41068915",
+      "41832734",
+      "41580000",
+      "40340000",
+      "41111990",
+      "42651807",
+      "40131145",
+      "39897578",
+      "37561647",
+      "28655327",
+      "35364795",
+      "34540356",
+      "35063535",
+      "40874255",
+      "31342441",
+      "40149911",
+      "41621836",
+      "38970537",
+      "30340426",
+      "32509554",
+      "40023357",
+      "37845731",
+      "39998478",
+      "38576085",
+      "41632511",
+      "41394159",
+      "41970208",
+      "36100838",
+      "32233021",
+      "41115768",
+      "31566126",
+      "28962871",
+      "40568899",
+      "31135134",
+      "16440307",
+      "42737622",
+      "40487670",
+      "41153385",
+      "41996006",
+      "39281702",
+      "39765293",
+      "30747088",
+      "38860908",
+      "31397996",
+      "42076098",
+      "37728251",
+      "40858064",
+      "38918987",
+      "34668716",
+      "37047090",
+      "36106499",
+      "42592452",
+      "35701833",
+      "37626929",
+      "42510820",
+      "36012138",
+      "39804615",
+      "39940794"
+    ],
+    "pmc": [
+      "13575629"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42746222/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1879681",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,87 @@
+## Review setup
+- **Input scope** 摘要（仅提供摘要文本，无正文、图表或补充材料）
+- **Assessment boundary** 仅评估摘要中报告的科学主张及其可支持性；无法评估方法细节、数据质量或统计严谨性
+- **Shared manuscript claim summary** 作者报告发现并表征了一种来自 Pelomicrobium methylotrophicum 的新型微型 V-M 型 CRISPR-Cas12m 系统（PmCas12m），其具有灵活的 5'-YTN-3' PAM 识别和 dsDNA 结合能力但缺乏切割活性；通过冷冻电镜结构解析揭示了其靶 DNA 结合机制；基于结构指导的深度突变扫描和蛋白工程开发了 xCas12m 变体，在人类细胞中具有高效特异的表观基因组编辑能力；构建了单 AAV 载体的 xCas12m-CRISPRoff 平台，在小鼠模型中实现持久表观沉默并有效抑制乙肝病毒感染
+- **Visible evidence base** 摘要文本；未提供图、表、方法或补充数据
+- **Missing materials affecting confidence** 全文、图/表、方法细节、统计信息、序列比对数据、结构验证指标、体内实验原始数据均未提供；无法独立验证任何定量或定性主张
+
+## Reviewer
+- **Overall assessment** 该摘要报告了一个潜在重要的新型微型 CRISPR 系统，其尺寸优势可能解决表观基因组编辑中 AAV 递送的瓶颈问题。从概念上讲，从结构指导的工程到体内验证的逻辑链条是连贯且令人感兴趣的。然而，在当前仅提供摘要的情况下，关键的技术主张（如"robust DNA-binding"、"highly potent and specific"、"durable epigenetic silencing"、"effective inhibition"）缺乏可验证的定量数据支撑。该工作的潜在影响力取决于这些主张在全文中的证据强度，尤其是 xCas12m 相对于现有小型化平台的性能比较和体内数据的稳健性。
+- **Who would be interested in the results, and why** 基因编辑和表观基因组编辑领域的研究人员会对新型小型化 CRISPR 系统感兴趣，特别是那些关注 AAV 递送障碍的转化研究团队；结构生物学界可能关注 PmCas12m 的冷冻电镜结构所揭示的 V-M 亚型 DNA 识别机制；HBV 治疗领域的研究者可能关注其体内沉默数据；基因治疗公司可能评估其作为表观沉默平台的临床转化潜力
+- **Major strengths** 1) 发现了一个新的 V-M 亚型 Cas12 成员，扩展了微型 CRISPR 系统的多样性；2) 从结构解析到工程改造再到体内验证的完整研究链条，逻辑清晰；3) 单 AAV 递送的表观沉默平台具有明确的转化价值；4) 针对 HBV 的体内验证增加了临床相关性
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 核心功能主张的证据充分性
+  - **Claim pointer** "PmCas12m exhibited robust double-stranded DNA-binding properties while lacking DNA cleavage activity"
+  - **Evidence pointer** 摘要；具体数据位置未提供
+  - **Concern** 摘要声称 PmCas12m 具有"robust" dsDNA 结合能力但缺乏切割活性，但未提供任何定量数据（如结合亲和力、切割活性检测的灵敏度阈值、对照实验）。"Lacking cleavage activity" 的结论依赖于检测方法的灵敏度和底物范围，若未充分排除弱活性或特定条件下的切割，该结论可能不成立。
+  - **Why it matters** 该主张是整个研究的基础。如果 PmCas12m 实际具有低水平切割活性，则其作为表观基因组编辑平台的"无切割"安全性声明将受到质疑，进而影响 xCas12m 的工程逻辑和体内应用的安全性论证。
+  - **Resolution test** 需要提供切割活性的定量检测数据（如体外切割实验的灵敏度下限、多种底物和条件下的检测结果），以及 dsDNA 结合的定量亲和力数据（如 KD 值），并明确检测方法的检出限。
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 性能主张的定量支撑
+  - **Claim pointer** "xCas12m, a hypercompact variant with highly potent and specific epigenome-editing capabilities in human cells"
+  - **Evidence pointer** 摘要；具体数据位置未提供
+  - **Concern** "Highly potent and specific" 是核心性能主张，但摘要未提供任何定量指标（如编辑效率百分比、与现有平台的比较、脱靶分析的范围和方法）。"Specific" 的声明尤其需要严格的脱靶评估数据，包括全基因组范围的脱靶检测方法（如 GUIDE-seq、CIRCLE-seq 或全基因组测序）。
+  - **Why it matters** 表观基因组编辑领域的核心挑战是效率和特异性之间的平衡。如果 xCas12m 的"potent and specific"缺乏与现有平台（如 dCas9、dCas12a 或其他小型化系统）的系统比较，其相对于现有技术的优势就无法确立，从而削弱其作为"versatile platform"的定位。
+  - **Resolution test** 需要提供 xCas12m 在多个内源位点的编辑效率数据、与至少一个现有平台的直接比较、以及全基因组脱靶分析结果。
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 体内数据的稳健性和转化主张
+  - **Claim pointer** "achieved durable epigenetic silencing and effective inhibition of hepatitis B virus infection in a mouse model"
+  - **Evidence pointer** 摘要；具体数据位置未提供
+  - **Concern** 体内数据是转化潜力的关键证据，但摘要未提供任何关于小鼠模型类型（如 HBV 转基因小鼠、AAV-HBV 转导模型）、沉默持续时间、HBV 抑制的定量指标（如 HBsAg 或 HBV DNA 水平下降幅度）、以及安全性评估的信息。"Durable" 和 "effective" 的定量定义不明确。
+  - **Why it matters** 该主张直接支撑"paving the way for clinical translation"的结论。如果体内效果有限、持续时间短或伴随毒性，则临床转化主张将不成立。此外，HBV 抑制的机制（表观沉默 vs 其他效应）需要明确区分。
+  - **Resolution test** 需要提供小鼠模型的具体信息、HBV 标志物的定量变化数据、沉默持续时间的追踪数据、以及基本的体内安全性评估。
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 结构解析对工程指导的因果支撑
+  - **Claim pointer** "Guided by these structural insights, we used deep mutational scanning and protein engineering to develop xCas12m"
+  - **Evidence pointer** 摘要；具体数据位置未提供
+  - **Concern** 摘要声称结构信息指导了蛋白工程，但未说明具体哪些结构特征指导了哪些突变设计。如果结构解析与工程改造之间的逻辑关系不明确，则"structure-guided"的表述可能过度声称。
+  - **Why it matters** 该研究的卖点之一是"structure-guided"的工程策略。如果结构信息仅作为背景而非实际指导，则该方法的可推广性和方法论价值将降低。
+  - **Resolution test** 需要明确说明结构解析揭示的具体机制特征如何直接指导了突变设计，以及深度突变扫描与结构信息之间的整合方式。
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** 术语精确性
+  - **Affected element** "miniature subtype V-M CRISPR-Cas12m"
+  - **Evidence pointer** 摘要
+  - **Issue** "Miniature" 未提供蛋白尺寸的具体数值（氨基酸数或分子量），该术语的相对性不明确。
+  - **Required correction** 在摘要中提供 Cas12m 的氨基酸长度，并明确与 dCas9 或 dCas12a 的尺寸比较。
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** 方法学描述完整性
+  - **Affected element** "iterative bioinformatics analysis, structure-guided predictions and functional assays"
+  - **Evidence pointer** 摘要
+  - **Issue** 发现策略的描述过于笼统，未说明生物信息学分析的数据库、筛选标准或预测方法。
+  - **Required correction** 在摘要中简要说明筛选策略的关键参数（如搜索的宏基因组/基因组数据库、Cas 蛋白筛选的结构域标准）。
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** 平台命名
+  - **Affected element** "xCas12m-CRISPRoff platform"
+  - **Evidence pointer** 摘要
+  - **Issue** "CRISPRoff" 暗示该平台与已知的 CRISPRoff 技术（Weissman 实验室）相关或类似，但摘要未说明其与现有 CRISPRoff 系统的关系或区别。
+  - **Required correction** 明确说明该平台是独立命名的还是基于现有 CRISPRoff 系统的改进，并简要说明其表观沉默机制（如 DNA 甲基化或组蛋白修饰）。
+- **Technical failings that need to be addressed before the case is established** R1-M1（切割活性缺失的充分验证）、R1-M2（性能定量数据缺失）、R1-M3（体内数据不完整）
+- **Assessment against Nature-style criteria** 
+  - **Originality** 发现新的 V-M 亚型 Cas12 成员并开发工程变体具有一定新颖性，但需与现有小型化 CRISPR 系统（如 Cas12f、Cas12j 等）进行明确区分以确立原创贡献
+  - **Scientific importance** 如果体内数据稳健，该工作对表观基因组编辑的 AAV 递送问题提供了有意义的解决方案，具有较高的科学重要性
+  - **Interdisciplinary readership** 结构生物学、基因编辑、病毒学、基因治疗等多个领域的读者可能感兴趣，跨学科吸引力较强
+  - **Technical soundness** 当前摘要无法评估；关键主张缺乏定量数据支撑，需全文验证
+  - **Readability for nonspecialists** 摘要结构清晰，逻辑连贯，术语使用恰当，非专业读者可以理解核心贡献
+- **Recommendation posture** 目前基于摘要无法做出最终推荐。该工作具有潜在的重要性和新颖性，但核心性能主张和体内数据需要全文验证。建议在获得全文后进行全面评估；当前立场为"conditional interest, pending full manuscript review"
+
+## Risk / unsupported claims
+- "Robust dsDNA-binding" 缺乏定量支撑，不可评估
+- "Lacking DNA cleavage activity" 缺乏检测灵敏度和方法细节，不可充分验证
+- "Highly potent and specific" 缺乏定量数据和脱靶分析，不可评估
+- "Durable epigenetic silencing" 缺乏时间跨度和定量数据，不可评估
+- "Effective inhibition of HBV infection" 缺乏定量病毒学指标，不可评估
+- "Paving the way for clinical translation" 基于不完整的体内数据，属于过度推断
+- "Structure-guided" 的工程策略缺乏具体因果关系的描述，不可充分评估

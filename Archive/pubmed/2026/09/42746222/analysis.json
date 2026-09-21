@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42746222",
+  "title": "Target, silence, replace: a review on RNA-based drugs in modern medicine.",
+  "authors": "Mundlia, Poonam; Singh, Suraj Pratap; Pothal, Pritiman; Thakur, Tanya; Kathuria, Reema; Maurya, Sudhanshu; Sharma, Akanksha; Goel, Honey; Pandey, Ankur; Ranawat, Pavitra; Singh, Gurpal; Barnwal, Ravi Pratap",
+  "journal": "Frontiers in cell and developmental biology",
+  "published_date": "2026-09-16",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 3,
+  "one_liner_zh": "综述RNA药物（siRNA、mRNA、ASO等）的作用机制与递送策略，仅简要提及CRISPR基因组编辑，未涉及stagger-cleavage或碱基编辑的分子机制，与本课题关联度低。",
+  "abstract": "RNA therapies have evolved into a revolutionary approach in contemporary medicine for treating various diseases by directly targeting RNA molecules engaged in disease pathogenesis. These therapeutic agents regulate biological processes through diverse mechanisms, including modulation of RNA function and gene expression. Medical applications of RNA are greatly enhanced by its structure, adaptability, and capacity for targeted binding. Among these traits is its ability to bind to certain molecules unique to those chemicals. RNA-based treatments have emerged from advancements in the production, modification, and cellular transport of RNA molecules. Several RNA drugs have been approved whereas some are under trial for few diseases. RNA therapeutics can function at the level of RNAs, DNAs and proteins. The evolution of mRNA vaccines during the COVID-19 epidemic emphasizes the exciting potential of RNA therapies in the treatment of diseases. This article provides a comprehensive overview of the several forms of RNA therapies, including small-interfering RNA (siRNA), messenger RNA (mRNA), and antisense-oligonucleotides (ASOs), together with information on their action mechanisms and delivery strategies that improve cellular absorption and shield RNA molecules from degradation. Further, CRISPR-based editing of the genome can be employed for modification of target RNA sequences for various disorders. Development of RNA aptamers have also been identified as pivotal RNA-therapeutic candidate. Additionally, we have explained mechanistic details and examples of drugs approved for RNA therapy. Emphasizing their potential to enhance patient outcomes and fulfil unmet medical requirements, we also highlight the clinical development of RNA therapies in treating cancer and other infectious diseases.",
+  "abstract_zh": "RNA疗法已发展成为当代医学中一种革命性的方法，通过直接靶向参与疾病发病机制的RNA分子来治疗多种疾病。这些治疗药物通过多种机制调节生物过程，包括调控RNA功能和基因表达。RNA的医学应用因其结构、适应性及靶向结合能力而大大增强。在这些特性中，包括其与某些化学物质特有的分子结合的能力。基于RNA的治疗方法源于RNA分子的生产、修饰和细胞转运方面的进展。已有几种RNA药物获批，而一些正在针对少数疾病进行试验。RNA疗法可在RNA、DNA和蛋白质水平发挥作用。COVID-19疫情期间mRNA疫苗的发展凸显了RNA疗法在疾病治疗中的巨大潜力。本文全面概述了多种形式的RNA疗法，包括小干扰RNA（siRNA）、信使RNA（mRNA）和反义寡核苷酸（ASOs），并提供了其作用机制及递送策略的信息，这些策略可改善细胞吸收并保护RNA分子免受降解。此外，基于CRISPR的基因组编辑可用于针对各种疾病修饰目标RNA序列。RNA适配体的开发也被确定为关键的RNA治疗候选方案。我们还详细解释了RNA疗法获批药物的机制细节和实例。强调其改善患者预后和满足未竟医疗需求的潜力，我们也重点介绍了RNA疗法在治疗癌症和其他感染性疾病中的临床发展。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42746222/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42746222/",
+  "paper_page_path": "papers/pubmed/42746222/index.html"
+}

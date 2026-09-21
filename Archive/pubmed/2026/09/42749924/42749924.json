@@ -1,0 +1,380 @@
+{
+  "identity": {
+    "pmid": "42749924",
+    "doi": "10.1038/s41594-026-01890-9",
+    "title": "Structure-guided discovery and engineering of miniature CRISPR-Cas12m for epigenome editing."
+  },
+  "content": {
+    "abstract": "CRISPR-based epigenome editing represents a programmable strategy to precisely modulate gene expression, holding promise for therapeutic applications. However, the large size of dCas proteins substantially impedes delivery using adeno-associated virus (AAV) vectors. Here, through iterative bioinformatics analysis, structure-guided predictions and functional assays, we identified and characterized a miniature subtype V-M CRISPR-Cas12m from Pelomicrobium methylotrophicum. PmCas12m exhibited flexible 5'-YTN-3' PAM-dependent recognition and robust double-stranded DNA-binding properties while lacking DNA cleavage activity, thus rendering it a valuable tool for epigenome editing. Cryo-electron microscopy structures of PmCas12m unveiled its molecular mechanism of target DNA binding. Guided by these structural insights, we used deep mutational scanning and protein engineering to develop xCas12m, a hypercompact variant with highly potent and specific epigenome-editing capabilities in human cells. We further constructed the xCas12m-CRISPRoff platform in a single AAV vector, which achieved durable epigenetic silencing and effective inhibition of hepatitis B virus infection in a mouse model. Collectively, these findings establish xCas12m as a versatile epigenome-editing platform with notable potential for treating diseases, paving the way for clinical translation of epigenetic therapies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Tao",
+        "Ji, Meng",
+        "Yu, Donglin",
+        "Guan, Zhao",
+        "Zhu, Rongyi",
+        "Jiang, Yunpeng",
+        "Yang, Zhiyi",
+        "Qiu, Lizhen",
+        "Zhang, Ziyi",
+        "Mu, Jiawei",
+        "Mao, Fengbiao",
+        "Xiang, Kuanhui",
+        "Bai, Lin",
+        "Li, Kailong"
+      ],
+      "short_names": [
+        "Yu T",
+        "Ji M",
+        "Yu D",
+        "Guan Z",
+        "Zhu R",
+        "Jiang Y",
+        "Yang Z",
+        "Qiu L",
+        "Zhang Z",
+        "Mu J",
+        "Mao F",
+        "Xiang K",
+        "Bai L",
+        "Li K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7715-8856",
+        "ORCID: 0000-0003-2250-267X",
+        "ORCID: 0000-0003-0852-4266",
+        "ORCID: 0000-0001-5022-5863",
+        "ORCID: 0000-0002-7535-7819",
+        "ORCID: 0000-0001-5369-354X"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biophysics, State Key Laboratory of Natural and Biomimetic Drug, School of Basic Medical Sciences, Peking University, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Microbiology and Infectious Disease Center, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China.",
+        "Institute of Medical Innovation and Research, Peking University Third Hospital, Beijing, China.",
+        "Cancer Center, Peking University Third Hospital, Beijing, China.",
+        "Department of Microbiology and Infectious Disease Center, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China. kxiang@bjmu.edu.cn.",
+        "Department of Biophysics, State Key Laboratory of Natural and Biomimetic Drug, School of Basic Medical Sciences, Peking University, Beijing, China. lbai@pku.edu.cn.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China. kailongli@pku.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Tao",
+        "short_name": "Yu T",
+        "identifiers": [
+          "0000-0002-7715-8856"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Meng",
+        "short_name": "Ji M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, State Key Laboratory of Natural and Biomimetic Drug, School of Basic Medical Sciences, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Donglin",
+        "short_name": "Yu D",
+        "identifiers": [
+          "0000-0003-2250-267X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Zhao",
+        "short_name": "Guan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Infectious Disease Center, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Rongyi",
+        "short_name": "Zhu R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yunpeng",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhiyi",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Lizhen",
+        "short_name": "Qiu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ziyi",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Mu, Jiawei",
+        "short_name": "Mu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Fengbiao",
+        "short_name": "Mao F",
+        "identifiers": [
+          "0000-0003-0852-4266"
+        ],
+        "affiliations": [
+          "Institute of Medical Innovation and Research, Peking University Third Hospital, Beijing, China.",
+          "Cancer Center, Peking University Third Hospital, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Kuanhui",
+        "short_name": "Xiang K",
+        "identifiers": [
+          "0000-0001-5022-5863"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Infectious Disease Center, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China. kxiang@bjmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Bai, Lin",
+        "short_name": "Bai L",
+        "identifiers": [
+          "0000-0002-7535-7819"
+        ],
+        "affiliations": [
+          "Department of Biophysics, State Key Laboratory of Natural and Biomimetic Drug, School of Basic Medical Sciences, Peking University, Beijing, China. lbai@pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Kailong",
+        "short_name": "Li K",
+        "identifiers": [
+          "0000-0001-5369-354X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory of Protein Posttranslational Modifications and Cell Function, School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China. kailongli@pku.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature structural & molecular biology"
+    ],
+    "journal_abbrev": [
+      "Nat Struct Mol Biol"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-21 06:31:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749924",
+      "42381707",
+      "40121086",
+      "39651312",
+      "40858609",
+      "41836275",
+      "36427491",
+      "38261981",
+      "40650152",
+      "42003550",
+      "36324900",
+      "33838111",
+      "40522884",
+      "37776859",
+      "41248011",
+      "42615363",
+      "42582990",
+      "42247138",
+      "42475469",
+      "40473912",
+      "39541214",
+      "42297231",
+      "38766526",
+      "34475565",
+      "38408137",
+      "29019352",
+      "42687383",
+      "33421620",
+      "42173386",
+      "37400536",
+      "41072420",
+      "40898613",
+      "29524128",
+      "41645934",
+      "36321657",
+      "41439338",
+      "39345634",
+      "33333018",
+      "40595633",
+      "32246713",
+      "42365126",
+      "38440883",
+      "39388062",
+      "32039406",
+      "40335752",
+      "35917009",
+      "39179542",
+      "40537846",
+      "34664552",
+      "39012596",
+      "41620608",
+      "25186301",
+      "37990877",
+      "34381246",
+      "42214710",
+      "29221488",
+      "39068337",
+      "30284145",
+      "28503202",
+      "31071448",
+      "39345554",
+      "39315698",
+      "29852072",
+      "40273916",
+      "38766272",
+      "32903507",
+      "41728946",
+      "32316223",
+      "39558904",
+      "38718473",
+      "42303162",
+      "39345383",
+      "36190192",
+      "42333809",
+      "30581144",
+      "42524609",
+      "41633939",
+      "28375731",
+      "36537251",
+      "40763014",
+      "39657782",
+      "41862973",
+      "41952451",
+      "27974723",
+      "37192099",
+      "37697004",
+      "40203649",
+      "31112800",
+      "39684395",
+      "36582444",
+      "40869944",
+      "38652321",
+      "41024337",
+      "38553609",
+      "38695159",
+      "40686859",
+      "28523558",
+      "30728669",
+      "36170834",
+      "39012588"
+    ],
+    "review": [
+      "42749924",
+      "40650152",
+      "36324900",
+      "42247138",
+      "42297231",
+      "33421620",
+      "42173386",
+      "40898613",
+      "29524128",
+      "42365126",
+      "38440883",
+      "39388062",
+      "35917009",
+      "37990877",
+      "30284145",
+      "31071448",
+      "29852072",
+      "38766272",
+      "32316223",
+      "42303162",
+      "42333809",
+      "42524609",
+      "28375731",
+      "41862973",
+      "41952451",
+      "27974723",
+      "37192099",
+      "40203649",
+      "31112800",
+      "39684395",
+      "40869944",
+      "38652321",
+      "28523558"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41594-026-01890-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

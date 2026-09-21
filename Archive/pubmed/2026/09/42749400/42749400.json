@@ -1,0 +1,211 @@
+{
+  "identity": {
+    "pmid": "42749400",
+    "doi": "10.1016/j.jgeb.2026.100719",
+    "title": "Advancements of mRNA-lipid nanoparticle links to gene editing and immune responses."
+  },
+  "content": {
+    "abstract": "Lipid-formulated liposomes have been utilized for the transport of various biological substances, including mRNA molecules. Basically, large lipids play a crucial role in the structure and function of cell membranes. In protein synthesis, mRNA plays a crucial role in expressing the proteins. In this context, this natural process enables gene editing, protein replacement therapy, cancer immunotherapy, cellular reprogramming, and vaccinations. A range of biomaterials is utilized for mRNA transport, including polymers, lipid-based nanoparticles, and protein-mRNA complexes. Thus, the review aims to analyse the mRNA-lipid nanoparticles assigned with gene editing and the mechanisms to enhance immune responses to infectious diseases. A nonviral lipid nanoparticle approach for CRISPR-Cas9 gene editing has achieved up to 80% gene editing in vivo and 98% in vitro across various cancer cell types. MEVPCS-mRNA LNPs, as a preventative HIV vaccine, elicit comparable and highly specific immune responses via CD8+ T cells. Th1-type CD4+ T cell responses are notable in mice immunized with LNP-mRNA, indicating a substantial impact on Mycobacterium tuberculosis. Variations in pH, ionic strength, and freezing rate are essential for enhancing the lyophilization of mRNA lipid nanoparticles. The polydispersity index has risen from 0.1 to 0.3, and the LNP particle size in the Vibrating Membrane Nebulizer has increased from an average of 85 nm to 300 nm, suggesting notable structural degradation due to elevated shear stresses. The Laminar Fluid Ejection Device enhanced the stability of lipid nanoparticles. This enhances the immune response and effectively manages harmful microbes.",
+    "keywords": [
+      "Drug carriers",
+      "Immune response",
+      "Infectious diseases",
+      "Lipid nanoparticles",
+      "mRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sundaram, Karthikeyan",
+        "Prabhu, Venkataraman"
+      ],
+      "short_names": [
+        "Sundaram K",
+        "Prabhu V"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Herbal Pharmacology and Environmental Sustainability, Chettinad Hospital and Research Institute, Chettinad Academy of Research and Education, Kelambakkam, Chennai, Tamilnadu, India. Electronic address: karthikom85@gmail.com.",
+        "Division of Medical Research, SRM Medical College Hospital and Research Centre, Kattankulathur, Chennai, Tamilnadu, India. Electronic address: venkatap@srmist.edu.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sundaram, Karthikeyan",
+        "short_name": "Sundaram K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Herbal Pharmacology and Environmental Sustainability, Chettinad Hospital and Research Institute, Chettinad Academy of Research and Education, Kelambakkam, Chennai, Tamilnadu, India. Electronic address: karthikom85@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Prabhu, Venkataraman",
+        "short_name": "Prabhu V",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Medical Research, SRM Medical College Hospital and Research Centre, Kattankulathur, Chennai, Tamilnadu, India. Electronic address: venkatap@srmist.edu.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal, genetic engineering & biotechnology"
+    ],
+    "journal_abbrev": [
+      "J Genet Eng Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-21 06:31:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749400",
+      "42214710",
+      "38325664",
+      "39494905",
+      "41993212",
+      "39461690",
+      "42299032",
+      "36537916",
+      "34793124",
+      "26555351",
+      "39352021",
+      "40980892",
+      "39813729",
+      "34850635",
+      "41714546",
+      "40961556",
+      "41190885",
+      "31678653",
+      "41718490",
+      "39012601",
+      "40503610",
+      "41506374",
+      "39955975",
+      "41814652",
+      "40284436",
+      "38979723",
+      "38876358",
+      "41257870",
+      "40268197",
+      "40879055",
+      "42486050",
+      "41442838",
+      "39875072",
+      "38861479",
+      "42566150",
+      "41060394",
+      "41344486",
+      "40025875",
+      "40653819",
+      "40818720",
+      "31215123",
+      "40958444",
+      "39736115",
+      "39522562",
+      "36451070",
+      "40281311",
+      "40425752",
+      "38414245",
+      "40752860",
+      "40846096",
+      "34668716",
+      "38164140",
+      "40490465",
+      "40187649",
+      "40700637",
+      "39400518",
+      "40961329",
+      "33762420",
+      "41494604",
+      "39480551",
+      "41243603",
+      "41346710",
+      "39797693",
+      "40107513",
+      "40066621",
+      "41325904",
+      "40695375",
+      "40120578",
+      "40041907",
+      "35594500",
+      "41124242",
+      "39393001",
+      "41621179",
+      "37491979",
+      "39037068",
+      "35935984",
+      "42097231",
+      "32496069",
+      "41292381",
+      "36780174",
+      "38060560",
+      "41276828",
+      "35688311",
+      "38492862",
+      "41759597",
+      "39521063",
+      "40530779",
+      "30586281",
+      "39880143",
+      "38895941",
+      "41811986",
+      "38266942",
+      "40394015",
+      "38711520",
+      "38145557",
+      "40293247",
+      "42695687",
+      "35551240",
+      "41981915",
+      "41161497"
+    ],
+    "review": [
+      "42749400",
+      "34850635",
+      "38876358",
+      "41442838",
+      "40958444",
+      "34668716",
+      "39400518",
+      "39797693",
+      "35594500"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1687-157X(26)00063-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

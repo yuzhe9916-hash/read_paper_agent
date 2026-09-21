@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42753930",
+  "title": "Tumor FAK supports fibrillar collagen expression in ovarian cancer ascites.",
+  "authors": "Ojalill, Marjaana; Haanen, Terrance J 3rd; Khan, Safir Ullah; Zhang, Yichi; Boyer, Antonia; Chen, Xiao Lei; Suwal, Ujjwal; Rappu, Pekka; Heino, Jyrki; McHale, Michael T; Stupack, Dwayne G; Schlaepfer, David D",
+  "journal": "Matrix biology : journal of the International Society for Matrix Biology",
+  "published_date": "2026-09-17",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 2,
+  "one_liner_zh": "该研究探讨卵巢癌中FAK调控胶原蛋白表达，仅用CRISPR作为基因敲除工具，不涉及切割机制或碱基编辑，与本课题核心无关。",
+  "abstract": "High-grade serous ovarian cancer (HGSOC) is a lethal malignancy where matrix proteins enhance ascites-associated recurrent tumor growth. Elevated focal adhesion kinase (FAK/PTK2) and collagen protein expression support tumor survival, chemoresistance, and immune evasion. However, the sources and regulation of collagen production within HGSOC tumorspheres is unclear. Using CRISPR-mediated FAK knockout and FAK re-expression in two syngeneic HGSOC models (MOVCAR and KMF), FAK loss impaired tumorsphere growth in vitro and in vivo while reducing collagen expression, as determined by RNA sequencing, quantitative RT-PCR, and protein mass spectrometry. FAK re-expression promoted spontaneous metastatic ovarian tumor dissemination. Integrated bioinformatic analyses of MOVCAR, KMF, and HGSOC patient datasets identified 56 common mRNAs co-elevated with PTK2, including COL3A1 and COL5A2. Single-cell RNA sequencing of murine KMF ascites revealed a subset of tumor cells expressing Col3a1 and Col5a2 that exhibited epithelial-to-mesenchymal pathway enrichment that was diminished by genetic or pharmacologic FAK inhibition. In primary HGSOC ascites samples, FAK inhibitor (IN10018 or VS-4718) or FAK protein degrader (PROTAC) treatment selectively reduced COL1A1, COL3A1, and COL5A2 mRNA levels in tumor cells. Further, human OVCAR8 spheroid COL1A1, COL3A1, and COL5A2 mRNA and spheroid structure were significantly impacted by FAK inhibition and blocking anti-alpha1 or anti-beta1 integrin antibodies. As elevated PTK2 and COL3A1 expression correlate with poor ovarian cancer patient survival, and FAK, alpha1, and beta1 integrin inhibition reduced spheroid COL3A1 protein levels, our findings support a feed-forward linkage whereby FAK regulates fibrillar collagen acting in part via collagen binding integrins supporting HGSOC tumorsphere survival and metastatic spread.",
+  "abstract_zh": "高级别浆液性卵巢癌（HGSOC）是一种致命性恶性肿瘤，其中基质蛋白增强腹水相关的复发性肿瘤生长。升高的黏着斑激酶（FAK/PTK2）和胶原蛋白表达支持肿瘤存活、化疗耐药和免疫逃逸。然而，HGSOC肿瘤球内胶原蛋白产生的来源和调控尚不清楚。通过在两个同基因HGSOC模型（MOVCAR和KMF）中使用CRISPR介导的FAK敲除和FAK重新表达，FAK缺失损害了体外和体内的肿瘤球生长，同时降低了胶原蛋白表达，这通过RNA测序、定量RT-PCR和蛋白质质谱法确定。FAK重新表达促进了自发性转移性卵巢肿瘤播散。对MOVCAR、KMF和HGSOC患者数据集的整合生物信息学分析识别出56个与PTK2共同升高的常见mRNA，包括COL3A1和COL5A2。小鼠KMF腹水的单细胞RNA测序揭示了一组表达Col3a1和Col5a2的肿瘤细胞，这些细胞表现出上皮-间质转化通路富集，而这种富集通过遗传或药理学FAK抑制而减弱。在原代HGSOC腹水样本中，FAK抑制剂（IN10018或VS-4718）或FAK蛋白降解剂（PROTAC）处理选择性地降低了肿瘤细胞中COL1A1、COL3A1和COL5A2 mRNA水平。此外，人OVCAR8球体的COL1A1、COL3A1和COL5A2 mRNA及球体结构受到FAK抑制和阻断抗α1或抗β1整合素抗体的显著影响。由于升高的PTK2和COL3A1表达与卵巢癌患者较差生存率相关，且FAK、α1和β1整合素抑制降低了球体COL3A1蛋白水平，我们的发现支持一个前馈连接机制，即FAK通过部分依赖胶原结合整合素调节纤维状胶原蛋白，从而支持HGSOC肿瘤球存活和转移扩散。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42753930/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42753930/",
+  "paper_page_path": "papers/pubmed/42753930/index.html"
+}

@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42753930",
+    "doi": "10.1016/j.matbio.2026.102053",
+    "title": "Tumor FAK supports fibrillar collagen expression in ovarian cancer ascites."
+  },
+  "content": {
+    "abstract": "High-grade serous ovarian cancer (HGSOC) is a lethal malignancy where matrix proteins enhance ascites-associated recurrent tumor growth. Elevated focal adhesion kinase (FAK/PTK2) and collagen protein expression support tumor survival, chemoresistance, and immune evasion. However, the sources and regulation of collagen production within HGSOC tumorspheres is unclear. Using CRISPR-mediated FAK knockout and FAK re-expression in two syngeneic HGSOC models (MOVCAR and KMF), FAK loss impaired tumorsphere growth in vitro and in vivo while reducing collagen expression, as determined by RNA sequencing, quantitative RT-PCR, and protein mass spectrometry. FAK re-expression promoted spontaneous metastatic ovarian tumor dissemination. Integrated bioinformatic analyses of MOVCAR, KMF, and HGSOC patient datasets identified 56 common mRNAs co-elevated with PTK2, including COL3A1 and COL5A2. Single-cell RNA sequencing of murine KMF ascites revealed a subset of tumor cells expressing Col3a1 and Col5a2 that exhibited epithelial-to-mesenchymal pathway enrichment that was diminished by genetic or pharmacologic FAK inhibition. In primary HGSOC ascites samples, FAK inhibitor (IN10018 or VS-4718) or FAK protein degrader (PROTAC) treatment selectively reduced COL1A1, COL3A1, and COL5A2 mRNA levels in tumor cells. Further, human OVCAR8 spheroid COL1A1, COL3A1, and COL5A2 mRNA and spheroid structure were significantly impacted by FAK inhibition and blocking anti-alpha1 or anti-beta1 integrin antibodies. As elevated PTK2 and COL3A1 expression correlate with poor ovarian cancer patient survival, and FAK, alpha1, and beta1 integrin inhibition reduced spheroid COL3A1 protein levels, our findings support a feed-forward linkage whereby FAK regulates fibrillar collagen acting in part via collagen binding integrins supporting HGSOC tumorsphere survival and metastatic spread.",
+    "keywords": [
+      "FAK",
+      "RNA sequencing",
+      "collagen",
+      "mesenchymal",
+      "ovarian cancer",
+      "patient ascites",
+      "tumorsphere"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ojalill, Marjaana",
+        "Haanen, Terrance J 3rd",
+        "Khan, Safir Ullah",
+        "Zhang, Yichi",
+        "Boyer, Antonia",
+        "Chen, Xiao Lei",
+        "Suwal, Ujjwal",
+        "Rappu, Pekka",
+        "Heino, Jyrki",
+        "McHale, Michael T",
+        "Stupack, Dwayne G",
+        "Schlaepfer, David D"
+      ],
+      "short_names": [
+        "Ojalill M",
+        "Haanen TJ 3rd",
+        "Khan SU",
+        "Zhang Y",
+        "Boyer A",
+        "Chen XL",
+        "Suwal U",
+        "Rappu P",
+        "Heino J",
+        "McHale MT",
+        "Stupack DG",
+        "Schlaepfer DD"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: marjaana.ojalill@icloud.com.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: thaaneniii@health.ucsd.edu.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: ullah.safir2017@gmail.com.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: yichi.zhang2@northwestern.edu.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: a2boyer@health.ucsd.edu.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: xic073@health.ucsd.edu.",
+        "Department of Life Technologies, University of Turku, Finland. Electronic address: ujjwal.suwal@utu.fi.",
+        "Department of Life Technologies, University of Turku, Finland. Electronic address: pekrappu@utu.fi.",
+        "Department of Life Technologies, University of Turku, Finland. Electronic address: jyheino@utu.fi.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: mtmchale@health.ucsd.edu.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: dstupack@health.ucsd.edu.",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: dschlaepfer@health.ucsd.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ojalill, Marjaana",
+        "short_name": "Ojalill M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: marjaana.ojalill@icloud.com."
+        ]
+      },
+      {
+        "full_name": "Haanen, Terrance J",
+        "short_name": "Haanen TJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: thaaneniii@health.ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Khan, Safir Ullah",
+        "short_name": "Khan SU",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: ullah.safir2017@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yichi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: yichi.zhang2@northwestern.edu."
+        ]
+      },
+      {
+        "full_name": "Boyer, Antonia",
+        "short_name": "Boyer A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: a2boyer@health.ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiao Lei",
+        "short_name": "Chen XL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: xic073@health.ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Suwal, Ujjwal",
+        "short_name": "Suwal U",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Technologies, University of Turku, Finland. Electronic address: ujjwal.suwal@utu.fi."
+        ]
+      },
+      {
+        "full_name": "Rappu, Pekka",
+        "short_name": "Rappu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Technologies, University of Turku, Finland. Electronic address: pekrappu@utu.fi."
+        ]
+      },
+      {
+        "full_name": "Heino, Jyrki",
+        "short_name": "Heino J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Technologies, University of Turku, Finland. Electronic address: jyheino@utu.fi."
+        ]
+      },
+      {
+        "full_name": "McHale, Michael T",
+        "short_name": "McHale MT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: mtmchale@health.ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Stupack, Dwayne G",
+        "short_name": "Stupack DG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: dstupack@health.ucsd.edu."
+        ]
+      },
+      {
+        "full_name": "Schlaepfer, David D",
+        "short_name": "Schlaepfer DD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Obstetrics, Gynecology, and Reproductive Sciences, Moores Cancer Center, UC San Diego Health, La Jolla, CA. Electronic address: dschlaepfer@health.ucsd.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Matrix biology : journal of the International Society for Matrix Biology"
+    ],
+    "journal_abbrev": [
+      "Matrix Biol"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-21 06:31:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753930",
+      "35467979",
+      "24899686",
+      "39585085",
+      "23275034",
+      "31478830",
+      "38010623",
+      "24786638",
+      "32705304",
+      "25880415",
+      "41000740",
+      "41739646",
+      "40495222",
+      "41958014",
+      "40959971",
+      "37382687",
+      "42663553",
+      "20400979",
+      "39563667",
+      "38140698",
+      "28134933",
+      "9548759",
+      "40609387",
+      "16209712",
+      "32509386",
+      "29021002",
+      "33632097",
+      "40416874",
+      "40862729",
+      "39826873",
+      "39896800",
+      "41786876",
+      "19740433",
+      "32652647",
+      "42500684",
+      "25741138",
+      "39669575",
+      "15132756",
+      "18677107",
+      "41866470",
+      "32572264",
+      "34736492",
+      "15166238",
+      "40563561",
+      "9550630",
+      "24533083",
+      "36463238",
+      "10029102",
+      "27390927",
+      "41975486",
+      "35935940",
+      "40010770",
+      "38939897",
+      "35675036",
+      "31129149",
+      "41502510",
+      "23208492",
+      "39034922",
+      "24755674",
+      "28692661",
+      "31935430",
+      "40975151",
+      "42648752",
+      "31556111",
+      "39985042",
+      "39276277",
+      "11280762",
+      "34944014",
+      "34034740",
+      "34689222",
+      "40350704",
+      "38723526",
+      "20234191",
+      "39761856",
+      "32793596",
+      "35033172",
+      "41621766",
+      "40832091",
+      "39378751",
+      "18032789",
+      "40959921",
+      "36856205",
+      "33087135",
+      "31186683",
+      "42202064",
+      "39155781",
+      "16547501",
+      "39876019",
+      "41462255",
+      "41214543",
+      "38493021",
+      "24115647",
+      "32533757",
+      "41727972",
+      "41533776",
+      "34876569",
+      "42332790",
+      "24062525",
+      "18381440",
+      "17982677"
+    ],
+    "review": [
+      "42753930",
+      "18677107"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0945-053X(26)00095-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3568",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42749169",
+    "doi": "10.1016/j.matbio.2026.102052",
+    "title": "TANGO1L Is Required for Collagen Secretion in a Type-Dependent Manner and Shapes Collagen Proteostasis in the Endoplasmic Reticulum."
+  },
+  "content": {
+    "abstract": "Collagens are synthesized in the endoplasmic reticulum (ER), where their biosynthesis, quality control, and secretion are tightly coordinated to maintain collagen proteostasis. TANGO1L is an ER exit site protein required for efficient collagen secretion; however, whether it contributes equally to the secretion and intracellular homeostasis of different collagen types remains unclear. Here, we systematically examined the consequences of TANGO1L deficiency using CRISPR/Cas9-generated TANGO1L knockout human fibroblasts. Loss of TANGO1L reduced the secretion of multiple major collagen types and delayed secretion of newly synthesized collagen I. Intracellular responses, however, differed markedly among collagen types: collagen V accumulated intracellularly, whereas collagens I, III, and IV avoided intracellular retention despite markedly reduced extracellular secretion. This differential response was accompanied by decreased collagen gene expression and selective remodeling of the ER collagen biosynthetic machinery, suggesting that these cells adjust collagen synthesis to a reduced secretory capacity. TANGO1S protein was consistently upregulated through a post-transcriptional mechanism, suggesting an adaptive response to chronic TANGO1L deficiency. Biochemical analysis of collagen purified from the culture medium revealed a trend toward modestly increased lysine post-translational modifications, including hydroxylysine glycosylation, without altered triple-helical structure or thermal stability, indicating that TANGO1L deficiency compromises the quantity rather than the quality of secreted collagen. Together, these findings establish that the requirement for TANGO1L differs among collagen types and that its loss induces adaptive remodeling of intracellular collagen proteostasis rather than simply impairing collagen secretion, providing a framework for understanding how secretory cells maintain collagen homeostasis when secretion is compromised.",
+    "keywords": [
+      "ER exit sites",
+      "TANGO1",
+      "collagen",
+      "proteostasis",
+      "secretion"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ishikawa, Yoshihiro",
+        "Maeda, Miharu",
+        "Taga, Yuki",
+        "Komatsu, Yukie",
+        "Mizuno, Kazunori",
+        "Saito, Kota"
+      ],
+      "short_names": [
+        "Ishikawa Y",
+        "Maeda M",
+        "Taga Y",
+        "Komatsu Y",
+        "Mizuno K",
+        "Saito K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Ophthalmology, University of California San Francisco, School of Medicine, California, USA. Electronic address: yoshihiro.ishikawa@ucsf.edu.",
+        "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan.",
+        "Nippi Research Institute of Biomatrix, Ibaraki, Japan.",
+        "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan.",
+        "Nippi Research Institute of Biomatrix, Ibaraki, Japan.",
+        "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan. Electronic address: ksaito@med.akita-u.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ishikawa, Yoshihiro",
+        "short_name": "Ishikawa Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Ophthalmology, University of California San Francisco, School of Medicine, California, USA. Electronic address: yoshihiro.ishikawa@ucsf.edu."
+        ]
+      },
+      {
+        "full_name": "Maeda, Miharu",
+        "short_name": "Maeda M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan."
+        ]
+      },
+      {
+        "full_name": "Taga, Yuki",
+        "short_name": "Taga Y",
+        "identifiers": [],
+        "affiliations": [
+          "Nippi Research Institute of Biomatrix, Ibaraki, Japan."
+        ]
+      },
+      {
+        "full_name": "Komatsu, Yukie",
+        "short_name": "Komatsu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan."
+        ]
+      },
+      {
+        "full_name": "Mizuno, Kazunori",
+        "short_name": "Mizuno K",
+        "identifiers": [],
+        "affiliations": [
+          "Nippi Research Institute of Biomatrix, Ibaraki, Japan."
+        ]
+      },
+      {
+        "full_name": "Saito, Kota",
+        "short_name": "Saito K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Graduate School of Medicine, Akita University, Akita, Japan. Electronic address: ksaito@med.akita-u.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Matrix biology : journal of the International Society for Matrix Biology"
+    ],
+    "journal_abbrev": [
+      "Matrix Biol"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-21 06:31:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749169",
+      "27413011",
+      "39842788",
+      "34350936",
+      "28442536",
+      "35779741",
+      "41307135",
+      "29935791",
+      "31690624",
+      "32482890",
+      "40202514",
+      "40194913",
+      "28039913",
+      "27441836",
+      "41932442",
+      "11815750",
+      "33631195",
+      "32482891",
+      "37205565",
+      "21606205",
+      "38314136",
+      "38515161",
+      "33523181",
+      "27402836",
+      "38147551",
+      "40645854",
+      "20647306",
+      "40618934",
+      "41609403",
+      "24568630",
+      "36403858",
+      "37905055",
+      "16525016",
+      "20044481",
+      "31424945",
+      "42327065",
+      "25361606",
+      "21645221",
+      "28923350",
+      "39245571",
+      "33674390",
+      "35626697",
+      "31173582",
+      "8429043",
+      "8609177",
+      "42578499",
+      "27820874",
+      "32851973",
+      "39106308",
+      "39913197",
+      "32927693",
+      "40719631",
+      "42475469",
+      "6469997",
+      "41348592",
+      "1448",
+      "28774960",
+      "25202031",
+      "39693409",
+      "26818504",
+      "32487759",
+      "24713615",
+      "19166577",
+      "9361189",
+      "21537343",
+      "21204515",
+      "27170179",
+      "33416091",
+      "31098622",
+      "25946012",
+      "38771153",
+      "26848503",
+      "38658535",
+      "32101163",
+      "38336172",
+      "42062868",
+      "1220686",
+      "42344920",
+      "17516569",
+      "33960001",
+      "17873278",
+      "23580231",
+      "30446507",
+      "33505971",
+      "27856431",
+      "42033287",
+      "19287508",
+      "33599742",
+      "28385890",
+      "33524011",
+      "42300786",
+      "42515930",
+      "33154166",
+      "29335505",
+      "28864773",
+      "8006042",
+      "14749390",
+      "24968150",
+      "30675021",
+      "27920251"
+    ],
+    "review": [
+      "42749169",
+      "40194913",
+      "38314136",
+      "40645854",
+      "40618934",
+      "41609403",
+      "32927693",
+      "40719631",
+      "1448",
+      "21537343",
+      "31098622",
+      "42344920",
+      "17516569",
+      "30446507",
+      "33505971",
+      "27856431",
+      "42033287",
+      "42300786",
+      "42515930"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0945-053X(26)00094-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

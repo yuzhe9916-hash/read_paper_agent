@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42749924",
+  "title": "Structure-guided discovery and engineering of miniature CRISPR-Cas12m for epigenome editing.",
+  "authors": "Yu, Tao; Ji, Meng; Yu, Donglin; Guan, Zhao; Zhu, Rongyi; Jiang, Yunpeng; Yang, Zhiyi; Qiu, Lizhen; Zhang, Ziyi; Mu, Jiawei; Mao, Fengbiao; Xiang, Kuanhui; Bai, Lin; Li, Kailong",
+  "journal": "Nature structural & molecular biology",
+  "published_date": "2026-09-17",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 7,
+  "one_liner_zh": "该文通过结构引导发现并工程化微型CRISPR-Cas12m，用于表观基因组编辑，虽无切割活性但深入解析了其DNA结合机制，与碱基编辑/交错切割机制部分相关。",
+  "abstract": "CRISPR-based epigenome editing represents a programmable strategy to precisely modulate gene expression, holding promise for therapeutic applications. However, the large size of dCas proteins substantially impedes delivery using adeno-associated virus (AAV) vectors. Here, through iterative bioinformatics analysis, structure-guided predictions and functional assays, we identified and characterized a miniature subtype V-M CRISPR-Cas12m from Pelomicrobium methylotrophicum. PmCas12m exhibited flexible 5'-YTN-3' PAM-dependent recognition and robust double-stranded DNA-binding properties while lacking DNA cleavage activity, thus rendering it a valuable tool for epigenome editing. Cryo-electron microscopy structures of PmCas12m unveiled its molecular mechanism of target DNA binding. Guided by these structural insights, we used deep mutational scanning and protein engineering to develop xCas12m, a hypercompact variant with highly potent and specific epigenome-editing capabilities in human cells. We further constructed the xCas12m-CRISPRoff platform in a single AAV vector, which achieved durable epigenetic silencing and effective inhibition of hepatitis B virus infection in a mouse model. Collectively, these findings establish xCas12m as a versatile epigenome-editing platform with notable potential for treating diseases, paving the way for clinical translation of epigenetic therapies.",
+  "abstract_zh": "基于CRISPR的表观基因组编辑代表了一种可编程策略，能够精确调控基因表达，在治疗应用中展现出前景。然而，dCas蛋白的大尺寸显著阻碍了使用腺相关病毒（AAV）载体的递送。在此，通过迭代生物信息学分析、结构引导预测和功能检测，我们从甲基营养型佩洛微菌（Pelomicrobium methylotrophicum）中鉴定并表征了一种微型V-M亚型CRISPR-Cas12m。PmCas12m表现出灵活的5'-YTN-3' PAM依赖性识别和强大的双链DNA结合特性，同时缺乏DNA切割活性，因此使其成为表观基因组编辑的有价值工具。PmCas12m的冷冻电镜结构揭示了其靶DNA结合的分子机制。在这些结构见解的指导下，我们利用深度突变扫描和蛋白质工程开发了xCas12m，这是一种超紧凑变体，在人类细胞中具有高效且特异的表观基因组编辑能力。我们进一步在单AAV载体中构建了xCas12m-CRISPRoff平台，在小鼠模型中实现了持久的表观遗传沉默和乙型肝炎病毒感染的有效抑制。总体而言，这些发现确立了xCas12m作为一种多功能表观基因组编辑平台，在治疗疾病方面具有显著潜力，为表观遗传疗法的临床转化铺平了道路。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42749924/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42749924/",
+  "paper_page_path": "papers/pubmed/42749924/index.html"
+}
