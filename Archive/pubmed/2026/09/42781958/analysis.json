@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42781958",
+  "title": "CRISPR-Cas9 and precision editing technologies linking functional genomics to clinical translation in genetic diseases.",
+  "authors": "Wen, Zijing; Su, Jianming",
+  "journal": "Clinical and translational medicine",
+  "published_date": "2026-09-24",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 5,
+  "one_liner_zh": "这是一篇综述，概述CRISPR-Cas9及衍生精准编辑工具在遗传病中从功能基因组学到临床转化的应用框架，虽涉及碱基编辑和编辑策略选择，但缺乏对切割/编辑分子机制的深入探讨，机制深度不足。",
+  "abstract": "BACKGROUND: CRISPR-Cas9 and derivative precision-editing platforms increasingly connect pathogenic variant interpretation with functional genomics and therapeutic development in genetic diseases. This narrative review focuses on a variant-mechanism-driven framework for matching editing strategies to mutation structure, functional consequence, disease-model evidence, delivery feasibility, safety risk, and translational readiness. MAIN BODY: The review summarizes how monogenic, polygenic, coding, non-coding, mitochondrial, and complex disease contexts influence the choice of canonical Cas9 editing, base editing, prime editing, Cas variants, CRISPR interference/activation, epigenome editing, and disease-model systems. It further compares ex vivo and in vivo delivery routes, safety assessment strategies, immunogenicity and genotoxicity concerns, and clinical implementation barriers, including CMC/manufacturing scalability, long-term follow-up, affordability, and regulatory oversight. Current evidence supports the clinical maturity of ex vivo hematopoietic editing, whereas most in vivo and precision-repair approaches remain constrained by delivery, durability, product heterogeneity, and safety uncertainties. CONCLUSION: The central conclusion is that future CRISPR-based interventions should be judged not only by editability, but by whether molecular correction can be translated into durable, safe, manufacturable, and clinically meaningful benefit.",
+  "abstract_zh": "背景：CRISPR-Cas9及其衍生的精准编辑平台日益将致病性变异解读与功能基因组学和遗传病治疗开发联系起来。本叙述性综述聚焦于一种基于变异机制的框架，用于将编辑策略与突变结构、功能后果、疾病模型证据、递送可行性、安全性风险及转化就绪度相匹配。主体内容：本综述总结了单基因、多基因、编码区、非编码区、线粒体及复杂疾病背景如何影响经典Cas9编辑、碱基编辑、先导编辑、Cas变体、CRISPR干扰/激活、表观基因组编辑及疾病模型系统的选择。进一步比较了离体和体内递送途径、安全性评估策略、免疫原性和基因毒性问题，以及临床实施障碍，包括CMC/制造可扩展性、长期随访、可负担性和监管监督。当前证据支持离体造血编辑的临床成熟度，而大多数体内和精准修复方法仍受限于递送、持久性、产品异质性和安全性不确定性。结论：核心结论是，未来基于CRISPR的干预措施不仅应依据可编辑性来评判，还应考虑分子校正能否转化为持久、安全、可制造且具有临床意义的获益。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42781958/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42781958/",
+  "paper_page_path": "papers/pubmed/42781958/index.html"
+}

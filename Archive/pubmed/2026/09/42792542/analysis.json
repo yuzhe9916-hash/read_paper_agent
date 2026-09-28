@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42792542",
+  "title": "Mapping Bacteriophage-Based Antimicrobial Research in Southeast Asia: A Bibliometric Analysis of Scientific Productivity, Knowledge Structure, and Emerging Research Pathways.",
+  "authors": "Ong, Christian Joseph N; Cabalbag, Johnalie N; Cruz, Jowi Tsidkenu Pili; Valderama, Teodora T; Roslin, Celia R; Magtibay, Carina M; Lonogan, Janice Kaylyn K; Libres, Amelda C; Matamis, Joel G; Mamaat, Jose Edwardo R; Mortel, Ferdinand A; Bacalzo, Grace D; Cabuhat, Kevin Smith P; de Leon, Carlos S; Nuevo, Jose Jurel M; Aguilan, Joel R; Fortaleza, Jamil Allen G",
+  "journal": "Biology",
+  "published_date": "2026-09-26",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 2,
+  "one_liner_zh": "该文是对东南亚噬菌体抗菌研究的文献计量学分析，虽提及CRISPR相关方法为新兴主题，但对象非CRISPR/碱基编辑/交错切割，且无分子机制研究，仅宏观趋势描述，与本课题关联极弱。",
+  "abstract": "Southeast Asia faces a substantial burden of antimicrobial resistance (AMR), creating increasing interest in bacteriophage-based antimicrobial strategies. However, the regional development, contributors, collaboration patterns, and evolving research priorities of this field remain insufficiently characterized. This study conducted a bibliometric analysis of Scopus-indexed publications on bacteriophage-based antimicrobial research affiliated with Southeast Asian countries from 1981 to 2025. Bibliometrix/Biblioshiny and VOSviewer were used to evaluate scientific production, citation patterns, leading contributors, collaboration networks, and conceptual and thematic development. A total of 862 publications were analyzed, with scientific output accelerating markedly after 2019 and reaching its highest level in 2025. Thailand emerged as the dominant regional contributor, with Vongkamjan (n = 21) and Surachat (n = 20) as the two most prolific authors. Mahidol University (n = 182), Prince of Songkla University (n = 142), and Universiti Putra Malaysia (n = 139) were the leading institutions, demonstrating a concentration of research capacity in Thailand and Malaysia. Scientific Reports was the most productive journal (30 publications), whereas Frontiers in Microbiology recorded the highest citation count among the leading sources (963 citations). Collaboration mapping revealed increasingly interconnected regional and international research networks. Thematic analyses demonstrated a transition from foundational and pathogen-specific investigations toward AMR, bacteriophage therapy, biofilm control, aquaculture, genomic and comparative genomic analysis, wastewater and public-health applications, and One Health-oriented research. Emerging topics included endolysins, quorum sensing, CRISPR-associated approaches, metagenomics, and genome-informed phage characterization. These findings demonstrate the rapid expansion and thematic diversification of bacteriophage-based antimicrobial research in Southeast Asia while highlighting persistent geographic concentration and the need for stronger regional infrastructure, collaboration, and translational capacity.",
+  "abstract_zh": "东南亚地区面临显著的抗菌药物耐药性（antimicrobial resistance, AMR）负担，这引发了对基于噬菌体的抗菌策略日益增长的兴趣。然而，该领域的区域发展、贡献者、合作模式及演变中的研究重点仍未得到充分表征。本研究对1981年至2025年间Scopus索引的、与东南亚国家相关的基于噬菌体的抗菌研究出版物进行了文献计量分析。使用Bibliometrix/Biblioshiny和VOSviewer评估科学产出、引文模式、主要贡献者、合作网络以及概念和主题发展。共分析了862篇出版物，科学产出在2019年后显著加速，并于2025年达到最高水平。泰国成为区域主要贡献者，其中Vongkamjan（n = 21）和Surachat（n = 20）是两位最多产的作者。玛希隆大学（n = 182）、宋卡王子大学（n = 142）和马来西亚博特拉大学（n = 139）是领先机构，显示出研究能力集中在泰国和马来西亚。《Scientific Reports》是产出最多的期刊（30篇出版物），而《Frontiers in Microbiology》在主要来源中记录了最高引文数（963次引用）。合作图谱揭示了日益互联的区域和国际研究网络。主题分析显示，研究从基础性和病原体特异性调查向AMR、噬菌体疗法、生物膜控制、水产养殖、基因组和比较基因组分析、废水与公共卫生应用以及“One Health”导向研究转变。新兴主题包括内溶素、群体感应、CRISPR相关方法、宏基因组学和基于基因组的噬菌体表征。这些发现表明，东南亚基于噬菌体的抗菌研究正在快速扩展和主题多样化，同时突显了持续存在的地理集中性，以及对更强区域基础设施、合作和转化能力的迫切需求。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42792542/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42792542/",
+  "paper_page_path": "papers/pubmed/42792542/index.html"
+}

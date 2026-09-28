@@ -1,0 +1,356 @@
+{
+  "identity": {
+    "pmid": "42781626",
+    "doi": "10.1093/hr/uhag181",
+    "title": "The novel function of the bZIP transcription factor VSF-1 in mediating fruit firmness in tomato."
+  },
+  "content": {
+    "abstract": "Fruit firmness is a critical quality trait primarily governed by the structure and composition of the cell wall. While extensive research has focused on firmness dynamics during fruit ripening, the regulatory mechanisms governing its establishment during early fruit development remain poorly understood. Previous studies have demonstrated that VASCULAR SPECIFICITY FACTOR 1 (VSF-1), a member of the bZIP family, is activated in vitro by the key fruit softening regulator LOB1, suggesting its potential role in the regulation of fruit firmness. In this study, we generated both CRISPR-Cas9-mediated knockout and overexpression lines in tomato; functional analysis revealed that the loss of VSF-1 function reduced fruit firmness, whereas its overexpression enhanced it, thereby establishing VSF-1 as a positive regulator of firmness. By integrating transcriptomic and DNA affinity purification sequencing profiling, we delineated the VSF-1-controlled gene regulatory network associated with cell wall remodeling and identified the beta-galactosidase gene, TBG6, as a direct target. Our findings uncover a novel role for VSF-1 in the transcriptional regulation of tomato fruit texture, underscore the functional diversification within the Solanaceae bZIP subfamily I, and provide new insights into the genetic improvement of fruit quality.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Chunfeng",
+        "Zhang, Kangchi",
+        "Lv, Shouzheng",
+        "Lin, Yifan",
+        "Su, Guanqing",
+        "Liu, Zimeng",
+        "Lin, Xiahui",
+        "Shu, Xiu",
+        "He, Zhiren",
+        "Bouzayen, Mondher",
+        "Hu, Guojian",
+        "Shi, Yanna",
+        "Chen, Kunsong"
+      ],
+      "short_names": [
+        "Wang C",
+        "Zhang K",
+        "Lv S",
+        "Lin Y",
+        "Su G",
+        "Liu Z",
+        "Lin X",
+        "Shu X",
+        "He Z",
+        "Bouzayen M",
+        "Hu G",
+        "Shi Y",
+        "Chen K"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-4426-3541",
+        "ORCID: 0009-0001-7698-3619",
+        "ORCID: 0009-0004-8497-8432",
+        "ORCID: 0009-0001-3179-0733",
+        "ORCID: 0009-0008-4018-2597",
+        "ORCID: 0000-0001-7630-1449",
+        "ORCID: 0000-0001-8963-8569",
+        "ORCID: 0000-0003-2874-2383"
+      ],
+      "affiliations": [
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "Laboratoire de Recherche en Sciences Vegetales-Genomique et Biotechnologie des Fruits-UMR5546, Universite de Toulouse, CNRS, Universite Paul Sabatier, Institut Polytechnique de Toulouse, Auzeville Tolosan 31326, France.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+        "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Chunfeng",
+        "short_name": "Wang C",
+        "identifiers": [
+          "0009-0006-4426-3541"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kangchi",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Shouzheng",
+        "short_name": "Lv S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yifan",
+        "short_name": "Lin Y",
+        "identifiers": [
+          "0009-0001-7698-3619"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Su, Guanqing",
+        "short_name": "Su G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zimeng",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0009-0004-8497-8432"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xiahui",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Shu, Xiu",
+        "short_name": "Shu X",
+        "identifiers": [
+          "0009-0001-3179-0733"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "He, Zhiren",
+        "short_name": "He Z",
+        "identifiers": [
+          "0009-0008-4018-2597"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Bouzayen, Mondher",
+        "short_name": "Bouzayen M",
+        "identifiers": [
+          "0000-0001-7630-1449"
+        ],
+        "affiliations": [
+          "Laboratoire de Recherche en Sciences Végétales-Génomique et Biotechnologie des Fruits-UMR5546, Université de Toulouse, CNRS, Université Paul Sabatier, Institut Polytechnique de Toulouse, Auzeville Tolosan 31326, France."
+        ]
+      },
+      {
+        "full_name": "Hu, Guojian",
+        "short_name": "Hu G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Yanna",
+        "short_name": "Shi Y",
+        "identifiers": [
+          "0000-0001-8963-8569"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Kunsong",
+        "short_name": "Chen K",
+        "identifiers": [
+          "0000-0003-2874-2383"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biotechnology, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "Zhejiang Provincial Key Laboratory of Horticultural Crop Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China.",
+          "The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou 310058, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Horticulture research"
+    ],
+    "journal_abbrev": [
+      "Hortic Res"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 17:31",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42781626",
+      "25491370",
+      "42143641",
+      "8919907",
+      "11554479",
+      "34430815",
+      "42700580",
+      "39852124",
+      "35008526",
+      "38623687",
+      "41887271",
+      "40051263",
+      "40963834",
+      "26566837",
+      "38000892",
+      "42475469",
+      "30588320",
+      "41238017",
+      "41391176",
+      "41217971",
+      "41896481",
+      "40478863",
+      "36960432",
+      "39293266",
+      "35937861",
+      "41482219",
+      "12867545",
+      "40138856",
+      "40489665",
+      "30080594",
+      "42406911",
+      "42302380",
+      "42479191",
+      "27247090",
+      "39180170",
+      "19144766",
+      "39706437",
+      "40112172",
+      "37571003",
+      "24265273",
+      "21511903",
+      "40963426",
+      "40143437",
+      "35665160",
+      "27245662",
+      "42060978",
+      "30545217",
+      "29133374",
+      "40419969",
+      "41512567",
+      "12445130",
+      "35258157",
+      "9700070",
+      "41522695",
+      "30376036",
+      "42135064",
+      "42002887",
+      "42721657",
+      "21276270",
+      "34580960",
+      "37506031",
+      "40679197",
+      "23140186",
+      "41709482",
+      "31914938",
+      "41901461",
+      "22685170",
+      "36437693",
+      "34380735",
+      "40724978",
+      "40977476",
+      "32612625",
+      "38246942",
+      "42773738",
+      "40246128",
+      "41787356",
+      "41635696",
+      "41331747",
+      "19450903",
+      "17452757",
+      "12177488",
+      "34239539",
+      "33790264",
+      "38579721",
+      "40908642",
+      "41028699",
+      "40651050",
+      "39226395",
+      "37935634",
+      "36198382",
+      "35395128",
+      "37936320",
+      "26739234",
+      "41011983",
+      "40479511",
+      "32560687",
+      "40431019",
+      "29635354",
+      "25516062",
+      "41812708"
+    ],
+    "review": [
+      "42781626",
+      "11554479"
+    ],
+    "pmc": [
+      "13600432"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42781626/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/hr/article-lookup/doi/10.1093/hr/uhag181",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

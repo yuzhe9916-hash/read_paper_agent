@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42773127",
+  "title": "Transposon end recognition and excision mechanisms of type I-F CRISPR-associated transposases.",
+  "authors": "Walter, Mateusz; Finocchio, Giada; Oberli, Seraina; Hammerschmid, Iana C; Lampe, George D; Karan, Julia; Swartjes, Thomas; Sternberg, Samuel H; Jinek, Martin; Querques, Irma",
+  "journal": "Nature communications",
+  "published_date": "2026-09-23",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 7,
+  "one_liner_zh": "该文通过冷冻电镜和生化重构解析I-F型CRISPR相关转座子TnsAB的转座子末端识别与切除机制，虽对象为转座子而非碱基编辑，但其蛋白-DNA互作、DNA断裂与切割机制对理解CRISPR系统及交错切割机制具有可迁移的启发价值。",
+  "abstract": "CRISPR-associated transposons (CASTs) are Tn7-like elements that have co-opted RNA-guided CRISPR effectors for targeted DNA insertion. CASTs have been adapted as genome editing tools for programmable, site-specific integration. Among them, the type I-F system from Pseudoalteromonas (PseCAST) shows exceptionally robust activity in human cells, yet its mechanistic basis remains poorly understood. Here, we present structural and biochemical analysis of the PseCAST transposase TnsAB. Biochemical reconstitution of transposon DNA excision defines key characteristics of the transposition mechanism. Cryogenic electron microscopy (cryo-EM) structures of PseTnsAB paired-end complexes reveal molecular determinants of transpososome assembly, transposon end recognition and cleavage. We validate these findings using biochemical and in vivo assays of structure-based transposase mutants, and provide mechanistic insights into the enhanced activity of a laboratory-evolved TnsAB variant. Together, our studies highlight molecular features underlying the efficiency of natural and engineered type I-F transposases and establish a mechanistic framework for their continued rational optimization.",
+  "abstract_zh": "CRISPR相关转座子（CASTs）是Tn7样元件，已利用RNA引导的CRISPR效应器实现靶向DNA插入。CASTs已被改造为基因组编辑工具，用于可编程的位点特异性整合。其中，来自假交替单胞菌（Pseudoalteromonas）的I-F型系统（PseCAST）在人类细胞中表现出异常强大的活性，但其机制基础仍知之甚少。在此，我们展示了PseCAST转座酶TnsAB的结构和生化分析。转座子DNA切除的生化重构定义了转座机制的关键特征。PseTnsAB配对末端复合物的冷冻电子显微镜（cryo-EM）结构揭示了转座体组装、转座子末端识别和切割的分子决定因素。我们通过基于结构的转座酶突变体的生化和体内实验验证了这些发现，并为实验室进化TnsAB变体的增强活性提供了机制见解。综合来看，我们的研究突出了天然和工程化I-F型转座酶效率背后的分子特征，并为其持续理性优化建立了机制框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42773127/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42773127/",
+  "paper_page_path": "papers/pubmed/42773127/index.html"
+}

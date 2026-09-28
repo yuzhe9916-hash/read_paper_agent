@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "42773127",
+    "doi": "10.1038/s41467-026-76893-7",
+    "title": "Transposon end recognition and excision mechanisms of type I-F CRISPR-associated transposases."
+  },
+  "content": {
+    "abstract": "CRISPR-associated transposons (CASTs) are Tn7-like elements that have co-opted RNA-guided CRISPR effectors for targeted DNA insertion. CASTs have been adapted as genome editing tools for programmable, site-specific integration. Among them, the type I-F system from Pseudoalteromonas (PseCAST) shows exceptionally robust activity in human cells, yet its mechanistic basis remains poorly understood. Here, we present structural and biochemical analysis of the PseCAST transposase TnsAB. Biochemical reconstitution of transposon DNA excision defines key characteristics of the transposition mechanism. Cryogenic electron microscopy (cryo-EM) structures of PseTnsAB paired-end complexes reveal molecular determinants of transpososome assembly, transposon end recognition and cleavage. We validate these findings using biochemical and in vivo assays of structure-based transposase mutants, and provide mechanistic insights into the enhanced activity of a laboratory-evolved TnsAB variant. Together, our studies highlight molecular features underlying the efficiency of natural and engineered type I-F transposases and establish a mechanistic framework for their continued rational optimization.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Transposases/metabolism/genetics/chemistry",
+      "*DNA Transposable Elements/genetics",
+      "Cryoelectron Microscopy",
+      "*CRISPR-Cas Systems",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "Humans",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Walter, Mateusz",
+        "Finocchio, Giada",
+        "Oberli, Seraina",
+        "Hammerschmid, Iana C",
+        "Lampe, George D",
+        "Karan, Julia",
+        "Swartjes, Thomas",
+        "Sternberg, Samuel H",
+        "Jinek, Martin",
+        "Querques, Irma"
+      ],
+      "short_names": [
+        "Walter M",
+        "Finocchio G",
+        "Oberli S",
+        "Hammerschmid IC",
+        "Lampe GD",
+        "Karan J",
+        "Swartjes T",
+        "Sternberg SH",
+        "Jinek M",
+        "Querques I"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-7023-4545",
+        "ORCID: 0000-0001-6905-9308",
+        "ORCID: 0000-0002-3568-7637",
+        "ORCID: 0009-0003-6670-6196",
+        "ORCID: 0000-0002-2873-2372",
+        "ORCID: 0009-0005-8284-7225",
+        "ORCID: 0000-0001-7528-5483",
+        "ORCID: 0000-0001-8240-9114",
+        "ORCID: 0000-0002-7601-210X",
+        "ORCID: 0000-0003-1113-2773"
+      ],
+      "affiliations": [
+        "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+        "University of Vienna, Vienna, Austria.",
+        "Vienna BioCenter PhD Program, a Doctoral School of the University of Vienna and the Medical University of Vienna, Vienna, Austria.",
+        "Department of Biochemistry, University of Zurich, Zurich, Switzerland.",
+        "Department of Biochemistry, University of Zurich, Zurich, Switzerland.",
+        "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+        "University of Vienna, Vienna, Austria.",
+        "Vienna BioCenter PhD Program, a Doctoral School of the University of Vienna and the Medical University of Vienna, Vienna, Austria.",
+        "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, USA.",
+        "Howard Hughes Medical Institute, Columbia University, New York, USA.",
+        "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+        "University of Vienna, Vienna, Austria.",
+        "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+        "University of Vienna, Vienna, Austria.",
+        "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, USA.",
+        "Howard Hughes Medical Institute, Columbia University, New York, USA.",
+        "Department of Biochemistry, University of Zurich, Zurich, Switzerland.",
+        "Max Perutz Labs, Vienna BioCenter, Vienna, Austria. irma.querques@univie.ac.at.",
+        "University of Vienna, Vienna, Austria. irma.querques@univie.ac.at."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Walter, Mateusz",
+        "short_name": "Walter M",
+        "identifiers": [
+          "0009-0001-7023-4545"
+        ],
+        "affiliations": [
+          "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+          "University of Vienna, Vienna, Austria.",
+          "Vienna BioCenter PhD Program, a Doctoral School of the University of Vienna and the Medical University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Finocchio, Giada",
+        "short_name": "Finocchio G",
+        "identifiers": [
+          "0000-0001-6905-9308"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Oberli, Seraina",
+        "short_name": "Oberli S",
+        "identifiers": [
+          "0000-0002-3568-7637"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hammerschmid, Iana C",
+        "short_name": "Hammerschmid IC",
+        "identifiers": [
+          "0009-0003-6670-6196"
+        ],
+        "affiliations": [
+          "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+          "University of Vienna, Vienna, Austria.",
+          "Vienna BioCenter PhD Program, a Doctoral School of the University of Vienna and the Medical University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Lampe, George D",
+        "short_name": "Lampe GD",
+        "identifiers": [
+          "0000-0002-2873-2372"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, USA.",
+          "Howard Hughes Medical Institute, Columbia University, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Karan, Julia",
+        "short_name": "Karan J",
+        "identifiers": [
+          "0009-0005-8284-7225"
+        ],
+        "affiliations": [
+          "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+          "University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Swartjes, Thomas",
+        "short_name": "Swartjes T",
+        "identifiers": [
+          "0000-0001-7528-5483"
+        ],
+        "affiliations": [
+          "Max Perutz Labs, Vienna BioCenter, Vienna, Austria.",
+          "University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Sternberg, Samuel H",
+        "short_name": "Sternberg SH",
+        "identifiers": [
+          "0000-0001-8240-9114"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, USA.",
+          "Howard Hughes Medical Institute, Columbia University, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Jinek, Martin",
+        "short_name": "Jinek M",
+        "identifiers": [
+          "0000-0002-7601-210X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Zurich, Zurich, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Querques, Irma",
+        "short_name": "Querques I",
+        "identifiers": [
+          "0000-0003-1113-2773"
+        ],
+        "affiliations": [
+          "Max Perutz Labs, Vienna BioCenter, Vienna, Austria. irma.querques@univie.ac.at.",
+          "University of Vienna, Vienna, Austria. irma.querques@univie.ac.at."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 05:35",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773127",
+      "42146515",
+      "39383864",
+      "40103227",
+      "34759315",
+      "36435179",
+      "35914146",
+      "35051352",
+      "42239233",
+      "37557170",
+      "36442503",
+      "40849322",
+      "33770501",
+      "41495894",
+      "34385391",
+      "36184667",
+      "37972161",
+      "38598855",
+      "34845024",
+      "38834066",
+      "31853065",
+      "38834067",
+      "37379212",
+      "40393858",
+      "37078593",
+      "34450043",
+      "40121087",
+      "31171706",
+      "42465468",
+      "37758954",
+      "41027434",
+      "39345383",
+      "36002573",
+      "37368499",
+      "38926614",
+      "35173349",
+      "31742433",
+      "31189177",
+      "37020030",
+      "15713457",
+      "38926583",
+      "30184164",
+      "31913120",
+      "25662605",
+      "23262225",
+      "39171866",
+      "32651359",
+      "29551265",
+      "17074070",
+      "36537206",
+      "35654042",
+      "37191877",
+      "28985564",
+      "34403695",
+      "15102449",
+      "24982178",
+      "33472057",
+      "31913359",
+      "36384163",
+      "27025571",
+      "26712934",
+      "38443218",
+      "37020015",
+      "40473912",
+      "39631148",
+      "28811374",
+      "36257990",
+      "15774720",
+      "36801863",
+      "30503773",
+      "37380027",
+      "40373119",
+      "37503092",
+      "38781968",
+      "39774116",
+      "18243097",
+      "36593413",
+      "22905263",
+      "42225062",
+      "16912840",
+      "20538004",
+      "19524540",
+      "41036620",
+      "38041553",
+      "41477825",
+      "25036632",
+      "29294068",
+      "28666380",
+      "26384427",
+      "10911996",
+      "11741865",
+      "32499410",
+      "33333018",
+      "39698811",
+      "40310292",
+      "38991068",
+      "36711804",
+      "42282781",
+      "34103093",
+      "17403897"
+    ],
+    "review": [
+      "42773127",
+      "38598855",
+      "40393858",
+      "37191877",
+      "15102449",
+      "38443218",
+      "39631148",
+      "16912840",
+      "38041553"
+    ],
+    "pmc": [
+      "13598128"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76893-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42773127/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

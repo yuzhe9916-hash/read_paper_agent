@@ -1,0 +1,333 @@
+{
+  "identity": {
+    "pmid": "42776337",
+    "doi": "10.1007/s11033-026-12781-z",
+    "title": "Targeting snake venom metalloproteinases: structural diversity, molecular pathogenesis and therapeutic interventions."
+  },
+  "content": {
+    "abstract": "Snake venom Metalloproteinases (SVMPs) are Zn(2)(+)-dependent endopeptidases categorised under metzincin superfamily and are predominantly found in venom of the \"Viperidae\" family snakes. They are key mediators of venom-induced pathology with associated tissue damage including haemorrhage and oedema. SVMPs are classified as P-I, P-II, and P-III depending on the domains, each differing in structural complexity and organization. Further, the conserved HEXXHXXGXXH catalytic motif organizes a Zn(2+) ion, essential for the breakdown of peptide bonds and proteins. Given the limitations of conventional antivenom therapy, increasing attention has been directed toward targeted approaches for SVMPs neutralization, including plant-derived phytocompounds, synthetic and repurposed small-molecule inhibitors, recombinant monoclonal antibodies, and camelid-derived nanobodies. Structure-based drug discovery, molecular docking, and mechanistic studies have facilitated the identification of compounds and biologics capable of interfering with SVMP catalytic activity, substrate recognition or functionally relevant epitopes. Emerging technologies such as CRISPR-engineered venom gland organoids and artificial intelligence/machine learning-assisted molecular screening further provide opportunities for functional target validation and rational therapeutic discovery. This review integrates these conventional and emerging strategies, highlighting the structural basis of SVMPs inhibition and their potential to support the development of precise, broad-spectrum, and next-generation therapeutic interventions against SVMP-mediated envenoming.",
+    "keywords": [
+      "Coagulopathy",
+      "Inflammation",
+      "Nanobodies",
+      "Natural inhibitors",
+      "Small molecule inhibitors",
+      "Snake envenomation",
+      "Snake venom metalloproteinase"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Snake Venoms/enzymology/chemistry",
+      "*Metalloproteases/chemistry/metabolism/antagonists & inhibitors",
+      "Humans",
+      "Antivenins/pharmacology/therapeutic use",
+      "Molecular Docking Simulation",
+      "Venomous Snakes"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dodakallanavar, Jagadeesh",
+        "Harish, Darasaguppe R",
+        "Hiremath, Kashinath",
+        "Sampat, Ganesh H",
+        "Patil, Vishal S",
+        "Mahadevamurthy, Rashmi K",
+        "Ugare, Sanjay",
+        "Akula, Kranthi Kiran",
+        "Manjunathachar, H V"
+      ],
+      "short_names": [
+        "Dodakallanavar J",
+        "Harish DR",
+        "Hiremath K",
+        "Sampat GH",
+        "Patil VS",
+        "Mahadevamurthy RK",
+        "Ugare S",
+        "Akula KK",
+        "Manjunathachar HV"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3609-549X"
+      ],
+      "affiliations": [
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+        "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India.",
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India. harish.dr@icmr.gov.in.",
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+        "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India.",
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+        "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India.",
+        "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India.",
+        "Veterinary College Koila Puttur, Karnataka, 574211 KVAFSU, Puttur, India.",
+        "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India.",
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+        "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dodakallanavar, Jagadeesh",
+        "short_name": "Dodakallanavar J",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+          "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Harish, Darasaguppe R",
+        "short_name": "Harish DR",
+        "identifiers": [
+          "0000-0002-3609-549X"
+        ],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India. harish.dr@icmr.gov.in."
+        ]
+      },
+      {
+        "full_name": "Hiremath, Kashinath",
+        "short_name": "Hiremath K",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+          "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Sampat, Ganesh H",
+        "short_name": "Sampat GH",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India.",
+          "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Patil, Vishal S",
+        "short_name": "Patil VS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Mahadevamurthy, Rashmi K",
+        "short_name": "Mahadevamurthy RK",
+        "identifiers": [],
+        "affiliations": [
+          "Veterinary College Koila Puttur, Karnataka, 574211 KVAFSU, Puttur, India."
+        ]
+      },
+      {
+        "full_name": "Ugare, Sanjay",
+        "short_name": "Ugare S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, KLE College of Pharmacy, KLE Academy of Higher Education and Research, Deemed-to-be-University, Belagavi, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Akula, Kranthi Kiran",
+        "short_name": "Akula KK",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India."
+        ]
+      },
+      {
+        "full_name": "Manjunathachar, H V",
+        "short_name": "Manjunathachar HV",
+        "identifiers": [],
+        "affiliations": [
+          "ICMR National Institute of Traditional Medicine, Belagavi, 590010, Karnataka, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:36",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42776337",
+      "42450267",
+      "42535473",
+      "41683856",
+      "39195771",
+      "41730794",
+      "31017792",
+      "40812547",
+      "16737347",
+      "21156218",
+      "21530690",
+      "25184206",
+      "22044657",
+      "33807363",
+      "24887282",
+      "26700145",
+      "35314419",
+      "36355973",
+      "40559858",
+      "20045432",
+      "24269369",
+      "36500682",
+      "25313513",
+      "42456951",
+      "15922769",
+      "27754342",
+      "27294958",
+      "19799929",
+      "29292096",
+      "41794067",
+      "25192471",
+      "24576642",
+      "17196631",
+      "33359941",
+      "36508672",
+      "23141056",
+      "21604456",
+      "37597788",
+      "28042812",
+      "23000249",
+      "10775761",
+      "42268735",
+      "32841740",
+      "25819372",
+      "24205428",
+      "34996434",
+      "22349739",
+      "27492573",
+      "21333669",
+      "24380672",
+      "39393539",
+      "37169043",
+      "30276921",
+      "27782073",
+      "33529194",
+      "29929037",
+      "17040908",
+      "28130154",
+      "41380853",
+      "19783918",
+      "38273820",
+      "28155167",
+      "39706372",
+      "42562291",
+      "29567103",
+      "34209691",
+      "26917009",
+      "42624298",
+      "38748405",
+      "14757213",
+      "15974889",
+      "28767072",
+      "31979014",
+      "42322912",
+      "26276061",
+      "15922772",
+      "31861940",
+      "35609828",
+      "41638279",
+      "42065550",
+      "22406471",
+      "22069593",
+      "41413623",
+      "30290233",
+      "34407084",
+      "19539639",
+      "17979734",
+      "41967590",
+      "18444672",
+      "29966733",
+      "39760869",
+      "32457735",
+      "21447411",
+      "24900507",
+      "41908916",
+      "31963329",
+      "35878181",
+      "28777331",
+      "19344655",
+      "32722789"
+    ],
+    "review": [
+      "42776337",
+      "42450267",
+      "21530690",
+      "35314419",
+      "36355973",
+      "20045432",
+      "42456951",
+      "15922769",
+      "27294958",
+      "24576642",
+      "21604456",
+      "37597788",
+      "23000249",
+      "39393539",
+      "37169043",
+      "27782073",
+      "42562291",
+      "34209691",
+      "42624298",
+      "15974889",
+      "31979014",
+      "15922772",
+      "22069593",
+      "17979734",
+      "39760869",
+      "21447411",
+      "28777331"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11033-026-12781-z",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GSTP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

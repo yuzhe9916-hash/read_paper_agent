@@ -1,0 +1,70 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no access to figures, methods, or supplementary data
+- **Shared manuscript claim summary** The authors report structural and biochemical characterization of the PseCAST TnsAB transposase, including cryo-EM structures of paired-end complexes, biochemical reconstitution of transposon excision, and validation via structure-based mutants and in vivo assays. They further claim mechanistic insights into a laboratory-evolved TnsAB variant and propose a framework for rational optimization of type I-F transposases.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, methods section, supplementary information, statistical details, and sequence/structural coordinates
+
+## Reviewer
+- **Overall assessment** The abstract describes a potentially significant contribution to the mechanistic understanding of type I-F CRISPR-associated transposases, a system of considerable interest for genome editing applications. The combination of cryo-EM structures, biochemical reconstitution, and in vivo validation is a strong experimental strategy. However, the abstract alone provides insufficient detail to evaluate the technical rigor, the quantitative support for the claims, or the novelty relative to existing literature on CAST systems. The claim regarding mechanistic insights into the laboratory-evolved variant is particularly difficult to assess without specific structural or biochemical data. The work appears to address an important gap in understanding why PseCAST shows exceptional activity in human cells, but the evidence base visible here is too limited to establish the case.
+- **Who would be interested in the results, and why** Researchers in CRISPR biology and genome engineering, structural biologists studying transposition or RNA-guided nucleases, and developers of gene editing tools. The mechanistic framework for TnsAB function and the insights into an evolved variant could inform rational engineering of CAST systems for therapeutic and biotechnological applications.
+- **Major strengths** The experimental approach integrates structural, biochemical, and in vivo methods, which is well suited to the question. The focus on PseCAST, a system with demonstrated utility in human cells, gives the work practical relevance. The inclusion of a laboratory-evolved variant provides an opportunity to connect mechanistic understanding with functional optimization.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "Cryogenic electron microscopy (cryo-EM) structures of PseTnsAB paired-end complexes reveal molecular determinants of transpososome assembly, transposon end recognition and cleavage."
+  - **Evidence pointer** Abstract; figures not provided
+  - **Concern** The abstract states that cryo-EM structures reveal molecular determinants, but no information is provided on resolution, conformational states captured, or how the structures support the specific mechanistic claims. Without these details, it is impossible to assess whether the structural data actually establish the proposed determinants or whether they are inferred from static snapshots.
+  - **Why it matters** The central claim of the paper rests on the structural analysis. If the structures are of limited resolution or do not capture relevant catalytic states, the mechanistic conclusions may be overinterpreted.
+  - **Resolution test** Provide resolution statistics, number of particles, validation metrics (e.g., FSC curves), and a clear description of which structural features directly support each mechanistic claim.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Quantitative support
+  - **Claim pointer** "Biochemical reconstitution of transposon DNA excision defines key characteristics of the transposition mechanism."
+  - **Evidence pointer** Abstract; methods and figures not provided
+  - **Concern** The abstract does not specify what was measured in the excision assays, the kinetic or yield parameters obtained, or how these data define "key characteristics." Without quantitative details, the claim is not verifiable.
+  - **Why it matters** The biochemical data are presented as a pillar of the mechanistic framework. If the assays are not quantitative or lack appropriate controls, the conclusions drawn from them may not be robust.
+  - **Resolution test** Report specific assay conditions, measured rates or efficiencies, replicate numbers, and statistical analysis. Clarify which characteristics of the mechanism are defined by which data.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Support for evolved variant claim
+  - **Claim pointer** "Provide mechanistic insights into the enhanced activity of a laboratory-evolved TnsAB variant."
+  - **Evidence pointer** Abstract; no specific data referenced
+  - **Concern** The abstract claims mechanistic insights into an evolved variant but provides no indication of what those insights are, how they were obtained, or how they differ from the wild-type mechanism. This claim is currently unsupported by any visible evidence.
+  - **Why it matters** The evolved variant is a key element of the paper's practical relevance. If the mechanistic basis for its enhanced activity is not clearly demonstrated, the claim of a framework for rational optimization is weakened.
+  - **Resolution test** Describe the specific structural or biochemical differences between the evolved variant and wild-type TnsAB, and how these differences explain enhanced activity. Provide data linking the identified features to functional outcomes.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Abstract wording
+  - **Evidence pointer** Abstract, first sentence
+  - **Issue** The phrase "co-opted RNA-guided CRISPR effectors" is vague regarding the nature of the co-option. Clarifying whether this refers to loss of CRISPR interference function or repurposing of the effector complex would help nonspecialist readers.
+  - **Required correction** Rephrase to specify the functional relationship between the CRISPR effector and the transposase, e.g., "have repurposed RNA-guided CRISPR effectors for DNA targeting."
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Context
+  - **Affected element** Abstract background
+  - **Evidence pointer** Abstract, second sentence
+  - **Issue** The statement that PseCAST shows "exceptionally robust activity in human cells" is presented without comparison to other CAST systems or reference to prior work. A brief comparative context would strengthen the rationale.
+  - **Required correction** Add a short clause indicating the magnitude of the difference or citing prior comparative studies.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** Abstract, "paired-end complexes"
+  - **Evidence pointer** Abstract, cryo-EM sentence
+  - **Issue** The term "paired-end complexes" is used without definition. Nonspecialist readers may not know that this refers to the synaptic complex holding two transposon ends together.
+  - **Required correction** Define the term at first use, e.g., "paired-end complexes (synaptic assemblies containing both transposon ends)."
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The abstract does not provide sufficient quantitative or structural detail to verify the central claims. Access to the full manuscript is required to assess technical soundness.
+- **Assessment against Nature-style criteria** Originality: the work addresses a specific system with clear practical relevance, but the abstract does not establish how the findings advance beyond existing CAST mechanistic studies. Scientific importance: potentially high given the genome editing context, but the significance is asserted rather than demonstrated in the abstract. Interdisciplinary readership: the topic bridges structural biology, microbiology, and genome engineering, and the abstract is largely accessible, though some terminology needs clarification. Technical soundness: cannot be assessed from the abstract alone; the described methods are appropriate but unverifiable here. Readability for nonspecialists: generally clear, but the abstract assumes familiarity with CAST biology and transposition terminology.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract describes a promising study, but the claims require the full manuscript for verification. A supportive recommendation would be contingent on the structural and biochemical data meeting the standards implied by the claims.
+
+## Risk / unsupported claims
+- The claim that cryo-EM structures reveal molecular determinants of assembly, recognition, and cleavage is unsupported without resolution and validation data.
+- The claim that biochemical reconstitution defines key characteristics of the mechanism is unsupported without quantitative assay details.
+- The claim of mechanistic insights into the laboratory-evolved TnsAB variant is unsupported; no specific findings are described.
+- The assertion that the work establishes a framework for rational optimization is a forward-looking statement that cannot be evaluated from the abstract.

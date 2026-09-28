@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42772556",
+  "title": "Structural insights into target detection by the Serratia type III CRISPR complex and its deployment in SNP identification.",
+  "authors": "Perdigao, Calvin C; Ajisafe, Luqman O; Sunny, Anju T; Wu, Si; Dokland, Terje; Dunkle, Jack A",
+  "journal": "The Journal of biological chemistry",
+  "published_date": "2026-09-22",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 6,
+  "one_liner_zh": "该研究解析了Serratia III型CRISPR-Cas10-Csm复合物靶标识别与cA3合成的结构机制，并利用其SNP检测能力，虽非碱基编辑/交错切割，但Cas-crRNA-靶标互作与构象变化机制对本课题有可迁移启发。",
+  "abstract": "Type III CRISPR systems utilize a complex containing Cas10, additional Cas proteins and a crRNA to detect foreign transcripts. Upon detection, Cas10 synthesizes cyclic oligoadenylates (cOA), signaling molecules that coordinate interference by stimulating downstream enzymes with DNase, RNase, protease or other activities. Type III systems possess properties well-suited to their deployment as molecular diagnostics: specific detection and activation of a cascade of multi-turnover enzymatic reactions that can be harnessed for signal generation. We answered key questions concerning the structure and function of Serratia Cas10-Csm to facilitate its use in molecular diagnostics. We determined that Serratia Cas10-Csm (SerrCas10-Csm) synthesizes predominantly cA(3) molecules and this synthesis is sensitive to mismatches in the crRNA-target RNA duplex adjacent to Cas10. To understand how Cas10 senses the presence of a bound target RNA, we determined the structure of SerrCas10-Csm unbound and bound to target RNA identifying conformational changes associated with target binding. We programmed SerrCas10-Csm with a crRNA recognizing a single nucleotide polymorphism that occurs in the human HBB transcript and is associated with sickle cell disease. We demonstrate that when the polymorphism occurs in the +1 position of the crRNA-target duplex, SerrCas10-Csm can distinguish it indicating an additional role for type III CRISPR systems in point-of-care diagnostics in low-resource settings.",
+  "abstract_zh": "III型CRISPR系统利用包含Cas10、其他Cas蛋白及crRNA的复合物来检测外来转录本。检测到后，Cas10合成环状寡腺苷酸（cOA），这些信号分子通过刺激具有DNase、RNase、蛋白酶或其他活性的下游酶来协调干扰作用。III型系统具备适合部署为分子诊断工具的特性：特异性检测并激活一系列多轮酶促反应，这些反应可用于信号生成。我们解答了关于粘质沙雷氏菌Cas10-Csm结构和功能的关键问题，以促进其在分子诊断中的应用。我们确定粘质沙雷氏菌Cas10-Csm（SerrCas10-Csm）主要合成cA(3)分子，且此合成对crRNA-靶RNA双链体中邻近Cas10的错配敏感。为理解Cas10如何感知结合靶RNA的存在，我们解析了SerrCas10-Csm未结合和结合靶RNA的结构，识别出与靶标结合相关的构象变化。我们用识别人类HBB转录本中与镰状细胞病相关的单核苷酸多态性的crRNA对SerrCas10-Csm进行编程。我们证明，当该多态性出现在crRNA-靶标双链体的+1位置时，SerrCas10-Csm能区分它，这表明III型CRISPR系统在资源匮乏环境下的即时诊断中具有额外作用。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42772556/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42772556/",
+  "paper_page_path": "papers/pubmed/42772556/index.html"
+}

@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42785137",
+    "doi": "10.1016/j.compbiolchem.2026.109419",
+    "title": "Integrative Systems Biology Prioritizes BCL2, ALK, and CDK4 as Therapeutic Candidates in Neuroblastoma through Multi-Centrality Network Analysis, Cross-Database Validation, Independent Docking Validation, and Confidence-Threshold Sensitivity Analysis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Neuroblastoma remains a therapeutic challenge due to its molecular heterogeneity, yet the convergent network topology of its oncogenic interactome has not been systematically characterized using multi-criteria computational approaches. An integrative computational framework combining network-based hub gene prioritization, cross-database biological validation, and structure-based drug-target assessment is needed to identify and prioritize therapeutic molecular targets. METHODS: An integrative computational pipeline was developed comprising (i) batch-effect correction (ComBat) and differential expression analysis of two neuroblastoma microarray datasets (GSE10927, GSE16476); (ii) protein-protein interaction (PPI) network reconstruction (STRING v11.5) and multi-criteria candidate identification using six complementary centrality metrics (degree, betweenness, closeness, MCC, MNC, EPC); (iii) modular decomposition (Louvain algorithm) and functional enrichment analysis (GO, KEGG, WikiPathways); (iv) miRNA regulatory network analysis (DIANA-miRPath/TarBase); (v) independent cross-validation against six external databases (TARGET-NBL, Human Protein Atlas, CCLE, DepMap, GDSC, cBioPortal); (vi) molecular docking (HDOCK) and 100-ns molecular dynamics simulations (one trajectory per complex) with trajectory analysis (RMSD, RMSF, Rg, hydrogen-bond occupancy); and (vii) two revision-stage verification analyses: an independent AutoDock Vina re-docking validation of the five drug-target pairs and their co-crystallized ligands, and a confidence-threshold sensitivity analysis of the PPI network (0.400/0.700/0.900) computed on the version-locked STRING v11.5 release restricted to the exported hub node set. RESULTS: The batch-corrected transcriptomic integration effectively separated tumors from normal samples (PCA, 82.9% variance explained). Multi-criteria network analysis prioritized BCL2, ALK, MYCN, CDK4, and MAPT as leading candidates. Modular decomposition revealed seven functional clusters spanning cell cycle regulation, apoptosis, MAPK signaling, and neuronal differentiation. BCL2, ALK, and CDK4 showed multi-database validation concordance: transcriptomic overexpression (TARGET-NBL, log2FC = 1.84 for BCL2, FDR < 0.001), protein-level confirmation (Human Protein Atlas), selective gene dependency (DepMap CRISPR), and pharmacogenomic sensitivity (GDSC). miRNA network analysis identified miR-34a as a master post-transcriptional regulator targeting BCL2, CDK4, and MYCN simultaneously. The original HDOCK docking and 100-ns MD analyses (one trajectory per complex) supported predicted binding stability for BCL2/Venetoclax (HDOCK score: -271.19), ALK/Ceritinib (-222.91), and CDK4/Abemaciclib (-219.76). The revision-stage sensitivity analysis showed that hub-hub connectivity is strongly threshold-dependent (508, 138, and 48 interactions among the exported hub nodes at confidence >/= 0.400, 0.700, and 0.900), and that the centrality of the three priority genes is sensitive to network stringency; they are therefore described as computationally prioritized candidates rather than threshold-robust hubs. The independent Vina validation recovered the native binding sites of all five targets (top-pose centroid offsets 0.15-2.6 A) with favorable scores for every drug-target pair (-12.3 to -6.4 kcal/mol), while pose-level RMSD values (4.8-7.3 A) showed that rigid-receptor docking does not resolve exact ligand orientations for these flexible inhibitors; docking scores are therefore interpreted as site-level binding-competence evidence only. CONCLUSIONS: This study presents an integrative computational pipeline for network-based drug-target prioritization in neuroblastoma, combining multi-criteria network topology, multi-database biological validation, HDOCK docking with single-trajectory MD stability assessment, and two independent revision-stage verification analyses (AutoDock Vina re-docking and confidence-threshold sensitivity). Within the explicitly reported boundaries of these analyses, BCL2, ALK, and CDK4, together with the AURKA and beta-tubulin axes of Alisertib and Docetaxel, emerge as computationally prioritized candidates for preclinical investigation, with replicate MD simulations on high-performance computing resources and experimental target engagement identified as the required next steps.",
+    "keywords": [
+      "AutoDock Vina",
+      "Cross-database validation",
+      "Drug repurposing",
+      "Hub gene",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Network sensitivity analysis",
+      "Neuroblastoma",
+      "Neuroblastoma therapeutics",
+      "Protein-protein interaction network",
+      "Systems biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zabihi, Abbas"
+      ],
+      "short_names": [
+        "Zabihi A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biology, Faculty of Basic Sciences, Islamic Azad University, Rasht Branch, Rasht, Iran. Electronic address: zabihi.abbasz@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zabihi, Abbas",
+        "short_name": "Zabihi A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Faculty of Basic Sciences, Islamic Azad University, Rasht Branch, Rasht, Iran. Electronic address: zabihi.abbasz@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42785137",
+      "42421348",
+      "41288681",
+      "40676786",
+      "42475469",
+      "42356587",
+      "42278407",
+      "42677280",
+      "42053674",
+      "41150817",
+      "36321557",
+      "41720062",
+      "42008967",
+      "42145839",
+      "42201028",
+      "41599736",
+      "42118388",
+      "41483318",
+      "42524252",
+      "42653779",
+      "39145086",
+      "41492010",
+      "41330962",
+      "42393402",
+      "41511918",
+      "42412272",
+      "38783288",
+      "42323571",
+      "42220119",
+      "41533020",
+      "42146949",
+      "42341349",
+      "42486346",
+      "42075882",
+      "42074514",
+      "37287284",
+      "42113694",
+      "41005317",
+      "42410224",
+      "40728954",
+      "42698445",
+      "41898239",
+      "35616676",
+      "38919088",
+      "41562054",
+      "42539528",
+      "41385176",
+      "42070473",
+      "42661803",
+      "42599654",
+      "41995568",
+      "42193325",
+      "42193347",
+      "41686791",
+      "42444708",
+      "42292825",
+      "42595923",
+      "42065764",
+      "42153145",
+      "42263871",
+      "42344111",
+      "41309766",
+      "42749415",
+      "37776011",
+      "41211465",
+      "42762305",
+      "42333553",
+      "39410900",
+      "41630051",
+      "42494425",
+      "40843941",
+      "41663811",
+      "39992538",
+      "42512087",
+      "42123445",
+      "42420581",
+      "36627660",
+      "42611581",
+      "42561603",
+      "42528928",
+      "42601413",
+      "41361311",
+      "42741553",
+      "41191606",
+      "42249966",
+      "41384025",
+      "41337159",
+      "42054915",
+      "41371106",
+      "41310859",
+      "41475071",
+      "41963573",
+      "39434198",
+      "40760645",
+      "42470472",
+      "42782515",
+      "40129159",
+      "42694440",
+      "39911278",
+      "32241274"
+    ],
+    "review": [
+      "42785137",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00546-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1341",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42765073",
+  "title": "Genetic vulnerability and dynamic mechanical stress synergistically drive sarcomere failure in human iPSC-derived cardiomyocytes.",
+  "authors": "Wang, Chenyan; Mai, Nhu Y; Donelson, Fred J; Moradi Nasab, Susan; Shi, Huaiyu; Yang, Huaxiao; Mather, Patrick T; Wang, Xinrui; Henderson, James H; Ma, Zhen",
+  "journal": "Materials today. Bio",
+  "published_date": "2026-09-21",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究利用CRISPR/Cas9工程化心肌细胞研究机械应力与基因突变对肌节功能的影响，但核心对象是心肌细胞力学表型而非CRISPR/碱基编辑机制，仅将CRISPR作为基因编辑工具，无切割或编辑机制研究，与本课题关联度低。",
+  "abstract": "Mechanical stress plays a critical role in regulating cardiomyocyte structure and physiology. However, mechanobiology studies still rely on static systems that failed to capture the progressive nature of native cardiac remodeling. Building on our prior shape memory polymer (SMP)-based platform, the present study integrates microcontact printing onto SMP substrates to achieve single-cell geometric control and on-demand dynamic mechanical modulation. Using CRISPR/Cas9-engineered MYBPC3- and BAG3-mutant hiPSC-CMs along with isogenic wild-type (WT) control, we systematically assessed sarcomere organization and contractile behavior under static and dynamic mechanical conditions. WT hiPSC-CMs displayed robust morphological adaptability and coordinated sarcomere remodeling in response to dynamic mechanical cues, whereas MYBPC3- and BAG3-deficient hiPSC-CMs exhibited mutation-specific defects in sarcomere integrity and contractile behavior that were exacerbated by dynamic mechanical stress. These results demonstrate that this SMP-based platform enables us to systematically compare genotype-based mechanical sensitivity to develop more severe cardiomyopathy phenotypes.",
+  "abstract_zh": "机械应力在调控心肌细胞结构与生理功能中发挥关键作用。然而，力学生物学研究仍依赖于静态系统，未能捕捉天然心脏重塑的渐进性特征。基于我们先前基于形状记忆聚合物 (shape memory polymer, SMP) 的平台，本研究将微接触印刷整合至SMP基底上，以实现单细胞几何控制及按需动态机械调节。利用CRISPR/Cas9工程化的MYBPC3-和BAG3突变型hiPSC-CMs，以及同基因野生型 (wild-type, WT) 对照，我们系统评估了在静态和动态机械条件下的肌节组织与收缩行为。WT hiPSC-CMs在响应动态机械信号时表现出稳健的形态适应性和协调的肌节重塑，而MYBPC3-和BAG3缺陷型hiPSC-CMs则表现出突变特异性的肌节完整性和收缩行为缺陷，且这些缺陷在动态机械应力下加剧。这些结果表明，该基于SMP的平台使我们能够系统比较基因型相关的机械敏感性，以开发更严重的心肌病表型。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42765073/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42765073/",
+  "paper_page_path": "papers/pubmed/42765073/index.html"
+}

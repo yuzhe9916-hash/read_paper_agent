@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42781626",
+  "title": "The novel function of the bZIP transcription factor VSF-1 in mediating fruit firmness in tomato.",
+  "authors": "Wang, Chunfeng; Zhang, Kangchi; Lv, Shouzheng; Lin, Yifan; Su, Guanqing; Liu, Zimeng; Lin, Xiahui; Shu, Xiu; He, Zhiren; Bouzayen, Mondher; Hu, Guojian; Shi, Yanna; Chen, Kunsong",
+  "journal": "Horticulture research",
+  "published_date": "2026-09-24",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究利用CRISPR-Cas9敲除番茄bZIP转录因子VSF-1并研究其对果实硬度的调控，虽使用了CRISPR工具但仅作为基因敲除手段，未涉及切割机制、碱基编辑或交错断裂等本课题核心机制。",
+  "abstract": "Fruit firmness is a critical quality trait primarily governed by the structure and composition of the cell wall. While extensive research has focused on firmness dynamics during fruit ripening, the regulatory mechanisms governing its establishment during early fruit development remain poorly understood. Previous studies have demonstrated that VASCULAR SPECIFICITY FACTOR 1 (VSF-1), a member of the bZIP family, is activated in vitro by the key fruit softening regulator LOB1, suggesting its potential role in the regulation of fruit firmness. In this study, we generated both CRISPR-Cas9-mediated knockout and overexpression lines in tomato; functional analysis revealed that the loss of VSF-1 function reduced fruit firmness, whereas its overexpression enhanced it, thereby establishing VSF-1 as a positive regulator of firmness. By integrating transcriptomic and DNA affinity purification sequencing profiling, we delineated the VSF-1-controlled gene regulatory network associated with cell wall remodeling and identified the beta-galactosidase gene, TBG6, as a direct target. Our findings uncover a novel role for VSF-1 in the transcriptional regulation of tomato fruit texture, underscore the functional diversification within the Solanaceae bZIP subfamily I, and provide new insights into the genetic improvement of fruit quality.",
+  "abstract_zh": "果实硬度是一个关键品质性状，主要受细胞壁结构和组成调控。尽管大量研究聚焦于果实成熟期间的硬度动态变化，但调控其早期发育阶段建立的机制仍知之甚少。先前研究表明，bZIP家族成员维管特异性因子1（VSF-1）在体外被关键果实软化调控因子LOB1激活，提示其在果实硬度调控中可能发挥作用。在本研究中，我们生成了番茄中CRISPR-Cas9介导的敲除和过表达株系；功能分析揭示，VSF-1功能缺失降低了果实硬度，而其过表达则增强了硬度，从而确立VSF-1为硬度的正调控因子。通过整合转录组学和DNA亲和纯化测序分析，我们描绘了VSF-1控制的与细胞壁重塑相关的基因调控网络，并鉴定出β-半乳糖苷酶基因TBG6为直接靶标。我们的发现揭示了VSF-1在番茄果实质地转录调控中的新作用，强调了茄科bZIP亚家族I内的功能分化，并为果实品质的遗传改良提供了新见解。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42781626/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42781626/",
+  "paper_page_path": "papers/pubmed/42781626/index.html"
+}

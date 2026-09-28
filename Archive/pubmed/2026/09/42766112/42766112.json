@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42766112",
+    "doi": "10.1007/s00203-026-05221-w",
+    "title": "Bacteriophage-bacteria coevolution: from molecular arms races to ecological and applied perspectives."
+  },
+  "content": {
+    "abstract": "Bacteriophages are the most abundant biological entities, driving bacterial evolution through long-term coevolution. Bacteria have evolved diverse defense strategies against phage, including receptor modification, restriction-modification systems, CRISPR-Cas, abortive infection systems, and newly discovered systems such as BREX, DISARM, CBASS, Thoeris, and Zorya. In response, phages deploy countermeasures such as receptor-binding diversification, anti-CRISPR proteins, DNA modification, and inhibitors targeting host immunity. These interactions generate distinct evolutionary dynamics-arms race and fluctuating selection-shaping microbial population structure and ecological stability. Phage-host coevolution promotes microbial diversity, horizontal gene transfer, and regulates community composition across ecosystems. Understanding these processes is critical for applications like phage therapy, microbiome engineering, and biotechnology. This review summarizes molecular mechanisms of bacterial defense and phage counter-defense, discusses coevolutionary models, highlights ecological and applied implications, and outlines future research directions.",
+    "keywords": [
+      "Antiviral defense systems",
+      "Bacteria",
+      "Bacteriophage",
+      "Coevolution",
+      "Phage counter-defense"
+    ],
+    "mesh_terms": [
+      "*Bacteriophages/genetics/physiology",
+      "*Bacteria/virology/genetics",
+      "*Biological Coevolution",
+      "Gene Transfer, Horizontal",
+      "Host-Pathogen Interactions",
+      "CRISPR-Cas Systems",
+      "*Biological Evolution",
+      "Evolution, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shang, Junjie",
+        "Li, Linghui",
+        "Dong, Chengqian",
+        "Wei, Yunlin"
+      ],
+      "short_names": [
+        "Shang J",
+        "Li L",
+        "Dong C",
+        "Wei Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China.",
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China.",
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China.",
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China. weiyunlin@kust.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shang, Junjie",
+        "short_name": "Shang J",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China."
+        ]
+      },
+      {
+        "full_name": "Li, Linghui",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Chengqian",
+        "short_name": "Dong C",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Yunlin",
+        "short_name": "Wei Y",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, 650500, China. weiyunlin@kust.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archives of microbiology"
+    ],
+    "journal_abbrev": [
+      "Arch Microbiol"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766112",
+      "41724841",
+      "41834980",
+      "33984274",
+      "40006990",
+      "41885929",
+      "31793351",
+      "24617569",
+      "33941066",
+      "37404190",
+      "33838632",
+      "20979102",
+      "32938767",
+      "26826796",
+      "30905282",
+      "41170433",
+      "36690071",
+      "36901793",
+      "25452498",
+      "42501080",
+      "30722720",
+      "32196554",
+      "31077304",
+      "26544847",
+      "28412903",
+      "30208287",
+      "38583547",
+      "39083849",
+      "21402528",
+      "38896653",
+      "22821466",
+      "35310856",
+      "23979432",
+      "29062071",
+      "40956103",
+      "29913091",
+      "28749735",
+      "33444542",
+      "32559405",
+      "36934807",
+      "30905285",
+      "36877024",
+      "28159786",
+      "36798152",
+      "38245560",
+      "25131402",
+      "40639337",
+      "29093571",
+      "30680434",
+      "41753780",
+      "39765217",
+      "40904109",
+      "30905289",
+      "23959171",
+      "39396887",
+      "40536890",
+      "37668405",
+      "36577749",
+      "39023219",
+      "27412881",
+      "22420856",
+      "31021234",
+      "28983932",
+      "22759281",
+      "27045713",
+      "37966603",
+      "28444888",
+      "21521436",
+      "23879538",
+      "22399370",
+      "23478639",
+      "30890613",
+      "26065266",
+      "29440578",
+      "39094583",
+      "31942051",
+      "38648198",
+      "36638909",
+      "38732145",
+      "37353926",
+      "31896785",
+      "42277643",
+      "42026225",
+      "40377313",
+      "22993102",
+      "30763535",
+      "37306585",
+      "35624106",
+      "28092408",
+      "40748957",
+      "42475469",
+      "25772450",
+      "41933523",
+      "31154089",
+      "28657885",
+      "39453741",
+      "39714187",
+      "29328063",
+      "38262608",
+      "38677076"
+    ],
+    "review": [
+      "42766112",
+      "41724841",
+      "41834980",
+      "33984274",
+      "40006990",
+      "41885929",
+      "31793351",
+      "24617569",
+      "33941066",
+      "33838632",
+      "20979102",
+      "26826796",
+      "41170433",
+      "36690071",
+      "36901793",
+      "42501080",
+      "32196554",
+      "31077304",
+      "28412903",
+      "30208287",
+      "38583547",
+      "39083849",
+      "21402528",
+      "22821466",
+      "23979432",
+      "29062071",
+      "28749735",
+      "33444542",
+      "32559405",
+      "36934807",
+      "25131402",
+      "30680434",
+      "39765217",
+      "40904109",
+      "30905289",
+      "23959171",
+      "39396887",
+      "27412881",
+      "22420856",
+      "31021234",
+      "28983932",
+      "27045713",
+      "23879538",
+      "22399370",
+      "23478639",
+      "26065266",
+      "31942051",
+      "36638909",
+      "38732145",
+      "37353926",
+      "42026225",
+      "22993102",
+      "30763535",
+      "41933523",
+      "28657885"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00203-026-05221-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

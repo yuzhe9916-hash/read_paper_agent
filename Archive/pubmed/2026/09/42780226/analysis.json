@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42780226",
+  "title": "Structure-guided identification of catalytic determinants in ZmGA20ox enables rational CRISPR target selection for gibberellin engineering in maize.",
+  "authors": "Kumar B V, Uday; H S, Sowmya; Praba, U Preethi; P S, Gajala; Kaur, Jessica; S, Shashank; Sandhu, Surinder K; Sharma, Priti; Rangu, Chandrashekar; Vikal, Yogesh",
+  "journal": "Frontiers in plant science",
+  "published_date": "2026-09-24",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 5,
+  "one_liner_zh": "该研究用结构预测、分子对接、MD模拟和体外CRISPR/Cas9切割实验，鉴定玉米GA20ox3催化关键残基并筛选编辑靶点；虽以CRISPR/Cas9为工具，但核心对象是植物代谢酶而非CRISPR/碱基编辑机制本身，机制深度有限，仅作靶点可行性验证。",
+  "abstract": "Gibberellin 20-oxidase is a key enzyme controlling gibberellin biosynthesis and represents an attractive target for engineering plant architecture and drought tolerance in maize. In this study, we developed a structure-guided computational workflow to investigate functionally important residues in maize gibberellin 20-oxidase 3 (ZmGA20ox3), integrating AI-based structural prediction, molecular docking, molecular dynamics simulations, and in vitroCRISPR/Cas9 guide RNA cleavage analysis. Structural analysis revealed the conserved Fe(2)(+)-binding catalytic triad (His147-Asp149-His166) surrounded by an aromatic substrate-recognition pocket comprising Phe151, Trp157, and Phe163. Docking analyses showed that native gibberellin substrates and the co-substrate 2-oxoglutarate occupied the predicted catalytic cavity, while prohexadione exhibited the most favourable predicted docking score among the tested ligands. Computational mutagenesis revealed generally less favourable predicted docking scores for the catalytic-site substitutions H147A, D149A, and H166A, whereas substitutions at aromatic substrate-recognition residues produced ligand-dependent effects. Subsequent 100 ns molecular dynamics simulations revealed distinct ligand-dependent conformational behaviours, with H147A affecting the stability of the predicted catalytic environment, whereas W157A primarily influenced ligand accommodation within the substrate-binding pocket. MM/GBSA analyses further indicated that favourable predicted ligand interactions do not necessarily imply a catalytically competent active-site configuration, highlighting the importance of productive active-site organization. Finally, in vitro CRISPR/Cas9 cleavage assays demonstrated sequence-specific cleavage of guide RNAs targeting the ZmGA20ox3 regions containing H147 and W157, supporting the feasibility of targeting these sites in subsequent genome-editing experiments. Collectively, this study provides structure-guided computational insights into the potential roles of key residues in ZmGA20ox3 and establishes a predictive framework for prioritizing candidate residues for future biochemical and genome-editing validation.",
+  "abstract_zh": "赤霉素20-氧化酶是控制赤霉素生物合成的关键酶，也是改造玉米植株结构和耐旱性的有吸引力的靶点。在本研究中，我们开发了一种结构引导的计算工作流程，以研究玉米赤霉素20-氧化酶3（ZmGA20ox3）中功能重要的残基，整合了基于AI的结构预测、分子对接、分子动力学模拟和体外CRISPR/Cas9引导RNA切割分析。结构分析揭示了保守的Fe(2)(+)-结合催化三联体（His147-Asp149-His166），其周围是由Phe151、Trp157和Phe163组成的芳香族底物识别口袋。对接分析表明，天然赤霉素底物和辅底物2-氧戊二酸占据了预测的催化腔，而调环酸钙（prohexadione）在测试配体中表现出最有利的预测对接分数。计算突变分析显示，催化位点替换H147A、D149A和H166A通常产生较不利的预测对接分数，而芳香族底物识别残基的替换则产生配体依赖性效应。随后的100 ns分子动力学模拟揭示了不同的配体依赖性构象行为，其中H147A影响预测催化环境的稳定性，而W157A主要影响底物结合口袋内的配体容纳。MM/GBSA分析进一步表明，有利的预测配体相互作用并不一定意味着催化活性位点构型，强调了生产性活性位点组织的重要性。最后，体外CRISPR/Cas9切割实验证明，靶向包含H147和W157的ZmGA20ox3区域的引导RNA具有序列特异性切割，支持在后续基因组编辑实验中靶向这些位点的可行性。总体而言，本研究为ZmGA20ox3中关键残基的潜在作用提供了结构引导的计算见解，并建立了一个预测框架，用于优先选择候选残基进行未来的生化和基因组编辑验证。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42780226/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42780226/",
+  "paper_page_path": "papers/pubmed/42780226/index.html"
+}

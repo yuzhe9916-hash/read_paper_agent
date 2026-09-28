@@ -1,0 +1,422 @@
+{
+  "identity": {
+    "pmid": "42792542",
+    "doi": "10.3390/biology15181596",
+    "title": "Mapping Bacteriophage-Based Antimicrobial Research in Southeast Asia: A Bibliometric Analysis of Scientific Productivity, Knowledge Structure, and Emerging Research Pathways."
+  },
+  "content": {
+    "abstract": "Southeast Asia faces a substantial burden of antimicrobial resistance (AMR), creating increasing interest in bacteriophage-based antimicrobial strategies. However, the regional development, contributors, collaboration patterns, and evolving research priorities of this field remain insufficiently characterized. This study conducted a bibliometric analysis of Scopus-indexed publications on bacteriophage-based antimicrobial research affiliated with Southeast Asian countries from 1981 to 2025. Bibliometrix/Biblioshiny and VOSviewer were used to evaluate scientific production, citation patterns, leading contributors, collaboration networks, and conceptual and thematic development. A total of 862 publications were analyzed, with scientific output accelerating markedly after 2019 and reaching its highest level in 2025. Thailand emerged as the dominant regional contributor, with Vongkamjan (n = 21) and Surachat (n = 20) as the two most prolific authors. Mahidol University (n = 182), Prince of Songkla University (n = 142), and Universiti Putra Malaysia (n = 139) were the leading institutions, demonstrating a concentration of research capacity in Thailand and Malaysia. Scientific Reports was the most productive journal (30 publications), whereas Frontiers in Microbiology recorded the highest citation count among the leading sources (963 citations). Collaboration mapping revealed increasingly interconnected regional and international research networks. Thematic analyses demonstrated a transition from foundational and pathogen-specific investigations toward AMR, bacteriophage therapy, biofilm control, aquaculture, genomic and comparative genomic analysis, wastewater and public-health applications, and One Health-oriented research. Emerging topics included endolysins, quorum sensing, CRISPR-associated approaches, metagenomics, and genome-informed phage characterization. These findings demonstrate the rapid expansion and thematic diversification of bacteriophage-based antimicrobial research in Southeast Asia while highlighting persistent geographic concentration and the need for stronger regional infrastructure, collaboration, and translational capacity.",
+    "keywords": [
+      "Southeast Asia",
+      "antimicrobial resistance",
+      "bacteriophage",
+      "bibliometric analysis",
+      "phage therapy",
+      "research trends"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ong, Christian Joseph N",
+        "Cabalbag, Johnalie N",
+        "Cruz, Jowi Tsidkenu Pili",
+        "Valderama, Teodora T",
+        "Roslin, Celia R",
+        "Magtibay, Carina M",
+        "Lonogan, Janice Kaylyn K",
+        "Libres, Amelda C",
+        "Matamis, Joel G",
+        "Mamaat, Jose Edwardo R",
+        "Mortel, Ferdinand A",
+        "Bacalzo, Grace D",
+        "Cabuhat, Kevin Smith P",
+        "de Leon, Carlos S",
+        "Nuevo, Jose Jurel M",
+        "Aguilan, Joel R",
+        "Fortaleza, Jamil Allen G"
+      ],
+      "short_names": [
+        "Ong CJN",
+        "Cabalbag JN",
+        "Cruz JTP",
+        "Valderama TT",
+        "Roslin CR",
+        "Magtibay CM",
+        "Lonogan JKK",
+        "Libres AC",
+        "Matamis JG",
+        "Mamaat JER",
+        "Mortel FA",
+        "Bacalzo GD",
+        "Cabuhat KSP",
+        "de Leon CS",
+        "Nuevo JJM",
+        "Aguilan JR",
+        "Fortaleza JAG"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-9755-6352",
+        "ORCID: 0009-0001-7743-8196",
+        "ORCID: 0009-0008-6552-707X",
+        "ORCID: 0009-0000-4869-3924"
+      ],
+      "affiliations": [
+        "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines.",
+        "Department of Biology, College of Arts and Sciences, Manila Central University, Caloocan 1400, Philippines.",
+        "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines.",
+        "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines.",
+        "Department of Medical Technology, College of Nursing, Cavite State University, Indang 4122, Philippines.",
+        "School of Medical Technology, Centro Escolar University, Manila 1001, Philippines.",
+        "College of Allied Medical Professions, Lyceum of the Philippines University, Batangas 4200, Philippines.",
+        "School of Natural Sciences, University of Baguio, Baguio City 2600, Philippines.",
+        "College of Medical Laboratory Science, Liceo de Cagayan University, Cagayan de Oro City 9000, Philippines.",
+        "School of Medical Laboratory Sciences, St. Dominic College of Asia, Bacoor 4102, Philippines.",
+        "Department of Medical Technology, Far Eastern University, Manila 1008, Philippines.",
+        "College of Medical Technology, Manila Central University, Caloocan 1400, Philippines.",
+        "College of Allied Medical Sciences, Wesleyan University-Philippines, Cabanatuan City 3100, Philippines.",
+        "Basic Education Department, La Consolacion University Philippines, Malolos 3000, Philippines.",
+        "Bulacan State University, Malolos City 3000, Philippines.",
+        "Department of Medical Laboratory Science, Dr. Carlos S. Lanting College, Quezon City 1116, Philippines.",
+        "College of Medical Laboratory Science, Our Lady of Fatima University, Valenzuela City 1440, Philippines.",
+        "College of Medical Technology, Calayan Educational Foundation, Inc., Lucena City 4301, Philippines.",
+        "National University, Sampaloc, Manila 1008, Philippines.",
+        "School of Arts and Sciences, NU Fairview, Quezon City 1100, Philippines."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ong, Christian Joseph N",
+        "short_name": "Ong CJN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines.",
+          "Department of Biology, College of Arts and Sciences, Manila Central University, Caloocan 1400, Philippines."
+        ]
+      },
+      {
+        "full_name": "Cabalbag, Johnalie N",
+        "short_name": "Cabalbag JN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines."
+        ]
+      },
+      {
+        "full_name": "Cruz, Jowi Tsidkenu Pili",
+        "short_name": "Cruz JTP",
+        "identifiers": [
+          "0009-0000-9755-6352"
+        ],
+        "affiliations": [
+          "Department of Biology, College of Science, De La Salle University, Manila 1004, Philippines."
+        ]
+      },
+      {
+        "full_name": "Valderama, Teodora T",
+        "short_name": "Valderama TT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Technology, College of Nursing, Cavite State University, Indang 4122, Philippines."
+        ]
+      },
+      {
+        "full_name": "Roslin, Celia R",
+        "short_name": "Roslin CR",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Technology, Centro Escolar University, Manila 1001, Philippines."
+        ]
+      },
+      {
+        "full_name": "Magtibay, Carina M",
+        "short_name": "Magtibay CM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Allied Medical Professions, Lyceum of the Philippines University, Batangas 4200, Philippines."
+        ]
+      },
+      {
+        "full_name": "Lonogan, Janice Kaylyn K",
+        "short_name": "Lonogan JKK",
+        "identifiers": [
+          "0009-0001-7743-8196"
+        ],
+        "affiliations": [
+          "School of Natural Sciences, University of Baguio, Baguio City 2600, Philippines."
+        ]
+      },
+      {
+        "full_name": "Libres, Amelda C",
+        "short_name": "Libres AC",
+        "identifiers": [],
+        "affiliations": [
+          "College of Medical Laboratory Science, Liceo de Cagayan University, Cagayan de Oro City 9000, Philippines."
+        ]
+      },
+      {
+        "full_name": "Matamis, Joel G",
+        "short_name": "Matamis JG",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Laboratory Sciences, St. Dominic College of Asia, Bacoor 4102, Philippines."
+        ]
+      },
+      {
+        "full_name": "Mamaat, Jose Edwardo R",
+        "short_name": "Mamaat JER",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Technology, Far Eastern University, Manila 1008, Philippines."
+        ]
+      },
+      {
+        "full_name": "Mortel, Ferdinand A",
+        "short_name": "Mortel FA",
+        "identifiers": [
+          "0009-0008-6552-707X"
+        ],
+        "affiliations": [
+          "College of Medical Technology, Manila Central University, Caloocan 1400, Philippines."
+        ]
+      },
+      {
+        "full_name": "Bacalzo, Grace D",
+        "short_name": "Bacalzo GD",
+        "identifiers": [],
+        "affiliations": [
+          "College of Allied Medical Sciences, Wesleyan University-Philippines, Cabanatuan City 3100, Philippines."
+        ]
+      },
+      {
+        "full_name": "Cabuhat, Kevin Smith P",
+        "short_name": "Cabuhat KSP",
+        "identifiers": [],
+        "affiliations": [
+          "Basic Education Department, La Consolacion University Philippines, Malolos 3000, Philippines.",
+          "Bulacan State University, Malolos City 3000, Philippines."
+        ]
+      },
+      {
+        "full_name": "de Leon, Carlos S",
+        "short_name": "de Leon CS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Science, Dr. Carlos S. Lanting College, Quezon City 1116, Philippines."
+        ]
+      },
+      {
+        "full_name": "Nuevo, Jose Jurel M",
+        "short_name": "Nuevo JJM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Medical Laboratory Science, Our Lady of Fatima University, Valenzuela City 1440, Philippines."
+        ]
+      },
+      {
+        "full_name": "Aguilan, Joel R",
+        "short_name": "Aguilan JR",
+        "identifiers": [
+          "0009-0000-4869-3924"
+        ],
+        "affiliations": [
+          "College of Medical Technology, Calayan Educational Foundation, Inc., Lucena City 4301, Philippines."
+        ]
+      },
+      {
+        "full_name": "Fortaleza, Jamil Allen G",
+        "short_name": "Fortaleza JAG",
+        "identifiers": [],
+        "affiliations": [
+          "National University, Sampaloc, Manila 1008, Philippines.",
+          "School of Arts and Sciences, NU Fairview, Quezon City 1100, Philippines."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology"
+    ],
+    "journal_abbrev": [
+      "Biology (Basel)"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792542",
+      "41862969",
+      "42474613",
+      "42616302",
+      "42359265",
+      "39935800",
+      "42265786",
+      "41806032",
+      "40341055",
+      "41623642",
+      "42583417",
+      "41646505",
+      "41707834",
+      "40580617",
+      "41883474",
+      "41659039",
+      "41486253",
+      "42247989",
+      "42299302",
+      "42393819",
+      "42662457",
+      "42144505",
+      "41995304",
+      "42088537",
+      "42694423",
+      "40530182",
+      "40983143",
+      "42287448",
+      "41428110",
+      "42158648",
+      "41978278",
+      "35065014",
+      "41285304",
+      "41511148",
+      "42298236",
+      "41481873",
+      "42616197",
+      "41883912",
+      "42405489",
+      "42474856",
+      "36747262",
+      "42474834",
+      "38495963",
+      "41450934",
+      "39429637",
+      "41510097",
+      "42220509",
+      "42512619",
+      "42182628",
+      "42328574",
+      "42656639",
+      "41004901",
+      "40677968",
+      "42512712",
+      "42582010",
+      "42475469",
+      "42344325",
+      "42608560",
+      "42583999",
+      "41986813",
+      "42162783",
+      "42152940",
+      "42780236",
+      "42474827",
+      "42510648",
+      "42018205",
+      "40746648",
+      "42536512",
+      "40367713",
+      "42247667",
+      "41284207",
+      "42067694",
+      "40546258",
+      "42568381",
+      "42384167",
+      "42609419",
+      "42423797",
+      "42721319",
+      "41809064",
+      "41961462",
+      "42503593",
+      "42756240",
+      "41064819",
+      "41941145",
+      "40822872",
+      "42598001",
+      "39967582",
+      "32775695",
+      "42581251",
+      "41432891",
+      "42257777",
+      "41935651",
+      "41266707",
+      "39897368",
+      "42222625",
+      "42216394",
+      "39608662",
+      "42588324",
+      "41247644",
+      "41029065"
+    ],
+    "review": [
+      "42792542",
+      "39935800",
+      "41623642",
+      "41646505",
+      "41659039",
+      "41486253",
+      "42662457",
+      "42088537",
+      "42694423",
+      "40530182",
+      "40983143",
+      "42298236",
+      "42616197",
+      "41883912",
+      "42405489",
+      "42474856",
+      "38495963",
+      "41450934",
+      "42220509",
+      "42328574",
+      "42656639",
+      "41004901",
+      "40677968",
+      "42512712",
+      "42582010",
+      "42608560",
+      "42583999",
+      "42152940",
+      "42780236",
+      "42510648",
+      "42067694",
+      "40546258",
+      "42568381",
+      "42384167",
+      "42609419",
+      "42423797",
+      "42756240",
+      "42598001",
+      "39967582",
+      "42581251",
+      "41935651",
+      "42222625"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biology15181596",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

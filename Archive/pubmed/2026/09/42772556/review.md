@@ -1,0 +1,70 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; structural and experimental details not assessable
+- **Shared manuscript claim summary** The authors report structural and functional characterization of the Serratia type III-A CRISPR complex (SerrCas10-Csm), showing that it synthesizes predominantly cA3, that target binding induces conformational changes, and that the complex can discriminate a sickle-cell-associated SNP in the human HBB transcript when positioned at the +1 site of the crRNA-target duplex, suggesting utility in point-of-care diagnostics.
+- **Visible evidence base** Abstract text only; no figures, methods, or data tables provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, experimental methods, structural coordinates, biochemical assay details, statistical analyses, and any supplementary information
+
+## Reviewer
+- **Overall assessment** The abstract presents a potentially interesting combination of structural biology and diagnostic application for a type III CRISPR system. The structural findings on conformational changes associated with target binding are plausible and would be of interest to the CRISPR and RNA biology communities. The diagnostic claim, however, is currently supported only by a single demonstration with one SNP at one position, and the abstract does not provide sufficient detail to evaluate robustness, specificity, or generalizability. The manuscript may be suitable for publication in a specialized journal, but the case for broad significance and diagnostic utility is not yet established from the abstract alone.
+- **Who would be interested in the results, and why** Structural biologists studying CRISPR-Cas effector complexes, particularly type III systems; researchers investigating cyclic oligoadenylate signaling; and developers of nucleic acid detection technologies, especially those targeting point-of-care applications in low-resource settings. The conformational mechanism of target sensing is of general interest to the RNA-protein recognition field.
+- **Major strengths** The work addresses a mechanistically important question, namely how Cas10 senses target RNA binding to trigger cOA synthesis. The combination of structural and functional data is a strong approach. The demonstration of SNP discrimination at a defined position is a concrete and potentially useful result. The focus on a specific disease-associated locus (HBB, sickle cell disease) gives the work translational relevance.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency for diagnostic claim
+  - **Claim pointer** "We demonstrate that when the polymorphism occurs in the +1 position of the crRNA-target duplex, SerrCas10-Csm can distinguish it indicating an additional role for type III CRISPR systems in point-of-care diagnostics in low-resource settings."
+  - **Evidence pointer** Abstract, final sentence; location not provided
+  - **Concern** The abstract reports a single demonstration of SNP discrimination at one position (+1) in one transcript (HBB). No information is provided on specificity metrics, signal-to-noise ratios, limits of detection, comparison to wild-type versus variant discrimination under varied conditions, or testing against other SNPs or mismatches at other positions.
+  - **Why it matters** The claim of utility in point-of-care diagnostics requires evidence of robust discrimination under realistic conditions, including background nucleic acid, varying target concentrations, and potential off-target activation. A single positive demonstration is insufficient to support a general diagnostic role.
+  - **Resolution test** Provide quantitative discrimination data (e.g., activation ratios, dose-response curves, specificity against mismatched targets at multiple positions), and ideally demonstrate detection in a clinically relevant matrix or with synthetic nucleic acid mimics of clinical samples.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Structural interpretation
+  - **Claim pointer** "we determined the structure of SerrCas10-Csm unbound and bound to target RNA identifying conformational changes associated with target binding"
+  - **Evidence pointer** Abstract, sentence 5; location not provided
+  - **Concern** The abstract states that conformational changes were identified but does not describe their nature, location, or magnitude. It is unclear whether these changes are localized to Cas10, involve domain rearrangements, or affect the crRNA-target duplex geometry.
+  - **Why it matters** The mechanistic claim that these conformational changes explain target sensing requires a clear description of what changes and how they couple to cOA synthesis. Without this, the structural work is descriptive rather than mechanistic.
+  - **Resolution test** Describe the conformational changes in the full manuscript with clear structural figures, and ideally correlate specific changes with functional states (e.g., inactive versus active conformations) using mutational or biochemical validation.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Generalizability of cA3 specificity
+  - **Claim pointer** "Serratia Cas10-Csm (SerrCas10-Csm) synthesizes predominantly cA(3) molecules"
+  - **Evidence pointer** Abstract, sentence 4; location not provided
+  - **Concern** The abstract states that cA3 is the predominant product but does not indicate whether other cOA species (cA4, cA6, mixed linkages) are also produced, in what ratios, or whether this product profile is unique to Serratia or shared with other type III systems.
+  - **Why it matters** The signaling specificity of type III systems depends on the cOA species produced and the cognate downstream effectors. If cA3 is not the exclusive product, the functional implications for signaling and diagnostic signal generation may be more complex than implied.
+  - **Resolution test** Provide quantitative product analysis (e.g., HPLC or mass spectrometry) showing the distribution of cOA species, and discuss the functional relevance of any minor products.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity of terminology
+  - **Affected element** "type III CRISPR complex" and "Cas10-Csm"
+  - **Evidence pointer** Abstract, title and sentence 1; location not provided
+  - **Issue** The abstract uses "type III CRISPR complex" and "Cas10-Csm" without specifying the subtype (e.g., III-A, III-B) or the complete subunit composition. The Csm nomenclature implies III-A, but this is not stated.
+  - **Required correction** Specify the subtype and list the full subunit composition of the complex in the abstract or at first mention.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Context for diagnostic claim
+  - **Affected element** "point-of-care diagnostics in low-resource settings"
+  - **Evidence pointer** Abstract, final sentence; location not provided
+  - **Issue** The abstract does not mention any features that would make this system suitable for low-resource settings, such as isothermal operation, minimal equipment requirements, or signal readout compatibility with simple devices.
+  - **Required correction** Briefly state the practical advantages of the system for low-resource settings, or temper the claim to reflect that this is a potential future application rather than a demonstrated one.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Statistical and quantitative reporting
+  - **Affected element** "sensitive to mismatches" and "can distinguish"
+  - **Evidence pointer** Abstract, sentences 4 and 7; location not provided
+  - **Issue** The abstract uses qualitative language ("sensitive," "can distinguish") without reporting quantitative thresholds, replicate numbers, or statistical significance.
+  - **Required correction** Include quantitative metrics (e.g., fold activation, discrimination ratios, p-values) in the abstract or indicate that these are provided in the full manuscript.
+- **Technical failings that need to be addressed before the case is established** R1-M1 is the primary blocking concern. The diagnostic claim requires quantitative discrimination data and ideally demonstration under conditions relevant to point-of-care use. R1-M2 and R1-M3 are important for mechanistic and functional interpretation but do not block the core structural finding.
+- **Assessment against Nature-style criteria** Originality: moderate. Structural characterization of a type III CRISPR complex is not unprecedented, but the specific focus on Serratia and the link to SNP detection adds some novelty. Scientific importance: moderate. The work contributes to understanding type III CRISPR target sensing but does not reveal a fundamentally new mechanism. Interdisciplinary readership: limited. The abstract is primarily of interest to CRISPR and RNA biology specialists; the diagnostic application is mentioned but not developed sufficiently to attract a broad diagnostics audience. Technical soundness: not assessable from the abstract alone. Readability for nonspecialists: the abstract is reasonably clear but assumes familiarity with CRISPR terminology and does not explain the significance of cA3 versus other cOA species for a general reader.
+- **Recommendation posture** Currently not established from the provided evidence. The structural findings are plausible and likely publishable in a specialized journal, but the diagnostic claim and the mechanistic interpretation require additional data that are not visible in the abstract. A revised assessment would be possible with the full manuscript.
+
+## Risk / unsupported claims
+- The claim of utility in point-of-care diagnostics is unsupported by the abstract alone; only a single SNP at a single position was tested, with no quantitative metrics or practical demonstration.
+- The claim that conformational changes "associated with target binding" explain target sensing is not supported without a description of the changes and their functional coupling.
+- The statement that cA3 is the predominant product implies a functional preference that is not contextualized against other possible cOA species or downstream effector compatibility.
+- The abstract implies that SNP discrimination at the +1 position is a general property of type III systems, but no comparative data across systems or positions are provided.

@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42772556",
+    "doi": "10.1016/j.jbc.2026.113595",
+    "title": "Structural insights into target detection by the Serratia type III CRISPR complex and its deployment in SNP identification."
+  },
+  "content": {
+    "abstract": "Type III CRISPR systems utilize a complex containing Cas10, additional Cas proteins and a crRNA to detect foreign transcripts. Upon detection, Cas10 synthesizes cyclic oligoadenylates (cOA), signaling molecules that coordinate interference by stimulating downstream enzymes with DNase, RNase, protease or other activities. Type III systems possess properties well-suited to their deployment as molecular diagnostics: specific detection and activation of a cascade of multi-turnover enzymatic reactions that can be harnessed for signal generation. We answered key questions concerning the structure and function of Serratia Cas10-Csm to facilitate its use in molecular diagnostics. We determined that Serratia Cas10-Csm (SerrCas10-Csm) synthesizes predominantly cA(3) molecules and this synthesis is sensitive to mismatches in the crRNA-target RNA duplex adjacent to Cas10. To understand how Cas10 senses the presence of a bound target RNA, we determined the structure of SerrCas10-Csm unbound and bound to target RNA identifying conformational changes associated with target binding. We programmed SerrCas10-Csm with a crRNA recognizing a single nucleotide polymorphism that occurs in the human HBB transcript and is associated with sickle cell disease. We demonstrate that when the polymorphism occurs in the +1 position of the crRNA-target duplex, SerrCas10-Csm can distinguish it indicating an additional role for type III CRISPR systems in point-of-care diagnostics in low-resource settings.",
+    "keywords": [
+      "CRISPR",
+      "Cas10",
+      "Type III",
+      "cryo-EM",
+      "diagnostic"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perdigao, Calvin C",
+        "Ajisafe, Luqman O",
+        "Sunny, Anju T",
+        "Wu, Si",
+        "Dokland, Terje",
+        "Dunkle, Jack A"
+      ],
+      "short_names": [
+        "Perdigao CC",
+        "Ajisafe LO",
+        "Sunny AT",
+        "Wu S",
+        "Dokland T",
+        "Dunkle JA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA.",
+        "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA.",
+        "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA.",
+        "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA.",
+        "Department of Microbiology, University of Alabama at Birmingham, Birmingham, AL, USA.",
+        "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA. Electronic address: jadunkle@ua.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perdigao, Calvin C",
+        "short_name": "Perdigao CC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA."
+        ]
+      },
+      {
+        "full_name": "Ajisafe, Luqman O",
+        "short_name": "Ajisafe LO",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA."
+        ]
+      },
+      {
+        "full_name": "Sunny, Anju T",
+        "short_name": "Sunny AT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Si",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA."
+        ]
+      },
+      {
+        "full_name": "Dokland, Terje",
+        "short_name": "Dokland T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, University of Alabama at Birmingham, Birmingham, AL, USA."
+        ]
+      },
+      {
+        "full_name": "Dunkle, Jack A",
+        "short_name": "Dunkle JA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Alabama, Tuscaloosa, AL, USA. Electronic address: jadunkle@ua.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 23:33",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42772556",
+      "41959359",
+      "36424814",
+      "41704216",
+      "31076459",
+      "37352230",
+      "30814678",
+      "30840895",
+      "30503773",
+      "38266982",
+      "27096362",
+      "39817514",
+      "28835904",
+      "30503210",
+      "30691642",
+      "39628911",
+      "38340341",
+      "28204542",
+      "38989619",
+      "37949766",
+      "38218299",
+      "30503774",
+      "35714601",
+      "24187086",
+      "41873043",
+      "36843655",
+      "29995577",
+      "31096876",
+      "30692669",
+      "30691643",
+      "32198888",
+      "32411384",
+      "28364023",
+      "28114398",
+      "34871408",
+      "32826317",
+      "42385699",
+      "30639408",
+      "36282000",
+      "28663439",
+      "27105119",
+      "31836139",
+      "32597755",
+      "36769177",
+      "36702942",
+      "35351985",
+      "31326272",
+      "41242302",
+      "25457165",
+      "38641067",
+      "39166476",
+      "35643083",
+      "39551936",
+      "29666291",
+      "24119402",
+      "34075364",
+      "28757251",
+      "36302881",
+      "31110048",
+      "41292787",
+      "34903162",
+      "26848045",
+      "40610153",
+      "25959775",
+      "29940185",
+      "25451598",
+      "36912817",
+      "28937734",
+      "28441427",
+      "31298604",
+      "41135510",
+      "28722012",
+      "23935102",
+      "36479971",
+      "25921071",
+      "38033324",
+      "38395113",
+      "42454678",
+      "30759237",
+      "25934119",
+      "27773522",
+      "40304961",
+      "38471818",
+      "25118175",
+      "24753403",
+      "38785320",
+      "37547020",
+      "41385322",
+      "25367038",
+      "42342668",
+      "37442412",
+      "29963983",
+      "31326273",
+      "26763118",
+      "33140167",
+      "42599816",
+      "33733066",
+      "25458845",
+      "33525825",
+      "28781236"
+    ],
+    "review": [
+      "42772556",
+      "37949766",
+      "36282000",
+      "38641067",
+      "34903162",
+      "29940185",
+      "38395113",
+      "25934119",
+      "27773522",
+      "33140167"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02467-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3694",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

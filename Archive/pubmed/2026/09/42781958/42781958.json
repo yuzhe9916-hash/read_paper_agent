@@ -1,0 +1,317 @@
+{
+  "identity": {
+    "pmid": "42781958",
+    "doi": "10.1002/ctm2.70764",
+    "title": "CRISPR-Cas9 and precision editing technologies linking functional genomics to clinical translation in genetic diseases."
+  },
+  "content": {
+    "abstract": "BACKGROUND: CRISPR-Cas9 and derivative precision-editing platforms increasingly connect pathogenic variant interpretation with functional genomics and therapeutic development in genetic diseases. This narrative review focuses on a variant-mechanism-driven framework for matching editing strategies to mutation structure, functional consequence, disease-model evidence, delivery feasibility, safety risk, and translational readiness. MAIN BODY: The review summarizes how monogenic, polygenic, coding, non-coding, mitochondrial, and complex disease contexts influence the choice of canonical Cas9 editing, base editing, prime editing, Cas variants, CRISPR interference/activation, epigenome editing, and disease-model systems. It further compares ex vivo and in vivo delivery routes, safety assessment strategies, immunogenicity and genotoxicity concerns, and clinical implementation barriers, including CMC/manufacturing scalability, long-term follow-up, affordability, and regulatory oversight. Current evidence supports the clinical maturity of ex vivo hematopoietic editing, whereas most in vivo and precision-repair approaches remain constrained by delivery, durability, product heterogeneity, and safety uncertainties. CONCLUSION: The central conclusion is that future CRISPR-based interventions should be judged not only by editability, but by whether molecular correction can be translated into durable, safe, manufacturable, and clinically meaningful benefit.",
+    "keywords": [
+      "CRISPR-Cas9",
+      "clinical translation",
+      "gene function research",
+      "genetic diseases",
+      "pathogenic mutations",
+      "precision editing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*CRISPR-Cas Systems/genetics",
+      "*Gene Editing/methods/trends",
+      "*Genomics/methods/trends",
+      "*Genetic Diseases, Inborn/therapy/genetics",
+      "*Translational Research, Biomedical/methods/trends",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wen, Zijing",
+        "Su, Jianming"
+      ],
+      "short_names": [
+        "Wen Z",
+        "Su J"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-3230-0505"
+      ],
+      "affiliations": [
+        "College of Animal Medicine, Hunan Agricultural University, Changsha, China.",
+        "College of Animal Medicine, Hunan Agricultural University, Changsha, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wen, Zijing",
+        "short_name": "Wen Z",
+        "identifiers": [
+          "0009-0001-3230-0505"
+        ],
+        "affiliations": [
+          "College of Animal Medicine, Hunan Agricultural University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Su, Jianming",
+        "short_name": "Su J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Animal Medicine, Hunan Agricultural University, Changsha, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical and translational medicine"
+    ],
+    "journal_abbrev": [
+      "Clin Transl Med"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42781958",
+      "42758354",
+      "42782748",
+      "42793032",
+      "41329461",
+      "42298891",
+      "41952451",
+      "34080099",
+      "42193866",
+      "41109516",
+      "42586245",
+      "42423795",
+      "42303162",
+      "42173386",
+      "40685330",
+      "41751840",
+      "39276086",
+      "32207531",
+      "42263664",
+      "39824581",
+      "42439976",
+      "28534256",
+      "42470832",
+      "40394347",
+      "42678547",
+      "39781718",
+      "41812941",
+      "38786024",
+      "30794581",
+      "41038616",
+      "42524609",
+      "29659822",
+      "42567105",
+      "42090053",
+      "27216776",
+      "42353791",
+      "41620000",
+      "41352695",
+      "30169977",
+      "37525893",
+      "29266637",
+      "39832688",
+      "29428910",
+      "42291973",
+      "36334354",
+      "42771304",
+      "32096600",
+      "42539480",
+      "41241768",
+      "41931258",
+      "37486514",
+      "42320852",
+      "42787623",
+      "41820622",
+      "40753800",
+      "42018092",
+      "41495582",
+      "39851560",
+      "38623982",
+      "40897994",
+      "41840824",
+      "40972958",
+      "28534255",
+      "41611149",
+      "42763006",
+      "42225517",
+      "40129147",
+      "30393194",
+      "41972732",
+      "40752775",
+      "42154426",
+      "28806273",
+      "34372494",
+      "31071448",
+      "33892188",
+      "32959897",
+      "41159723",
+      "39332185",
+      "41665042",
+      "31819946",
+      "33238136",
+      "40334730",
+      "35604372",
+      "32601435",
+      "36610813",
+      "36122230",
+      "37166046",
+      "36988873",
+      "32697075",
+      "37584115",
+      "38844700",
+      "31584620",
+      "42798792",
+      "33319680",
+      "31912450",
+      "42551559",
+      "41731282",
+      "42766154",
+      "41240134",
+      "36877952"
+    ],
+    "review": [
+      "42781958",
+      "42758354",
+      "42782748",
+      "42793032",
+      "41329461",
+      "42298891",
+      "41952451",
+      "34080099",
+      "42193866",
+      "41109516",
+      "42586245",
+      "42423795",
+      "42303162",
+      "42173386",
+      "41751840",
+      "39276086",
+      "32207531",
+      "42263664",
+      "39824581",
+      "42439976",
+      "28534256",
+      "42470832",
+      "40394347",
+      "42678547",
+      "39781718",
+      "41812941",
+      "38786024",
+      "30794581",
+      "41038616",
+      "42524609",
+      "29659822",
+      "42567105",
+      "42090053",
+      "27216776",
+      "42353791",
+      "41620000",
+      "41352695",
+      "30169977",
+      "37525893",
+      "29266637",
+      "39832688",
+      "29428910",
+      "42291973",
+      "36334354",
+      "42771304",
+      "32096600",
+      "42539480",
+      "41241768",
+      "41931258",
+      "37486514",
+      "42320852",
+      "42787623",
+      "41820622",
+      "40753800",
+      "42018092",
+      "41495582",
+      "39851560",
+      "38623982",
+      "40897994",
+      "41840824",
+      "40972958",
+      "28534255",
+      "41611149",
+      "42763006",
+      "42225517",
+      "40129147",
+      "30393194",
+      "41972732",
+      "40752775",
+      "42154426",
+      "28806273",
+      "34372494",
+      "31071448",
+      "32959897",
+      "39332185",
+      "41665042",
+      "31819946",
+      "33238136",
+      "40334730",
+      "35604372",
+      "32601435",
+      "36610813",
+      "37166046",
+      "36988873",
+      "37584115",
+      "38844700",
+      "31584620",
+      "33319680",
+      "31912450",
+      "42551559",
+      "41731282",
+      "42766154",
+      "41240134"
+    ],
+    "pmc": [
+      "13602823"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/geneticdisorders.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Genetic Disorders"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42781958/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70764",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

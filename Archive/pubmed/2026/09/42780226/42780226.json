@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "42780226",
+    "doi": "10.3389/fpls.2026.1948764",
+    "title": "Structure-guided identification of catalytic determinants in ZmGA20ox enables rational CRISPR target selection for gibberellin engineering in maize."
+  },
+  "content": {
+    "abstract": "Gibberellin 20-oxidase is a key enzyme controlling gibberellin biosynthesis and represents an attractive target for engineering plant architecture and drought tolerance in maize. In this study, we developed a structure-guided computational workflow to investigate functionally important residues in maize gibberellin 20-oxidase 3 (ZmGA20ox3), integrating AI-based structural prediction, molecular docking, molecular dynamics simulations, and in vitroCRISPR/Cas9 guide RNA cleavage analysis. Structural analysis revealed the conserved Fe(2)(+)-binding catalytic triad (His147-Asp149-His166) surrounded by an aromatic substrate-recognition pocket comprising Phe151, Trp157, and Phe163. Docking analyses showed that native gibberellin substrates and the co-substrate 2-oxoglutarate occupied the predicted catalytic cavity, while prohexadione exhibited the most favourable predicted docking score among the tested ligands. Computational mutagenesis revealed generally less favourable predicted docking scores for the catalytic-site substitutions H147A, D149A, and H166A, whereas substitutions at aromatic substrate-recognition residues produced ligand-dependent effects. Subsequent 100 ns molecular dynamics simulations revealed distinct ligand-dependent conformational behaviours, with H147A affecting the stability of the predicted catalytic environment, whereas W157A primarily influenced ligand accommodation within the substrate-binding pocket. MM/GBSA analyses further indicated that favourable predicted ligand interactions do not necessarily imply a catalytically competent active-site configuration, highlighting the importance of productive active-site organization. Finally, in vitro CRISPR/Cas9 cleavage assays demonstrated sequence-specific cleavage of guide RNAs targeting the ZmGA20ox3 regions containing H147 and W157, supporting the feasibility of targeting these sites in subsequent genome-editing experiments. Collectively, this study provides structure-guided computational insights into the potential roles of key residues in ZmGA20ox3 and establishes a predictive framework for prioritizing candidate residues for future biochemical and genome-editing validation.",
+    "keywords": [
+      "AlphaFold",
+      "ZmGA20ox3",
+      "molecular docking",
+      "molecular dynamics simulation",
+      "structure-guided genome editing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kumar B V, Uday",
+        "H S, Sowmya",
+        "Praba, U Preethi",
+        "P S, Gajala",
+        "Kaur, Jessica",
+        "S, Shashank",
+        "Sandhu, Surinder K",
+        "Sharma, Priti",
+        "Rangu, Chandrashekar",
+        "Vikal, Yogesh"
+      ],
+      "short_names": [
+        "Kumar B V U",
+        "H S S",
+        "Praba UP",
+        "P S G",
+        "Kaur J",
+        "S S",
+        "Sandhu SK",
+        "Sharma P",
+        "Rangu C",
+        "Vikal Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India.",
+        "Division of Agricultural Bioinformatics, ICAR-Indian Agricultural Statistics Research Institute, New Delhi, India.",
+        "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India.",
+        "University of Agricultural Sciences, Bangalore, India.",
+        "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India.",
+        "University of Agricultural Sciences, Bangalore, India.",
+        "Department of Plant Breeding and Genetics, Punjab Agricultural University, Ludhiana, India.",
+        "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India.",
+        "Star Agriseeds, Pvt. Ltd., Hyderabad, India.",
+        "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kumar B V, Uday",
+        "short_name": "Kumar B V U",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+        ]
+      },
+      {
+        "full_name": "H S, Sowmya",
+        "short_name": "H S S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Agricultural Bioinformatics, ICAR-Indian Agricultural Statistics Research Institute, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Praba, U Preethi",
+        "short_name": "Praba UP",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+        ]
+      },
+      {
+        "full_name": "P S, Gajala",
+        "short_name": "P S G",
+        "identifiers": [],
+        "affiliations": [
+          "University of Agricultural Sciences, Bangalore, India."
+        ]
+      },
+      {
+        "full_name": "Kaur, Jessica",
+        "short_name": "Kaur J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+        ]
+      },
+      {
+        "full_name": "S, Shashank",
+        "short_name": "S S",
+        "identifiers": [],
+        "affiliations": [
+          "University of Agricultural Sciences, Bangalore, India."
+        ]
+      },
+      {
+        "full_name": "Sandhu, Surinder K",
+        "short_name": "Sandhu SK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Breeding and Genetics, Punjab Agricultural University, Ludhiana, India."
+        ]
+      },
+      {
+        "full_name": "Sharma, Priti",
+        "short_name": "Sharma P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+        ]
+      },
+      {
+        "full_name": "Rangu, Chandrashekar",
+        "short_name": "Rangu C",
+        "identifiers": [],
+        "affiliations": [
+          "Star Agriseeds, Pvt. Ltd., Hyderabad, India."
+        ]
+      },
+      {
+        "full_name": "Vikal, Yogesh",
+        "short_name": "Vikal Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Agricultural Biotechnology, Punjab Agricultural University, Ludhiana, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 12:49",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42780226",
+      "41872407",
+      "42160909",
+      "30703686",
+      "42142462",
+      "42475469",
+      "40943500",
+      "42561603",
+      "27936513",
+      "39540746",
+      "42672009",
+      "42371179",
+      "42479387",
+      "41951832",
+      "38148416",
+      "41861871",
+      "42651805",
+      "42786864",
+      "40632195",
+      "42419186",
+      "42106528",
+      "42376479",
+      "42749264",
+      "42714666",
+      "42785137",
+      "40936770",
+      "42714810",
+      "41621295",
+      "26852122",
+      "42573392",
+      "41054392",
+      "42594574",
+      "39095391",
+      "41828834",
+      "41438622",
+      "42497234",
+      "25247697",
+      "41752073",
+      "42648275",
+      "41147280",
+      "23912807",
+      "42731184",
+      "42176283",
+      "41174319",
+      "26059477",
+      "42128112",
+      "36687047",
+      "35119780",
+      "42561427",
+      "39380278",
+      "42310064",
+      "42756694",
+      "41900115",
+      "41977118",
+      "37877218",
+      "42322907",
+      "28375731",
+      "37814544",
+      "42136682",
+      "42449968",
+      "42275761",
+      "41961390",
+      "33520346",
+      "30943891",
+      "42511731",
+      "42330575",
+      "33256744",
+      "42531153",
+      "41418394",
+      "35508083",
+      "30555184",
+      "40825424",
+      "42198380",
+      "37226062",
+      "42278315",
+      "16256968",
+      "30336451",
+      "42707374",
+      "29753941",
+      "24004829",
+      "41775123",
+      "41717423",
+      "42567509",
+      "26264734",
+      "21761917",
+      "30324898",
+      "42434172",
+      "32748070",
+      "29068268",
+      "42118388",
+      "40289327",
+      "42694262",
+      "35689914",
+      "42339821",
+      "22674578",
+      "18213512",
+      "42657169",
+      "41503904",
+      "11356104",
+      "40973684"
+    ],
+    "review": [
+      "42780226",
+      "42419186",
+      "36687047",
+      "28375731"
+    ],
+    "pmc": [
+      "13597750"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42780226/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1948764",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "identity": {
+    "pmid": "42765073",
+    "doi": "10.1016/j.mtbio.2026.103667",
+    "title": "Genetic vulnerability and dynamic mechanical stress synergistically drive sarcomere failure in human iPSC-derived cardiomyocytes."
+  },
+  "content": {
+    "abstract": "Mechanical stress plays a critical role in regulating cardiomyocyte structure and physiology. However, mechanobiology studies still rely on static systems that failed to capture the progressive nature of native cardiac remodeling. Building on our prior shape memory polymer (SMP)-based platform, the present study integrates microcontact printing onto SMP substrates to achieve single-cell geometric control and on-demand dynamic mechanical modulation. Using CRISPR/Cas9-engineered MYBPC3- and BAG3-mutant hiPSC-CMs along with isogenic wild-type (WT) control, we systematically assessed sarcomere organization and contractile behavior under static and dynamic mechanical conditions. WT hiPSC-CMs displayed robust morphological adaptability and coordinated sarcomere remodeling in response to dynamic mechanical cues, whereas MYBPC3- and BAG3-deficient hiPSC-CMs exhibited mutation-specific defects in sarcomere integrity and contractile behavior that were exacerbated by dynamic mechanical stress. These results demonstrate that this SMP-based platform enables us to systematically compare genotype-based mechanical sensitivity to develop more severe cardiomyopathy phenotypes.",
+    "keywords": [
+      "Active biomaterials",
+      "Disease modeling",
+      "Dynamic mechanobiology",
+      "Gene editing",
+      "Human induced pluripotent stem cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Chenyan",
+        "Mai, Nhu Y",
+        "Donelson, Fred J",
+        "Moradi Nasab, Susan",
+        "Shi, Huaiyu",
+        "Yang, Huaxiao",
+        "Mather, Patrick T",
+        "Wang, Xinrui",
+        "Henderson, James H",
+        "Ma, Zhen"
+      ],
+      "short_names": [
+        "Wang C",
+        "Mai NY",
+        "Donelson FJ",
+        "Moradi Nasab S",
+        "Shi H",
+        "Yang H",
+        "Mather PT",
+        "Wang X",
+        "Henderson JH",
+        "Ma Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biology, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical Engineering, University of North Texas, Denton, TX, USA.",
+        "Department of Chemical Engineering, Penn State University, University Park, PA, USA.",
+        "Department of Pharmacology, SUNY Upstate Medical University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+        "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+        "Department of Biology, Syracuse University, Syracuse, NY, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Chenyan",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Mai, Nhu Y",
+        "short_name": "Mai NY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Donelson, Fred J",
+        "short_name": "Donelson FJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Moradi Nasab, Susan",
+        "short_name": "Moradi Nasab S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+          "Department of Biology, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Huaiyu",
+        "short_name": "Shi H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Huaxiao",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, University of North Texas, Denton, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Mather, Patrick T",
+        "short_name": "Mather PT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, Penn State University, University Park, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinrui",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, SUNY Upstate Medical University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Henderson, James H",
+        "short_name": "Henderson JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Ma, Zhen",
+        "short_name": "Ma Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical & Chemical Engineering, Syracuse University, Syracuse, NY, USA.",
+          "BioInspired Institute for Materials and Living Systems, Syracuse University, Syracuse, NY, USA.",
+          "Department of Biology, Syracuse University, Syracuse, NY, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Materials today. Bio"
+    ],
+    "journal_abbrev": [
+      "Mater Today Bio"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 05:34",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42765073",
+      "41328308",
+      "42475469",
+      "31587567",
+      "30700234",
+      "42611695",
+      "42152135",
+      "31015724",
+      "29914921",
+      "37747346",
+      "28400398",
+      "39388496",
+      "31163704",
+      "39647438",
+      "37771571",
+      "40995491",
+      "35901275",
+      "27890729",
+      "41089247",
+      "38474188",
+      "36419836",
+      "29364522",
+      "37317833",
+      "39423657",
+      "41780556",
+      "40166280",
+      "26429802",
+      "41578383",
+      "31049579",
+      "31219556",
+      "42601625",
+      "41545619",
+      "41309526",
+      "36915380",
+      "41993022",
+      "36078153",
+      "42537982",
+      "26476764",
+      "39680735",
+      "42565878",
+      "36831187",
+      "33636116",
+      "38365813",
+      "36744470",
+      "35861968",
+      "41440879",
+      "27620334",
+      "33059525",
+      "42282692",
+      "36525964",
+      "32497296",
+      "35200697",
+      "29217433",
+      "38965264",
+      "41880663",
+      "25389285",
+      "33544492",
+      "40060015",
+      "38240646",
+      "28624223",
+      "31430211",
+      "30586709",
+      "35220905",
+      "39328831",
+      "31778832",
+      "38853909",
+      "40502028",
+      "42539166",
+      "30623132",
+      "34777601",
+      "38298530",
+      "32326701",
+      "24615475",
+      "41761335",
+      "28688751",
+      "41997427",
+      "34729935",
+      "31638832",
+      "41295360",
+      "41056371",
+      "40009457",
+      "31937807",
+      "27199119",
+      "32931925",
+      "38101154",
+      "37802074",
+      "40486207",
+      "35728000",
+      "37732466",
+      "34482543",
+      "34489730",
+      "33749089",
+      "33606581",
+      "41540467",
+      "30392975",
+      "36003954",
+      "38659742",
+      "38448643",
+      "41703309",
+      "26204225"
+    ],
+    "review": [
+      "42765073",
+      "28400398",
+      "41089247",
+      "40060015",
+      "39328831"
+    ],
+    "pmc": [
+      "13590074"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2590-0064(26)00912-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42765073/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-317",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

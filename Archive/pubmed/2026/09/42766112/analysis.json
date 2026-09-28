@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42766112",
+  "title": "Bacteriophage-bacteria coevolution: from molecular arms races to ecological and applied perspectives.",
+  "authors": "Shang, Junjie; Li, Linghui; Dong, Chengqian; Wei, Yunlin",
+  "journal": "Archives of microbiology",
+  "published_date": "2026-09-21",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 5,
+  "one_liner_zh": "综述噬菌体-细菌共进化中的防御与反防御机制，涵盖CRISPR-Cas系统，但侧重生态与应用，缺乏对切割/碱基编辑分子机制的深入分析。",
+  "abstract": "Bacteriophages are the most abundant biological entities, driving bacterial evolution through long-term coevolution. Bacteria have evolved diverse defense strategies against phage, including receptor modification, restriction-modification systems, CRISPR-Cas, abortive infection systems, and newly discovered systems such as BREX, DISARM, CBASS, Thoeris, and Zorya. In response, phages deploy countermeasures such as receptor-binding diversification, anti-CRISPR proteins, DNA modification, and inhibitors targeting host immunity. These interactions generate distinct evolutionary dynamics-arms race and fluctuating selection-shaping microbial population structure and ecological stability. Phage-host coevolution promotes microbial diversity, horizontal gene transfer, and regulates community composition across ecosystems. Understanding these processes is critical for applications like phage therapy, microbiome engineering, and biotechnology. This review summarizes molecular mechanisms of bacterial defense and phage counter-defense, discusses coevolutionary models, highlights ecological and applied implications, and outlines future research directions.",
+  "abstract_zh": "噬菌体是最丰富的生物实体，通过长期共进化驱动细菌的进化。细菌已进化出多种针对噬菌体的防御策略，包括受体修饰、限制-修饰系统、CRISPR-Cas、流产感染系统，以及新发现的系统如BREX、DISARM、CBASS、Thoeris和Zorya。作为回应，噬菌体部署反制措施，如受体结合多样化、抗CRISPR蛋白、DNA修饰以及靶向宿主免疫的抑制剂。这些相互作用产生不同的进化动态——军备竞赛和波动选择——塑造微生物种群结构和生态稳定性。噬菌体-宿主共进化促进微生物多样性、水平基因转移，并调节各生态系统中的群落组成。理解这些过程对于噬菌体疗法、微生物组工程和生物技术等应用至关重要。本综述总结了细菌防御和噬菌体反防御的分子机制，讨论了共进化模型，强调了生态和应用意义，并概述了未来研究方向。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42766112/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42766112/",
+  "paper_page_path": "papers/pubmed/42766112/index.html"
+}

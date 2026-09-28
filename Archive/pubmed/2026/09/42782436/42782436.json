@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42782436",
+    "doi": "10.1007/s11033-026-12801-y",
+    "title": "Towards precision antileishmanial drug discovery: Integrating multi-omics, functional genomics, artificial intelligence and host-directed therapeutics."
+  },
+  "content": {
+    "abstract": "Leishmaniasis remains one of the most neglected tropical diseases, affecting millions of people worldwide and posing a substantial public health burden in endemic regions. Current treatment options are limited by toxicity, high costs, prolonged treatment regimens, treatment failure, and the increasing emergence of drug-resistant parasites. Moreover, the remarkable genomic plasticity and adaptive capacity of Leishmania species, driven by mosaic aneuploidy and copy number variation, complicate durable target identification and underscore the need for precision-oriented therapeutic approaches. Recent developments in multi-omics strategies, CRISPR-based genome engineering, artificial intelligence, and host-directed therapeutics are transforming precision antileishmanial drug discovery. In this review, we explore how multi-omics technologies uncover pathways involved in parasite survival, virulence, and drug resistance. We examine the contributions of CRISPR-based technologies to functional genomic screening, target validation, and investigation of resistance mechanisms. Complementing these approaches, AI-assisted predictive modelling supports target prioritisation, virtual screening, and structure-guided drug discovery. We also discuss host-directed immunotherapy as a complementary strategy to parasite-directed therapies. Particular focus is placed on high-priority therapeutic pathways regulating redox homeostasis, sterol biosynthesis, MAP kinase signalling, mitochondrial electron transport, and arginine metabolism. Taken together, these strategies offer an integrated framework connecting target discovery, functional validation, computational prioritisation, and host immune modulation, while supporting a precision-oriented approach for the development of safer, more efficient, and resistance-resilient antileishmanial therapies.",
+    "keywords": [
+      "Artificial Intelligence",
+      "CRISPR-Cas9",
+      "Host-Directed Immunotherapy",
+      "Leishmaniasis",
+      "Multi-omics",
+      "Precision Drug Discovery"
+    ],
+    "mesh_terms": [
+      "*Drug Discovery/methods",
+      "Humans",
+      "Genomics/methods",
+      "*Leishmania/drug effects/genetics/pathogenicity",
+      "Host-Directed Therapy",
+      "*Antiprotozoal Agents/pharmacology/therapeutic use",
+      "Artificial Intelligence",
+      "Multiomics",
+      "*Leishmaniasis/drug therapy/genetics/parasitology",
+      "Animals",
+      "Precision Medicine/methods",
+      "Drug Resistance"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Topuz Ata, Derya",
+        "Ata, Anil",
+        "Odaci, Zeynep Tuba"
+      ],
+      "short_names": [
+        "Topuz Ata D",
+        "Ata A",
+        "Odaci ZT"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3477-711X"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Microbiology, Faculty of Pharmacy, Ankara University, 06560, Ankara, Turkiye.",
+        "Integrated Technologies Research Center (BUTAM), Ankara University, 06790, Ankara, Turkiye.",
+        "Department of Biochemistry, Ankara University Faculty of Pharmacy, 06560, Ankara, Turkiye. anilata@ankara.edu.tr.",
+        "Integrated Technologies Research Center (BUTAM), Ankara University, 06790, Ankara, Turkiye. anilata@ankara.edu.tr.",
+        "Faculty of Pharmacy, Ankara University, 06560, Ankara, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Topuz Ata, Derya",
+        "short_name": "Topuz Ata D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Microbiology, Faculty of Pharmacy, Ankara University, 06560, Ankara, Türkiye.",
+          "Integrated Technologies Research Center (BÜTAM), Ankara University, 06790, Ankara, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ata, Anıl",
+        "short_name": "Ata A",
+        "identifiers": [
+          "0000-0003-3477-711X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Ankara University Faculty of Pharmacy, 06560, Ankara, Türkiye. anilata@ankara.edu.tr.",
+          "Integrated Technologies Research Center (BÜTAM), Ankara University, 06790, Ankara, Türkiye. anilata@ankara.edu.tr."
+        ]
+      },
+      {
+        "full_name": "Odaci, Zeynep Tuba",
+        "short_name": "Odaci ZT",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Pharmacy, Ankara University, 06560, Ankara, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-28 07:03:48"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42782436",
+      "42675339",
+      "28594938",
+      "41461245",
+      "31473855",
+      "42366266",
+      "42614800",
+      "39452707",
+      "40806492",
+      "42065059",
+      "38669848",
+      "24328400",
+      "42340977",
+      "34818139",
+      "33238841",
+      "41645653",
+      "42537823",
+      "35838221",
+      "42475469",
+      "34668739",
+      "42772585",
+      "40425118",
+      "38335558",
+      "39837431",
+      "42230553",
+      "41671243",
+      "39644325",
+      "26024228",
+      "24772958",
+      "28647378",
+      "41088199",
+      "41832735",
+      "42737663",
+      "42123604",
+      "42746096",
+      "30293058",
+      "36603357",
+      "41033399",
+      "41872995",
+      "38864609",
+      "25936844",
+      "28443518",
+      "41987748",
+      "33615725",
+      "28869896",
+      "42085808",
+      "42292041",
+      "41751160",
+      "32562606",
+      "23480865",
+      "31362122",
+      "40185168",
+      "20721829",
+      "42183196",
+      "41213734",
+      "41482234",
+      "39299989",
+      "41096677",
+      "41912303",
+      "39977580",
+      "42173625",
+      "28805165",
+      "42435607",
+      "41237902",
+      "41628813",
+      "42514636",
+      "41477459",
+      "42274624",
+      "42652104",
+      "42031056",
+      "42782912",
+      "41616992",
+      "42423795",
+      "42536663",
+      "39752369",
+      "38461268",
+      "41839763",
+      "40782836",
+      "42624345",
+      "23593521",
+      "42576339",
+      "41786285",
+      "42780123",
+      "41701359",
+      "25543123",
+      "31323307",
+      "40806624",
+      "29718739",
+      "29240765",
+      "27174193",
+      "12223057",
+      "38663471",
+      "40869045",
+      "38518969",
+      "42688815",
+      "21243582",
+      "32003668",
+      "41170183",
+      "42734842",
+      "36342284"
+    ],
+    "review": [
+      "42782436",
+      "42675339",
+      "28594938",
+      "41461245",
+      "31473855",
+      "42366266",
+      "42614800",
+      "39452707",
+      "40806492",
+      "42065059",
+      "42340977",
+      "34818139",
+      "33238841",
+      "41645653",
+      "42537823",
+      "35838221",
+      "42772585",
+      "40425118",
+      "38335558",
+      "39837431",
+      "42230553",
+      "41671243",
+      "39644325",
+      "24772958",
+      "28647378",
+      "42737663",
+      "42123604",
+      "42746096",
+      "30293058",
+      "36603357",
+      "41033399",
+      "41872995",
+      "25936844",
+      "28443518",
+      "41987748",
+      "33615725",
+      "28869896",
+      "42292041",
+      "41751160",
+      "23480865",
+      "40185168",
+      "20721829",
+      "42183196",
+      "41213734",
+      "41482234",
+      "41096677",
+      "41912303",
+      "39977580",
+      "42173625",
+      "28805165",
+      "42435607",
+      "41237902",
+      "41628813",
+      "42514636",
+      "41477459",
+      "42274624",
+      "42652104",
+      "42782912",
+      "41616992",
+      "42423795",
+      "42536663",
+      "39752369",
+      "38461268",
+      "41839763",
+      "40782836",
+      "42624345",
+      "42576339",
+      "41786285",
+      "42780123",
+      "41701359",
+      "25543123",
+      "40806624",
+      "29718739",
+      "29240765",
+      "12223057",
+      "38663471",
+      "40869045",
+      "38518969",
+      "42688815",
+      "21243582",
+      "32003668",
+      "41170183",
+      "42734842"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/leishmaniasis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Leishmaniasis"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11033-026-12801-y",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

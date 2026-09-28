@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Integrative Systems Biology Prioritizes BCL2, ALK, and CDK4 as Therapeutic Candidates in Neuroblastoma through Multi-Centrality Network Analysis, Cross-Database Validation, Independent Docking Validation, and Confidence-Threshold Sensitivity Analysis. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-low">2</span>
+    <div>
+      <h1>Integrative Systems Biology Prioritizes BCL2, ALK, and CDK4 as Therapeutic Candidates in Neuroblastoma through Multi-Centrality Network Analysis, Cross-Database Validation, Independent Docking Validation, and Confidence-Threshold Sensitivity Analysis.</h1>
+      <div class="meta">Zabihi, Abbas</div>
+      <div class="meta muted">
+        
+        <span class="journal">Computational biology and chemistry</span>
+        · 2026-09-24
+         · 仅摘要
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/42785137/">原文</a>
+      </div>
+      <p class="one-liner">该研究通过多中心网络分析、对接和MD模拟优先神经母细胞瘤治疗靶点（BCL2、ALK、CDK4），但对象非CRISPR/碱基编辑，机制上仅涉及药物-靶点结合，无核酸酶切割或碱基编辑机制，与本课题关联微弱。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">BACKGROUND: Neuroblastoma remains a therapeutic challenge due to its molecular heterogeneity, yet the convergent network topology of its oncogenic interactome has not been systematically characterized using multi-criteria computational approaches. An integrative computational framework combining network-based hub gene prioritization, cross-database biological validation, and structure-based drug-target assessment is needed to identify and prioritize therapeutic molecular targets. METHODS: An integrative computational pipeline was developed comprising (i) batch-effect correction (ComBat) and differential expression analysis of two neuroblastoma microarray datasets (GSE10927, GSE16476); (ii) protein-protein interaction (PPI) network reconstruction (STRING v11.5) and multi-criteria candidate identification using six complementary centrality metrics (degree, betweenness, closeness, MCC, MNC, EPC); (iii) modular decomposition (Louvain algorithm) and functional enrichment analysis (GO, KEGG, WikiPathways); (iv) miRNA regulatory network analysis (DIANA-miRPath/TarBase); (v) independent cross-validation against six external databases (TARGET-NBL, Human Protein Atlas, CCLE, DepMap, GDSC, cBioPortal); (vi) molecular docking (HDOCK) and 100-ns molecular dynamics simulations (one trajectory per complex) with trajectory analysis (RMSD, RMSF, Rg, hydrogen-bond occupancy); and (vii) two revision-stage verification analyses: an independent AutoDock Vina re-docking validation of the five drug-target pairs and their co-crystallized ligands, and a confidence-threshold sensitivity analysis of the PPI network (0.400/0.700/0.900) computed on the version-locked STRING v11.5 release restricted to the exported hub node set. RESULTS: The batch-corrected transcriptomic integration effectively separated tumors from normal samples (PCA, 82.9% variance explained). Multi-criteria network analysis prioritized BCL2, ALK, MYCN, CDK4, and MAPT as leading candidates. Modular decomposition revealed seven functional clusters spanning cell cycle regulation, apoptosis, MAPK signaling, and neuronal differentiation. BCL2, ALK, and CDK4 showed multi-database validation concordance: transcriptomic overexpression (TARGET-NBL, log2FC = 1.84 for BCL2, FDR &lt; 0.001), protein-level confirmation (Human Protein Atlas), selective gene dependency (DepMap CRISPR), and pharmacogenomic sensitivity (GDSC). miRNA network analysis identified miR-34a as a master post-transcriptional regulator targeting BCL2, CDK4, and MYCN simultaneously. The original HDOCK docking and 100-ns MD analyses (one trajectory per complex) supported predicted binding stability for BCL2/Venetoclax (HDOCK score: -271.19), ALK/Ceritinib (-222.91), and CDK4/Abemaciclib (-219.76). The revision-stage sensitivity analysis showed that hub-hub connectivity is strongly threshold-dependent (508, 138, and 48 interactions among the exported hub nodes at confidence &gt;/= 0.400, 0.700, and 0.900), and that the centrality of the three priority genes is sensitive to network stringency; they are therefore described as computationally prioritized candidates rather than threshold-robust hubs. The independent Vina validation recovered the native binding sites of all five targets (top-pose centroid offsets 0.15-2.6 A) with favorable scores for every drug-target pair (-12.3 to -6.4 kcal/mol), while pose-level RMSD values (4.8-7.3 A) showed that rigid-receptor docking does not resolve exact ligand orientations for these flexible inhibitors; docking scores are therefore interpreted as site-level binding-competence evidence only. CONCLUSIONS: This study presents an integrative computational pipeline for network-based drug-target prioritization in neuroblastoma, combining multi-criteria network topology, multi-database biological validation, HDOCK docking with single-trajectory MD stability assessment, and two independent revision-stage verification analyses (AutoDock Vina re-docking and confidence-threshold sensitivity). Within the explicitly reported boundaries of these analyses, BCL2, ALK, and CDK4, together with the AURKA and beta-tubulin axes of Alisertib and Docetaxel, emerge as computationally prioritized candidates for preclinical investigation, with replicate MD simulations on high-performance computing resources and experimental target engagement identified as the required next steps.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">背景：神经母细胞瘤因其分子异质性仍是治疗难题，但其致癌相互作用组的汇聚网络拓扑尚未通过多标准计算方法系统表征。需要一种整合计算框架，结合基于网络的枢纽基因优先级排序、跨数据库生物学验证和基于结构的药物-靶点评估，以识别并优先排序治疗性分子靶点。方法：开发了一种整合计算流程，包括（i）批次效应校正（ComBat）和两个神经母细胞瘤微阵列数据集（GSE10927、GSE16476）的差异表达分析；（ii）蛋白质-蛋白质相互作用（PPI）网络重建（STRING v11.5）及使用六种互补中心性指标（degree、betweenness、closeness、MCC、MNC、EPC）的多标准候选识别；（iii）模块分解（Louvain算法）和功能富集分析（GO、KEGG、WikiPathways）；（iv）miRNA调控网络分析（DIANA-miRPath/TarBase）；（v）针对六个外部数据库（TARGET-NBL、Human Protein Atlas、CCLE、DepMap、GDSC、cBioPortal）的独立交叉验证；（vi）分子对接（HDOCK）和100-ns分子动力学模拟（每个复合物一条轨迹），并进行轨迹分析（RMSD、RMSF、Rg、氢键占有率）；以及（vii）两个修订阶段验证分析：对五个药物-靶点对及其共结晶配体的独立AutoDock Vina重新对接验证，以及在版本锁定的STRING v11.5版本上、限制于导出的枢纽节点集计算的PPI网络置信度阈值敏感性分析（0.400/0.700/0.900）。结果：批次校正后的转录组整合有效分离了肿瘤与正常样本（PCA，解释82.9%方差）。多标准网络分析将BCL2、ALK、MYCN、CDK4和MAPT优先列为领先候选。模块分解揭示了七个功能簇，涵盖细胞周期调控、凋亡、MAPK信号传导和神经元分化。BCL2、ALK和CDK4显示出多数据库验证一致性：转录组过表达（TARGET-NBL，BCL2的log2FC = 1.84，FDR &lt; 0.001）、蛋白水平确认（Human Protein Atlas）、选择性基因依赖性（DepMap CRISPR）和药物基因组学敏感性（GDSC）。miRNA网络分析识别出miR-34a作为同时靶向BCL2、CDK4和MYCN的主转录后调控因子。原始HDOCK对接和100-ns MD分析（每个复合物一条轨迹）支持BCL2/Venetoclax（HDOCK评分：-271.19）、ALK/Ceritinib（-222.91）和CDK4/Abemaciclib（-219.76）的预测结合稳定性。修订阶段敏感性分析显示，枢纽-枢纽连接性强烈依赖阈值（在置信度≥0.400、0.700和0.900下，导出的枢纽节点间分别有508、138和48个相互作用），且三个优先基因的中心性对网络严格性敏感；因此，它们被描述为计算优先候选，而非阈值稳健枢纽。独立Vina验证恢复了所有五个靶点的天然结合位点（最高姿态质心偏移0.15-2.6 Å），每个药物-靶点对均获得有利评分（-12.3至-6.4 kcal/mol），而姿态级RMSD值（4.8-7.3 Å）表明刚性受体对接无法解析这些柔性抑制剂的精确配体取向；因此，对接评分仅被解释为位点级结合能力证据。结论：本研究提出了一种整合计算流程，用于神经母细胞瘤中基于网络的药物-靶点优先排序，结合多标准网络拓扑、多数据库生物学验证、HDOCK对接与单轨迹MD稳定性评估，以及两个独立修订阶段验证分析（AutoDock Vina重新对接和置信度阈值敏感性）。在这些分析明确报告的边界内，BCL2、ALK和CDK4，连同Alisertib和Docetaxel的AURKA和β-微管蛋白轴，成为计算优先的临床前研究候选，而高性能计算资源上的重复MD模拟和实验性靶点参与被确定为必要的后续步骤。</div>
+  </section>
+  
+  
+  
+</article>
+</main>
+</body>
+</html>
