@@ -1,0 +1,546 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Auto-SMART: a web-based platform for repair-template design for CRISPR/Cas9 homology-directed editing. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-mid">5</span>
+    <div>
+      <h1>Auto-SMART: a web-based platform for repair-template design for CRISPR/Cas9 homology-directed editing.</h1>
+      <div class="meta">Zhao, Chuanping; Cao, Yan; Martemyanov, Kirill A</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv : the preprint server for biology</span>
+        · 2026-10-01
+         · 全文(pmc)
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/42818104/">原文</a>
+      </div>
+      <p class="one-liner">该文介绍Auto-SMART网络平台，用于设计CRISPR/Cas9同源定向修复的供体模板，通过沉默突变优化切割位点与编辑位点间距；虽涉及Cas9切割与HDR修复模板设计，但侧重工具应用而非分子机制研究，故评分为5。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Genome engineering via CRISPR/Cas9 has been widely applied in biological research and developing gene therapies. However, genome editing flexibility is strongly constrained by the position and quality of guide RNAs relative to the intended edit: desired edit sites are frequently positioned far from efficient protospacer adjacent motifs (PAM). SMART (Silently Mutate And Repair Template) technique relaxes this constraint by silently mutating the gap between the Cas9 cut and the edit in the repair donor, preserving the encoded protein while expanding the usable guide-RNA design space. Designing such donors manually requires coordinated reasoning over transcript structure, reading frame, candidate protospacers, codon usage, homology arms and the expected edited allele. Auto-SMART is a web platform that automates this process for CRISPR/Cas9-mediated insertion, deletion, point mutation and sequence replacement in coding exons and in introns. Users choose a genome assembly, search a gene symbol or transcript, select a modification site and select an editing operation. Auto-SMART finds nearby Streptococcus pyogenes Cas9 (SpCas9) guides, ranks them by predicted on-target activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, automatically recodes residual on-target sites to prevent re-cutting and renders interpretable panels for the target locus, donor template and locus after HDR, together with a downloadable report and a Primer3 genotyping handoff. The web application for Auto-SMART is freely available at https://auto-smart.chuanping.org/ .</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">通过CRISPR/Cas9进行的基因组工程已广泛应用于生物学研究和基因治疗开发中。然而，基因组编辑的灵活性受到引导RNA相对于预期编辑位点的位置和质量的强烈限制：理想的编辑位点往往距离高效的原间隔区邻近基序（PAM）较远。SMART（沉默突变并修复模板）技术通过在不改变编码蛋白的前提下，对修复供体中Cas9切割位点与编辑位点之间的间隔进行沉默突变，从而放宽了这一限制，同时扩展了可用的引导RNA设计空间。手动设计此类供体需要对转录本结构、阅读框、候选原间隔区、密码子使用、同源臂以及预期编辑后的等位基因进行协调推理。Auto-SMART是一个网络平台，可自动化这一过程，适用于CRISPR/Cas9介导的编码外显子和内含子中的插入、删除、点突变和序列替换。用户选择基因组组装版本，搜索基因符号或转录本，选择修饰位点并选择编辑操作。Auto-SMART会寻找附近的化脓性链球菌Cas9（SpCas9）引导序列，根据预测的靶向活性和切割到编辑的几何结构进行排序，构建带有同义替换的修复模板，自动重新编码残留的靶向位点以防止再切割，并为目标位点、供体模板和HDR后的位点生成可解释的图谱，同时提供可下载的报告和Primer3基因分型交接文件。Auto-SMART的Web应用程序可免费访问，网址为https://auto-smart.chuanping.org/。</div>
+  </section>
+  
+  
+  <section>
+    <h2>Paper Card</h2>
+    <div class="md"><h2>01 基本信息</h2>
+<ul>
+<li><strong>标题</strong>：Auto-SMART: a web-based platform for repair-template design for CRISPR/Cas9 homology-directed editing</li>
+<li><strong>作者</strong>：Zhao, Chuanping; Cao, Yan; Martemyanov, Kirill A</li>
+<li><strong>单位</strong>：未提供（bioRxiv 预印本未在摘要中列出单位）</li>
+<li><strong>期刊/平台</strong>：bioRxiv : the preprint server for biology</li>
+<li><strong>年份</strong>：2026-10-01</li>
+<li><strong>论文类型</strong>：预印本（方法/工具类）</li>
+<li><strong>领域</strong>：CRISPR/Cas9 基因组编辑、修复模板设计、同源定向修复（HDR）</li>
+<li><strong>关键词</strong>：CRISPR/Cas9、HDR、repair template、SMART、guide RNA 设计、web platform</li>
+<li><strong>DOI/ID</strong>：10.64898/2026.09.16.752223</li>
+<li><strong>代码</strong>：未提供（仅提供 web 应用 URL：https://auto-smart.chuanping.org/）</li>
+<li><strong>数据</strong>：未提供（未提及训练/验证数据集）</li>
+<li><strong>阅读日期</strong>：2026-10-01（以预印本日期计）</li>
+<li><strong>在该课题方向中的位置</strong>：本文聚焦 CRISPR/Cas9 的 HDR 修复模板自动化设计，核心机制是 SMART（Silently Mutate And Repair Template）策略——通过同义突变沉默 Cas9 切割位点与目标编辑之间的序列，从而扩大 guide RNA 设计空间。这与本课题的 <strong>stagger-cleavage（交错切割）机制</strong> 直接相关：SMART 策略的核心是处理 Cas9 切割产生的交错切口（staggered cut）与编辑位点之间的间隔序列，通过同义突变避免 re-cutting。同时，该平台支持点突变、插入、删除和序列替换，可作为 <strong>碱基编辑（base editing）</strong> 的互补工具——当碱基编辑器受 PAM 限制或编辑窗口限制时，Auto-SMART 可提供基于 HDR 的替代方案。</li>
+</ul>
+<hr />
+<h2>02 一句话总结</h2>
+<p>Auto-SMART 是一个 web 平台，通过自动化 SMART 策略（在修复供体中同义突变 Cas9 切割位点与编辑位点之间的间隔序列），解决 CRISPR/Cas9 HDR 编辑中 PAM 位置限制问题，从而扩大 guide RNA 设计空间并防止 re-cutting。</p>
+<hr />
+<h2>03 研究问题</h2>
+<ul>
+<li><strong>具体问题</strong>：CRISPR/Cas9 介导的 HDR 编辑中，目标编辑位点常常远离高效的 PAM 序列，导致可用的 guide RNA 选择受限；同时，Cas9 切割后若修复供体保留原始靶序列，可能被再次切割（re-cutting），降低 HDR 效率。</li>
+<li><strong>为什么重要</strong>：基因组编辑的灵活性直接受 guide RNA 位置和质量约束。若编辑位点附近缺乏合适 PAM，则无法使用 SpCas9 进行高效编辑，限制了基因治疗和基础研究的应用范围。</li>
+<li><strong>现有方法为何不足</strong>：手动设计 SMART 供体需要协调推理转录本结构、阅读框、候选 protospacer、密码子使用、同源臂和预期编辑后等位基因，过程繁琐且易出错，缺乏自动化工具。</li>
+<li><strong>精确研究问题</strong>：Can a web-based platform automatically design repair templates that silently mutate the Cas9 cut-to-edit gap, thereby expanding the usable guide-RNA design space while preserving the encoded protein?</li>
+</ul>
+<hr />
+<h2>04 背景与发展脉络</h2>
+<blockquote>
+<p>注：以下脉络基于本文摘要及该领域已知背景，标注为「经外部核验」的部分基于 CRISPR 领域通用知识。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>代表性方法</th>
+<th>优点</th>
+<th>局限</th>
+<th>本文主张的位置</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>早期 HDR 编辑</td>
+<td>传统供体模板设计（手工）</td>
+<td>简单直接</td>
+<td>受 PAM 位置限制，编辑位点远离 PAM 时效率低</td>
+<td>—</td>
+</tr>
+<tr>
+<td>PAM 扩展</td>
+<td>使用不同 Cas9 变体（如 SpCas9 变体、SaCas9）</td>
+<td>扩大 PAM 识别范围</td>
+<td>仍需特定 PAM 序列，且变体效率不一</td>
+<td>—</td>
+</tr>
+<tr>
+<td>碱基编辑</td>
+<td>胞嘧啶/腺嘌呤碱基编辑器</td>
+<td>无需 DSB，不依赖 HDR</td>
+<td>编辑窗口有限，仅支持特定碱基转换</td>
+<td>互补而非替代</td>
+</tr>
+<tr>
+<td>SMART 策略</td>
+<td>手动设计 SMART 供体（Silently Mutate And Repair Template）</td>
+<td>通过同义突变沉默切割-编辑间隔，扩大 guide 设计空间</td>
+<td>手动设计复杂，需跨多个层面协调</td>
+<td>本文自动化此过程</td>
+</tr>
+<tr>
+<td><strong>本文（Auto-SMART）</strong></td>
+<td><strong>Web 平台自动化 SMART 供体设计</strong></td>
+<td><strong>自动化、可及性高、集成 guide 排名与 genotyping 交接</strong></td>
+<td><strong>依赖 SpCas9；仅支持编码外显子和内含子</strong></td>
+<td><strong>将 SMART 从手动推向自动化</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>05 核心痛点</h2>
+<table>
+<thead>
+<tr>
+<th>痛点</th>
+<th>表现</th>
+<th>成因或作者解释</th>
+<th>文中证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PAM 位置限制</td>
+<td>目标编辑位点远离高效 PAM，可用 guide RNA 少</td>
+<td>编辑位点与 PAM 的空间关系固定，SpCas9 需 NGG PAM</td>
+<td>Abstract 第 2-3 行</td>
+</tr>
+<tr>
+<td>手动设计复杂</td>
+<td>设计 SMART 供体需协调转录本结构、阅读框、密码子、同源臂等多层面</td>
+<td>多约束条件需同时满足，人工推理易出错</td>
+<td>Abstract 第 4-5 行</td>
+</tr>
+<tr>
+<td>Re-cutting 风险</td>
+<td>修复供体保留原始靶序列时，Cas9 可能再次切割</td>
+<td>供体序列与靶序列一致时，Cas9 可识别并切割</td>
+<td>Abstract 第 7 行（"automatically recodes residual on-target sites to prevent re-cutting"）</td>
+</tr>
+<tr>
+<td>设计空间受限</td>
+<td>可用 guide RNA 数量不足，影响编辑灵活性</td>
+<td>上述 PAM 限制与 re-cutting 共同作用</td>
+<td>Abstract 第 2-3 行</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>06 核心思想</h2>
+<h3>1) 表面方法</h3>
+<p>Auto-SMART 是一个 web 平台，用户选择基因组组装、搜索基因符号或转录本、选择修饰位点和编辑操作（插入、删除、点突变、序列替换），平台自动完成以下流程：找到附近 SpCas9 guide → 按预测 on-target 活性和切割-编辑几何关系排序 → 构建含同义替换的修复模板 → 自动重编码残余 on-target 位点防止 re-cutting → 渲染靶位点、供体模板和 HDR 后位点的可视化面板 → 输出可下载报告和 Primer3 genotyping 交接。</p>
+<h3>2) 核心洞察</h3>
+<p>SMART 策略的核心洞察是：<strong>通过同义突变沉默 Cas9 切割位点与编辑位点之间的间隔序列，可以在不改变编码蛋白的前提下，使原本因 PAM 位置不佳而不可用的 guide RNA 变得可用</strong>。这本质上是将「编辑位点必须靠近 PAM」的刚性约束，转化为「切割位点与编辑位点之间的间隔序列可被灵活调整」的软约束。</p>
+<h3>3) 可能的普适教训 [Analysis]</h3>
+<ul>
+<li><strong>约束转化</strong>：将刚性空间约束（编辑位点必须靠近 PAM）转化为可调参数（间隔序列可同义突变），是扩大设计空间的一般策略。本课题中，<strong>stagger-cleavage 机制</strong> 产生的交错切口同样存在「切割位点与编辑位点间隔」问题，可借鉴此思路。</li>
+<li><strong>自动化多约束协调</strong>：将转录本结构、阅读框、密码子使用、同源臂等多层面约束自动化协调，是工具类方法的核心价值。</li>
+</ul>
+<hr />
+<h2>07 方法总览</h2>
+<ul>
+<li><strong>输入</strong>：基因组组装版本、基因符号或转录本 ID、修饰位点、编辑操作类型（插入/删除/点突变/序列替换）</li>
+<li><strong>输出</strong>：候选 SpCas9 guide 列表（按 on-target 活性和切割-编辑几何排序）、修复模板序列（含同义替换）、HDR 后位点可视化面板、可下载报告、Primer3 genotyping 交接文件</li>
+<li><strong>模块</strong>：
+  1. Guide 搜索模块：寻找编辑位点附近的 SpCas9 protospacer
+  2. Guide 排序模块：按预测 on-target 活性和切割-编辑几何关系排序
+  3. 修复模板构建模块：生成含同义替换的供体序列
+  4. Re-cutting 预防模块：自动重编码残余 on-target 位点
+  5. 可视化模块：渲染靶位点、供体、HDR 后位点面板
+  6. 报告与交接模块：生成下载报告和 Primer3 genotyping 交接</li>
+<li><strong>训练</strong>：未提供（未提及机器学习模型或训练数据）</li>
+<li><strong>工具</strong>：SpCas9 预测算法（具体未提供）、Primer3（用于 genotyping 引物设计）</li>
+<li><strong>反馈回路</strong>：未提供（未提及用户反馈或迭代优化机制）</li>
+<li><strong>假设</strong>：SpCas9 为默认核酸酶；编辑位点位于编码外显子或内含子中；同义突变不改变蛋白序列</li>
+</ul>
+<p><strong>文字流程</strong>：
+用户输入基因组版本和基因信息 → 选择编辑位点和操作类型 → 平台搜索附近 SpCas9 protospacer → 按活性和几何排序 → 构建含同义替换的修复模板 → 重编码残余 on-target 位点 → 生成可视化面板和报告 → 输出 Primer3 genotyping 交接。</p>
+<hr />
+<h2>08 核心模块拆解</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>功能</th>
+<th>为何需要</th>
+<th>输入输出</th>
+<th>支撑证据</th>
+<th>移除后的已知或预期影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Guide 搜索模块</td>
+<td>寻找编辑位点附近的 SpCas9 protospacer</td>
+<td>编辑位点附近需有可用 PAM 才能进行 Cas9 切割</td>
+<td>输入：编辑位点、基因组版本；输出：候选 protospacer 列表</td>
+<td>Abstract 第 5-6 行</td>
+<td>预期影响：无 guide 可用，HDR 无法进行 [Analysis]</td>
+</tr>
+<tr>
+<td>Guide 排序模块</td>
+<td>按预测 on-target 活性和切割-编辑几何关系排序</td>
+<td>不同 guide 的切割效率和与编辑位点的距离不同，影响 HDR 效率</td>
+<td>输入：候选 protospacer 列表；输出：排序后的 guide 列表</td>
+<td>Abstract 第 6 行</td>
+<td>预期影响：排序不佳可能导致选择低效 guide [Analysis]</td>
+</tr>
+<tr>
+<td>修复模板构建模块</td>
+<td>生成含同义替换的供体序列</td>
+<td>SMART 策略核心——通过同义突变沉默切割-编辑间隔</td>
+<td>输入：guide 位置、编辑操作、转录本序列；输出：修复模板序列</td>
+<td>Abstract 第 4-5 行</td>
+<td>预期影响：无此模块则 SMART 策略无法实现 [Analysis]</td>
+</tr>
+<tr>
+<td>Re-cutting 预防模块</td>
+<td>自动重编码残余 on-target 位点</td>
+<td>防止修复供体被 Cas9 再次切割</td>
+<td>输入：修复模板序列；输出：重编码后的模板</td>
+<td>Abstract 第 7 行</td>
+<td>预期影响：re-cutting 降低 HDR 效率 [Analysis]</td>
+</tr>
+<tr>
+<td>可视化模块</td>
+<td>渲染靶位点、供体、HDR 后位点面板</td>
+<td>帮助用户理解编辑结果</td>
+<td>输入：靶位点、供体、HDR 后序列；输出：可视化面板</td>
+<td>Abstract 第 7-8 行</td>
+<td>预期影响：降低可解释性 [Analysis]</td>
+</tr>
+<tr>
+<td>报告与交接模块</td>
+<td>生成下载报告和 Primer3 genotyping 交接</td>
+<td>便于实验验证和记录</td>
+<td>输入：所有设计结果；输出：报告文件、Primer3 引物</td>
+<td>Abstract 第 8 行</td>
+<td>预期影响：增加实验验证难度 [Analysis]</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>注：所有消融影响均为「预期影响」[Analysis]，本文未提供实测消融实验。</p>
+</blockquote>
+<hr />
+<h2>09 关键公式符号</h2>
+<p><strong>不适用</strong>。本文为工具/平台类论文，摘要中未提供任何数学公式或符号定义。SMART 策略的核心逻辑（同义突变沉默间隔序列）是序列操作规则而非数学公式。</p>
+<hr />
+<h2>10 实验设计与证据链</h2>
+<ul>
+<li><strong>数据集/群体</strong>：未提供（摘要中未提及验证数据集或测试案例）</li>
+<li><strong>规模</strong>：未提供</li>
+<li><strong>指标</strong>：未提供（未提及 on-target 活性预测的具体指标、HDR 效率等）</li>
+<li><strong>基线</strong>：未提供（未与手动设计或其他工具对比）</li>
+<li><strong>预算</strong>：未提供</li>
+<li><strong>骨干/仪器</strong>：未提供（web 平台，具体技术栈未提及）</li>
+<li><strong>Oracle 输入</strong>：未提供（未提及使用已知正确模板作为验证）</li>
+<li><strong>评测协议</strong>：未提供（未描述如何验证平台输出正确性）</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>实验</th>
+<th>检验的 claim</th>
+<th>对比与条件</th>
+<th>结果</th>
+<th>支持的结论</th>
+<th>不支持更强的结论</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>未提供</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>摘要中无实验描述</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>注：本文为预印本工具论文，摘要中未包含实验验证部分。完整验证需查阅全文（未提供）。</p>
+</blockquote>
+<hr />
+<h2>11 结论正确解读</h2>
+<ul>
+<li><strong>任务范围</strong>：Auto-SMART 仅针对 SpCas9 介导的 HDR 编辑，支持编码外显子和内含子中的插入、删除、点突变和序列替换。</li>
+<li><strong>Oracle/真值输入</strong>：未提供。平台输出未经实验验证，仅基于算法预测。</li>
+<li><strong>端到端状态</strong>：平台提供从 guide 搜索到模板设计的完整流程，但未验证实际 HDR 效率。</li>
+<li><strong>算力成本</strong>：未提供。</li>
+<li><strong>历史数据依赖</strong>：未提供（未提及依赖任何训练数据或历史编辑数据）。</li>
+<li><strong>模型依赖</strong>：依赖 SpCas9 on-target 活性预测算法（具体模型未提供）。</li>
+<li><strong>最难情形</strong>：未提供（推测：编辑位点位于高复杂度区域或同源臂较短时可能更具挑战 [Analysis]）。</li>
+<li><strong>群体/领域边界</strong>：仅适用于 SpCas9；不适用于其他 Cas9 变体或碱基编辑器；仅支持编码外显子和内含子，不涉及非编码 RNA 或调控区域。</li>
+<li><strong>不确定性</strong>：平台输出的 guide 排名和模板设计未经 wet-lab 验证，实际编辑效率可能受多种因素影响（如细胞类型、转染效率、同源臂长度等）。</li>
+</ul>
+<p><strong>有边界的复述</strong>：Auto-SMART 是一个针对 SpCas9 的 HDR 修复模板自动化设计平台，通过 SMART 策略扩大 guide RNA 设计空间并防止 re-cutting，但其输出未经实验验证，实际编辑效率需用户自行确认。</p>
+<hr />
+<h2>12 作者自认局限</h2>
+<p>在提供的材料（摘要）中未发现作者明确承认的局限。</p>
+<p><strong>作者提及的相关约束</strong>（非正式局限）：
+- 平台仅支持 SpCas9（摘要中明确提及 "Streptococcus pyogenes Cas9 (SpCas9)"）
+- 仅支持编码外显子和内含子中的编辑操作
+- 未提及对非编码区域或其他 Cas9 变体的支持</p>
+<hr />
+<h2>13 批判性分析</h2>
+<table>
+<thead>
+<tr>
+<th>[Analysis] 观察</th>
+<th>潜在问题或替代解释</th>
+<th>为何重要</th>
+<th>如何检验</th>
+<th>依据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>摘要中无实验验证</td>
+<td>平台输出可能未经 wet-lab 验证，guide 排名和模板设计的实际效果未知</td>
+<td>工具类论文若无验证，用户无法评估其可靠性</td>
+<td>查阅全文是否有验证实验；或独立测试平台输出</td>
+<td>Abstract 全文无实验描述</td>
+</tr>
+<tr>
+<td>仅支持 SpCas9</td>
+<td>其他 Cas9 变体（如 SaCas9、Cas12a）的 PAM 不同，SMART 策略可能需调整</td>
+<td>限制了平台的通用性</td>
+<td>检查平台是否计划扩展其他 Cas9</td>
+<td>Abstract 明确提及 SpCas9</td>
+</tr>
+<tr>
+<td>未提及与现有工具对比</td>
+<td>无法判断 Auto-SMART 相对于手动设计或其他工具（如 Benchling、CRISPOR）的优势</td>
+<td>用户需要知道选择该工具的理由</td>
+<td>查阅全文是否有对比实验</td>
+<td>Abstract 无对比描述</td>
+</tr>
+<tr>
+<td>Re-coding 策略的潜在风险</td>
+<td>自动重编码残余 on-target 位点可能引入非预期突变或影响 mRNA 剪接</td>
+<td>同义突变虽不改变蛋白，但可能影响剪接调控或 mRNA 稳定性</td>
+<td>检查平台是否考虑剪接位点或外显子剪接增强子</td>
+<td>Abstract 仅提及 "synonymous substitutions"</td>
+</tr>
+<tr>
+<td>密码子使用优化的缺失</td>
+<td>摘要未提及密码子使用优化，可能影响表达水平</td>
+<td>同义突变可能改变密码子使用频率，影响蛋白表达</td>
+<td>检查平台是否提供密码子优化选项</td>
+<td>Abstract 未提及</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>14 学到什么</h2>
+<p><strong>Agent 提炼的知识候选</strong>：</p>
+<ol>
+<li>
+<p><strong>SMART 策略的核心逻辑</strong>：通过同义突变沉默 Cas9 切割位点与编辑位点之间的间隔序列，可在不改变蛋白序列的前提下扩大 guide RNA 设计空间。<strong>迁移到本课题</strong>：在 <strong>stagger-cleavage（交错切割）机制</strong> 研究中，Cas9 切割产生的交错切口（通常为 1-3 nt 突出端）同样存在「切割位点与编辑位点间隔」问题。可借鉴 SMART 思路，通过同义突变调整间隔序列，使交错切割产生的切口位置更有利于 HDR 或碱基编辑。</p>
+</li>
+<li>
+<p><strong>约束转化思想</strong>：将「编辑位点必须靠近 PAM」的刚性约束转化为「间隔序列可调」的软约束。<strong>迁移到本课题</strong>：在 <strong>碱基编辑（base editing）</strong> 中，编辑窗口（通常为 protospacer 的 4-8 位）受 PAM 位置限制。可借鉴此思路，通过同义突变调整编辑窗口内的序列，使碱基编辑器可作用于目标位点。</p>
+</li>
+<li>
+<p><strong>Re-coding 防止 re-cutting</strong>：自动重编码残余 on-target 位点，防止修复供体被 Cas9 再次切割。<strong>迁移到本课题</strong>：在 HDR 实验中，供体模板若保留原始靶序列，可能被 Cas9 再次切割。此策略可直接应用于任何 HDR 实验设计。</p>
+</li>
+<li>
+<p><strong>多约束自动化协调</strong>：将转录本结构、阅读框、密码子使用、同源臂等多层面约束自动化。<strong>迁移到本课题</strong>：在设计碱基编辑或 HDR 实验时，可开发类似工具自动化处理多约束条件。</p>
+</li>
+<li>
+<p><strong>Web 平台的可及性</strong>：将复杂设计流程封装为 web 应用，降低使用门槛。<strong>迁移到本课题</strong>：可考虑将 stagger-cleavage 分析或碱基编辑设计工具封装为类似平台。</p>
+</li>
+</ol>
+<hr />
+<h2>15 与已有知识连接</h2>
+<ul>
+<li><strong>CRISPR/Cas9 HDR 机制</strong>：HDR 依赖同源臂和供体模板，Cas9 切割产生 DSB 后通过 HDR 修复。本文的 SMART 策略是对 HDR 供体设计的优化，与经典 HDR 机制一致（经外部核验：HDR 是 CRISPR 编辑的主要修复途径之一）。</li>
+<li><strong>SMART 策略</strong>：本文是 SMART 策略的自动化实现。SMART 最初由 Martemyanov 实验室提出（作者之一），本文是其 web 化工具（作者主张，基于作者列表推断 [Analysis]）。</li>
+<li><strong>Stagger-cleavage 机制</strong>：Cas9 切割产生平末端或交错切口（取决于 guide RNA 和靶序列）。本文的「切割-编辑几何关系」排序直接涉及切割位点与编辑位点的空间关系，与 stagger-cleavage 机制相关（经外部核验：Cas9 切割通常产生平末端，但某些情况下可产生交错切口）。</li>
+<li><strong>碱基编辑</strong>：碱基编辑器（如 BE4、ABE）不依赖 DSB 和 HDR，但受编辑窗口和 PAM 限制。Auto-SMART 的 HDR 方案可作为碱基编辑的互补工具（经外部核验：碱基编辑与 HDR 是两种互补的编辑策略）。</li>
+<li><strong>Guide RNA 设计工具</strong>：与 CRISPOR、Benchling 等工具相比，Auto-SMART 的独特之处在于集成 SMART 策略和 re-coding 功能（作者主张，基于摘要描述 [Analysis]）。</li>
+</ul>
+<hr />
+<h2>16 研究想法</h2>
+<p><strong>Agent 生成的研究候选</strong>：</p>
+<h3>候选 1：SMART 策略在碱基编辑中的应用</h3>
+<ul>
+<li><strong>名称</strong>：SMART-BE：同义突变策略扩展碱基编辑窗口</li>
+<li><strong>来源局限/观察</strong>：碱基编辑受编辑窗口（protospacer 4-8 位）和 PAM 位置限制，目标位点常不在编辑窗口内</li>
+<li><strong>核心假设</strong>：通过同义突变调整编辑窗口内的序列，可使碱基编辑器作用于原本不可及的目标位点</li>
+<li><strong>相对本文的增量</strong>：将 SMART 策略从 HDR 扩展到碱基编辑，解决碱基编辑的窗口限制</li>
+<li><strong>初步方法</strong>：设计算法，在目标位点附近寻找可同义突变的序列，使目标碱基进入编辑窗口</li>
+<li><strong>验证方式</strong>：在细胞系中测试 SMART-BE 设计的编辑效率，与标准碱基编辑对比</li>
+<li><strong>可能的失败模式</strong>：同义突变可能影响 mRNA 稳定性或剪接；编辑窗口内序列可能无法通过同义突变调整</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 2：Stagger-cleavage 感知的修复模板设计</h3>
+<ul>
+<li><strong>名称</strong>：Stagger-aware HDR template design</li>
+<li><strong>来源局限/观察</strong>：Cas9 切割产生的交错切口（staggered cut）影响 HDR 修复效率和保真度，但现有工具未考虑此因素</li>
+<li><strong>核心假设</strong>：根据预测的切割模式（平末端 vs 交错切口）优化供体模板设计，可提高 HDR 效率</li>
+<li><strong>相对本文的增量</strong>：在 Auto-SMART 的「切割-编辑几何关系」基础上，显式建模 stagger-cleavage 模式</li>
+<li><strong>初步方法</strong>：整合切割模式预测算法，在模板设计中考虑切口位置和突出端长度</li>
+<li><strong>验证方式</strong>：比较不同切割模式下，stagger-aware 模板与标准模板的 HDR 效率</li>
+<li><strong>可能的失败模式</strong>：切割模式预测不准确；交错切口对 HDR 的影响可能小于预期</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 3：Auto-SMART 的扩展：多 Cas9 变体支持</h3>
+<ul>
+<li><strong>名称</strong>：Auto-SMART-X：支持多种 Cas9 变体的修复模板设计</li>
+<li><strong>来源局限/观察</strong>：Auto-SMART 仅支持 SpCas9，其他 Cas9 变体（如 SaCas9、Cas12a）的 PAM 和切割模式不同</li>
+<li><strong>核心假设</strong>：将 SMART 策略扩展到多种 Cas9 变体，可进一步扩大编辑设计空间</li>
+<li><strong>相对本文的增量</strong>：扩展平台适用性</li>
+<li><strong>初步方法</strong>：为每种 Cas9 变体适配 PAM 识别、guide 搜索和 re-coding 规则</li>
+<li><strong>验证方式</strong>：在不同 Cas9 变体下测试模板设计效果</li>
+<li><strong>可能的失败模式</strong>：不同 Cas9 变体的切割模式差异大，SMART 策略可能需大幅调整</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 4：同义突变对 mRNA 剪接影响的预测</h3>
+<ul>
+<li><strong>名称</strong>：Splice-aware SMART design</li>
+<li><strong>来源局限/观察</strong>：同义突变虽不改变蛋白序列，但可能影响外显子剪接增强子（ESE）或剪接位点</li>
+<li><strong>核心假设</strong>：在 SMART 设计中整合剪接预测，可避免同义突变引入的剪接异常</li>
+<li><strong>相对本文的增量</strong>：增加安全性维度</li>
+<li><strong>初步方法</strong>：整合 ESE 预测算法（如 ESEfinder），在模板设计中排除可能破坏剪接的突变</li>
+<li><strong>验证方式</strong>：RNA-seq 验证设计模板的剪接模式</li>
+<li><strong>可能的失败模式</strong>：剪接预测算法准确性有限；同义突变对剪接的影响可能被高估</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul></div>
+  </section>
+  
+  
+  <section>
+    <h2>审稿人评审</h2>
+    <div class="md"><h2>Review setup</h2>
+<ul>
+<li><strong>Input scope</strong> Abstract only</li>
+<li><strong>Assessment boundary</strong> Claims and evidence as presented in the abstract; no methods, figures, tables, or supplementary materials were provided for evaluation</li>
+<li><strong>Shared manuscript claim summary</strong> The authors present Auto-SMART, a web-based platform that automates repair-template design for CRISPR/Cas9 homology-directed editing. The platform reportedly automates the SMART (Silently Mutate And Repair Template) technique, which uses synonymous mutations in the repair donor to expand the usable guide-RNA design space relative to the edit site. The abstract claims the platform supports multiple editing operations (insertion, deletion, point mutation, sequence replacement) in coding exons and introns, ranks SpCas9 guides by predicted activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, recodes residual on-target sites, and provides visualization and genotyping handoff.</li>
+<li><strong>Visible evidence base</strong> Abstract text only. No methods section, no figures, no tables, no validation data, no benchmark results, no comparison to existing tools, no user study, no performance metrics, no case examples.</li>
+<li><strong>Missing materials affecting confidence</strong> Methods description, software architecture details, validation datasets, benchmark comparisons against existing tools (e.g., CRISPRscan, DeepSpCas9, Benchling, SnapGene), experimental validation of designed templates, web platform implementation details, usability assessment, and any quantitative performance metrics.</li>
+</ul>
+<h2>Reviewer</h2>
+<ul>
+<li><strong>Overall assessment</strong> The abstract describes a potentially useful web tool that addresses a real bottleneck in CRISPR/Cas9 homology-directed repair (HDR) template design. The conceptual contribution, automating the SMART technique, is sensible and could be of practical value to the genome engineering community. However, the abstract provides no evidence that the platform actually works as described. There is no validation data, no benchmark comparison, no experimental confirmation, and no technical detail that would allow a reader to assess correctness, reliability, or usability. As presented, this is a software announcement rather than a scientific contribution with demonstrated performance. The case for the platform's utility and correctness is not established from the supplied material.</li>
+<li><strong>Who would be interested in the results, and why</strong> Molecular biologists, genome engineers, and researchers using CRISPR/Cas9 for precise editing in model organisms or cell lines would be interested. The tool addresses a practical pain point: the constraint imposed by PAM availability relative to the desired edit site. Laboratories performing knock-in experiments, especially those working with difficult loci, would benefit from automated design of repair templates with silent mutations. The web-based, freely accessible format also lowers the barrier for non-specialist labs.</li>
+<li><strong>Major strengths</strong> The problem addressed is real and well-recognized in the genome engineering field. The SMART concept, as described, is elegant and practical. The platform appears to integrate multiple design steps (guide selection, template construction, re-cutting avoidance, genotyping handoff) into a single automated workflow, which is a genuine convenience. The free web-based availability is a strength for community adoption.</li>
+<li><strong>Major Concerns</strong></li>
+<li><strong>Concern ID</strong> R1-M1</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Validation</li>
+<li><strong>Claim pointer</strong> The platform "finds nearby SpCas9 guides, ranks them by predicted on-target activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, automatically recodes residual on-target sites to prevent re-cutting"</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Concern</strong> The abstract claims the platform performs guide ranking, template construction, and re-cutting avoidance, but no validation data are presented. There is no demonstration that the guide ranking correlates with actual editing efficiency, that the synonymous substitutions preserve protein function, that the re-cutting avoidance works, or that the designed templates function in cells.</li>
+<li><strong>Why it matters</strong> The core value proposition of the tool is that it produces functional repair templates. Without experimental validation or at least benchmark comparisons against established tools, a reader cannot assess whether the platform produces reliable designs. Incorrect template design could lead to failed experiments, wasted resources, and potentially misleading results.</li>
+<li><strong>Resolution test</strong> Provide validation data, either experimental (e.g., HDR efficiency in cells using Auto-SMART-designed templates) or computational (e.g., benchmark against existing tools on a test set of loci). At minimum, show that the guide ranking correlates with published on-target activity data and that the recoding algorithm correctly identifies all residual on-target sites.</li>
+<li><strong>Concern ID</strong> R1-M2</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Technical soundness</li>
+<li><strong>Claim pointer</strong> "Auto-SMART automates this process for CRISPR/Cas9-mediated insertion, deletion, point mutation and sequence replacement in coding exons and in introns"</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Concern</strong> The abstract claims support for multiple editing operations in both exons and introns, but no algorithmic details are provided. Intron editing is conceptually different from exon editing because the reading frame and codon usage constraints do not apply, yet the abstract does not explain how the platform handles this distinction. Similarly, the handling of insertions and deletions, which require different template design logic, is not described.</li>
+<li><strong>Why it matters</strong> The scope of supported operations is a key differentiator and a central claim. If the platform does not correctly handle the distinct requirements of each operation type, users may receive incorrect designs. The lack of algorithmic detail prevents assessment of whether the platform is genuinely general or only handles a subset of cases.</li>
+<li><strong>Resolution test</strong> Provide a methods section describing the algorithmic approach for each editing operation type, including how intron editing differs from exon editing. Include case examples or test cases demonstrating correct handling of each operation type.</li>
+<li><strong>Concern ID</strong> R1-M3</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Reproducibility</li>
+<li><strong>Claim pointer</strong> "The web application for Auto-SMART is freely available at https://auto-smart.chuanping.org/"</li>
+<li><strong>Evidence pointer</strong> Abstract; URL provided</li>
+<li><strong>Concern</strong> The abstract provides a URL but no information about the underlying algorithms, parameters, reference data, or versioning. There is no description of the guide activity prediction model, the codon optimization strategy, the homology arm design rules, or the off-target analysis method. A user cannot reproduce the platform's output or understand its limitations.</li>
+<li><strong>Why it matters</strong> For a computational tool, reproducibility and transparency are essential. Without documentation of the underlying methods, users cannot interpret results, troubleshoot failures, or assess whether the tool is appropriate for their use case. The scientific community increasingly expects software tools to be accompanied by clear method descriptions.</li>
+<li><strong>Resolution test</strong> Provide a methods section or supplementary documentation describing all algorithms, parameters, reference data, and versioning. Ideally, provide a test dataset with expected outputs so users can verify the platform's behavior.</li>
+<li><strong>Minor Comments</strong></li>
+<li><strong>Concern ID</strong> R1-m1</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Clarity</li>
+<li><strong>Affected element</strong> Abstract wording</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The abstract states the platform "renders interpretable panels for the target locus, donor template and locus after HDR" but does not explain what "interpretable" means in this context. It is unclear whether these are static images, interactive visualizations, or text-based reports.</li>
+<li><strong>Required correction</strong> Clarify the nature of the output panels and provide a representative example or screenshot in the manuscript.</li>
+<li><strong>Concern ID</strong> R1-m2</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Completeness</li>
+<li><strong>Affected element</strong> Genotyping handoff</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The abstract mentions a "Primer3 genotyping handoff" but does not explain how primers are designed, whether they are validated, or how they integrate with the designed template.</li>
+<li><strong>Required correction</strong> Provide a brief description of the primer design strategy and any validation steps.</li>
+<li><strong>Concern ID</strong> R1-m3</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Scope</li>
+<li><strong>Affected element</strong> Species and genome support</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The abstract mentions "genome assembly" and "gene symbol or transcript" but does not specify which genomes are supported. It is unclear whether the platform supports common model organisms, human, or a broader range.</li>
+<li><strong>Required correction</strong> List the supported genome assemblies and indicate whether users can upload custom genomes.</li>
+<li><strong>Concern ID</strong> R1-m4</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Comparison</li>
+<li><strong>Affected element</strong> Existing tools</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The abstract does not compare Auto-SMART to existing tools for HDR template design, such as Benchling, SnapGene, or CRISPRscan. It is unclear what the platform offers beyond existing solutions.</li>
+<li><strong>Required correction</strong> Add a brief comparison to existing tools, highlighting the unique features of Auto-SMART.</li>
+<li><strong>Technical failings that need to be addressed before the case is established</strong> R1-M1 (no validation data), R1-M2 (no algorithmic details for different editing operations), R1-M3 (no reproducibility information). These are blocking because the core claims of functionality and utility cannot be assessed without them.</li>
+<li><strong>Assessment against Nature-style criteria</strong> Originality: the SMART concept is not new, but its automation in a web platform may be a novel contribution. Scientific importance: potentially high for the genome engineering community, but the importance is not demonstrated without validation. Interdisciplinary readership: the tool would interest molecular biologists, geneticists, and possibly clinicians, but the abstract is too thin to attract broad readership. Technical soundness: cannot be assessed from the abstract alone. Readability for nonspecialists: the abstract is clear and accessible, but lacks sufficient detail for specialists to evaluate the tool.</li>
+<li><strong>Recommendation posture</strong> Currently not established from the provided evidence. The abstract describes a potentially useful tool, but the absence of validation, algorithmic detail, and reproducibility information means the scientific case is not made. The authors should provide methods, validation data, and benchmark comparisons before the platform's claims can be evaluated.</li>
+</ul>
+<h2>Risk / unsupported claims</h2>
+<ul>
+<li>The claim that the platform "finds nearby SpCas9 guides, ranks them by predicted on-target activity and cut-to-edit geometry" is unsupported without details of the prediction model and validation against experimental data.</li>
+<li>The claim that the platform "automatically recodes residual on-target sites to prevent re-cutting" is unsupported without algorithmic details and validation.</li>
+<li>The claim that the platform supports "insertion, deletion, point mutation and sequence replacement in coding exons and in introns" is unsupported without algorithmic descriptions for each operation type.</li>
+<li>The claim that the platform "renders interpretable panels" is unverifiable without examples.</li>
+<li>The overall utility of the platform is unassessable without user studies, case examples, or benchmark comparisons.</li>
+</ul></div>
+  </section>
+  
+</article>
+</main>
+</body>
+</html>

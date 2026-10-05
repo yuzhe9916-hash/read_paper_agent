@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42814570",
+    "doi": "10.1016/j.celrep.2026.118043",
+    "title": "Dual roles of host N-glycosylation in enteropathogenic Escherichia coli infection."
+  },
+  "content": {
+    "abstract": "Host factors determine pathogen tropism but knowledge of host genes facilitating enteropathogenic Escherichia coli (EPEC) infection is limited. To identify host determinants required for infection by EPEC, we performed two independent genome-scale CRISPR-Cas9 screens. Both converged on host N-glycosylation as a critical requirement for infection. Genetic or pharmacological inhibition of N-glycan maturation revealed that N-glycosylation promotes infection through two distinct pathways. First, N-linked poly-N-acetyllactosamine glycans serve as receptors for the major EPEC adhesin, the bundle-forming pilus (BFP). Second, perturbation of N-glycosylation compromises host membrane structure, resulting in reduced type III secretion system activity, independently of host cell attachment. Using epithelial monolayers derived from human colon and jejunum organoids, we further show that EPEC attachment inversely correlates with terminal mannose exposure, suggesting glycan composition may be involved in determining intestinal tropism. Together, these findings establish host N-glycan maturation as a key host pathway exploited during enteric infection.",
+    "keywords": [
+      "CP: microbiology",
+      "CRISPR-based genomic screen",
+      "EPEC",
+      "MGAT1",
+      "N-glycosylation",
+      "bundle-forming pilus",
+      "enteropathogenic E. coli",
+      "host attachment",
+      "human intestinal organoids",
+      "type I fimbriae"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cohen Yaron, Klil",
+        "Socol, Yaakov",
+        "Yedidi, Noam",
+        "Bejerano-Sagie, Michal",
+        "Ravins, Miriam",
+        "Fine-Leebhoff, Shira",
+        "Birimberg-Schwartz, Liron",
+        "Grunewald, Myriam",
+        "Hullahalli, Karthik",
+        "de Sousa Vieira, Afonso",
+        "Waldor, Matthew K",
+        "Bartfeld, Sina",
+        "Ben-Yehuda, Sigal",
+        "Rosenshine, Ilan"
+      ],
+      "short_names": [
+        "Cohen Yaron K",
+        "Socol Y",
+        "Yedidi N",
+        "Bejerano-Sagie M",
+        "Ravins M",
+        "Fine-Leebhoff S",
+        "Birimberg-Schwartz L",
+        "Grunewald M",
+        "Hullahalli K",
+        "de Sousa Vieira A",
+        "Waldor MK",
+        "Bartfeld S",
+        "Ben-Yehuda S",
+        "Rosenshine I"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.",
+        "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel.",
+        "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel; Department of Pediatric Gastroenterology, Hadassah Medical Organization and Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem 9166100, Israel.",
+        "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel; Department of Developmental Biology and Cancer Research, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem 9166100, Israel.",
+        "Department of Microbiology, Harvard Medical School, Boston, MA, USA; Division of Infectious Diseases, Brigham & Women's Hospital, Boston, MA, USA.",
+        "Department for Medical Biotechnology, The Technical University Berlin, Gustav-Meyer-Allee 25, 13355 Berlin, Germany.",
+        "Department of Microbiology, Harvard Medical School, Boston, MA, USA; Division of Infectious Diseases, Brigham & Women's Hospital, Boston, MA, USA; Howard Hughes Medical Institute, Boston, MA, USA.",
+        "Department for Medical Biotechnology, The Technical University Berlin, Gustav-Meyer-Allee 25, 13355 Berlin, Germany. Electronic address: s.bartfeld@tu-berlin.de.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel. Electronic address: sigalb@ekmd.huji.ac.il.",
+        "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel. Electronic address: ilanr@ekmd.huji.ac.il."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cohen Yaron, Klil",
+        "short_name": "Cohen Yaron K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel."
+        ]
+      },
+      {
+        "full_name": "Socol, Yaakov",
+        "short_name": "Socol Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel."
+        ]
+      },
+      {
+        "full_name": "Yedidi, Noam",
+        "short_name": "Yedidi N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel."
+        ]
+      },
+      {
+        "full_name": "Bejerano-Sagie, Michal",
+        "short_name": "Bejerano-Sagie M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel."
+        ]
+      },
+      {
+        "full_name": "Ravins, Miriam",
+        "short_name": "Ravins M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel."
+        ]
+      },
+      {
+        "full_name": "Fine-Leebhoff, Shira",
+        "short_name": "Fine-Leebhoff S",
+        "identifiers": [],
+        "affiliations": [
+          "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel."
+        ]
+      },
+      {
+        "full_name": "Birimberg-Schwartz, Liron",
+        "short_name": "Birimberg-Schwartz L",
+        "identifiers": [],
+        "affiliations": [
+          "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel; Department of Pediatric Gastroenterology, Hadassah Medical Organization and Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem 9166100, Israel."
+        ]
+      },
+      {
+        "full_name": "Grunewald, Myriam",
+        "short_name": "Grunewald M",
+        "identifiers": [],
+        "affiliations": [
+          "Hadassah Organoid Center, The Hadassah Medical Organization, Jerusalem 9166100, Israel; Department of Developmental Biology and Cancer Research, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem 9166100, Israel."
+        ]
+      },
+      {
+        "full_name": "Hullahalli, Karthik",
+        "short_name": "Hullahalli K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Harvard Medical School, Boston, MA, USA; Division of Infectious Diseases, Brigham & Women's Hospital, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "de Sousa Vieira, Afonso",
+        "short_name": "de Sousa Vieira A",
+        "identifiers": [],
+        "affiliations": [
+          "Department for Medical Biotechnology, The Technical University Berlin, Gustav-Meyer-Allee 25, 13355 Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Waldor, Matthew K",
+        "short_name": "Waldor MK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Harvard Medical School, Boston, MA, USA; Division of Infectious Diseases, Brigham & Women's Hospital, Boston, MA, USA; Howard Hughes Medical Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bartfeld, Sina",
+        "short_name": "Bartfeld S",
+        "identifiers": [],
+        "affiliations": [
+          "Department for Medical Biotechnology, The Technical University Berlin, Gustav-Meyer-Allee 25, 13355 Berlin, Germany. Electronic address: s.bartfeld@tu-berlin.de."
+        ]
+      },
+      {
+        "full_name": "Ben-Yehuda, Sigal",
+        "short_name": "Ben-Yehuda S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel. Electronic address: sigalb@ekmd.huji.ac.il."
+        ]
+      },
+      {
+        "full_name": "Rosenshine, Ilan",
+        "short_name": "Rosenshine I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Molecular Genetics, Institute for Medical Research Israel-Canada, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel. Electronic address: ilanr@ekmd.huji.ac.il."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814570",
+      "14993302",
+      "8890195",
+      "35477304",
+      "40532416",
+      "16687583",
+      "20487271",
+      "32291304",
+      "36476073",
+      "19218393",
+      "25482634",
+      "27159323",
+      "32398313",
+      "19635829",
+      "42678059",
+      "31358567",
+      "11553010",
+      "41084327",
+      "17875638",
+      "22403793",
+      "23033475",
+      "21613538",
+      "40470429",
+      "9841853",
+      "26712935",
+      "11856171",
+      "9423848",
+      "8096320",
+      "9593303",
+      "19751218",
+      "19628653",
+      "31915280",
+      "32487743",
+      "16548887",
+      "28671993",
+      "25944883",
+      "33144373",
+      "38038448",
+      "11988509",
+      "32934081",
+      "26536015",
+      "16367866",
+      "36142263",
+      "42578676",
+      "10922038",
+      "35020452",
+      "25701318",
+      "27329750",
+      "11207558",
+      "10481102",
+      "11705908",
+      "12410841",
+      "30066727",
+      "34903041",
+      "12780774",
+      "21490959",
+      "24643076",
+      "16322091",
+      "22710873",
+      "9529083",
+      "24904077",
+      "11083828",
+      "35882715",
+      "28636623",
+      "11555293",
+      "24733098",
+      "7901197",
+      "18681975",
+      "29921669",
+      "31530678",
+      "17474908",
+      "11031234",
+      "21933418",
+      "11598024",
+      "10417641",
+      "36196760",
+      "17697132",
+      "37591385",
+      "22587461",
+      "16091039",
+      "40900999",
+      "40767522",
+      "12061645",
+      "19436735",
+      "34133469",
+      "30003123",
+      "9199415",
+      "22837303",
+      "15075254",
+      "20444097",
+      "8733231",
+      "9916050",
+      "11292754",
+      "11179311",
+      "28618099",
+      "42725729",
+      "32556816",
+      "15664947",
+      "11500444",
+      "11128070"
+    ],
+    "review": [
+      "42814570",
+      "40470429",
+      "10922038",
+      "11207558",
+      "12780774"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01121-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

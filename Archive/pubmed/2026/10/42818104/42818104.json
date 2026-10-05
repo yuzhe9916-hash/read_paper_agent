@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42818104",
+    "doi": "10.64898/2026.09.16.752223",
+    "title": "Auto-SMART: a web-based platform for repair-template design for CRISPR/Cas9 homology-directed editing."
+  },
+  "content": {
+    "abstract": "Genome engineering via CRISPR/Cas9 has been widely applied in biological research and developing gene therapies. However, genome editing flexibility is strongly constrained by the position and quality of guide RNAs relative to the intended edit: desired edit sites are frequently positioned far from efficient protospacer adjacent motifs (PAM). SMART (Silently Mutate And Repair Template) technique relaxes this constraint by silently mutating the gap between the Cas9 cut and the edit in the repair donor, preserving the encoded protein while expanding the usable guide-RNA design space. Designing such donors manually requires coordinated reasoning over transcript structure, reading frame, candidate protospacers, codon usage, homology arms and the expected edited allele. Auto-SMART is a web platform that automates this process for CRISPR/Cas9-mediated insertion, deletion, point mutation and sequence replacement in coding exons and in introns. Users choose a genome assembly, search a gene symbol or transcript, select a modification site and select an editing operation. Auto-SMART finds nearby Streptococcus pyogenes Cas9 (SpCas9) guides, ranks them by predicted on-target activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, automatically recodes residual on-target sites to prevent re-cutting and renders interpretable panels for the target locus, donor template and locus after HDR, together with a downloadable report and a Primer3 genotyping handoff. The web application for Auto-SMART is freely available at https://auto-smart.chuanping.org/ .",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Chuanping",
+        "Cao, Yan",
+        "Martemyanov, Kirill A"
+      ],
+      "short_names": [
+        "Zhao C",
+        "Cao Y",
+        "Martemyanov KA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5998-5949",
+        "ORCID: 0000-0003-4902-2297",
+        "ORCID: 0000-0002-9925-7599"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Chuanping",
+        "short_name": "Zhao C",
+        "identifiers": [
+          "0000-0001-5998-5949"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cao, Yan",
+        "short_name": "Cao Y",
+        "identifiers": [
+          "0000-0003-4902-2297"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Martemyanov, Kirill A",
+        "short_name": "Martemyanov KA",
+        "identifiers": [
+          "0000-0002-9925-7599"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818104",
+      "36549468",
+      "24478335",
+      "39494147",
+      "35950852",
+      "31523744",
+      "31198958",
+      "30675496",
+      "31694550",
+      "27210042",
+      "30355591",
+      "34523974",
+      "28883826",
+      "38922690",
+      "33160457",
+      "37877400",
+      "32343230",
+      "27340770",
+      "31148128",
+      "29843790",
+      "42333535",
+      "34011687",
+      "31597252",
+      "39111827",
+      "23940360",
+      "40263339",
+      "41992973",
+      "34791245",
+      "28550913",
+      "41985988",
+      "36873055",
+      "27098585",
+      "29925370",
+      "30728669",
+      "36305010",
+      "28529507",
+      "26336798",
+      "31964350",
+      "28300641",
+      "33689695",
+      "35983232",
+      "30484125",
+      "28888469",
+      "33170439",
+      "33445042",
+      "31934513",
+      "35087953",
+      "38886150",
+      "26098369",
+      "27342565",
+      "42611583",
+      "26199327",
+      "30224336",
+      "39743295",
+      "26131852",
+      "28265068",
+      "30962821",
+      "42024433",
+      "32241913",
+      "26680661",
+      "30559100",
+      "30271937",
+      "34713242",
+      "39981890",
+      "28928041",
+      "34593942",
+      "30610637",
+      "41288355",
+      "35975201",
+      "27543296",
+      "23956122",
+      "36312444",
+      "30610629",
+      "31987908",
+      "29980561",
+      "30504364",
+      "32393674",
+      "28177771",
+      "29019352",
+      "28219395",
+      "32635161",
+      "41167358",
+      "27371591",
+      "26683213",
+      "30755408",
+      "28527117",
+      "31702097",
+      "41230494",
+      "28351759",
+      "35921985",
+      "33323021",
+      "34430314",
+      "30531939",
+      "33074412",
+      "35165339",
+      "36384669",
+      "40043077",
+      "37266832",
+      "40808298",
+      "28228480"
+    ],
+    "review": [
+      "42818104",
+      "39494147",
+      "27210042",
+      "27340770",
+      "41992973",
+      "30728669",
+      "36305010",
+      "26336798",
+      "28300641",
+      "35975201",
+      "28177771"
+    ],
+    "pmc": [
+      "13622078"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.16.752223",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

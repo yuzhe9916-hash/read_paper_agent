@@ -1,0 +1,78 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and evidence as presented in the abstract; no methods, figures, tables, or supplementary materials were provided for evaluation
+- **Shared manuscript claim summary** The authors present Auto-SMART, a web-based platform that automates repair-template design for CRISPR/Cas9 homology-directed editing. The platform reportedly automates the SMART (Silently Mutate And Repair Template) technique, which uses synonymous mutations in the repair donor to expand the usable guide-RNA design space relative to the edit site. The abstract claims the platform supports multiple editing operations (insertion, deletion, point mutation, sequence replacement) in coding exons and introns, ranks SpCas9 guides by predicted activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, recodes residual on-target sites, and provides visualization and genotyping handoff.
+- **Visible evidence base** Abstract text only. No methods section, no figures, no tables, no validation data, no benchmark results, no comparison to existing tools, no user study, no performance metrics, no case examples.
+- **Missing materials affecting confidence** Methods description, software architecture details, validation datasets, benchmark comparisons against existing tools (e.g., CRISPRscan, DeepSpCas9, Benchling, SnapGene), experimental validation of designed templates, web platform implementation details, usability assessment, and any quantitative performance metrics.
+
+## Reviewer
+- **Overall assessment** The abstract describes a potentially useful web tool that addresses a real bottleneck in CRISPR/Cas9 homology-directed repair (HDR) template design. The conceptual contribution, automating the SMART technique, is sensible and could be of practical value to the genome engineering community. However, the abstract provides no evidence that the platform actually works as described. There is no validation data, no benchmark comparison, no experimental confirmation, and no technical detail that would allow a reader to assess correctness, reliability, or usability. As presented, this is a software announcement rather than a scientific contribution with demonstrated performance. The case for the platform's utility and correctness is not established from the supplied material.
+- **Who would be interested in the results, and why** Molecular biologists, genome engineers, and researchers using CRISPR/Cas9 for precise editing in model organisms or cell lines would be interested. The tool addresses a practical pain point: the constraint imposed by PAM availability relative to the desired edit site. Laboratories performing knock-in experiments, especially those working with difficult loci, would benefit from automated design of repair templates with silent mutations. The web-based, freely accessible format also lowers the barrier for non-specialist labs.
+- **Major strengths** The problem addressed is real and well-recognized in the genome engineering field. The SMART concept, as described, is elegant and practical. The platform appears to integrate multiple design steps (guide selection, template construction, re-cutting avoidance, genotyping handoff) into a single automated workflow, which is a genuine convenience. The free web-based availability is a strength for community adoption.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Validation
+  - **Claim pointer** The platform "finds nearby SpCas9 guides, ranks them by predicted on-target activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, automatically recodes residual on-target sites to prevent re-cutting"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract claims the platform performs guide ranking, template construction, and re-cutting avoidance, but no validation data are presented. There is no demonstration that the guide ranking correlates with actual editing efficiency, that the synonymous substitutions preserve protein function, that the re-cutting avoidance works, or that the designed templates function in cells.
+  - **Why it matters** The core value proposition of the tool is that it produces functional repair templates. Without experimental validation or at least benchmark comparisons against established tools, a reader cannot assess whether the platform produces reliable designs. Incorrect template design could lead to failed experiments, wasted resources, and potentially misleading results.
+  - **Resolution test** Provide validation data, either experimental (e.g., HDR efficiency in cells using Auto-SMART-designed templates) or computational (e.g., benchmark against existing tools on a test set of loci). At minimum, show that the guide ranking correlates with published on-target activity data and that the recoding algorithm correctly identifies all residual on-target sites.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** "Auto-SMART automates this process for CRISPR/Cas9-mediated insertion, deletion, point mutation and sequence replacement in coding exons and in introns"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract claims support for multiple editing operations in both exons and introns, but no algorithmic details are provided. Intron editing is conceptually different from exon editing because the reading frame and codon usage constraints do not apply, yet the abstract does not explain how the platform handles this distinction. Similarly, the handling of insertions and deletions, which require different template design logic, is not described.
+  - **Why it matters** The scope of supported operations is a key differentiator and a central claim. If the platform does not correctly handle the distinct requirements of each operation type, users may receive incorrect designs. The lack of algorithmic detail prevents assessment of whether the platform is genuinely general or only handles a subset of cases.
+  - **Resolution test** Provide a methods section describing the algorithmic approach for each editing operation type, including how intron editing differs from exon editing. Include case examples or test cases demonstrating correct handling of each operation type.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Reproducibility
+  - **Claim pointer** "The web application for Auto-SMART is freely available at https://auto-smart.chuanping.org/"
+  - **Evidence pointer** Abstract; URL provided
+  - **Concern** The abstract provides a URL but no information about the underlying algorithms, parameters, reference data, or versioning. There is no description of the guide activity prediction model, the codon optimization strategy, the homology arm design rules, or the off-target analysis method. A user cannot reproduce the platform's output or understand its limitations.
+  - **Why it matters** For a computational tool, reproducibility and transparency are essential. Without documentation of the underlying methods, users cannot interpret results, troubleshoot failures, or assess whether the tool is appropriate for their use case. The scientific community increasingly expects software tools to be accompanied by clear method descriptions.
+  - **Resolution test** Provide a methods section or supplementary documentation describing all algorithms, parameters, reference data, and versioning. Ideally, provide a test dataset with expected outputs so users can verify the platform's behavior.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Abstract wording
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract states the platform "renders interpretable panels for the target locus, donor template and locus after HDR" but does not explain what "interpretable" means in this context. It is unclear whether these are static images, interactive visualizations, or text-based reports.
+  - **Required correction** Clarify the nature of the output panels and provide a representative example or screenshot in the manuscript.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Completeness
+  - **Affected element** Genotyping handoff
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract mentions a "Primer3 genotyping handoff" but does not explain how primers are designed, whether they are validated, or how they integrate with the designed template.
+  - **Required correction** Provide a brief description of the primer design strategy and any validation steps.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Scope
+  - **Affected element** Species and genome support
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract mentions "genome assembly" and "gene symbol or transcript" but does not specify which genomes are supported. It is unclear whether the platform supports common model organisms, human, or a broader range.
+  - **Required correction** List the supported genome assemblies and indicate whether users can upload custom genomes.
+  - **Concern ID** R1-m4
+  - **Severity** Minor
+  - **Axis** Comparison
+  - **Affected element** Existing tools
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract does not compare Auto-SMART to existing tools for HDR template design, such as Benchling, SnapGene, or CRISPRscan. It is unclear what the platform offers beyond existing solutions.
+  - **Required correction** Add a brief comparison to existing tools, highlighting the unique features of Auto-SMART.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (no validation data), R1-M2 (no algorithmic details for different editing operations), R1-M3 (no reproducibility information). These are blocking because the core claims of functionality and utility cannot be assessed without them.
+- **Assessment against Nature-style criteria** Originality: the SMART concept is not new, but its automation in a web platform may be a novel contribution. Scientific importance: potentially high for the genome engineering community, but the importance is not demonstrated without validation. Interdisciplinary readership: the tool would interest molecular biologists, geneticists, and possibly clinicians, but the abstract is too thin to attract broad readership. Technical soundness: cannot be assessed from the abstract alone. Readability for nonspecialists: the abstract is clear and accessible, but lacks sufficient detail for specialists to evaluate the tool.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract describes a potentially useful tool, but the absence of validation, algorithmic detail, and reproducibility information means the scientific case is not made. The authors should provide methods, validation data, and benchmark comparisons before the platform's claims can be evaluated.
+
+## Risk / unsupported claims
+- The claim that the platform "finds nearby SpCas9 guides, ranks them by predicted on-target activity and cut-to-edit geometry" is unsupported without details of the prediction model and validation against experimental data.
+- The claim that the platform "automatically recodes residual on-target sites to prevent re-cutting" is unsupported without algorithmic details and validation.
+- The claim that the platform supports "insertion, deletion, point mutation and sequence replacement in coding exons and in introns" is unsupported without algorithmic descriptions for each operation type.
+- The claim that the platform "renders interpretable panels" is unverifiable without examples.
+- The overall utility of the platform is unassessable without user studies, case examples, or benchmark comparisons.

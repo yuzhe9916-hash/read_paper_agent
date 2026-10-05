@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "pmid": "42829036",
+    "doi": "10.1016/j.freeradbiomed.2026.10.003",
+    "title": "MINOS1-Mediated Mitochondrial Remodeling: A Critical Regulator of Apoptosis in Hypoxic Intestinal Epithelium."
+  },
+  "content": {
+    "abstract": "Intestinal epithelial cells (IECs) are highly vulnerable to mitochondrial dysfunction and lethal apoptosis under severe hypoxic stress. However, the upstream genetic determinants governing mucosal redox resilience remain poorly defined. To investigate the mechanisms of intestinal epithelial cell apoptosis under cobalt chloride ()-induced hypoxic conditions, we established a -induced lethal hypoxia model in IPEC-J2 cells and performed a genome-wide CRISPR-Cas9 screen. This screen identified MINOS1 as an essential gene for tolerance to -induced hypoxic cell death. Systematic cell phenotyping and transcriptomic analyses revealed that exposure triggers robust intrinsic apoptosis and oxidative stress, whereas MINOS1 ablation remodels the basal transcriptomic landscape to establish an adaptive pro-survival state. Ultrastructural observation via transmission electron microscopy and subcellular functional assays demonstrated that MINOS1 deficiency eliminates canonical crista junctions (CJs) and induces distinctive concentric, \"onion-like\" remodeling of the inner mitochondrial membrane. Under severe hypoxia, MINOS1-knockout (KO) enterocytes retained stable mitochondrial membrane potential (DeltaPsim), suppressed pathological mitochondrial permeability transition pore (mPTP) opening, sustained antioxidant enzyme (SOD and CAT) activities, and abrogated intracellular ROS accumulation and lipid peroxidation. Pharmacological intervention with the mitochondria-targeted antioxidant Mitoquinone mesylate precisely phenocopied the cytoprotective phenotype of MINOS1 ablation, confirming a mitochondria-dependent redox regulatory mechanism. Crucially, subcellular fractionation assays verified that remodeled concentric mitochondrial membranes form a unique topological barrier that physically sequesters cytochrome c within mitochondria, blocking its cytosolic release and subsequent activation of caspase-9 and caspase-3. Accordingly, MINOS1-deficient enterocytes tolerate extreme hypoxic stress by structurally uncoupling mitochondrial oxidative stress from downstream apoptotic execution. Collectively, these findings establish MINOS1-dependent cristae topology as a fundamental biophysical gatekeeper of intestinal mucosal redox homeostasis, providing a novel structure-targeted therapeutic strategy for hypoxia-associated intestinal disorders.",
+    "keywords": [
+      "CRISPR screen",
+      "MINOS1-KO",
+      "hypoxia",
+      "intestinal cell apoptosis",
+      "mitochondria"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yuan, Jianlin",
+        "Jian, Chuanhui",
+        "Li, Xiaokai",
+        "Li, Xuemin",
+        "Chi, Shaojie",
+        "Wang, Xun",
+        "Lu, Lu",
+        "Ge, Liangpeng",
+        "Li, Mingzhou",
+        "Long, Keren"
+      ],
+      "short_names": [
+        "Yuan J",
+        "Jian C",
+        "Li X",
+        "Li X",
+        "Chi S",
+        "Wang X",
+        "Lu L",
+        "Ge L",
+        "Li M",
+        "Long K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "Chongqing Academy of Animal Sciences, Chongqing, P. R. China; National Center of Technology Innovation for Pigs, Chongqing, P. R. China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China.",
+        "Chongqing Academy of Animal Sciences, Chongqing, P. R. China; National Center of Technology Innovation for Pigs, Chongqing, P. R. China.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China. Electronic address: mingzhou.li@sicau.edu.cn.",
+        "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China. Electronic address: keren.long@sicau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yuan, Jianlin",
+        "short_name": "Yuan J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Jian, Chuanhui",
+        "short_name": "Jian C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaokai",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Academy of Animal Sciences, Chongqing, P. R. China; National Center of Technology Innovation for Pigs, Chongqing, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuemin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Chi, Shaojie",
+        "short_name": "Chi S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xun",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Lu",
+        "short_name": "Lu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Liangpeng",
+        "short_name": "Ge L",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Academy of Animal Sciences, Chongqing, P. R. China; National Center of Technology Innovation for Pigs, Chongqing, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Mingzhou",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China. Electronic address: mingzhou.li@sicau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Long, Keren",
+        "short_name": "Long K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Swine and Poultry Breeding Industry, Sichuan Agricultural University, Chengdu, 611130, China; Livestock and Poultry Multi-omics Key Laboratory of Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, 611130, China. Electronic address: keren.long@sicau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Free radical biology & medicine"
+    ],
+    "journal_abbrev": [
+      "Free Radic Biol Med"
+    ],
+    "pub_date": "2026 Oct 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42829036",
+      "37104726",
+      "29136370",
+      "34648904",
+      "42121913",
+      "42807813",
+      "42413641",
+      "41740252",
+      "33381268",
+      "14597620",
+      "18708157",
+      "40440295",
+      "29659951",
+      "19901551",
+      "41377497",
+      "30103566",
+      "42226178",
+      "32323742",
+      "40089459",
+      "30973085",
+      "42276258",
+      "38469959",
+      "42123512",
+      "41003970",
+      "29940190",
+      "41430562",
+      "42203917",
+      "40509120",
+      "42573717",
+      "21185334",
+      "41827919",
+      "32901466",
+      "30859901",
+      "17910608",
+      "26960953",
+      "41968723",
+      "15230869",
+      "37589160",
+      "25212780",
+      "31344443",
+      "25377251",
+      "27554969",
+      "10448645",
+      "31625574",
+      "38503156",
+      "42139791",
+      "41964044",
+      "27248986",
+      "35398141",
+      "41814419",
+      "15505073",
+      "16216225",
+      "38567716",
+      "24614978",
+      "15596562",
+      "30504726",
+      "42019736",
+      "35660629",
+      "28730105",
+      "27619911",
+      "29934347",
+      "32566078",
+      "41248871",
+      "37833908",
+      "41317807",
+      "35132348",
+      "32456375",
+      "20937380",
+      "31818185",
+      "20624382",
+      "29729479",
+      "23778874",
+      "37298392",
+      "26884717",
+      "22509279",
+      "25232678",
+      "29954133",
+      "40086497",
+      "28573110",
+      "24291231",
+      "12830052",
+      "27041079",
+      "35847589",
+      "32480041",
+      "29940353",
+      "22001761",
+      "40262719",
+      "42385796",
+      "20716917",
+      "40294832",
+      "23999506",
+      "36875162",
+      "40176088",
+      "15800030",
+      "42166809",
+      "25653524",
+      "11739410",
+      "31417254",
+      "40683587",
+      "34661912"
+    ],
+    "review": [
+      "42829036",
+      "41003970",
+      "27619911",
+      "37833908",
+      "23999506"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0891-5849(26)01184-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

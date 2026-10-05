@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42817051",
+    "doi": "10.1021/acsami.6c14858",
+    "title": "Sequentially Self-Assembled Supramolecular Nanocomplexes Enable Systemic Cas9 RNP Delivery and In Vivo Tumor Genome Editing."
+  },
+  "content": {
+    "abstract": "In vivo genome editing utilizing Cas9/sgRNA ribonucleoproteins (RNPs) holds substantial therapeutic promise, yet rapid bloodstream clearance and degradation of RNPs have hindered its accumulation within the target site and effective gene editing. Herein, we report a supramolecular ternary complex platform where RNPs are co-assembled with tannic acid (TA) and phenylboronic acid (PBA)-conjugated polymers through sequential self-assembly. This  approximately 30 nm core-shell structure protects RNPs from enzymatic degradation and dissociates selectively at endosomal pH. Upon intravenous administration in subcutaneous tumor-bearing mice, the ternary complex exhibits prolonged blood circulation and preferential tumor accumulation, achieving 37.2% gene editing at tumor sites compared with only 1.5% for free RNPs. The platform successfully disrupts PLK1 in subcutaneous tumors, accompanied by significant tumor growth suppression. This is further applied to a KRASG13D-mutant tumor model, in which treatment delayed tumor growth. By integrating sequential supramolecular self-assembly with stimuli-responsive cargo release, this strategy presents a promising approach for systemic RNP delivery and tumor genome editing.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "block copolymer",
+      "boronic acid",
+      "self-assembly",
+      "tannic acid"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Matsuo, Takumi",
+        "Honda, Yuto",
+        "Chino, Toshizumi",
+        "Nomoto, Takahiro",
+        "Osakabe, Yuriko",
+        "Miura, Yutaka",
+        "Nishiyama, Nobuhiro"
+      ],
+      "short_names": [
+        "Matsuo T",
+        "Honda Y",
+        "Chino T",
+        "Nomoto T",
+        "Osakabe Y",
+        "Miura Y",
+        "Nishiyama N"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-9876-5800",
+        "ORCID: 0000-0002-5951-1783",
+        "ORCID: 0000-0002-0391-0478",
+        "ORCID: 0000-0002-0506-7138",
+        "ORCID: 0000-0002-6886-9357"
+      ],
+      "affiliations": [
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Innovation Center of Nanomedicine (iCONM), Kawasaki Institute of Industrial Promotion, 3-25-14 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa210-0821, Japan.",
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Sciences, Graduate School of Arts and Sciences, the University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo153-8902, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+        "Innovation Center of Nanomedicine (iCONM), Kawasaki Institute of Industrial Promotion, 3-25-14 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa210-0821, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Matsuo, Takumi",
+        "short_name": "Matsuo T",
+        "identifiers": [
+          "0009-0007-9876-5800"
+        ],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan."
+        ]
+      },
+      {
+        "full_name": "Honda, Yuto",
+        "short_name": "Honda Y",
+        "identifiers": [
+          "0000-0002-5951-1783"
+        ],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Innovation Center of Nanomedicine (iCONM), Kawasaki Institute of Industrial Promotion, 3-25-14 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa210-0821, Japan."
+        ]
+      },
+      {
+        "full_name": "Chino, Toshizumi",
+        "short_name": "Chino T",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan."
+        ]
+      },
+      {
+        "full_name": "Nomoto, Takahiro",
+        "short_name": "Nomoto T",
+        "identifiers": [
+          "0000-0002-0391-0478"
+        ],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Sciences, Graduate School of Arts and Sciences, the University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo153-8902, Japan."
+        ]
+      },
+      {
+        "full_name": "Osakabe, Yuriko",
+        "short_name": "Osakabe Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan."
+        ]
+      },
+      {
+        "full_name": "Miura, Yutaka",
+        "short_name": "Miura Y",
+        "identifiers": [
+          "0000-0002-0506-7138"
+        ],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan."
+        ]
+      },
+      {
+        "full_name": "Nishiyama, Nobuhiro",
+        "short_name": "Nishiyama N",
+        "identifiers": [
+          "0000-0002-6886-9357"
+        ],
+        "affiliations": [
+          "Laboratory for Chemistry and Life Science, Institute of Integrated Research, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Department of Life Science and Technology, School of Life Science and Technology, Institute of Science Tokyo, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa226-8503, Japan.",
+          "Innovation Center of Nanomedicine (iCONM), Kawasaki Institute of Industrial Promotion, 3-25-14 Tonomachi, Kawasaki-ku, Kawasaki, Kanagawa210-0821, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS applied materials & interfaces"
+    ],
+    "journal_abbrev": [
+      "ACS Appl Mater Interfaces"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 05:31",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42817051",
+      "32169537",
+      "39461690",
+      "32786730",
+      "34756033",
+      "42317177",
+      "39647515",
+      "40412122",
+      "40389165",
+      "30028587",
+      "38325664",
+      "31773942",
+      "39215751",
+      "38683656",
+      "38240497",
+      "36326169",
+      "38039555",
+      "40036508",
+      "39464099",
+      "42676787",
+      "33747370",
+      "38609947",
+      "39900524",
+      "40923633",
+      "41681611",
+      "32887261",
+      "41319961",
+      "30978509",
+      "36119467",
+      "41485979",
+      "31763806",
+      "38409124",
+      "31840076",
+      "33391496",
+      "31280073",
+      "36029893",
+      "34942274",
+      "36800641",
+      "37403358",
+      "38754633",
+      "33647431",
+      "29114029",
+      "30962821",
+      "38014175",
+      "38344762",
+      "37896260",
+      "36853989",
+      "35322386",
+      "37083231",
+      "32738651",
+      "38053293",
+      "40606783",
+      "34095457",
+      "28042340",
+      "36399647",
+      "38773978",
+      "33909408",
+      "33004008",
+      "39979929",
+      "36527789",
+      "32832641",
+      "38014180",
+      "30586281",
+      "37335046",
+      "41370671",
+      "41241162",
+      "35098208",
+      "36704157",
+      "42372505",
+      "33401455",
+      "33422676",
+      "42379534",
+      "32315156",
+      "26216948",
+      "31967454",
+      "42214710",
+      "36995625",
+      "34376154",
+      "34174352",
+      "37679413",
+      "35005700",
+      "38132771",
+      "40006568",
+      "35247491",
+      "41695485",
+      "39415058",
+      "39950863",
+      "42295796",
+      "38677222",
+      "31736389",
+      "36294565",
+      "27583545",
+      "38901362",
+      "36773957",
+      "42614060",
+      "38552157",
+      "37678882",
+      "33301289",
+      "40113021",
+      "33074412"
+    ],
+    "review": [
+      "42817051",
+      "40923633",
+      "33391496",
+      "34942274",
+      "35322386"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1264",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/aamick/article-lookup/doi/10.1021/acsami.6c14858",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42807480",
+  "title": "An unfolded protein response-inducible protein (ULI1) mediates aromatic alcohols biosynthesis through reinforcing the Ehrlich pathway in Saccharomyces cerevisiae.",
+  "authors": "Gong, Xiaowei; Shen, Yong; Shang, Shanzhai; Zhan, Jianbo; Ma, Guanghui; Luo, Huajun; Li, Shiwei; Song, Chunxia; Zhu, Donglai; Luo, Yiyong",
+  "journal": "Frontiers in microbiology",
+  "published_date": "2026-09-29",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究利用CRISPR-Cas9敲除/过表达ULI1和ALD3基因，探究酵母芳香醇生物合成调控，但核心是代谢工程与多组学分析，未涉及CRISPR切割机制或碱基编辑的分子机制，仅将CRISPR作为基因编辑工具使用。",
+  "abstract": "Aromatic alcohols such as 2-phenylethanol (2-PE) and tryptophol (TOL) possess diverse biological functions. Here, an unfolded protein response-inducible gene ULI1 and an aldehyde dehydrogenase gene ALD3 in Saccharomyces cerevisiae were disrupted using the CRISPR-Cas9 system. Fermentation assays revealed that both the ULI1 frameshift (Kmuli1) and knockout (KDeltauli1) mutants exhibited significantly reduced 2-PE and TOL yields relative to the wild-type strain KMLY1-6, retaining 46.32 and 64.54% for 2-PE, and 34.61 and 77.73% for TOL, respectively. In contrast, ALD3 knockout moderately elevated 2-PE and TOL production by 4.98 and 20.57%, respectively. These results indicate that both ULI1 and ALD3 mediate the biosynthesis of 2-PE and TOL in S. cerevisiae. To further confirm the role of ULI1, three chromosomal integration expression (CIE) strains (KXuli1, KXIIuli1, KDeltaald3uli1) and one plasmid-based expression (PBE) strain (BY4741/pY26-uli1) were constructed. Compared with the control KMLY1-6, the CIE strains increased 2-PE and TOL production by 10.13-12.91% and 25.76-29.28%, respectively. Meanwhile, the PBE strain produced significantly higher levels of 2-PE and TOL than the empty vector control (BY4741/pY26), with maximum increases of 38.80% and 30.86% detected at 60 h of cultivation. To further elucidate the molecular mechanism of ULI1 in 2-PE and TOL biosynthesis, comparative transcriptomic analysis for Kmuli1 vs. KMLY1-6, together with transcriptomic and proteomic analyses for BY4741/pY26-uli1 vs. BY4741/pY26, was performed. Multi-omics results revealed that ULI1 reinforces the Ehrlich pathway, modulates metabolic flux, maintains mitochondrial structure and cellular protein homeostasis, and coordinates stress responses with metabolic redistribution. Collectively, ULI1 acts as a novel regulatory hub linking stress tolerance and cellular homeostasis, and facilitates aromatic alcohol biosynthesis by strengthening the Ehrlich pathway in S. cerevisiae.",
+  "abstract_zh": "芳香醇如2-苯乙醇（2-PE）和色醇（TOL）具有多种生物学功能。本研究利用CRISPR-Cas9系统敲除了酿酒酵母（Saccharomyces cerevisiae）中的未折叠蛋白反应诱导基因ULI1和乙醛脱氢酶基因ALD3。发酵实验表明，与野生型菌株KMLY1-6相比，ULI1移码突变体（Kmuli1）和敲除突变体（KDeltauli1）的2-PE和TOL产量均显著降低，2-PE分别保留46.32%和64.54%，TOL分别保留34.61%和77.73%。相反，ALD3敲除使2-PE和TOL产量适度提高，分别增加4.98%和20.57%。这些结果表明，ULI1和ALD3均介导酿酒酵母中2-PE和TOL的生物合成。为进一步确认ULI1的作用，构建了三个染色体整合表达（CIE）菌株（KXuli1、KXIIuli1、KDeltaald3uli1）和一个质粒表达（PBE）菌株（BY4741/pY26-uli1）。与对照KMLY1-6相比，CIE菌株的2-PE和TOL产量分别提高了10.13-12.91%和25.76-29.28%。同时，PBE菌株产生的2-PE和TOL水平显著高于空载体对照（BY4741/pY26），在培养60小时时检测到最大增幅，分别为38.80%和30.86%。为进一步阐明ULI1在2-PE和TOL生物合成中的分子机制，对Kmuli1与KMLY1-6进行了比较转录组分析，并对BY4741/pY26-uli1与BY4741/pY26进行了转录组和蛋白质组分析。多组学结果表明，ULI1强化Ehrlich途径，调节代谢通量，维持线粒体结构和细胞蛋白质稳态，并协调应激反应与代谢重分配。综上，ULI1作为连接应激耐受性和细胞稳态的新型调控枢纽，通过强化酿酒酵母中的Ehrlich途径促进芳香醇生物合成。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42807480/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42807480/",
+  "paper_page_path": "papers/pubmed/42807480/index.html"
+}

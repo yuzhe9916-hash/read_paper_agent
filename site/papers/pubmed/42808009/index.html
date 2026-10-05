@@ -1,0 +1,705 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-mid">6</span>
+    <div>
+      <h1>ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces.</h1>
+      <div class="meta">Genz, Luca R; Topf, Maya</div>
+      <div class="meta muted">
+        
+        <span class="journal">Computational and structural biotechnology journal</span>
+        · 2026-09-29
+         · 全文(pmc)
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/42808009/">原文</a>
+      </div>
+      <p class="one-liner">该文开发了ProNA3D工具，用于分析蛋白-核酸复合物界面，并在PDB大规模分析中涉及CRISPR相关复合物的相互作用模式，虽非直接研究切割机制，但为CRISPR复合物结构-功能解析提供了可迁移的分析方法。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Biomolecular interactions are central to many essential cellular processes, but RNA-containing complexes remain challenging to resolve structurally, even as experimental methods and AI-based prediction have expanded structural coverage. Tools for the integrated analysis of interfaces within such complexes remain limited. We present ProNA3D, a tool that provides a unified platform for analyzing protein-nucleic acid and nucleic acid-only complexes, bridging the gap between structure prediction and functional interpretation. ProNA3D supports both experimental and computationally predicted structures, incorporating scoring metrics for AlphaFold 3 predictions. It also offers interactive 2-dimensional interface visualization and secondary-structure topology plots for RNA and DNA. An interface-based density zoning feature facilitates structure analysis of cryo-electron microscopy maps, allowing the evaluation of dynamic complexes in the context of heterogeneous density. We demonstrate ProNA3D on diverse complexes solved by x-ray crystallography or cryo-electron microscopy, as well as on computational models. In one example, ProNA3D identified a high-connectivity nucleotide with potential functional relevance in a trimeric complex of HIV-1 RNA and a human antibody. Applying ProNA3D to the entire Protein Data Bank revealed distinct interface connectivity trends and interaction modes characteristic of specific classes of nucleic acid-containing complexes (e.g., methyltransferase-DNA and CRISPR-associated). The method is available as both a UCSF ChimeraX plug-in for visualization and a command-line tool at https://gitlab.com/topf-lab/ProNA3D. In addition, the repository contains the results of the large-scale analyses.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">生物分子相互作用是许多基本细胞过程的核心，但含有RNA的复合物在结构解析上仍具挑战性，即便实验方法和基于AI的预测已扩展了结构覆盖范围。用于此类复合物内界面整合分析的工具仍然有限。我们提出ProNA3D，一个提供统一平台用于分析蛋白质-核酸和仅核酸复合物的工具，弥合了结构预测与功能解释之间的差距。ProNA3D支持实验结构和计算预测结构，并整合了AlphaFold 3预测的评分指标。它还提供RNA和DNA的交互式二维界面可视化和二级结构拓扑图。基于界面的密度分区功能有助于冷冻电子显微镜图谱的结构分析，允许在异质密度背景下评估动态复合物。我们展示了ProNA3D在通过X射线晶体学或冷冻电子显微镜解析的多种复合物以及计算模型上的应用。在一个例子中，ProNA3D在HIV-1 RNA与人抗体的三聚体复合物中识别出一个具有潜在功能相关性的高连接性核苷酸。将ProNA3D应用于整个蛋白质数据银行，揭示了特定类别含核酸复合物（如甲基转移酶-DNA和CRISPR相关）特有的不同界面连接趋势和相互作用模式。该方法可作为UCSF ChimeraX插件用于可视化，也可作为命令行工具在https://gitlab.com/topf-lab/ProNA3D获取。此外，该存储库包含大规模分析的结果。</div>
+  </section>
+  
+  
+  <section>
+    <h2>Paper Card</h2>
+    <div class="md"><h2>01 基本信息</h2>
+<ul>
+<li><strong>标题</strong>：ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces</li>
+<li><strong>作者与单位</strong>：Genz, Luca R; Topf, Maya（Leibniz 研究所等，具体单位未提供）</li>
+<li><strong>期刊/预印本平台</strong>：Computational and Structural Biotechnology Journal</li>
+<li><strong>年份</strong>：2026-09-29</li>
+<li><strong>论文类型</strong>：方法学/工具开发论文</li>
+<li><strong>领域</strong>：结构生物学、蛋白质-核酸复合物界面分析、计算结构预测评估</li>
+<li><strong>关键词</strong>：protein–nucleic acid interfaces, interface analysis, AlphaFold 3, cryo-EM, topology plots, ChimeraX</li>
+<li><strong>DOI/arXiv 号</strong>：10.34133/csbj.0202</li>
+<li><strong>代码</strong>：https://gitlab.com/topf-lab/ProNA3D（ChimeraX 插件及命令行工具）</li>
+<li><strong>数据</strong>：PDB 全库核酸复合物分析结果（仓库内提供）</li>
+<li><strong>阅读日期</strong>：未提供</li>
+</ul>
+<p><strong>在本课题方向中的位置</strong>：本文与 CRISPR 系统、stagger-cleavage 机制、碱基编辑无直接关系，但提供了蛋白质-核酸界面分析的工具框架，其界面连通性（connectivity）分析覆盖了 CRISPR 相关蛋白（如 Csm4），可作为本课题中 CRISPR 复合物结构-功能关系分析的方法学参考。</p>
+<hr />
+<h2>02 一句话总结</h2>
+<p>本文开发了 ProNA3D——一个基于距离的蛋白质-核酸及核酸-only复合物界面分析工具（ChimeraX 插件+命令行），支持实验结构和 AlphaFold 3 预测模型，通过界面连通性分析揭示了核酸-only 与蛋白质-核酸界面的不同特征，并识别出碱基翻转（base flipping）等特殊相互作用模式。</p>
+<hr />
+<h2>03 研究问题</h2>
+<ul>
+<li><strong>具体问题</strong>：现有工具缺乏对蛋白质-核酸及核酸-only复合物界面的统一、交互式分析平台，尤其缺乏对 AI 预测模型（如 AlphaFold 3）的支持。</li>
+<li><strong>为什么重要</strong>：RNA 复合物结构解析困难，AI 预测正在扩展结构覆盖，但缺乏配套的界面分析工具来桥接结构预测与功能解释。</li>
+<li><strong>现有方法不足</strong>：DNAproDB/RNAproDB 主要针对实验结构；PLIP/VoroContacts 等界面工具未针对核酸优化；多数工具为 web server 或纯命令行，缺乏交互式可视化；不支持预测模型的置信度指标。</li>
+<li><strong>精确研究问题</strong>：Can a unified, distance-based interface analysis tool support both experimental and AI-predicted nucleic acid-containing complexes, and reveal class-specific interface connectivity patterns?</li>
+</ul>
+<hr />
+<h2>04 背景与发展脉络</h2>
+<p><em>注：此脉络基于本文框架，未经外部系统核验。</em></p>
+<ol>
+<li><strong>实验结构解析阶段</strong>：X-ray 晶体学和 cryo-EM 是核酸复合物结构的主要来源，但 RNA 复合物因灵活性和构象异质性难以解析。</li>
+<li><strong>AI 预测阶段</strong>：RoseTTAFoldNA、AlphaFold 3 等工具开始填补核酸复合物结构空白，但预测质量参差，需要界面级评估工具。</li>
+<li><strong>界面分析工具发展阶段</strong>：DNAproDB、RNAproDB 提供拓扑图和交互可视化；DSSR 提供核酸二级结构注释；PICKLUSTER（同一实验室前期工作）提供蛋白质复合物界面分析——ProNA3D 将其扩展至核酸复合物。</li>
+<li><strong>ProNA3D 的定位</strong>：统一蛋白质-核酸和核酸-only 界面分析，集成预测置信度指标和 cryo-EM 密度图分析，支持大规模数据挖掘。</li>
+</ol>
+<hr />
+<h2>05 核心痛点</h2>
+<table>
+<thead>
+<tr>
+<th>痛点</th>
+<th>表现</th>
+<th>成因或作者解释</th>
+<th>文中证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>工具碎片化</td>
+<td>蛋白质和核酸界面分析工具各自独立，缺乏统一平台</td>
+<td>蛋白质和核酸研究社区长期分离发展</td>
+<td>Introduction 段落 3-4</td>
+</tr>
+<tr>
+<td>预测模型支持不足</td>
+<td>现有工具主要针对实验结构，无法处理 AI 预测模型的置信度信息</td>
+<td>AI 预测是近期发展，工具未及时跟进</td>
+<td>Introduction 段落 3</td>
+</tr>
+<tr>
+<td>缺乏交互式可视化</td>
+<td>多数工具为 web server 或纯命令行，无法在 3D 环境中直接操作</td>
+<td>开发成本高，核酸结构可视化复杂</td>
+<td>Introduction 段落 4</td>
+</tr>
+<tr>
+<td>界面定义粒度不可控</td>
+<td>不同距离阈值导致界面划分差异大，用户无法灵活调整</td>
+<td>界面本身是连续体，无天然边界</td>
+<td>Results 图 2A（dHA 3.0→5.0 Å 时子界面数 5→1）</td>
+</tr>
+<tr>
+<td>大规模分析能力不足</td>
+<td>缺乏对全 PDB 核酸复合物的系统性界面特征分析</td>
+<td>计算效率和自动化流程不足</td>
+<td>Results 大规模分析部分</td>
+</tr>
+<tr>
+<td>cryo-EM 密度图与界面分析脱节</td>
+<td>界面分析未与密度图局部分辨率结合</td>
+<td>工具间缺乏集成</td>
+<td>Results 图 4</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>06 核心思想</h2>
+<h3>1) 表面方法</h3>
+<p>开发一个基于距离的界面检测工具，扩展 PICKLUSTER 的算法至核酸复合物，集成拓扑图、2D 界面图、AlphaFold 3 置信度评分和 cryo-EM 密度分区功能，以 ChimeraX 插件+命令行双形式发布。</p>
+<h3>2) 核心洞察</h3>
+<ul>
+<li><strong>界面连通性（connectivity）是区分核酸复合物类别的有效指标</strong>：核酸-only 界面连通性低且分布窄，蛋白质-核酸界面连通性高且分布宽。</li>
+<li><strong>碱基翻转（base flipping）是蛋白质-核酸界面中一种特殊的、可自动检测的高连通性模式</strong>，常见于 DNA 修饰酶和 CRISPR 相关蛋白。</li>
+<li><strong>预测模型的界面置信度可以且应该被量化</strong>：通过 ipLDDT 和 iPAE 等界面特异性指标，而非仅依赖全局模型评分。</li>
+</ul>
+<h3>3) 可能的普适教训 [Analysis]</h3>
+<ul>
+<li>将界面分析从"有无接触"提升到"接触模式分类"（连通性分布、特殊构象），可揭示功能相关的结构特征。</li>
+<li>工具设计应同时考虑"深度分析单个复合物"和"大规模数据挖掘"两种使用场景，命令行+GUI 双模式是有效策略。</li>
+<li>对预测模型的评估应下沉到界面/残基水平，而非停留在全局评分。</li>
+</ul>
+<hr />
+<h2>07 方法总览</h2>
+<ul>
+<li><strong>输入</strong>：PDB 或 mmCIF 格式的原子结构文件（实验或预测）；可选 cryo-EM 密度图；可选 AlphaFold 3 评分 JSON 文件</li>
+<li><strong>输出</strong>：检测到的界面/子界面列表（CSV 可导出）、拓扑图、2D 界面图、界面特异性置信度指标（ipLDDT、iPAE）</li>
+<li><strong>核心模块</strong>：
+  1. 界面检测（三种模式：pairwise、全复合物、单链 vs 所有链）
+  2. 子界面聚类（基于残基质心距离）
+  3. 拓扑图生成（调用 DSSR）
+  4. 2D 界面图（节点-边网络）
+  5. AlphaFold 3 评分（ipLDDT、iPAE 计算）
+  6. cryo-EM 密度分区（基于 ChimeraX volume zone）</li>
+<li><strong>关键参数</strong>：重原子距离截断 dHA（默认 5.0 Å）、聚类距离截断 dC（默认 5.0 Å）、pLDDT 截断（用户可选）</li>
+<li><strong>处理流程</strong>：加载结构 → 选择检测模式 → 计算原子间距离（KDTree）→ 识别界面残基/核苷酸 → 聚类为子界面 → 生成可视化 → 计算置信度指标 → 导出结果</li>
+</ul>
+<hr />
+<h2>08 核心模块拆解</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>功能</th>
+<th>为何需要</th>
+<th>输入输出</th>
+<th>支撑证据</th>
+<th>移除后的已知或预期影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>界面检测（三种模式）</td>
+<td>识别链间接触残基/核苷酸</td>
+<td>不同分析场景需要不同粒度的界面定义</td>
+<td>输入：结构文件+链选择；输出：界面残基列表</td>
+<td>Methods "Interface extraction"</td>
+<td>移除后无法进行任何界面分析 [预期]</td>
+</tr>
+<tr>
+<td>子界面聚类</td>
+<td>将空间邻近的界面残基分组</td>
+<td>单个复合物可能有多个人工分离的接触区域</td>
+<td>输入：界面残基+质心距离 dC；输出：子界面集合</td>
+<td>图 2A（dHA 变化导致子界面数变化）</td>
+<td>移除后无法区分功能上独立的接触区域 [预期]</td>
+</tr>
+<tr>
+<td>拓扑图生成（DSSR 集成）</td>
+<td>可视化 RNA/DNA 二级结构</td>
+<td>理解核酸构象与界面位置的关系</td>
+<td>输入：核酸结构；输出：拓扑图</td>
+<td>图 2B-C、图 3C</td>
+<td>移除后丧失二级结构上下文 [预期]</td>
+</tr>
+<tr>
+<td>2D 界面图</td>
+<td>以网络图展示界面连通性</td>
+<td>直观识别高连通性节点（潜在功能热点）</td>
+<td>输入：界面残基+接触关系；输出：节点-边图</td>
+<td>图 3D（A52 高连通性节点）</td>
+<td>移除后难以快速识别关键残基 [预期]</td>
+</tr>
+<tr>
+<td>AlphaFold 3 评分（ipLDDT/iPAE）</td>
+<td>量化预测界面的置信度</td>
+<td>预测模型需要界面级质量评估</td>
+<td>输入：AF3 评分 JSON；输出：界面特异性分数</td>
+<td>图 3B、图 S1B-D</td>
+<td>移除后无法区分高/低置信度界面区域 [预期]</td>
+</tr>
+<tr>
+<td>cryo-EM 密度分区</td>
+<td>在密度图上下文中评估界面</td>
+<td>低分辨率区域可能对应柔性/功能重要区域</td>
+<td>输入：密度图+界面；输出：分区可视化</td>
+<td>图 4B-D</td>
+<td>移除后无法评估界面区域的局部分辨率 [预期]</td>
+</tr>
+<tr>
+<td>大规模命令行模式</td>
+<td>批量处理 PDB 全库</td>
+<td>系统性发现界面模式需要自动化</td>
+<td>输入：结构列表；输出：统计结果</td>
+<td>Results 大规模分析部分</td>
+<td>移除后丧失数据挖掘能力 [预期]</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>09 关键公式符号</h2>
+<p><strong>公式 1：界面定义</strong></p>
+<p>$$I = {(r_i, r_j) : \min_{a \in r_i, b \in r_j} |x_{a,i} - x_{b,j}| \leq d_{HA}}$$</p>
+<ul>
+<li>$r_i, r_j$：链 $i$ 和链 $j$ 上的残基（或核苷酸）</li>
+<li>$a, b$：残基的重原子</li>
+<li>$x_{a,i}$：链 $i$ 上原子 $a$ 的坐标</li>
+<li>$d_{HA}$：重原子距离截断（默认 5.0 Å）</li>
+</ul>
+<p><strong>公式 2：子界面聚类</strong></p>
+<p>$$S = {S_k \subseteq I : (r_i, r_j) \in S_k \text{ if } |c_i - c_j| \leq d_C}$$</p>
+<ul>
+<li>$c_i, c_j$：残基/核苷酸 $r_i, r_j$ 的原子质心</li>
+<li>$d_C$：聚类距离截断（默认 5.0 Å）</li>
+</ul>
+<p><strong>公式 3：ipLDDT</strong></p>
+<p>$$ipLDDT = \frac{1}{I} \sum_{j=1}^{I} \frac{1}{A_j} \sum_{i=1}^{A_j} pLDDT_{ij}$$</p>
+<ul>
+<li>$I$：界面残基/核苷酸数量</li>
+<li>$A_j$：残基 $j$ 的原子数</li>
+<li>$pLDDT_{ij}$：残基 $j$ 中原子 $i$ 的 pLDDT 值</li>
+</ul>
+<p><strong>公式 4：iPAE</strong></p>
+<p>$$iPAE = \frac{1}{M} \sum_{i,j=1}^{M} \frac{PAE_{i,j} + PAE_{j,i}}{2}$$</p>
+<ul>
+<li>$PAE_{i,j}$：残基对 $(i,j)$ 的预测对齐误差</li>
+<li>$M$：界面中残基对总数</li>
+</ul>
+<hr />
+<h2>10 实验设计与证据链</h2>
+<p><strong>数据集/群体</strong>：
+- 案例研究 1：锤头核酶二聚体 RNA 复合物（PDB: 2OEU，X-ray）
+- 案例研究 2：人 Fab 抗体–HIV-1 RNA 复合物（PDB: 9C75，AlphaFold 3 预测）
+- 案例研究 3：Cre 重组酶–DNA 复合物（PDB: 7RHY，AlphaFold 3 预测）
+- 案例研究 4：牛 DHX36 解旋酶–人 G-四链体 RNA 复合物（PDB: 8VV2，cryo-EM，2.6 Å）
+- 大规模分析：PDB 全库筛选（分辨率 ≤3.0 Å，去冗余后 6,047 个复合物，45,244 个子界面）</p>
+<p><strong>指标</strong>：界面连通性（connectivity）、最大连通性、ipLDDT、iPAE、pLDDT 分布</p>
+<p><strong>评测协议</strong>：案例研究 + 全库统计分析</p>
+<table>
+<thead>
+<tr>
+<th>实验</th>
+<th>检验的 claim</th>
+<th>对比与条件</th>
+<th>结果</th>
+<th>支持的结论</th>
+<th>不支持更强的结论</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>锤头核酶分析</td>
+<td>工具可分析 RNA-only 复合物</td>
+<td>dHA 3.0/4.0/5.0 Å 对比</td>
+<td>子界面数随 dHA 增大而减少（5→2→1）</td>
+<td>dHA 控制界面划分粒度</td>
+<td>不涉及功能验证</td>
+<td>图 2A</td>
+</tr>
+<tr>
+<td>锤头核酶拓扑图</td>
+<td>拓扑图可展示 RNA 二级结构</td>
+<td>Leontis-Westhof 分类</td>
+<td>29 个碱基对，含 9 个链内、20 个链间</td>
+<td>工具可自动生成注释拓扑图</td>
+<td>不验证注释准确性</td>
+<td>图 2B-C</td>
+</tr>
+<tr>
+<td>Fab–HIV-1 RNA 预测复合物</td>
+<td>工具可分析 AI 预测模型</td>
+<td>AF3 预测 vs 实验结构（界面相似性评分 0.875）</td>
+<td>界面模式高度保守</td>
+<td>预测模型可用于界面分析</td>
+<td>单一案例，不具统计意义</td>
+<td>图 3A-B</td>
+</tr>
+<tr>
+<td>Fab–HIV-1 RNA 连通性</td>
+<td>高连通性节点可指示功能热点</td>
+<td>网络图分析</td>
+<td>A52 为高连通性节点</td>
+<td>连通性分析可优先候选残基</td>
+<td>未做突变验证</td>
+<td>图 3D</td>
+</tr>
+<tr>
+<td>Cre 重组酶–DNA</td>
+<td>pLDDT 截断影响界面定义</td>
+<td>pLDDT 50/70/90 对比</td>
+<td>高截断显著缩小界面</td>
+<td>用户可按置信度过滤界面</td>
+<td>未评估最优截断值</td>
+<td>图 S1</td>
+</tr>
+<tr>
+<td>DHX36–G4 RNA cryo-EM</td>
+<td>密度分区可评估界面局部质量</td>
+<td>子界面 1 vs 2 局部分辨率对比</td>
+<td>子界面 2 分辨率较低，残基部分建模</td>
+<td>密度分区有助于识别不可靠区域</td>
+<td>未验证柔性-功能关联</td>
+<td>图 4</td>
+</tr>
+<tr>
+<td>PDB 全库分析</td>
+<td>不同界面类别有不同连通性特征</td>
+<td>核酸-only vs 蛋白质-核酸</td>
+<td>核酸-only 中位最大连通性 3；蛋白质-核酸 4-5；蛋白质-核酸分布更宽</td>
+<td>界面连通性可区分复合物类别</td>
+<td>未与功能数据关联</td>
+<td>图 5、表 S2</td>
+</tr>
+<tr>
+<td>碱基翻转检测</td>
+<td>高连通性可识别碱基翻转</td>
+<td>全库扫描</td>
+<td>甲基转移酶（连通性≥20）和 CRISPR-Cas Csm4（连通性 18）被识别</td>
+<td>连通性分析可自动发现特殊结合模式</td>
+<td>未系统评估假阳性率</td>
+<td>图 6B-C</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>11 结论正确解读</h2>
+<ul>
+<li><strong>任务范围</strong>：本文是工具开发+描述性分析，不涉及功能实验验证。所有"功能相关性"推断均为假设性质。</li>
+<li><strong>Oracle/真值输入</strong>：案例研究使用已知实验结构作为参照；大规模分析无独立真值，仅描述统计特征。</li>
+<li><strong>端到端状态</strong>：工具已发布可用，但属于"分析工具"而非"预测工具"——不产生新的结构预测，只对已有结构进行界面注释。</li>
+<li><strong>算力成本</strong>：全库分析在单台 48 核服务器上耗时约 6 小时，成本可控。</li>
+<li><strong>历史数据依赖</strong>：分析依赖 PDB 中已有结构，受限于实验方法偏好（如 RNA 复合物结构较少）。</li>
+<li><strong>模型依赖</strong>：对 AF3 预测模型的分析依赖模型质量；工具本身不改进预测。</li>
+<li><strong>最难情况</strong>：RNA-only 复合物结构少、RNA 柔性大，界面定义对 dHA 敏感。</li>
+<li><strong>群体/领域边界</strong>：结论基于 PDB 中已解析结构，不代表所有核酸复合物；碱基翻转等特殊模式可能在其他未解析复合物中更常见。</li>
+<li><strong>有边界的复述</strong>：ProNA3D 能对实验和预测的核酸复合物进行界面检测、可视化和置信度评估，并在 PDB 全库中识别出核酸-only 与蛋白质-核酸界面的系统性连通性差异，以及碱基翻转等特殊结合模式；但工具不预测结构、不验证功能，其"功能热点"推断需实验验证。</li>
+</ul>
+<hr />
+<h2>12 作者自认局限</h2>
+<table>
+<thead>
+<tr>
+<th>局限</th>
+<th>具体表现</th>
+<th>作者提出的未来方向</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>不支持修饰核苷酸和修饰氨基酸</td>
+<td>含化学修饰的复合物无法自动处理</td>
+<td>需手动在 ChimeraX 中修改</td>
+<td>Methods 段落 1</td>
+</tr>
+<tr>
+<td>依赖 DSSR 且需许可证</td>
+<td>拓扑图功能需要 DSSR 许可</td>
+<td>未来测试与其他 DSSR 版本的兼容性</td>
+<td>Methods "Topology and 2D interface plotting"</td>
+</tr>
+<tr>
+<td>高连通性仅作为假设而非功能证据</td>
+<td>连通性热点需进一步实验验证</td>
+<td>结合突变分析等功能实验</td>
+<td>Discussion 段落 2</td>
+</tr>
+<tr>
+<td>当前二级结构注释依赖 DSSR</td>
+<td>无法使用其他注释方案</td>
+<td>未来扩展兼容 RNAView 等</td>
+<td>Discussion 最后一段</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>13 批判性分析</h2>
+<table>
+<thead>
+<tr>
+<th>[Analysis] 观察</th>
+<th>潜在问题或替代解释</th>
+<th>为何重要</th>
+<th>如何检验</th>
+<th>依据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大规模分析仅用最大连通性单一指标</td>
+<td>可能遗漏其他重要界面特征（如化学互补性、形状匹配）</td>
+<td>单一指标可能过度简化界面多样性</td>
+<td>增加氢键数、疏水面积等多维度指标</td>
+<td>图 5 仅展示最大连通性</td>
+</tr>
+<tr>
+<td>碱基翻转检测依赖连通性阈值</td>
+<td>可能漏检或误检；未报告假阳性/假阴性率</td>
+<td>作为"自动发现"功能需明确灵敏度</td>
+<td>与已知碱基翻转结构数据库比对</td>
+<td>图 6B-C 仅展示 2 个案例</td>
+</tr>
+<tr>
+<td>案例研究选择偏向"成功案例"</td>
+<td>未展示工具失败或表现不佳的场景</td>
+<td>工具边界不清晰</td>
+<td>增加困难案例（如低分辨率、高度柔性复合物）</td>
+<td>未提供失败案例</td>
+</tr>
+<tr>
+<td>与现有工具（DNAproDB/RNAproDB）缺乏定量对比</td>
+<td>未说明 ProNA3D 的增量优势</td>
+<td>用户无法判断工具选择</td>
+<td>在相同数据集上对比功能覆盖和准确性</td>
+<td>表 S1 仅定性比较</td>
+</tr>
+<tr>
+<td>全库分析未控制复合物大小和结构类型</td>
+<td>连通性差异可能受复合物大小而非界面性质驱动</td>
+<td>统计结论可能混淆变量</td>
+<td>按分子量、链数分层分析</td>
+<td>图 5 未分层</td>
+</tr>
+<tr>
+<td>AF3 预测模型分析仅 2 个案例</td>
+<td>无法评估工具对预测模型的普适性</td>
+<td>预测模型是重要应用场景</td>
+<td>增加多种预测模型、多种复合物类型</td>
+<td>图 3、图 S1</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>14 学到什么</h2>
+<p><strong>Agent 提炼的知识候选</strong>：</p>
+<ol>
+<li>
+<p><strong>界面连通性（connectivity）作为结构-功能关系的可量化指标</strong>：本文定义了每个残基/核苷酸的接触伙伴数，并发现不同复合物类别有特征性分布。可迁移到本课题：分析 CRISPR-Cas 复合物（如 Cas9-sgRNA-target DNA 三元复合物）中 PAM 识别域、seed region 等关键元件的连通性特征，可能识别功能关键残基。</p>
+</li>
+<li>
+<p><strong>碱基翻转（base flipping）的自动检测思路</strong>：通过高连通性识别被蛋白质"包裹"的翻转碱基。可迁移到本课题：CRISPR-Cas 系统中 target DNA 的 unwinding 和 R-loop 形成涉及碱基从双螺旋中"挤出"，此方法可用于自动识别 R-loop 中的 flipped bases 及其蛋白质接触模式。</p>
+</li>
+<li>
+<p><strong>界面特异性置信度指标（ipLDDT/iPAE）</strong>：将全局模型评分下沉到界面水平。可迁移到本课题：评估 AF3 预测的 CRISPR 复合物模型时，不应只看整体 pLDDT，而应关注 PAM 识别域、HNH/RuvC 活性位点等界面的局部置信度，以判断预测模型是否可用于机制推断。</p>
+</li>
+<li>
+<p><strong>子界面（sub-interface）划分方法</strong>：基于空间聚类将大界面分解为功能单元。可迁移到本课题：CRISPR-Cas 复合物通常有多个功能区域（PAM 识别、seed 配对、切割位点），子界面划分可帮助区分这些功能单元并分别分析。</p>
+</li>
+<li>
+<p><strong>大规模 PDB 挖掘的流程设计</strong>：去冗余（MMseqs2 聚类）→ 界面检测 → 分类统计。可迁移到本课题：系统分析所有已解析的 CRISPR-Cas 复合物结构，比较不同类型（Class 1 vs Class 2）的界面连通性特征，可能发现结构分类的新维度。</p>
+</li>
+<li>
+<p><strong>工具设计模式：GUI+命令行双模式</strong>：兼顾交互式探索和批量处理。可迁移到本课题：开发 CRISPR 复合物专用分析工具时，可参考此架构。</p>
+</li>
+</ol>
+<hr />
+<h2>15 与已有知识连接</h2>
+<ul>
+<li><strong>与 PICKLUSTER 的关系</strong>：ProNA3D 是同一实验室前期工作 PICKLUSTER 的扩展，后者仅处理蛋白质-蛋白质界面。本文将其推广至核酸复合物，属于同一方法框架的领域迁移。</li>
+<li><strong>与 DSSR/RNAview 的关系</strong>：ProNA3D 的拓扑图功能依赖 DSSR 的二级结构注释，与 RNAview 等核酸结构注释工具互补。</li>
+<li><strong>与 AlphaFold 3 评估体系的关系</strong>：ipLDDT/iPAE 是 AF3 输出指标的界面级衍生量，与全局 pLDDT/pTM/ipTM 形成多尺度评估体系。</li>
+<li><strong>与 CRISPR 结构生物学的连接</strong> [Analysis]：本文大规模分析中识别出 CRISPR 相关蛋白 Csm4 的碱基翻转现象，与已知的 CRISPR-Cas 适应性免疫机制中 RNA 识别和切割的结构基础相关。Csm4 属于 Csm 复合物（III-A 型 CRISPR-Cas 系统），其 5' tag 的翻转识别是 crRNA 加工和靶标识别的重要步骤。</li>
+<li><strong>与碱基编辑的潜在连接</strong> [Analysis]：碱基编辑器中脱氨酶结构域对 ssDNA 底物的识别涉及碱基从双螺旋中挤出（base flipping），本文的连通性分析框架可用于分析碱基编辑器中脱氨酶-ssDNA 界面的接触模式，以及不同碱基编辑器变体的界面差异。</li>
+</ul>
+<hr />
+<h2>16 研究想法</h2>
+<p><strong>Agent 生成的研究候选</strong>：</p>
+<h3>候选 1：CRISPR-Cas 复合物界面连通性图谱</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文全库分析仅报告了 CRISPR 相关蛋白作为高连通性案例，未系统分析 CRISPR-Cas 复合物。</li>
+<li><strong>核心假设</strong>：不同类型 CRISPR-Cas 系统（Class 1/Class 2，Type I-VI）的效应复合物界面连通性特征存在系统性差异，可反映其靶标识别机制的不同。</li>
+<li><strong>初步方法</strong>：收集 PDB 中所有 CRISPR-Cas 效应复合物结构，用 ProNA3D 计算界面连通性，按系统类型分层比较。</li>
+<li><strong>验证方式</strong>：统计检验 + 与已知功能数据（如突变研究）关联。</li>
+<li><strong>失败模式</strong>：结构数量不足，或连通性差异主要由复合物大小而非机制差异驱动。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 2：碱基编辑器中脱氨酶-ssDNA 界面的碱基翻转检测</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文的连通性分析可自动识别碱基翻转，但未应用于碱基编辑器。</li>
+<li><strong>核心假设</strong>：碱基编辑器中脱氨酶（如 TadA、APOBEC）对 ssDNA 底物的识别涉及特征性的高连通性翻转碱基，且不同编辑器变体的界面连通性差异可解释其编辑窗口和效率差异。</li>
+<li><strong>初步方法</strong>：收集碱基编辑器-底物复合物结构（实验或 AF3 预测），用 ProNA3D 分析界面连通性和翻转碱基。</li>
+<li><strong>验证方式</strong>：与已知编辑窗口数据（如 BE4、ABE8e 的编辑范围）对比。</li>
+<li><strong>失败模式</strong>：脱氨酶-ssDNA 复合物结构少，AF3 预测精度不足。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 3：stagger-cleavage 机制中界面连通性的动态变化</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文为静态结构分析，未涉及构象动态。</li>
+<li><strong>核心假设</strong>：Cas9/sgRNA/target DNA 复合物在切割前后界面连通性模式发生特征性变化，可反映 staggered cleavage 的构象基础。</li>
+<li><strong>初步方法</strong>：对 Cas9 不同构象状态（如 apo、sgRNA 结合、target DNA 结合、切割后）的结构进行界面连通性比较。</li>
+<li><strong>验证方式</strong>：分子动力学模拟 + 连通性分析。</li>
+<li><strong>失败模式</strong>：中间态结构缺乏，模拟采样不足。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 4：AF3 预测的 CRISPR 复合物模型的可信度评估框架</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文支持 AF3 预测模型分析，但未提供系统评估框架。</li>
+<li><strong>核心假设</strong>：ipLDDT/iPAE 在 CRISPR 复合物关键功能界面（PAM 识别、seed region、切割位点）的值可预测模型用于机制推断的可靠性。</li>
+<li><strong>初步方法</strong>：对已知结构的 CRISPR 复合物进行 AF3 预测，比较预测与实验结构的界面连通性差异和 ipLDDT/iPAE 值。</li>
+<li><strong>验证方式</strong>：建立阈值，在未知结构上测试。</li>
+<li><strong>失败模式</strong>：AF3 对核酸复合物预测精度不足，无法建立有效阈值。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 5：RNA-only 界面连通性与 RNA 结构域功能的关系</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文发现 RNA-only 界面连通性低且均匀，但未深入分析 RNA 结构域功能。</li>
+<li><strong>核心假设</strong>：核酶和核开关中催化/配体结合位点的界面连通性显著高于结构区域，可用于功能位点预测。</li>
+<li><strong>初步方法</strong>：对已知核酶和核开关结构进行连通性分析，比较功能位点与非功能位点。</li>
+<li><strong>验证方式</strong>：与已知突变数据关联，ROC 分析。</li>
+<li><strong>失败模式</strong>：连通性差异不显著，或与已知功能位点无关联。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul></div>
+  </section>
+  
+  
+  <section>
+    <h2>审稿人评审</h2>
+    <div class="md"><h2>Review setup</h2>
+<ul>
+<li><strong>Input scope</strong> Full manuscript text (abstract, introduction, results, discussion, methods, data availability)</li>
+<li><strong>Assessment boundary</strong> Scientific and technical evaluation of the ProNA3D tool, its demonstrated applications, and the validity of claims made in the provided text. No code execution or hands-on testing was performed.</li>
+<li><strong>Shared manuscript claim summary</strong> The authors present ProNA3D, a UCSF ChimeraX plug-in and command-line tool for unified interface analysis of protein–nucleic acid and nucleic acid-only complexes. The tool supports experimental and predicted structures (including AlphaFold 3 scoring metrics), offers 2D interface visualization and secondary-structure topology plots, and includes cryo-EM density zoning. Applications include case studies on a hammerhead ribozyme, an HIV-1 RNA–antibody complex, a Cre recombinase–DNA complex, and a DHX36–G-quadruplex RNA complex, plus a large-scale PDB analysis revealing interface connectivity trends.</li>
+<li><strong>Visible evidence base</strong> Four case study descriptions (Sections: X-ray structure of an RNA-only complex; Predicted protein–RNA complex; Predicted protein–DNA complex; Cryo-EM structure of a protein–RNA complex), large-scale PDB analysis (Section: Systematic analysis), Methods section, Figures 1–6 referenced, Tables S1–S14 referenced, Supplementary Figures S1–S7 referenced.</li>
+<li><strong>Missing materials affecting confidence</strong> Figures and supplementary materials not provided. No code repository contents, no user documentation, no benchmark comparisons against existing tools, no statistical details beyond Mann–Whitney U test references, no validation metrics for the connectivity analysis beyond descriptive statistics.</li>
+</ul>
+<h2>Reviewer</h2>
+<ul>
+<li>
+<p><strong>Overall assessment</strong> The manuscript describes a timely and potentially useful software tool that addresses a genuine gap in the analysis of nucleic acid-containing complexes, particularly for predicted structures. The integration of interface detection, topology visualization, confidence scoring, and cryo-EM density zoning into a ChimeraX plug-in is a sensible and practical design. The case studies are appropriate demonstrations, and the large-scale PDB analysis provides interesting biological observations. However, the manuscript as presented has several weaknesses: the validation of the tool's core algorithms is limited, the novelty relative to existing tools (e.g., DNAproDB, RNAproDB, PICKLUSTER) is not crisply articulated, and the large-scale analysis conclusions are somewhat descriptive without deeper functional or structural interpretation. The absence of figures and supplementary data in the provided material limits full assessment.</p>
+</li>
+<li>
+<p><strong>Who would be interested in the results, and why</strong> Structural biologists studying protein–nucleic acid complexes, particularly those working with cryo-EM or AlphaFold 3 predictions; computational biologists developing or using interface analysis tools; researchers studying RNA biology, ribozymes, CRISPR systems, and DNA-modifying enzymes. The tool's accessibility as a ChimeraX plug-in broadens its potential user base within the structural biology community.</p>
+</li>
+<li>
+<p><strong>Major Strengths</strong>
+  1. Addresses a real and current need: unified analysis of nucleic acid-containing interfaces in both experimental and predicted structures, with explicit support for AlphaFold 3 outputs.
+  2. The integration of multiple analysis modalities (interface detection, topology plots, 2D graphs, confidence metrics, cryo-EM density zoning) into a single plug-in is practical and likely to be adopted.
+  3. The large-scale PDB analysis (45,244 sub-interfaces) provides a useful community resource and reveals potentially interesting trends (e.g., base flipping, connectivity differences between nucleic acid-only and protein–nucleic acid interfaces).
+  4. The case studies are well chosen to demonstrate the tool's versatility across experimental and predicted structures of different complex types.</p>
+</li>
+<li>
+<p><strong>Major Concerns</strong></p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M1</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Technical validation</li>
+<li><strong>Claim pointer</strong> "ProNA3D identified 5 sub-interfaces... Increasing the dHA to 4.0 Å reduced this to 2 sub-interfaces, and at 5.0 Å, only a single interface was identified" (hammerhead ribozyme case)</li>
+<li><strong>Evidence pointer</strong> Section: X-ray structure of an RNA-only complex; Figure 2</li>
+<li><strong>Concern</strong> The sensitivity of sub-interface detection to the dHA parameter is demonstrated, but there is no validation of whether these sub-interfaces are biologically meaningful or merely artifacts of the clustering algorithm. The manuscript does not compare ProNA3D's sub-interface partitioning against known functional or structural units in these well-characterized complexes. Without such validation, the core feature of the tool (sub-interface identification) remains unsubstantiated.</li>
+<li><strong>Why it matters</strong> The central claim of the tool is that it can identify meaningful sub-interfaces within larger interfaces. If the sub-interface boundaries are highly sensitive to arbitrary cutoffs and do not correspond to known structural or functional features, the tool's primary output may mislead users.</li>
+<li>
+<p><strong>Resolution test</strong> Provide a validation analysis on a set of well-characterized complexes where sub-interfaces are known (e.g., from mutagenesis or evolutionary analysis), showing that ProNA3D's sub-interface detection recovers these known features across a range of dHA values. Alternatively, demonstrate that sub-interface boundaries are stable across small perturbations of the input structure.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M2</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Novelty and comparative assessment</li>
+<li><strong>Claim pointer</strong> "Tools for the integrated analysis of interfaces within such complexes remain limited" (Abstract); "ProNA3D addresses this gap" (Introduction)</li>
+<li><strong>Evidence pointer</strong> Introduction; Table S1</li>
+<li><strong>Concern</strong> The manuscript claims that existing tools are limited, but the comparison in Table S1 (not provided) is not discussed in sufficient detail in the main text. Specifically, the authors do not clearly articulate what ProNA3D offers beyond DNAproDB and RNAproDB, which already provide topology plots and interaction analysis for nucleic acid complexes. The extension from PICKLUSTER is mentioned, but the specific new capabilities (beyond supporting nucleic acids) are not enumerated.</li>
+<li><strong>Why it matters</strong> For a software tool paper, the novelty and differentiation from existing tools is a primary criterion for publication. Without a clear comparative analysis, readers cannot assess whether ProNAD3D represents a significant advance or an incremental extension.</li>
+<li>
+<p><strong>Resolution test</strong> Add a dedicated section or table in the main text that systematically compares ProNA3D's features against DNAproDB, RNAproDB, PICKLUSTER, and other relevant tools (e.g., Arpeggio, NucPlot), with explicit statements of what is new and what is inherited.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M3</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Statistical rigor of large-scale analysis</li>
+<li><strong>Claim pointer</strong> "distinct interface connectivity trends and interaction modes characteristic of specific classes of nucleic acid-containing complexes" (Abstract); "protein–DNA and protein–RNA interfaces exhibited higher mean maximum connectivity and broader distributions than nucleic acid-only interfaces" (Systematic analysis section)</li>
+<li><strong>Evidence pointer</strong> Section: Systematic analysis; Figure 5; Tables S2–S6</li>
+<li><strong>Concern</strong> The large-scale analysis reports descriptive statistics (medians, standard deviations) and Mann–Whitney U test results, but the effect sizes are not reported, and the biological interpretation of the connectivity differences is limited. The claim of "distinct trends" is not supported by any clustering or classification analysis that would demonstrate that interface types can be distinguished based on connectivity features. Additionally, the analysis of outliers (connectivity ≥ 18) is anecdotal, with only two examples discussed.</li>
+<li><strong>Why it matters</strong> The large-scale analysis is presented as a key outcome of the tool, but without effect sizes, confidence intervals, or a more rigorous classification framework, the biological conclusions remain weak. The claim of "distinct trends" requires more than statistical significance; it requires demonstration that the distributions are sufficiently different to be informative.</li>
+<li>
+<p><strong>Resolution test</strong> Report effect sizes (e.g., Cliff's delta or rank-biserial correlation) for the pairwise comparisons. Add a classification analysis (e.g., random forest or simple threshold-based classifier) showing that interface type can be predicted from connectivity features with reasonable accuracy. Provide a more systematic analysis of high-connectivity outliers, including a functional enrichment analysis.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M4</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Validation of predicted structure analysis</li>
+<li><strong>Claim pointer</strong> "interface contact similarity score of 0.875" (Predicted protein–RNA complex section)</li>
+<li><strong>Evidence pointer</strong> Section: Predicted protein–RNA complex; Figure 3</li>
+<li><strong>Concern</strong> The comparison between predicted and experimental interfaces relies on a single similarity score, but the metric is not defined in the main text or methods. It is unclear whether this score is based on residue-residue contacts, spatial overlap, or some other measure. Additionally, the significance of a score of 0.875 is not established (i.e., what would a random or poor prediction score?).</li>
+<li><strong>Why it matters</strong> The ability to analyze predicted structures is a key selling point of ProNA3D. Without a clear definition and benchmark of the similarity metric, the claim that the tool can meaningfully analyze predicted interfaces is not fully supported.</li>
+<li>
+<p><strong>Resolution test</strong> Define the interface contact similarity score in the Methods section. Provide a benchmark against a set of decoy or incorrect predictions to establish a baseline for the score. Ideally, compare ProNA3D's assessment of predicted interfaces against other established metrics (e.g., DockQ, lDDT).</p>
+</li>
+<li>
+<p><strong>Minor Comments</strong></p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m1</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Clarity</li>
+<li><strong>Affected element</strong> Methods, Interface extraction</li>
+<li><strong>Evidence pointer</strong> Methods section, Equation 1</li>
+<li><strong>Issue</strong> The mathematical notation in Equation 1 is ambiguous. The expression "I=rirjmina∈rib∈rjxa,i−xb,j≤dHA" is not standard mathematical notation and is difficult to parse.</li>
+<li>
+<p><strong>Required correction</strong> Rewrite Equation 1 using standard set-builder notation, e.g., I = {(ri, rj) | min_{a∈ri, b∈rj} ||x_a,i − x_b,j|| ≤ dHA}.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m2</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Reproducibility</li>
+<li><strong>Affected element</strong> Methods, Dataset curation</li>
+<li><strong>Evidence pointer</strong> Methods section, Dataset curation for large-scale PDB analysis</li>
+<li><strong>Issue</strong> The dataset curation is described, but the exact date of the PDB snapshot, the version of the PDB, and the specific filtering criteria (beyond resolution) are not fully specified. The statement "yielding 10,806 complexes" lacks context for reproducibility.</li>
+<li>
+<p><strong>Required correction</strong> Specify the PDB release date or version, and provide a more detailed flowchart of the filtering steps (e.g., in a supplementary figure).</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m3</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Interpretation</li>
+<li><strong>Affected element</strong> Discussion, Limitations</li>
+<li><strong>Evidence pointer</strong> Discussion section</li>
+<li><strong>Concern</strong> The Discussion does not explicitly address the limitation that the connectivity analysis is based on static structures and does not account for conformational dynamics or ensemble representations. Given the emphasis on cryo-EM and flexibility, this is a notable omission.</li>
+<li>
+<p><strong>Required correction</strong> Add a paragraph in the Discussion acknowledging this limitation and suggesting potential future directions (e.g., ensemble analysis, integration with molecular dynamics).</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m4</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Accessibility</li>
+<li><strong>Affected element</strong> Data Availability</li>
+<li><strong>Evidence pointer</strong> Data Availability section</li>
+<li><strong>Issue</strong> The statement "the repository contains the results of the large-scale analyses" is vague. It is unclear what format the results are in, whether they are raw data or processed summaries, and whether they are easily queryable.</li>
+<li>
+<p><strong>Required correction</strong> Provide a brief description of the data files (e.g., CSV tables, SQLite database) and their schema in the Data Availability section or a supplementary note.</p>
+</li>
+<li>
+<p><strong>Technical failings that need to be addressed before the case is established</strong>
+  R1-M1 (sub-interface validation), R1-M2 (comparative novelty), R1-M3 (statistical rigor of large-scale claims), R1-M4 (definition and benchmarking of similarity metric).</p>
+</li>
+<li>
+<p><strong>Assessment against Nature-style criteria</strong></p>
+</li>
+<li><strong>Originality</strong>: Moderate. The combination of features (nucleic acid interface analysis + AlphaFold 3 scoring + cryo-EM zoning) in a single plug-in is somewhat novel, but each individual component exists in some form in other tools. The large-scale connectivity analysis is a useful contribution but not conceptually groundbreaking.</li>
+<li><strong>Scientific importance</strong>: Moderate to high. The tool addresses a practical need in a growing area (analysis of predicted nucleic acid complexes). The large-scale analysis could be a useful resource, but its biological insights are currently limited.</li>
+<li><strong>Interdisciplinary readership</strong>: Moderate. The tool will appeal to structural biologists, computational biologists, and possibly RNA biologists. The cryo-EM integration broadens appeal, but the manuscript is unlikely to attract readers outside these fields.</li>
+<li><strong>Technical soundness</strong>: Currently insufficient. The core algorithm (sub-interface detection) lacks validation, the similarity metric is undefined, and the statistical analysis of the large-scale dataset is incomplete. The software design appears sound, but the evidence presented does not fully establish its reliability.</li>
+<li>
+<p><strong>Readability for nonspecialists</strong>: Acceptable. The manuscript is generally well-written and the concepts are explained clearly. However, the Methods section assumes familiarity with structural biology terminology and tools.</p>
+</li>
+<li>
+<p><strong>Recommendation posture</strong> Currently not established from the provided evidence. The tool has clear potential and addresses a real need, but the manuscript requires substantial revisions to validate the core algorithms, clarify novelty, and strengthen the statistical and biological analysis of the large-scale dataset. I would be supportive of reconsideration after major revisions.</p>
+</li>
+</ul></div>
+  </section>
+  
+</article>
+</main>
+</body>
+</html>

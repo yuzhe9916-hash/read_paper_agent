@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42818312",
+  "title": "HPV16 Utilizes Phospholipase C(s) for its Genome Egress.",
+  "authors": "Keiffer, Timothy R; Siddiqa, Abida; Represa-Perez, Mireya; Zabir, Hiba; Kushwaha, Anand; Sapp, Martin; Zwolinska, Katarzyna",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-01",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 3,
+  "one_liner_zh": "该文研究HPV16利用磷脂酶C从转运囊泡释放基因组，虽使用CRISPR/Cas9敲除技术，但对象为病毒进入机制而非CRISPR/碱基编辑的切割或编辑机制，分子机制无可迁移启发。",
+  "abstract": "Nuclear delivery of human papillomavirus (HPV) requires infected cells to undergo mitosis. Incoming HPV DNA is protected by a transport vesicle structure, which becomes unstable post-mitosis. We have previously shown that HPV genome egress takes on average 4 hours post-mitosis completion; thus, we propose that an enzymatic process is involved in degrading this transport vesicle to allow genome egress. Several phospholipase C (PLC) isoforms, including PLCdelta3, PLCzeta1, and PLCL1, have been previously implicated in HPV infection in large-scale siRNA screens, and the parvovirus VP1 capsid protein has phospholipase enzymatic activity. Therefore, we hypothesized that cellular phospholipases residing in the nucleus mediate egress of the HPV genome from transport vesicles. We utilized siRNA-mediated knockdown and CRISPR/Cas9 knockout techniques to target specific PLC isoforms in both HeLa and HaCaT cell lines. We found that targeting PLC isoforms PLCbeta1, beta4, delta3, delta4, and gamma1 significantly decreased HPV infection in both HeLa and HaCaT cells, as measured using a luciferase-based reporter assay. We also discovered a novel interaction between HPV16 minor protein L2 and PLCs beta1, beta4, delta1, delta3, and delta4. Furthermore, we observed that knockout of PLCbeta4 and delta4 delayed egress of the HPV genome from nuclear membrane-bound vesicles after infection of HeLa cells. We propose that HPV utilizes phospholipase Cs to achieve genome egress from its protective vesicular structure after nuclear delivery. IMPORTANCE: The cellular factors involved in the later stages of HPV entry remain to be elucidated. Previous data gleaned from large-scale siRNA screens implicated the involvement of phospholipases in HPV infection. We expanded upon these findings and discovered that the individual phospholipase C (PLC) isoforms beta4 and delta4 are important for HPV infectivity. We further linked the loss of infectivity in PLCbeta4- and PLCdelta4-deficient cells to a defect in HPV genome release from its transport vesicle, which we demonstrated using our differential staining technique. Furthermore, we discovered a novel interaction between the minor protein L2 of HPV16 and PLC isoforms beta1, beta4, delta1, delta3, and delta4.",
+  "abstract_zh": "人乳头瘤病毒（HPV）的核内递送需要感染细胞经历有丝分裂。进入的HPV DNA由运输囊泡结构保护，该结构在有丝分裂后变得不稳定。我们此前已表明，HPV基因组释放平均在有丝分裂完成后4小时发生；因此，我们提出，一个酶促过程参与降解该运输囊泡以允许基因组释放。几种磷脂酶C（PLC）亚型，包括PLCdelta3、PLCzeta1和PLCL1，此前在大规模siRNA筛选中被牵涉于HPV感染，且细小病毒VP1衣壳蛋白具有磷脂酶酶活性。因此，我们假设，存在于细胞核中的细胞磷脂酶介导HPV基因组从运输囊泡中释放。我们利用siRNA介导的敲低和CRISPR/Cas9敲除技术，在HeLa和HaCaT细胞系中靶向特定PLC亚型。我们发现，靶向PLC亚型PLCbeta1、beta4、delta3、delta4和gamma1在HeLa和HaCaT细胞中均显著降低HPV感染，这是通过基于荧光素酶的报告实验测定的。我们还发现了HPV16次要蛋白L2与PLCbeta1、beta4、delta1、delta3和delta4之间的新型相互作用。此外，我们观察到，在HeLa细胞感染后，敲除PLCbeta4和delta4延迟了HPV基因组从核膜结合囊泡中的释放。我们提出，HPV利用磷脂酶C在核内递送后实现其基因组从保护性囊泡结构中释放。重要性：参与HPV进入后期阶段的细胞因素仍有待阐明。从大规模siRNA筛选中获得的先前数据暗示磷脂酶参与HPV感染。我们扩展了这些发现，并发现单个磷脂酶C（PLC）亚型beta4和delta4对HPV感染性至关重要。我们进一步将PLCbeta4和PLCdelta4缺陷细胞中感染性的丧失与HPV基因组从其运输囊泡释放的缺陷联系起来，这是通过我们的差异染色技术证明的。此外，我们发现了HPV16次要蛋白L2与PLC亚型beta1、beta4、delta1、delta3和delta4之间的新型相互作用。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42818312/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42818312/",
+  "paper_page_path": "papers/pubmed/42818312/index.html"
+}

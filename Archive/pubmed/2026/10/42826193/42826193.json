@@ -1,0 +1,297 @@
+{
+  "identity": {
+    "pmid": "42826193",
+    "doi": "10.1126/sciadv.aee1374",
+    "title": "Transposon end recognition and pairing by I-F3 CRISPR-associated transposase."
+  },
+  "content": {
+    "abstract": "To develop gene therapy tools based on CRISPR-associated transposons (CASTs), it is essential to define how transposon ends are recognized and paired during transposition. Transposon 7 (Tn7)-like transposons typically contain asymmetric left- and right-end sequences that flank and define DNA cargo. However, how the transposase recognizes these different sequences and assembles them into a catalytically competent state for cut-and-paste transposition remains unknown. Here, we present the cryo-electron microscopy structure of the VchCAST transposase TnsB in complex with transposon DNA ends and host factor IHF, along with biochemistry, molecular dynamics, and in vivo analyses. Our structure reveals the stoichiometry and architecture of the assembly, as well as the DNA distortions required to accommodate transposon end asymmetry. Molecular dynamics suggests that these distortions are required for the coordinated assembly of the complex. Physical association of asymmetric left and right ends results in a previously uncharacterized protein-protein interface that is required for transposition efficiency. Our findings explain how transposases regulate the pairing of transposon end sequences for high-fidelity recognition, reveal a model of transposon-end synapsis, and suggest future avenues to engineer DNA cargo for genome-editing applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*DNA Transposable Elements/genetics",
+      "*Transposases/chemistry/metabolism/genetics",
+      "Cryoelectron Microscopy",
+      "*CRISPR-Cas Systems",
+      "Molecular Dynamics Simulation",
+      "Models, Molecular",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Truong, Vinh H",
+        "Miller, Darcie J",
+        "Fatma, Shirin",
+        "Sheng, Yuewen",
+        "Pindi, Chinmai",
+        "Ahsan, Mohd",
+        "Palermo, Giulia",
+        "Kellogg, Elizabeth H"
+      ],
+      "short_names": [
+        "Truong VH",
+        "Miller DJ",
+        "Fatma S",
+        "Sheng Y",
+        "Pindi C",
+        "Ahsan M",
+        "Palermo G",
+        "Kellogg EH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6154-1228",
+        "ORCID: 0000-0002-4504-4272",
+        "ORCID: 0000-0003-3067-9520",
+        "ORCID: 0000-0002-7873-013X",
+        "ORCID: 0000-0002-0583-4413",
+        "ORCID: 0000-0002-9664-3179"
+      ],
+      "affiliations": [
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA.",
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA.",
+        "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA.",
+        "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Truong, Vinh H",
+        "short_name": "Truong VH",
+        "identifiers": [
+          "0000-0002-6154-1228"
+        ],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Miller, Darcie J",
+        "short_name": "Miller DJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Fatma, Shirin",
+        "short_name": "Fatma S",
+        "identifiers": [
+          "0000-0002-4504-4272"
+        ],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Sheng, Yuewen",
+        "short_name": "Sheng Y",
+        "identifiers": [
+          "0000-0003-3067-9520"
+        ],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Pindi, Chinmai",
+        "short_name": "Pindi C",
+        "identifiers": [
+          "0000-0002-7873-013X"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ahsan, Mohd",
+        "short_name": "Ahsan M",
+        "identifiers": [
+          "0000-0002-0583-4413"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Palermo, Giulia",
+        "short_name": "Palermo G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of California Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kellogg, Elizabeth H",
+        "short_name": "Kellogg EH",
+        "identifiers": [
+          "0000-0002-9664-3179"
+        ],
+        "affiliations": [
+          "Department of Structural Biology, St. Jude Children's Research Hospital, Memphis, TN, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826193",
+      "42465468",
+      "42773127",
+      "35914146",
+      "34759315",
+      "39383864",
+      "23262225",
+      "40103227",
+      "37078593",
+      "36184667",
+      "23674682",
+      "36442503",
+      "35654042",
+      "17074070",
+      "36435179",
+      "19766564",
+      "20538004",
+      "18243097",
+      "38834066",
+      "37557170",
+      "42146515",
+      "31853065",
+      "11741865",
+      "36711804",
+      "25036632",
+      "37379212",
+      "38598855",
+      "16912840",
+      "17403897",
+      "39774116",
+      "21041479",
+      "14592987",
+      "15340089",
+      "29551265",
+      "22905263",
+      "30184164",
+      "18339812",
+      "32651359",
+      "37087515",
+      "34403695",
+      "39657726",
+      "35051352",
+      "15102449",
+      "10603311",
+      "27223327",
+      "31913120",
+      "25662605",
+      "36537219",
+      "30289389",
+      "8195081",
+      "25869132",
+      "28645898",
+      "38834067",
+      "17693501",
+      "14530435",
+      "27913727",
+      "31723264",
+      "41495894",
+      "28811374",
+      "24319144",
+      "19332822",
+      "33770501",
+      "25375127",
+      "12603728",
+      "27025571",
+      "15713457",
+      "31659330",
+      "38926614",
+      "11564861",
+      "24982178",
+      "17644523",
+      "26104705",
+      "29385532",
+      "37972161",
+      "31742433",
+      "42753721",
+      "17257617",
+      "34385391",
+      "10704304",
+      "11160934",
+      "31171706",
+      "15304566",
+      "37368499",
+      "11522826",
+      "33006208",
+      "26438298",
+      "28096365",
+      "15814815",
+      "29750515",
+      "34872347",
+      "36257990",
+      "17680987",
+      "10884228",
+      "20084428",
+      "36537206",
+      "24269942",
+      "36801863",
+      "21736732",
+      "12093750",
+      "22367875"
+    ],
+    "review": [
+      "42826193",
+      "38598855",
+      "16912840",
+      "15102449",
+      "10603311",
+      "12603728",
+      "26104705",
+      "20084428"
+    ],
+    "pmc": [
+      "13632737"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aee1374?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1479",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "identity": {
+    "pmid": "42827260",
+    "doi": "10.1186/s12964-026-03229-9",
+    "title": "Daam-, FMNL-, and mDia-family formins jointly regulate cortical actin dynamics in melanoma cells."
+  },
+  "content": {
+    "abstract": "The actin-rich cell cortex is a viscoelastic structure essential for processes such as cell migration and division, yet the full spectrum of actin assembly factors that build and regulate the cortex in mammalian cells remains incompletely defined. While the Arp2/3 complex generates actin networks mostly comprising short, branched filaments, formins like mDia1 and mDia3 assemble long, linear filaments capable of withstanding the high mechanical load produced by myosin-driven contraction at the cell rear. To obtain a complete inventory of formins that regulate mechanics of the contractile cortex in B16-F1 melanoma cells, we systematically screened Diaphanous-related formins (DRFs) for interactions with Rho-family GTPases regulating contractility. This screen led to the identification of Daam1/2 and FMNL2/3 as cortical formins, since active variants of these formins as well as the endogenous proteins prominently localized to the rear cortex of polarized B16-F1 cells. Yeast two-hybrid (Y2H) and GST pull-down assays revealed prominent interactions of Daam1/2 with active RhoA, RhoB, RhoC, RhoD, and Cdc42, and weaker binding to Rac1 and Rif. Pyrene-actin polymerization and single-filament TIRF assays further demonstrated that these GTPases effectively relieve autoinhibition of Daam-family formins, with Daam1 and 2 emerging as a potent elongators. In line with this, CRISPR/Cas9-generated Daam1/2 double-knockout cells exhibited multiple defects, including formation of multiple leading edges, impaired random 2D migration, reduced focal adhesion (FA) turnover and inefficient rear retraction. However, contrary to earlier work, we found no evidence that Daam1/2 regulate the formation of finger-like protrusions. By comparison, FMNL2 appears to act as a dual-role formin at both the cell front and rear, interacting with and being activated by several GTPases linked to contractility and protrusion. Analytical ultracentrifugation further clarified previous inconsistencies by showing that the affinity of FMNL2 for GTPases, particularly for Rac1, depends on the length of its N-terminal fragment and the presence of the full FH3 domain. Finally, we show that cells lacking Daam1/2 and mDia1/3 display pronounced cortical defects, including reduced rigidity, excessive blebbing, and delayed cytokinesis, demonstrating that these formins cooperate to preserve cortical architecture and function.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Formins/metabolism",
+      "Mice",
+      "*Actins/metabolism",
+      "*Microfilament Proteins/metabolism",
+      "*Melanoma/metabolism/pathology",
+      "Humans",
+      "rho GTP-Binding Proteins/metabolism",
+      "Cell Line, Tumor",
+      "Cell Movement",
+      "*Melanoma, Experimental/metabolism/pathology",
+      "*Adaptor Proteins, Signal Transducing/metabolism",
+      "Microtubule-Associated Proteins",
+      "NADPH Dehydrogenase"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kaufmann, Thomas",
+        "Scholz, Jonas",
+        "Csiszar, Agnes",
+        "Karger, Marius",
+        "Walkenbach, Moritz",
+        "Rottner, Klemens",
+        "Merkel, Rudolf",
+        "Curth, Ute",
+        "Faix, Jan"
+      ],
+      "short_names": [
+        "Kaufmann T",
+        "Scholz J",
+        "Csiszar A",
+        "Karger M",
+        "Walkenbach M",
+        "Rottner K",
+        "Merkel R",
+        "Curth U",
+        "Faix J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany.",
+        "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany.",
+        "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Julich GmbH, Wilhelm-Johnen-Strasse, Julich, 52428, Germany.",
+        "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Inhoffenstrasse 7, Brunswick, 38124, Germany.",
+        "Division of Molecular Cell Biology, Institute for Cell and Neurobiology, Technische Universitat Braunschweig, Spielmannstrasse 7, Braunschweig, 38106, Germany.",
+        "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Julich GmbH, Wilhelm-Johnen-Strasse, Julich, 52428, Germany.",
+        "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Inhoffenstrasse 7, Brunswick, 38124, Germany.",
+        "Division of Molecular Cell Biology, Institute for Cell and Neurobiology, Technische Universitat Braunschweig, Spielmannstrasse 7, Braunschweig, 38106, Germany.",
+        "Braunschweig Integrated Centre of Systems Biology (BRICS), Rebenring 56, Braunschweig, 38106, Germany.",
+        "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Julich GmbH, Wilhelm-Johnen-Strasse, Julich, 52428, Germany.",
+        "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany.",
+        "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany. faix.jan@mh-hannover.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kaufmann, Thomas",
+        "short_name": "Kaufmann T",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany."
+        ]
+      },
+      {
+        "full_name": "Scholz, Jonas",
+        "short_name": "Scholz J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany."
+        ]
+      },
+      {
+        "full_name": "Csiszár, Agnes",
+        "short_name": "Csiszár A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Jülich GmbH, Wilhelm-Johnen-Straße, Jülich, 52428, Germany."
+        ]
+      },
+      {
+        "full_name": "Karger, Marius",
+        "short_name": "Karger M",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Inhoffenstrasse 7, Brunswick, 38124, Germany.",
+          "Division of Molecular Cell Biology, Institute for Cell and Neurobiology, Technische Universität Braunschweig, Spielmannstraße 7, Braunschweig, 38106, Germany."
+        ]
+      },
+      {
+        "full_name": "Walkenbach, Moritz",
+        "short_name": "Walkenbach M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Jülich GmbH, Wilhelm-Johnen-Straße, Jülich, 52428, Germany."
+        ]
+      },
+      {
+        "full_name": "Rottner, Klemens",
+        "short_name": "Rottner K",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Inhoffenstrasse 7, Brunswick, 38124, Germany.",
+          "Division of Molecular Cell Biology, Institute for Cell and Neurobiology, Technische Universität Braunschweig, Spielmannstraße 7, Braunschweig, 38106, Germany.",
+          "Braunschweig Integrated Centre of Systems Biology (BRICS), Rebenring 56, Braunschweig, 38106, Germany."
+        ]
+      },
+      {
+        "full_name": "Merkel, Rudolf",
+        "short_name": "Merkel R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biological Information Processing 2: Mechanobiology, Forschungszentrum Jülich GmbH, Wilhelm-Johnen-Straße, Jülich, 52428, Germany."
+        ]
+      },
+      {
+        "full_name": "Curth, Ute",
+        "short_name": "Curth U",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany."
+        ]
+      },
+      {
+        "full_name": "Faix, Jan",
+        "short_name": "Faix J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Biophysical Chemistry, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany. faix.jan@mh-hannover.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell communication and signaling : CCS"
+    ],
+    "journal_abbrev": [
+      "Cell Commun Signal"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/03 05:33",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827260",
+      "18218625",
+      "30808751",
+      "20223827",
+      "24914801",
+      "16630611",
+      "24403606",
+      "17398099",
+      "18829452",
+      "21278336",
+      "25281757",
+      "17482208",
+      "22608513",
+      "25017211",
+      "33458919",
+      "32572169",
+      "32353019",
+      "20927366",
+      "21998204",
+      "26258642",
+      "12906795",
+      "22246438",
+      "23087206",
+      "19764708",
+      "23850281",
+      "16949823",
+      "20927338",
+      "24081490",
+      "20233848",
+      "29972794",
+      "22605659",
+      "28327544",
+      "23455479",
+      "23050667",
+      "5538822",
+      "19457867",
+      "39475610",
+      "24430873",
+      "36139355",
+      "18162551",
+      "18835565",
+      "17373907",
+      "24906914",
+      "20101212",
+      "28238662",
+      "21177343",
+      "20633255",
+      "19158278",
+      "19160018",
+      "32005666",
+      "28682694",
+      "23060957",
+      "16361707",
+      "17716977",
+      "17198702",
+      "11707518",
+      "25483300",
+      "16943426",
+      "25963737",
+      "27760153",
+      "1611153",
+      "23620398",
+      "22918941",
+      "19929439",
+      "23034183",
+      "12857739",
+      "16490788",
+      "21680709",
+      "30309655",
+      "19625450",
+      "12888296",
+      "23558171",
+      "36152749",
+      "29571963",
+      "36980231",
+      "30256801",
+      "12939257",
+      "35563863",
+      "20619927",
+      "16358408",
+      "16361249",
+      "29752407",
+      "18977250",
+      "26801180",
+      "23572514",
+      "23629878",
+      "26415699",
+      "20566685",
+      "23763313",
+      "15705584",
+      "23906540",
+      "19633175",
+      "16472660",
+      "33232676",
+      "34781738",
+      "23677607",
+      "15377785",
+      "20881208",
+      "26370503",
+      "19768111"
+    ],
+    "review": [
+      "42827260",
+      "24914801",
+      "16949823",
+      "36139355",
+      "17373907",
+      "19160018",
+      "25483300",
+      "1611153",
+      "30309655",
+      "12888296",
+      "18977250"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://biosignaling.biomedcentral.com/articles/10.1186/s12964-026-03229-9",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/melanoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Melanoma"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu3-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1601",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42818544",
+  "title": "Cap-Independent Translation Regulation of VEGF Using CRISPR-dCas13d.",
+  "authors": "Kabir, Mohammad Lutful; Kodikara, Sineth G; Ramel, Najmah Al; Alfehaid, Janan; Basu, Soumitra; Balci, Hamza",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-01",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 4,
+  "one_liner_zh": "该研究利用CRISPR-dCas13d靶向VEGF IRES中的G-四链体抑制翻译，虽涉及CRISPR系统但聚焦RNA结合与翻译调控，而非DNA切割、交错断裂或碱基编辑机制，与本课题核心机制关联较弱。",
+  "abstract": "Vascular endothelial growth factor (VEGF) is a central driver of pathological angiogenesis in cancer and retinal disease. A G-quadruplex (GQ) structure that forms in an Internal Ribosome Entry Site (IRES) of VEGF was proposed to recruit the 40S ribosome and initiate cap-independent translation under hypoxia. We demonstrate that blocking this GQ with dCas13d represses VEGF translation by up to 5-fold, without impacting mRNA abundance, under hypoxia. Similar levels of repression were attained in HeLa and human umbilical vein endothelial cells (HUVECs) using immunofluorescence and western blot assays, as well as a bicistronic dual-luciferase experiment. Single molecule Forster resonance energy transfer (smFRET) and fluorescence enhancement assays demonstrated destabilization of the GQ by CRISPR-dCas13d. We also tested the functional consequences of this regulation using tube formation assay in bovine aortic endothelial cells (BAOECs), which demonstrated consistent results with VEGF expression levels. Our study demonstrates the feasibility of using CRISPR-dCas13d as a sequence-specific and transient translation regulator for a large group of genes that contain translationally-active secondary structures.",
+  "abstract_zh": "血管内皮生长因子（VEGF）是癌症和视网膜疾病中病理性血管生成的核心驱动因素。在VEGF的内部核糖体进入位点（IRES）中形成的G-四链体（GQ）结构，被提出在低氧条件下招募40S核糖体并启动非帽依赖性翻译。我们证明，通过dCas13d阻断该GQ，在低氧条件下可将VEGF翻译抑制高达5倍，且不影响mRNA丰度。在HeLa细胞和人脐静脉内皮细胞（HUVECs）中，通过免疫荧光和蛋白质印迹实验，以及双顺反子双荧光素酶实验，均获得了相似水平的抑制效果。单分子福斯特共振能量转移（smFRET）和荧光增强实验表明，CRISPR-dCas13d可导致GQ不稳定化。我们还利用牛主动脉内皮细胞（BAOECs）中的管形成实验测试了这种调控的功能后果，结果与VEGF表达水平一致。我们的研究证明了使用CRISPR-dCas13d作为序列特异性和瞬时翻译调控因子，对含有翻译活性二级结构的大基因群进行调控的可行性。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42818544/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42818544/",
+  "paper_page_path": "papers/pubmed/42818544/index.html"
+}

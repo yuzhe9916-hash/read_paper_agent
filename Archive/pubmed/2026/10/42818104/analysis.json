@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42818104",
+  "title": "Auto-SMART: a web-based platform for repair-template design for CRISPR/Cas9 homology-directed editing.",
+  "authors": "Zhao, Chuanping; Cao, Yan; Martemyanov, Kirill A",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-01",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 5,
+  "one_liner_zh": "该文介绍Auto-SMART网络平台，用于设计CRISPR/Cas9同源定向修复的供体模板，通过沉默突变优化切割位点与编辑位点间距；虽涉及Cas9切割与HDR修复模板设计，但侧重工具应用而非分子机制研究，故评分为5。",
+  "abstract": "Genome engineering via CRISPR/Cas9 has been widely applied in biological research and developing gene therapies. However, genome editing flexibility is strongly constrained by the position and quality of guide RNAs relative to the intended edit: desired edit sites are frequently positioned far from efficient protospacer adjacent motifs (PAM). SMART (Silently Mutate And Repair Template) technique relaxes this constraint by silently mutating the gap between the Cas9 cut and the edit in the repair donor, preserving the encoded protein while expanding the usable guide-RNA design space. Designing such donors manually requires coordinated reasoning over transcript structure, reading frame, candidate protospacers, codon usage, homology arms and the expected edited allele. Auto-SMART is a web platform that automates this process for CRISPR/Cas9-mediated insertion, deletion, point mutation and sequence replacement in coding exons and in introns. Users choose a genome assembly, search a gene symbol or transcript, select a modification site and select an editing operation. Auto-SMART finds nearby Streptococcus pyogenes Cas9 (SpCas9) guides, ranks them by predicted on-target activity and cut-to-edit geometry, builds repair templates with synonymous substitutions, automatically recodes residual on-target sites to prevent re-cutting and renders interpretable panels for the target locus, donor template and locus after HDR, together with a downloadable report and a Primer3 genotyping handoff. The web application for Auto-SMART is freely available at https://auto-smart.chuanping.org/ .",
+  "abstract_zh": "通过CRISPR/Cas9进行的基因组工程已广泛应用于生物学研究和基因治疗开发中。然而，基因组编辑的灵活性受到引导RNA相对于预期编辑位点的位置和质量的强烈限制：理想的编辑位点往往距离高效的原间隔区邻近基序（PAM）较远。SMART（沉默突变并修复模板）技术通过在不改变编码蛋白的前提下，对修复供体中Cas9切割位点与编辑位点之间的间隔进行沉默突变，从而放宽了这一限制，同时扩展了可用的引导RNA设计空间。手动设计此类供体需要对转录本结构、阅读框、候选原间隔区、密码子使用、同源臂以及预期编辑后的等位基因进行协调推理。Auto-SMART是一个网络平台，可自动化这一过程，适用于CRISPR/Cas9介导的编码外显子和内含子中的插入、删除、点突变和序列替换。用户选择基因组组装版本，搜索基因符号或转录本，选择修饰位点并选择编辑操作。Auto-SMART会寻找附近的化脓性链球菌Cas9（SpCas9）引导序列，根据预测的靶向活性和切割到编辑的几何结构进行排序，构建带有同义替换的修复模板，自动重新编码残留的靶向位点以防止再切割，并为目标位点、供体模板和HDR后的位点生成可解释的图谱，同时提供可下载的报告和Primer3基因分型交接文件。Auto-SMART的Web应用程序可免费访问，网址为https://auto-smart.chuanping.org/。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42818104/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42818104/",
+  "paper_page_path": "papers/pubmed/42818104/index.html"
+}

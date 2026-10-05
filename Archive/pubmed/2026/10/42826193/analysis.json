@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42826193",
+  "title": "Transposon end recognition and pairing by I-F3 CRISPR-associated transposase.",
+  "authors": "Truong, Vinh H; Miller, Darcie J; Fatma, Shirin; Sheng, Yuewen; Pindi, Chinmai; Ahsan, Mohd; Palermo, Giulia; Kellogg, Elizabeth H",
+  "journal": "Science advances",
+  "published_date": "2026-10-02",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 7,
+  "one_liner_zh": "该研究通过冷冻电镜解析CRISPR相关转座子TnsB与转座子DNA末端及IHF的复合物结构，揭示不对称末端识别与配对的分子机制，虽非直接碱基编辑/交错切割，但为CRISPR相关转座子工程化及DNA货物设计提供机制启发。",
+  "abstract": "To develop gene therapy tools based on CRISPR-associated transposons (CASTs), it is essential to define how transposon ends are recognized and paired during transposition. Transposon 7 (Tn7)-like transposons typically contain asymmetric left- and right-end sequences that flank and define DNA cargo. However, how the transposase recognizes these different sequences and assembles them into a catalytically competent state for cut-and-paste transposition remains unknown. Here, we present the cryo-electron microscopy structure of the VchCAST transposase TnsB in complex with transposon DNA ends and host factor IHF, along with biochemistry, molecular dynamics, and in vivo analyses. Our structure reveals the stoichiometry and architecture of the assembly, as well as the DNA distortions required to accommodate transposon end asymmetry. Molecular dynamics suggests that these distortions are required for the coordinated assembly of the complex. Physical association of asymmetric left and right ends results in a previously uncharacterized protein-protein interface that is required for transposition efficiency. Our findings explain how transposases regulate the pairing of transposon end sequences for high-fidelity recognition, reveal a model of transposon-end synapsis, and suggest future avenues to engineer DNA cargo for genome-editing applications.",
+  "abstract_zh": "为了开发基于CRISPR相关转座子（CASTs）的基因治疗工具，必须明确转座子末端在转座过程中如何被识别和配对。Tn7样转座子通常包含不对称的左端和右端序列，这些序列侧翼并定义DNA货物。然而，转座酶如何识别这些不同序列并将它们组装成催化活性状态以进行剪切-粘贴转座仍属未知。在此，我们展示了VchCAST转座酶TnsB与转座子DNA末端及宿主因子IHF复合物的冷冻电镜结构，并结合生物化学、分子动力学和体内分析。我们的结构揭示了组装的化学计量比和架构，以及适应转座子末端不对称性所需的DNA扭曲。分子动力学表明，这些扭曲是复合物协调组装所必需的。不对称左端和右端的物理关联产生了一个先前未表征的蛋白质-蛋白质界面，该界面对于转座效率至关重要。我们的发现解释了转座酶如何调节转座子末端序列的配对以实现高保真识别，揭示了转座子末端突触的模型，并为未来工程化DNA货物以应用于基因组编辑提供了方向。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42826193/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42826193/",
+  "paper_page_path": "papers/pubmed/42826193/index.html"
+}

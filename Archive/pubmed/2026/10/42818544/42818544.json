@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42818544",
+    "doi": "10.64898/2026.09.04.749420",
+    "title": "Cap-Independent Translation Regulation of VEGF Using CRISPR-dCas13d."
+  },
+  "content": {
+    "abstract": "Vascular endothelial growth factor (VEGF) is a central driver of pathological angiogenesis in cancer and retinal disease. A G-quadruplex (GQ) structure that forms in an Internal Ribosome Entry Site (IRES) of VEGF was proposed to recruit the 40S ribosome and initiate cap-independent translation under hypoxia. We demonstrate that blocking this GQ with dCas13d represses VEGF translation by up to 5-fold, without impacting mRNA abundance, under hypoxia. Similar levels of repression were attained in HeLa and human umbilical vein endothelial cells (HUVECs) using immunofluorescence and western blot assays, as well as a bicistronic dual-luciferase experiment. Single molecule Forster resonance energy transfer (smFRET) and fluorescence enhancement assays demonstrated destabilization of the GQ by CRISPR-dCas13d. We also tested the functional consequences of this regulation using tube formation assay in bovine aortic endothelial cells (BAOECs), which demonstrated consistent results with VEGF expression levels. Our study demonstrates the feasibility of using CRISPR-dCas13d as a sequence-specific and transient translation regulator for a large group of genes that contain translationally-active secondary structures.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kabir, Mohammad Lutful",
+        "Kodikara, Sineth G",
+        "Ramel, Najmah Al",
+        "Alfehaid, Janan",
+        "Basu, Soumitra",
+        "Balci, Hamza"
+      ],
+      "short_names": [
+        "Kabir ML",
+        "Kodikara SG",
+        "Ramel NA",
+        "Alfehaid J",
+        "Basu S",
+        "Balci H"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Kabir, Mohammad Lutful",
+        "short_name": "Kabir ML",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kodikara, Sineth G",
+        "short_name": "Kodikara SG",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ramel, Najmah Al",
+        "short_name": "Ramel NA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Alfehaid, Janan",
+        "short_name": "Alfehaid J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Basu, Soumitra",
+        "short_name": "Basu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Balci, Hamza",
+        "short_name": "Balci H",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818544",
+      "25826664",
+      "23293030",
+      "9584152",
+      "11731620",
+      "9774635",
+      "10947079",
+      "25730526",
+      "26586335",
+      "9674707",
+      "31387452",
+      "30569127",
+      "41895752",
+      "27224240",
+      "21105704",
+      "29769341",
+      "24623421",
+      "37194933",
+      "28179526",
+      "41308988",
+      "32945523",
+      "17255526",
+      "35054929",
+      "9295307",
+      "23947803",
+      "39931479",
+      "15289445",
+      "39369033",
+      "34858949",
+      "22112782",
+      "33256804",
+      "27308316",
+      "11115828",
+      "27431648",
+      "22907703",
+      "18430730",
+      "14519228",
+      "29749450",
+      "23749166",
+      "18039850",
+      "34635021",
+      "37737201",
+      "27141928",
+      "32571876",
+      "27308508",
+      "23932937",
+      "18304943",
+      "26627607",
+      "15326102",
+      "19349962",
+      "11090063",
+      "40583196",
+      "33760153",
+      "23756865",
+      "9728767",
+      "19020709",
+      "29614494",
+      "12006670",
+      "16936124",
+      "31792649",
+      "33631423",
+      "32779430",
+      "28091613",
+      "36842721",
+      "41381593",
+      "11059786",
+      "10575000",
+      "10068204",
+      "8537383",
+      "25516984",
+      "12893832",
+      "18854659",
+      "21523559",
+      "23821664",
+      "32762747",
+      "31120617",
+      "40739967",
+      "34680173",
+      "23258222",
+      "31608754",
+      "28529622",
+      "41456528",
+      "24016866",
+      "23461295",
+      "35204814",
+      "26460960",
+      "41641445",
+      "23643801",
+      "37525212",
+      "9288799",
+      "42049415",
+      "12499918",
+      "27999195",
+      "30691003",
+      "10682677",
+      "33754039",
+      "12670961",
+      "8690146",
+      "25631082",
+      "9742966"
+    ],
+    "review": [
+      "42818544",
+      "27308316",
+      "27308508"
+    ],
+    "pmc": [
+      "13622467"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-325",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.09.04.749420",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

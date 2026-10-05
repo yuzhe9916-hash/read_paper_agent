@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42807480",
+    "doi": "10.3389/fmicb.2026.1934502",
+    "title": "An unfolded protein response-inducible protein (ULI1) mediates aromatic alcohols biosynthesis through reinforcing the Ehrlich pathway in Saccharomyces cerevisiae."
+  },
+  "content": {
+    "abstract": "Aromatic alcohols such as 2-phenylethanol (2-PE) and tryptophol (TOL) possess diverse biological functions. Here, an unfolded protein response-inducible gene ULI1 and an aldehyde dehydrogenase gene ALD3 in Saccharomyces cerevisiae were disrupted using the CRISPR-Cas9 system. Fermentation assays revealed that both the ULI1 frameshift (Kmuli1) and knockout (KDeltauli1) mutants exhibited significantly reduced 2-PE and TOL yields relative to the wild-type strain KMLY1-6, retaining 46.32 and 64.54% for 2-PE, and 34.61 and 77.73% for TOL, respectively. In contrast, ALD3 knockout moderately elevated 2-PE and TOL production by 4.98 and 20.57%, respectively. These results indicate that both ULI1 and ALD3 mediate the biosynthesis of 2-PE and TOL in S. cerevisiae. To further confirm the role of ULI1, three chromosomal integration expression (CIE) strains (KXuli1, KXIIuli1, KDeltaald3uli1) and one plasmid-based expression (PBE) strain (BY4741/pY26-uli1) were constructed. Compared with the control KMLY1-6, the CIE strains increased 2-PE and TOL production by 10.13-12.91% and 25.76-29.28%, respectively. Meanwhile, the PBE strain produced significantly higher levels of 2-PE and TOL than the empty vector control (BY4741/pY26), with maximum increases of 38.80% and 30.86% detected at 60 h of cultivation. To further elucidate the molecular mechanism of ULI1 in 2-PE and TOL biosynthesis, comparative transcriptomic analysis for Kmuli1 vs. KMLY1-6, together with transcriptomic and proteomic analyses for BY4741/pY26-uli1 vs. BY4741/pY26, was performed. Multi-omics results revealed that ULI1 reinforces the Ehrlich pathway, modulates metabolic flux, maintains mitochondrial structure and cellular protein homeostasis, and coordinates stress responses with metabolic redistribution. Collectively, ULI1 acts as a novel regulatory hub linking stress tolerance and cellular homeostasis, and facilitates aromatic alcohol biosynthesis by strengthening the Ehrlich pathway in S. cerevisiae.",
+    "keywords": [
+      "2-phenylethanol",
+      "Saccharomyces cerevisiae",
+      "gene editing",
+      "proteomics",
+      "transcriptomics",
+      "tryptophol",
+      "unfolded protein response"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gong, Xiaowei",
+        "Shen, Yong",
+        "Shang, Shanzhai",
+        "Zhan, Jianbo",
+        "Ma, Guanghui",
+        "Luo, Huajun",
+        "Li, Shiwei",
+        "Song, Chunxia",
+        "Zhu, Donglai",
+        "Luo, Yiyong"
+      ],
+      "short_names": [
+        "Gong X",
+        "Shen Y",
+        "Shang S",
+        "Zhan J",
+        "Ma G",
+        "Luo H",
+        "Li S",
+        "Song C",
+        "Zhu D",
+        "Luo Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China.",
+        "National R&D Center for Freshwater Fish Processing, College of Life Sciences, Jiangxi Normal University, Nanchang, China.",
+        "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China.",
+        "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China.",
+        "Yunnan Forestry Technological College, Kunming, China.",
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, China.",
+        "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China.",
+        "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, China.",
+        "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China.",
+        "National R&D Center for Freshwater Fish Processing, College of Life Sciences, Jiangxi Normal University, Nanchang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gong, Xiaowei",
+        "short_name": "Gong X",
+        "identifiers": [],
+        "affiliations": [
+          "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Yong",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "National R&D Center for Freshwater Fish Processing, College of Life Sciences, Jiangxi Normal University, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Shanzhai",
+        "short_name": "Shang S",
+        "identifiers": [],
+        "affiliations": [
+          "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Zhan, Jianbo",
+        "short_name": "Zhan J",
+        "identifiers": [],
+        "affiliations": [
+          "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Guanghui",
+        "short_name": "Ma G",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Forestry Technological College, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Huajun",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shiwei",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Song, Chunxia",
+        "short_name": "Song C",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Donglai",
+        "short_name": "Zhu D",
+        "identifiers": [],
+        "affiliations": [
+          "R&D Center of China Tobacco Yunnan Industrial Co., Ltd., Kunming, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yiyong",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "National R&D Center for Freshwater Fish Processing, College of Life Sciences, Jiangxi Normal University, Nanchang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807480",
+      "35665835",
+      "26975754",
+      "27908775",
+      "35622225",
+      "23836015",
+      "25681107",
+      "27770224",
+      "33180170",
+      "28595605",
+      "38581087",
+      "39090744",
+      "29642888",
+      "34105981",
+      "36098787",
+      "39030609",
+      "39039584",
+      "41242083",
+      "42293566",
+      "38777235",
+      "20680535",
+      "38803372",
+      "38049732",
+      "39885572",
+      "32006629",
+      "42191246",
+      "37754986",
+      "37113225",
+      "33407831",
+      "37804156",
+      "29305698",
+      "25743068",
+      "33717002",
+      "38878128",
+      "41590459",
+      "36989758",
+      "34665833",
+      "33649922",
+      "41848368",
+      "28231564",
+      "30276556",
+      "17953569",
+      "33096442",
+      "40622978",
+      "20042083",
+      "33852023",
+      "35038552",
+      "40724265",
+      "36127846",
+      "39888015",
+      "35536034",
+      "29666939",
+      "42406181",
+      "34418130",
+      "27576599",
+      "40569450",
+      "24733517",
+      "42228157",
+      "35964044",
+      "16579462",
+      "34584841",
+      "30042199",
+      "31102756",
+      "15133656",
+      "33204707",
+      "41147734",
+      "31574317",
+      "36564756",
+      "41812804",
+      "42278292",
+      "39550572",
+      "24910335",
+      "29808680",
+      "25274068",
+      "39415302",
+      "34596913",
+      "25359316",
+      "29671328",
+      "32157425",
+      "36370454",
+      "30341081",
+      "29330068",
+      "40105951",
+      "31543895",
+      "24081322",
+      "41962255",
+      "30455734",
+      "30552183",
+      "31485270",
+      "38648878",
+      "36046896",
+      "19363068",
+      "32912689",
+      "29145596",
+      "22342368",
+      "26887851",
+      "30884702",
+      "33187525",
+      "39457113",
+      "31537451"
+    ],
+    "review": [
+      "42807480",
+      "33717002"
+    ],
+    "pmc": [
+      "13617065"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fmicb.2026.1934502",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

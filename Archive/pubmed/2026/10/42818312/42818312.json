@@ -1,0 +1,232 @@
+{
+  "identity": {
+    "pmid": "42818312",
+    "doi": "10.64898/2026.09.03.749318",
+    "title": "HPV16 Utilizes Phospholipase C(s) for its Genome Egress."
+  },
+  "content": {
+    "abstract": "Nuclear delivery of human papillomavirus (HPV) requires infected cells to undergo mitosis. Incoming HPV DNA is protected by a transport vesicle structure, which becomes unstable post-mitosis. We have previously shown that HPV genome egress takes on average 4 hours post-mitosis completion; thus, we propose that an enzymatic process is involved in degrading this transport vesicle to allow genome egress. Several phospholipase C (PLC) isoforms, including PLCdelta3, PLCzeta1, and PLCL1, have been previously implicated in HPV infection in large-scale siRNA screens, and the parvovirus VP1 capsid protein has phospholipase enzymatic activity. Therefore, we hypothesized that cellular phospholipases residing in the nucleus mediate egress of the HPV genome from transport vesicles. We utilized siRNA-mediated knockdown and CRISPR/Cas9 knockout techniques to target specific PLC isoforms in both HeLa and HaCaT cell lines. We found that targeting PLC isoforms PLCbeta1, beta4, delta3, delta4, and gamma1 significantly decreased HPV infection in both HeLa and HaCaT cells, as measured using a luciferase-based reporter assay. We also discovered a novel interaction between HPV16 minor protein L2 and PLCs beta1, beta4, delta1, delta3, and delta4. Furthermore, we observed that knockout of PLCbeta4 and delta4 delayed egress of the HPV genome from nuclear membrane-bound vesicles after infection of HeLa cells. We propose that HPV utilizes phospholipase Cs to achieve genome egress from its protective vesicular structure after nuclear delivery. IMPORTANCE: The cellular factors involved in the later stages of HPV entry remain to be elucidated. Previous data gleaned from large-scale siRNA screens implicated the involvement of phospholipases in HPV infection. We expanded upon these findings and discovered that the individual phospholipase C (PLC) isoforms beta4 and delta4 are important for HPV infectivity. We further linked the loss of infectivity in PLCbeta4- and PLCdelta4-deficient cells to a defect in HPV genome release from its transport vesicle, which we demonstrated using our differential staining technique. Furthermore, we discovered a novel interaction between the minor protein L2 of HPV16 and PLC isoforms beta1, beta4, delta1, delta3, and delta4.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Keiffer, Timothy R",
+        "Siddiqa, Abida",
+        "Represa-Perez, Mireya",
+        "Zabir, Hiba",
+        "Kushwaha, Anand",
+        "Sapp, Martin",
+        "Zwolinska, Katarzyna"
+      ],
+      "short_names": [
+        "Keiffer TR",
+        "Siddiqa A",
+        "Represa-Perez M",
+        "Zabir H",
+        "Kushwaha A",
+        "Sapp M",
+        "Zwolinska K"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7104-6338"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Keiffer, Timothy R",
+        "short_name": "Keiffer TR",
+        "identifiers": [
+          "0000-0001-7104-6338"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Siddiqa, Abida",
+        "short_name": "Siddiqa A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Represa-Perez, Mireya",
+        "short_name": "Represa-Perez M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zabir, Hiba",
+        "short_name": "Zabir H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kushwaha, Anand",
+        "short_name": "Kushwaha A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sapp, Martin",
+        "short_name": "Sapp M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zwolinska, Katarzyna",
+        "short_name": "Zwolinska K",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818312",
+      "39629998",
+      "30802273",
+      "27190090",
+      "28566382",
+      "23430511",
+      "27860076",
+      "11706040",
+      "25227470",
+      "27654294",
+      "24244674",
+      "20082315",
+      "36749071",
+      "15505048",
+      "24928042",
+      "29321327",
+      "24475116",
+      "37167561",
+      "27795438",
+      "39431827",
+      "26246568",
+      "17063484",
+      "22761365",
+      "22800439",
+      "22927980",
+      "31743367",
+      "28566373",
+      "23569269",
+      "31092566",
+      "28031358",
+      "28464022",
+      "16998201",
+      "26063434",
+      "33731457",
+      "36815785",
+      "31511386",
+      "22608312",
+      "9915823",
+      "11160736",
+      "30996086",
+      "34749533",
+      "35475666",
+      "9799116",
+      "31387913",
+      "41995350",
+      "41378898",
+      "38370412",
+      "21166973",
+      "40544293",
+      "29021401",
+      "9677408",
+      "28463988",
+      "38909779",
+      "12482659",
+      "28250129",
+      "33177206",
+      "42298561",
+      "38826391",
+      "27984059",
+      "29207511",
+      "10336610",
+      "9376214",
+      "22345461",
+      "15817490",
+      "34960729",
+      "25926655",
+      "9418905",
+      "26202251",
+      "30470508",
+      "29058661",
+      "35891458",
+      "9417098",
+      "33361125",
+      "18359940",
+      "30232182",
+      "19095951",
+      "40431628",
+      "11119709",
+      "38226814",
+      "38829892",
+      "41124246",
+      "32123072",
+      "27062607",
+      "31537645",
+      "32581101",
+      "10362505",
+      "35458534",
+      "31748387",
+      "25717103",
+      "8289365",
+      "32708897",
+      "16240320",
+      "15219862",
+      "14517301",
+      "30074178",
+      "33253291",
+      "39136459",
+      "31941788",
+      "15728476",
+      "15280014"
+    ],
+    "review": [
+      "42818312",
+      "27984059",
+      "29207511",
+      "34960729"
+    ],
+    "pmc": [
+      "13622544"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.03.749318",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

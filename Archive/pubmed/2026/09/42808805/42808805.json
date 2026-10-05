@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42808805",
+    "doi": "10.1039/d6an00852f",
+    "title": "Sensitive fluorescent biosensors based on a cascade signal amplification strategy and a stimuli-responsive hydrogel for the detection of the p53 gene."
+  },
+  "content": {
+    "abstract": "As a key tumor suppressor gene, the mutation and abnormal expression of p53 are closely correlated with tumor occurrence and progression, making p53 an important biomarker for early tumor diagnosis. Herein, a novel fluorescent biosensor based on a Cas12a/alkaline phosphatase (ALP) cascade signal amplification strategy and a stimuli-responsive DNA hydrogel was constructed for sensitive quantification of the p53 gene. Highly stable carbon dot/silica (CD/SiO(2)) composites were adopted as excellent fluorescent signal-sensing elements with outstanding optical stability in complex environments. An ALP-encapsulated hyaluronic acid (HA)-DNA hydrogel was prepared as a stimuli-responsive recognition element. Specific binding of the target p53 gene activates the trans-cleavage activity of CRISPR/Cas12a, which cleaves the HA-DNA hydrogel structure and triggers the release of ALP. The released ALP further catalyzes the hydrolysis of the p-nitrophenyl phosphate (PNPP) substrate to generate p-nitrophenol (PNP). The generated PNP quenches the fluorescence of CD/SiO(2) composites through the inner filter effect (IFE), and the fluorescence quenching value is positively correlated with the p53 gene concentration. The biosensor exhibited a favorable linear detection range of 1 pM-100 nM with a low detection limit of 0.074 pM. The proposed strategy eliminates cumbersome pre-amplification procedures for nucleic acids, provides a simple, sensitive and reliable new approach for p53 gene detection in complex biological samples, and exhibits great potential for early tumor auxiliary diagnosis and clinical biological analysis.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Xiaoya",
+        "Chen, Qiuhang",
+        "Zheng, Jianjun",
+        "Gao, Yuling",
+        "Cao, Yingjuan",
+        "Li, Zhixin",
+        "Chen, Zhiqin"
+      ],
+      "short_names": [
+        "Wu X",
+        "Chen Q",
+        "Zheng J",
+        "Gao Y",
+        "Cao Y",
+        "Li Z",
+        "Chen Z"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0797-0048"
+      ],
+      "affiliations": [
+        "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com.",
+        "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com.",
+        "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com.",
+        "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com.",
+        "Institute for Advanced Study, Research Center for Differentiation and Development of TCM Basic Theory, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi, 330004, China. zhixinli@jxutcm.edu.cn.",
+        "Institute for Advanced Study, Research Center for Differentiation and Development of TCM Basic Theory, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi, 330004, China. zhixinli@jxutcm.edu.cn.",
+        "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Xiaoya",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+        ]
+      },
+      {
+        "full_name": "Chen, Qiuhang",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jianjun",
+        "short_name": "Zheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+        ]
+      },
+      {
+        "full_name": "Gao, Yuling",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+        ]
+      },
+      {
+        "full_name": "Cao, Yingjuan",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Advanced Study, Research Center for Differentiation and Development of TCM Basic Theory, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi, 330004, China. zhixinli@jxutcm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Zhixin",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0009-0001-0797-0048"
+        ],
+        "affiliations": [
+          "Institute for Advanced Study, Research Center for Differentiation and Development of TCM Basic Theory, Jiangxi University of Chinese Medicine, Nanchang, Jiangxi, 330004, China. zhixinli@jxutcm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhiqin",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gynecology, Fuzhou University Affiliated Provincial Hospital, Fuzhou, Fujian, 350116, China. zhiqinch@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Analyst"
+    ],
+    "journal_abbrev": [
+      "Analyst"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-05 07:12:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808805",
+      "36741147",
+      "36283791",
+      "39155100",
+      "26820049",
+      "30661613",
+      "40862940",
+      "32296795",
+      "40749504",
+      "41072237",
+      "40617799",
+      "38462339",
+      "34296354",
+      "33890963",
+      "38618891",
+      "41711853",
+      "39515055",
+      "36219964",
+      "35104744",
+      "38182395",
+      "31357360",
+      "40914018",
+      "42610192",
+      "38280789",
+      "36821893",
+      "37524467",
+      "41352919",
+      "28891579",
+      "40382111",
+      "38954110",
+      "36869936",
+      "34011151",
+      "27966342",
+      "35486137",
+      "36493720",
+      "38757739",
+      "40183844",
+      "32278281",
+      "39521357",
+      "40769177",
+      "36558152",
+      "37421794",
+      "30715613",
+      "38943567",
+      "41591771",
+      "37355336",
+      "36858011",
+      "39396314",
+      "40331901",
+      "40354126",
+      "41178406",
+      "31409471",
+      "30902332",
+      "42296867",
+      "29475489",
+      "37977780",
+      "30086940",
+      "31987215",
+      "33242047",
+      "42503780",
+      "40865226",
+      "41605395",
+      "37683439",
+      "41916210",
+      "33940494",
+      "37996158",
+      "41604759",
+      "41800529",
+      "42391661",
+      "32928417",
+      "42600477",
+      "36723078",
+      "30422141",
+      "40910314",
+      "37672622",
+      "37167072",
+      "41321596",
+      "34637993",
+      "41670744",
+      "41455263",
+      "42753299",
+      "41288772",
+      "35519381",
+      "34904892",
+      "29853060",
+      "41513371",
+      "37598442",
+      "25506903",
+      "27196253",
+      "34074403",
+      "39698074",
+      "35278851",
+      "40270429",
+      "40886669",
+      "33059870",
+      "41993032",
+      "29853027",
+      "40078160",
+      "42061344",
+      "41935002"
+    ],
+    "review": [
+      "42808805"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6an00852f",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
