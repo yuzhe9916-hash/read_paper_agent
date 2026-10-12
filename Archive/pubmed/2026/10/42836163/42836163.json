@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "42836163",
+    "doi": "10.2147/DDDT.S640902",
+    "title": "The Dual Role of Piezo1 in Cancer: Mechanotransduction, Microenvironment Remodelling, and Therapeutic Opportunities."
+  },
+  "content": {
+    "abstract": "The mechanosensitive ion channel Piezo1 translates physical cues from the tumor microenvironment-including extracellular matrix stiffness, fluid shear stress, and compressive forces-into intracellular calcium signals and downstream cascades, playing a pivotal role in cancer. Piezo1 exhibits pronounced tumor-type dependency: it acts as an oncogene in multiple solid tumor types (eg, glioma, pancreatic cancer, esophageal squamous cell carcinoma) but exerts tumor-suppressive effects in lung cancer and clear cell renal cell carcinoma. This context-dependent duality poses fundamental challenges for clinical translation. This review systematically dissects the molecular mechanisms by which Piezo1 regulates proliferation, migration, epithelial-mesenchymal transition, cancer stem cell maintenance, and Piezo1-mediated ferroptosis via the TfR1/DMT1/NCOA4/GPX4 axis, which couples iron overload and lipid peroxidation to mechanical cues, is also discussed as a novel therapeutic vulnerability. It further analyzes its role in tumor microenvironment remodelling, including extracellular matrix stiffening, cancer-associated fibroblast activation, angiogenesis, lymphangiogenesis, and metabolic reprogramming. Moreover, the bidirectional immunomodulatory functions of Piezo1 are highlighted: it enhances T cell and natural killer cell antitumor activity but may also promote immunosuppression through regulatory T cells, tumor-associated macrophages, and dendritic cells. Regarding Piezo1-targeted therapies, advances in small-molecule modulators, ultrasound-based physical modulation, nanotechnology, combination regimens, and antibody-drug conjugates are summarized. Five translational bottlenecks are critically appraised: tissue specificity, cancer type-dependent functional differences, limitations of pharmacological tools, clinical translation barriers of mechanical force stimulation and drug resistance and tumor heterogeneity. Finally, future directions are discussed, including structure-guided drug design, organ-on-a-chip screening, CRISPR-based editing, and emerging modalities. As a critical hub linking mechanical cues to tumor biology, precise Piezo1 modulation promises to establish a new \"mechanomedicine\" paradigm-an emerging field that leverages mechanical force-based diagnostics and therapeutics for disease management. Future efforts should focus on highly selective modulators, patient stratification based on Piezo1 expression and mechanical signatures, and spatiotemporally synergistic strategies combining Piezo1 targeting with chemotherapy, immunotherapy, and metabolic interventions.",
+    "keywords": [
+      "Piezo1",
+      "calcium signalling",
+      "cancer progression",
+      "mechanotransduction",
+      "therapeutic target",
+      "tumor microenvironment"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Tumor Microenvironment/drug effects",
+      "*Mechanotransduction, Cellular/drug effects",
+      "*Ion Channels/metabolism/antagonists & inhibitors",
+      "*Neoplasms/metabolism/drug therapy/pathology",
+      "*Antineoplastic Agents/pharmacology",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Haiyan",
+        "Liu, Ying",
+        "Xue, Fei",
+        "Sun, Hualin",
+        "Ji, Yanan",
+        "Qi, Lei"
+      ],
+      "short_names": [
+        "Jiang H",
+        "Liu Y",
+        "Xue F",
+        "Sun H",
+        "Ji Y",
+        "Qi L"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-2271-6143",
+        "ORCID: 0000-0003-1889-1561"
+      ],
+      "affiliations": [
+        "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, People's Republic of China.",
+        "Department of Pathology, Affiliated Hospital of Nantong University, Nantong, 226001, People's Republic of China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China.",
+        "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Haiyan",
+        "short_name": "Jiang H",
+        "identifiers": [
+          "0009-0005-2271-6143"
+        ],
+        "affiliations": [
+          "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ying",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Affiliated Hospital of Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xue, Fei",
+        "short_name": "Xue F",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Hualin",
+        "short_name": "Sun H",
+        "identifiers": [
+          "0000-0003-1889-1561"
+        ],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ji, Yanan",
+        "short_name": "Ji Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Qi, Lei",
+        "short_name": "Qi L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Drug design, development and therapy"
+    ],
+    "journal_abbrev": [
+      "Drug Des Devel Ther"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42836163",
+      "41437911",
+      "41854751",
+      "40821847",
+      "42498158",
+      "41964669",
+      "41151627",
+      "42268805",
+      "42632298",
+      "42437015",
+      "30947151",
+      "41723711",
+      "42630570",
+      "39490703",
+      "42292370",
+      "41607548",
+      "42458449",
+      "41275854",
+      "32999349",
+      "42738805",
+      "30344046",
+      "41332254",
+      "42268532",
+      "36084759",
+      "42794532",
+      "42033548",
+      "42616243",
+      "40667648",
+      "41519760",
+      "42307116",
+      "42069634",
+      "40765556",
+      "42223634",
+      "41841384",
+      "40514668",
+      "41448346",
+      "42415626",
+      "41327436",
+      "36208662",
+      "42503528",
+      "42609405",
+      "41016672",
+      "42003516",
+      "42218017",
+      "42522197",
+      "42368454",
+      "41246318",
+      "36717048",
+      "41340272",
+      "42344915",
+      "40456339",
+      "25006689",
+      "40653265",
+      "39513613",
+      "27846884",
+      "42035719",
+      "40750459",
+      "35173527",
+      "41684242",
+      "41789093",
+      "39851099",
+      "42663108",
+      "35466678",
+      "40714837",
+      "42361451",
+      "41356797",
+      "41380904",
+      "42143428",
+      "41737555",
+      "41779857",
+      "42811335",
+      "42628468",
+      "42353147",
+      "42475469",
+      "42597677",
+      "42284685",
+      "37366640",
+      "40478969",
+      "42402277",
+      "41403016",
+      "42723590",
+      "41533929",
+      "41948345",
+      "42341379",
+      "40844383",
+      "42558552",
+      "42297231",
+      "42532144",
+      "41699661",
+      "42157875",
+      "41715146",
+      "33226641",
+      "42467968",
+      "35331296",
+      "41208965",
+      "41566465",
+      "41195420",
+      "42724529",
+      "36724905",
+      "30991298"
+    ],
+    "review": [
+      "42836163",
+      "41437911",
+      "41854751",
+      "40821847",
+      "42498158",
+      "41964669",
+      "42632298",
+      "42437015",
+      "30947151",
+      "41723711",
+      "42630570",
+      "42292370",
+      "41607548",
+      "42458449",
+      "41275854",
+      "42738805",
+      "42268532",
+      "42794532",
+      "42033548",
+      "42616243",
+      "42307116",
+      "42069634",
+      "40765556",
+      "42223634",
+      "41841384",
+      "41448346",
+      "42415626",
+      "41327436",
+      "42503528",
+      "42609405",
+      "41016672",
+      "42003516",
+      "42218017",
+      "42522197",
+      "42368454",
+      "41246318",
+      "36717048",
+      "42344915",
+      "40456339",
+      "25006689",
+      "40750459",
+      "35173527",
+      "41684242",
+      "41789093",
+      "35466678",
+      "42361451",
+      "42143428",
+      "41737555",
+      "42811335",
+      "42628468",
+      "42597677",
+      "37366640",
+      "40478969",
+      "42402277",
+      "41403016",
+      "42723590",
+      "41948345",
+      "42341379",
+      "40844383",
+      "42558552",
+      "42297231",
+      "41699661",
+      "42157875",
+      "35331296",
+      "41208965",
+      "41566465",
+      "41195420",
+      "42724529",
+      "36724905",
+      "30991298"
+    ],
+    "pmc": [
+      "13637685"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://doi.org/10.2147/DDDT.S640902",
+        "provider": "Dove Medical Press",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

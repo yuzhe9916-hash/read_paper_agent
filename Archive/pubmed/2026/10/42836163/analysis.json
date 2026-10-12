@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42836163",
+  "title": "The Dual Role of Piezo1 in Cancer: Mechanotransduction, Microenvironment Remodelling, and Therapeutic Opportunities.",
+  "authors": "Jiang, Haiyan; Liu, Ying; Xue, Fei; Sun, Hualin; Ji, Yanan; Qi, Lei",
+  "journal": "Drug design, development and therapy",
+  "published_date": "2026-10-06",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 2,
+  "one_liner_zh": "综述Piezo1机械敏感离子通道在肿瘤中的双重作用及微环境重塑，仅提及CRISPR编辑作为未来方向，与碱基编辑/交错切割机制无实质关联。",
+  "abstract": "The mechanosensitive ion channel Piezo1 translates physical cues from the tumor microenvironment-including extracellular matrix stiffness, fluid shear stress, and compressive forces-into intracellular calcium signals and downstream cascades, playing a pivotal role in cancer. Piezo1 exhibits pronounced tumor-type dependency: it acts as an oncogene in multiple solid tumor types (eg, glioma, pancreatic cancer, esophageal squamous cell carcinoma) but exerts tumor-suppressive effects in lung cancer and clear cell renal cell carcinoma. This context-dependent duality poses fundamental challenges for clinical translation. This review systematically dissects the molecular mechanisms by which Piezo1 regulates proliferation, migration, epithelial-mesenchymal transition, cancer stem cell maintenance, and Piezo1-mediated ferroptosis via the TfR1/DMT1/NCOA4/GPX4 axis, which couples iron overload and lipid peroxidation to mechanical cues, is also discussed as a novel therapeutic vulnerability. It further analyzes its role in tumor microenvironment remodelling, including extracellular matrix stiffening, cancer-associated fibroblast activation, angiogenesis, lymphangiogenesis, and metabolic reprogramming. Moreover, the bidirectional immunomodulatory functions of Piezo1 are highlighted: it enhances T cell and natural killer cell antitumor activity but may also promote immunosuppression through regulatory T cells, tumor-associated macrophages, and dendritic cells. Regarding Piezo1-targeted therapies, advances in small-molecule modulators, ultrasound-based physical modulation, nanotechnology, combination regimens, and antibody-drug conjugates are summarized. Five translational bottlenecks are critically appraised: tissue specificity, cancer type-dependent functional differences, limitations of pharmacological tools, clinical translation barriers of mechanical force stimulation and drug resistance and tumor heterogeneity. Finally, future directions are discussed, including structure-guided drug design, organ-on-a-chip screening, CRISPR-based editing, and emerging modalities. As a critical hub linking mechanical cues to tumor biology, precise Piezo1 modulation promises to establish a new \"mechanomedicine\" paradigm-an emerging field that leverages mechanical force-based diagnostics and therapeutics for disease management. Future efforts should focus on highly selective modulators, patient stratification based on Piezo1 expression and mechanical signatures, and spatiotemporally synergistic strategies combining Piezo1 targeting with chemotherapy, immunotherapy, and metabolic interventions.",
+  "abstract_zh": "机械敏感离子通道Piezo1将肿瘤微环境中的物理线索——包括细胞外基质刚度、流体剪切应力和压缩力——转化为细胞内钙信号及下游级联反应，在癌症中发挥关键作用。Piezo1表现出显著的肿瘤类型依赖性：在多种实体肿瘤类型（如胶质瘤、胰腺癌、食管鳞状细胞癌）中作为癌基因发挥作用，但在肺癌和透明细胞肾细胞癌中则发挥肿瘤抑制作用。这种情境依赖的双重性为临床转化带来了根本性挑战。本综述系统剖析了Piezo1调控增殖、迁移、上皮-间质转化、癌症干细胞维持的分子机制，并讨论了Piezo1介导的铁死亡（ferroptosis）——通过TfR1/DMT1/NCOA4/GPX4轴将铁过载和脂质过氧化与机械线索耦合——作为一种新型治疗脆弱点。进一步分析了其在肿瘤微环境重塑中的作用，包括细胞外基质硬化、癌症相关成纤维细胞活化、血管生成、淋巴管生成和代谢重编程。此外，强调了Piezo1的双向免疫调节功能：它增强T细胞和自然杀伤细胞的抗肿瘤活性，但也可能通过调节性T细胞、肿瘤相关巨噬细胞和树突状细胞促进免疫抑制。在Piezo1靶向治疗方面，总结了小分子调节剂、超声物理调控、纳米技术、联合方案和抗体-药物偶联物的进展。严格评估了五个转化瓶颈：组织特异性、癌症类型依赖性功能差异、药理学工具局限性、机械力刺激的临床转化障碍，以及耐药性和肿瘤异质性。最后，讨论了未来方向，包括结构引导的药物设计、器官芯片筛选、CRISPR编辑和新兴治疗模式。作为连接机械线索与肿瘤生物学的关键枢纽，精准调控Piezo1有望建立一种新的“机械医学 (mechanomedicine)”范式——一个利用基于机械力的诊断和治疗方法进行疾病管理的新兴领域。未来工作应聚焦于高选择性调节剂、基于Piezo1表达和机械特征的患者分层，以及将Piezo1靶向与化疗、免疫治疗和代谢干预相结合的时间-空间协同策略。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42836163/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42836163/",
+  "paper_page_path": "papers/pubmed/42836163/index.html"
+}

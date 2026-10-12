@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "pmid": "42853271",
+    "doi": "10.1021/acssensors.6c02645",
+    "title": "Branched Split Activator-Regulated Cas12a Biosensor For Methyltransferases Detection."
+  },
+  "content": {
+    "abstract": "DNA methyltransferases (MTases) are important epigenetic enzymes involved in DNA methylation regulation and have attracted considerable interest as analytical targets in disease-related epigenetic studies. However, traditional detection methods are constrained by laboratory-bound, sophisticated instrumentation and time-consuming protocols, while emerging approaches either depend on complex enzymatic amplifications or suffer from uncontrolled background signals, limiting their bioanalysis utility for precision-medicine-related applications. Inspired by the structure-controlled activation mechanism of CRISPR/Cas12a, we designed a branched split structure to regulate Cas12a for stepwise enzymatic activation and established the Cas12a-induced DNA MTase Sensor (CDMS), which enables highly sensitive MTase activity detection without the need for nucleic-acid amplification step. The core strategy lies in designing split-and-reconstituted Cas12a-activating DNA fragments with steric hindrance effects. This design significantly inhibits nonspecific Cas12a activation while efficiently restoring its activity upon removal of steric hindrance in response to DNA MTase activity. This method achieves ultra-low detection limit of 1.06 x 10-6 U/mL for M.SssI MTase and 7.41 x 10-8 U/mL for Dam MTase, exhibiting excellent specificity and robust applicability for MTase inhibitor screening. We also developed a palm-sized portable optical device, named iCas-Analyzer, to further explore the CDMS's potential for point-of-care testing (POCT), which can be easily operated by nonexpert end users. With device integration, the CDMS extends CRISPR-based diagnostics into the field of epigenetics, holding its potential for future decentralized MTase analysis and POCT-oriented assay development.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "DNA methyltransferase (MTase) detection",
+      "device integration",
+      "split activator",
+      "steric hindrance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Lin",
+        "Hu, Honghua",
+        "Liu, Fang",
+        "Li, Xingrong",
+        "Wu, Qinghua",
+        "Fu, Xuhuai",
+        "Li, Diangeng",
+        "Wu, Xuan",
+        "Xiang, Rong",
+        "Huang, Rongzhong",
+        "Li, Xiaosong",
+        "Li, Yi"
+      ],
+      "short_names": [
+        "Hu L",
+        "Hu H",
+        "Liu F",
+        "Li X",
+        "Wu Q",
+        "Fu X",
+        "Li D",
+        "Wu X",
+        "Xiang R",
+        "Huang R",
+        "Li X",
+        "Li Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-7958-662x",
+        "ORCID: 0000-0001-5533-7995",
+        "ORCID: 0000-0003-2226-5918"
+      ],
+      "affiliations": [
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Department of Laboratory Medicine and Sichuan Provincial Key Laboratory for Human Disease Gene Study, Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu610072, China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+        "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan430071, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Department of Academic Research, Beijing Ditan Hospital, Capital Medical University, National Center for Infectious Diseases (Beijing), 8th Jingshun East Road, Beijing100015, China.",
+        "Key Laboratory of Environmental Chemistry and Ecotoxicology of Organic Pollutants of Chongqing, Chongqing Ecological and Environment Monitoring Center, Chongqing401132, China.",
+        "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China.",
+        "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China.",
+        "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China.",
+        "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+        "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China.",
+        "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Lin",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+          "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Honghua",
+        "short_name": "Hu H",
+        "identifiers": [
+          "0009-0000-7958-662x"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+          "Department of Laboratory Medicine and Sichuan Provincial Key Laboratory for Human Disease Gene Study, Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu610072, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Fang",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xingrong",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Zhongnan Hospital of Wuhan University, Wuhan430071, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qinghua",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+          "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Xuhuai",
+        "short_name": "Fu X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China."
+        ]
+      },
+      {
+        "full_name": "Li, Diangeng",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Academic Research, Beijing Ditan Hospital, Capital Medical University, National Center for Infectious Diseases (Beijing), 8th Jingshun East Road, Beijing100015, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xuan",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Environmental Chemistry and Ecotoxicology of Organic Pollutants of Chongqing, Chongqing Ecological and Environment Monitoring Center, Chongqing401132, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Rong",
+        "short_name": "Xiang R",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Rongzhong",
+        "short_name": "Huang R",
+        "identifiers": [],
+        "affiliations": [
+          "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaosong",
+        "short_name": "Li X",
+        "identifiers": [
+          "0000-0001-5533-7995"
+        ],
+        "affiliations": [
+          "The Center for Clinical Molecular Medical Detection, Innovative and Translational Laboratory of Molecular Diagnostics, Laboratory Medicine Center, The First Affiliated Hospital of Chongqing Medical University, Chongqing400016, China.",
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+          "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yi",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0003-2226-5918"
+        ],
+        "affiliations": [
+          "Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), College of Laboratory Medicine, Chongqing Medical University, Chongqing400016, China.",
+          "Precision Medicine Center, The Second Affiliated Hospital of Chongqing Medical University, Chongqing400010, China.",
+          "Western Institute of Digital-Intelligent Medicine, Chongqing401329, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS sensors"
+    ],
+    "journal_abbrev": [
+      "ACS Sens"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853271",
+      "39800499",
+      "39916603",
+      "40939440",
+      "36628729",
+      "25506903",
+      "42148916",
+      "39788669",
+      "41296341",
+      "41454998",
+      "42753299",
+      "32568693",
+      "32503739",
+      "39515055",
+      "23202331",
+      "42546382",
+      "42296867",
+      "41330674",
+      "35921742",
+      "27611472",
+      "39358840",
+      "41628563",
+      "41285661",
+      "31740258",
+      "36197295",
+      "41582525",
+      "42838679",
+      "40435758",
+      "36089307",
+      "36961574",
+      "40886669",
+      "41533584",
+      "38609257",
+      "40157150",
+      "35870335",
+      "40610153",
+      "41321596",
+      "32254960",
+      "28063390",
+      "36738621",
+      "41512333",
+      "38783743",
+      "25682501",
+      "39775780",
+      "42806622",
+      "41935496",
+      "29291802",
+      "20148579",
+      "37874890",
+      "41834690",
+      "40555107",
+      "42217942",
+      "42330666",
+      "41693124",
+      "31800219",
+      "39067412",
+      "41118634",
+      "32039424",
+      "37449164",
+      "41603277",
+      "30981130",
+      "24141114",
+      "42677820",
+      "30101892",
+      "31753656",
+      "35966585",
+      "39254031",
+      "38772660",
+      "42825477",
+      "30609532",
+      "37819747",
+      "31539651",
+      "34305865",
+      "41729380",
+      "41072237",
+      "33346665",
+      "32133847",
+      "34625260",
+      "42503780",
+      "40412199",
+      "39932455",
+      "36240131",
+      "40558442",
+      "35250172",
+      "42075227",
+      "39698074",
+      "41370881",
+      "33147006",
+      "24613968",
+      "41039127",
+      "42474386",
+      "37904501",
+      "37290576",
+      "35820248",
+      "35715648",
+      "42790075",
+      "35516994",
+      "35234458",
+      "42364585",
+      "40156991"
+    ],
+    "review": [
+      "42853271",
+      "41834690",
+      "40558442"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ascefj/article-lookup/doi/10.1021/acssensors.6c02645",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

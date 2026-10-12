@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42841232",
+  "title": "A dynamically frustrated allosteric checkpoint consistent with conformational proofreading in CRISPR-Cas9.",
+  "authors": "Huang, Jianxiang; Wei, Jiacheng; Chen, Huazhang; Qiao, Xin; Liu, Ning; Lu, Shaoyong",
+  "journal": "Nucleic acids research",
+  "published_date": "2026-10-07",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 9,
+  "one_liner_zh": "该研究通过分子动力学模拟解析CRISPR-Cas9 R-loop延伸至18-nt检查点时的动态受阻态，提出构象校对模型并整合深度学习与突变扫描，揭示HNH激活与编辑产物形成的分子机制，直接契合本课题对Cas-DNA互作与切割机制的核心关注。",
+  "abstract": "CRISPR-Cas9 DNA cleavage requires R-loop extension to activate the histidine-asparagine-histidine (HNH) nuclease domain, yet how heteroduplex maturation gates catalytic commitment remains unclear. Using extensive molecular dynamics simulations across seven experimentally trapped heteroduplex states (6-18 nt), we define a three-stage activation pathway: unlocking, preorganization, and precatalytic gating. At the 18-nt checkpoint, HNH and REC2 regain mobility but do not adopt a fully cleavage-competent orientation; this dynamically frustrated metastate is consistent with a conformational-proofreading model. Here, dynamic frustration is used operationally to describe renewed mobility and weakened directional coupling without commitment to the cleavage-competent state, rather than a formal energetic frustration calculation. Two sensors, Y450 at the sgRNA: DNA hybrid interface and K1200 in the PI domain, respond to distinct maturation milestones, encoding heteroduplex length into domain-specific conformational outputs. Integrating these insights with two deep-learning analyses and deep mutational scanning recovers known high-fidelity positions and prioritizes three unannotated residues for testing. In a cellular cleavage reporter assay, R1210D reproduces the attenuated low-completion phenotype of eSpCas9, identifying it as a candidate for direct specificity testing, while destabilizing L1-linker substitutions increase cleavage efficiency. These results connect atomic-level dynamics to experimentally testable, structure-mechanism-informed engineering hypotheses; direct matched-versus mismatched validation is required to establish effects on discrimination fidelity.",
+  "abstract_zh": "CRISPR-Cas9 DNA切割需要R-loop延伸以激活组氨酸-天冬酰胺-组氨酸（HNH）核酸酶结构域，然而异源双链体成熟如何门控催化承诺仍不清楚。利用跨越七个实验捕获的异源双链体状态（6-18 nt）的广泛分子动力学模拟，我们定义了一个三阶段激活通路：解锁、预组织和预催化门控。在18-nt检查点，HNH和REC2恢复流动性，但未采用完全切割胜任的取向；这种动态受阻的亚稳态与构象校对模型一致。此处，动态受阻在操作上用于描述更新的流动性和减弱的定向耦合，而不承诺于切割胜任状态，而非正式的能垒受阻计算。两个传感器，sgRNA：DNA杂交界面处的Y450和PI结构域中的K1200，响应于不同的成熟里程碑，将异源双链体长度编码为结构域特异性构象输出。将这些见解与两项深度学习分析和深度突变扫描相结合，恢复了已知的高保真位点，并优先考虑三个未注释残基进行测试。在细胞切割报告实验中，R1210D重现了eSpCas9的减弱低完成表型，将其确定为直接特异性测试的候选者，而去稳定化L1-连接子替换则增加切割效率。这些结果将原子级动力学与实验可测试的、基于结构机制的工程假设联系起来；需要直接的匹配与错配验证以确立对区分保真度的影响。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42841232/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42841232/",
+  "paper_page_path": "papers/pubmed/42841232/index.html"
+}

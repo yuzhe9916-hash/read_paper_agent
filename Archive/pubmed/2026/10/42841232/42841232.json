@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42841232",
+    "doi": "10.1093/nar/gkag955",
+    "title": "A dynamically frustrated allosteric checkpoint consistent with conformational proofreading in CRISPR-Cas9."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 DNA cleavage requires R-loop extension to activate the histidine-asparagine-histidine (HNH) nuclease domain, yet how heteroduplex maturation gates catalytic commitment remains unclear. Using extensive molecular dynamics simulations across seven experimentally trapped heteroduplex states (6-18 nt), we define a three-stage activation pathway: unlocking, preorganization, and precatalytic gating. At the 18-nt checkpoint, HNH and REC2 regain mobility but do not adopt a fully cleavage-competent orientation; this dynamically frustrated metastate is consistent with a conformational-proofreading model. Here, dynamic frustration is used operationally to describe renewed mobility and weakened directional coupling without commitment to the cleavage-competent state, rather than a formal energetic frustration calculation. Two sensors, Y450 at the sgRNA: DNA hybrid interface and K1200 in the PI domain, respond to distinct maturation milestones, encoding heteroduplex length into domain-specific conformational outputs. Integrating these insights with two deep-learning analyses and deep mutational scanning recovers known high-fidelity positions and prioritizes three unannotated residues for testing. In a cellular cleavage reporter assay, R1210D reproduces the attenuated low-completion phenotype of eSpCas9, identifying it as a candidate for direct specificity testing, while destabilizing L1-linker substitutions increase cleavage efficiency. These results connect atomic-level dynamics to experimentally testable, structure-mechanism-informed engineering hypotheses; direct matched-versus mismatched validation is required to establish effects on discrimination fidelity.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems/genetics",
+      "Molecular Dynamics Simulation",
+      "Allosteric Regulation",
+      "DNA/chemistry/genetics/metabolism",
+      "DNA Cleavage",
+      "RNA, Guide, CRISPR-Cas Systems/genetics/chemistry/metabolism",
+      "*CRISPR-Associated Protein 9/chemistry/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Jianxiang",
+        "Wei, Jiacheng",
+        "Chen, Huazhang",
+        "Qiao, Xin",
+        "Liu, Ning",
+        "Lu, Shaoyong"
+      ],
+      "short_names": [
+        "Huang J",
+        "Wei J",
+        "Chen H",
+        "Qiao X",
+        "Liu N",
+        "Lu S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1334-6292"
+      ],
+      "affiliations": [
+        "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+        "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.",
+        "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+        "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Jianxiang",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+          "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.",
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Jiacheng",
+        "short_name": "Wei J",
+        "identifiers": [],
+        "affiliations": [
+          "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Huazhang",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Xin",
+        "short_name": "Qiao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ning",
+        "short_name": "Liu N",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Shaoyong",
+        "short_name": "Lu S",
+        "identifiers": [
+          "0000-0002-1334-6292"
+        ],
+        "affiliations": [
+          "Artificial Intelligence Clinical Research Center for Drug Discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Institute of Medical Robotics, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China.",
+          "Key Laboratory of Protection, Development and Utilization of Medicinal Resources in Liupanshan Area, Ministry of Education, Peptide & Protein Drug Research Center, School of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.",
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42841232",
+      "34757726",
+      "41511442",
+      "31361218",
+      "29123204",
+      "39471812",
+      "27936513",
+      "36002571",
+      "38625092",
+      "37877218",
+      "40075056",
+      "40613714",
+      "29145633",
+      "26524520",
+      "29320734",
+      "39657754",
+      "39566771",
+      "39409191",
+      "40121081",
+      "41851507",
+      "28808686",
+      "29650679",
+      "40323736",
+      "31285607",
+      "34871741",
+      "34767923",
+      "39777970",
+      "32070859",
+      "40334424",
+      "41106392",
+      "30555184",
+      "30916546",
+      "31668930",
+      "40434364",
+      "33443184",
+      "31390092",
+      "40790018",
+      "39680038",
+      "40387084",
+      "31821359",
+      "40254211",
+      "29222528",
+      "31885264",
+      "28652374",
+      "31603896",
+      "27342128",
+      "36546784",
+      "41218722",
+      "40613710",
+      "35577099",
+      "41217062",
+      "34478654",
+      "36674715",
+      "35617371",
+      "31943634",
+      "35163047",
+      "27874072",
+      "32895548",
+      "35420793",
+      "39208796",
+      "32926385",
+      "28764328",
+      "33805827",
+      "42107569",
+      "29442507",
+      "35139474",
+      "38811761",
+      "38446895",
+      "26841432",
+      "40754777",
+      "40959957",
+      "37494395",
+      "41723978",
+      "34322166",
+      "38943587",
+      "28375731",
+      "35236982",
+      "31161741",
+      "30018371",
+      "41626798",
+      "32079396",
+      "38994558",
+      "41577687",
+      "40401239",
+      "32926384",
+      "39737984",
+      "29874063",
+      "37587688",
+      "39190773",
+      "30606466",
+      "30088313",
+      "42578365",
+      "35689914",
+      "40808297",
+      "30763088",
+      "40539512",
+      "40593576",
+      "42598860",
+      "42475469",
+      "28706995"
+    ],
+    "review": [
+      "42841232",
+      "32070859",
+      "35577099",
+      "28375731"
+    ],
+    "pmc": [
+      "13643172"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NT5E-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag955",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

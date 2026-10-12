@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42850393",
+    "doi": "10.1007/s11103-026-01766-y",
+    "title": "Loss of Nod25 function does not affect nitrogen-fixing symbiosis in Medicago truncatula."
+  },
+  "content": {
+    "abstract": "The formation of nitrogen-fixing symbiotic nodules is a complex process that involves extensive transcriptional reprogramming of legume roots to enable intracellular accommodation of host compatible rhizobia. This process requires coordinated regulation of hundreds to thousands of genes, including the induction of highly expressed genes, traditionally referred to as nodulin genes. While the functions of many nodulins have been elucidated, a substantial number remained poorly characterized, or their functions are still unclear. One such gene, NOD25, was originally identified based on differential hybridization between roots and nodules and is expressed at exceptionally high levels in Medicago nodules. MtNOD25-like proteins in IRLC legumes exhibit a repetitive modular structure flanked by conserved N- and C-terminal regions, with clade-specific repeat organization. To understand the role of NOD25 in symbiotic nitrogen fixation, we generated loss-of-function mutants in Medicago truncatula using CRISPR/Cas9-mediated genome editing. Four independent Mtnod25 mutant lines displayed normal growth under symbiotic conditions and showed no detectable defects in nodule colonization, symbiosome formation, or bacteroid differentiation. These results indicate that MtNOD25 is not essential for symbiosis in M. truncatula under the conditions tested. However, the biological function of MtNOD25 has not yet been elucidated, and its highly specialized evolutionary conservation suggests that it may have a specific, non-essential role in modulating or fine-tuning symbiotic processes under particular environmental or physiological conditions that remain to be defined.",
+    "keywords": [
+      "Medicago truncatula",
+      "Gene editing",
+      "IRLC legumes",
+      "Nitrogen-fixing symbiosis",
+      "Nodulin-25"
+    ],
+    "mesh_terms": [
+      "*Medicago truncatula/genetics/microbiology/metabolism/physiology",
+      "*Symbiosis/genetics/physiology",
+      "*Nitrogen Fixation/genetics/physiology",
+      "*Plant Proteins/genetics/metabolism",
+      "Gene Expression Regulation, Plant",
+      "Root Nodules, Plant/microbiology/genetics/metabolism",
+      "Sinorhizobium meliloti/physiology",
+      "Membrane Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Biro, Janos Barnabas",
+        "Domonkos, Agota",
+        "Gungor, Berivan",
+        "Farkas, Attila",
+        "Mohammadi Eghbash, Elmira",
+        "Kiss, Gyorgy Botond",
+        "Kalo, Peter"
+      ],
+      "short_names": [
+        "Biro JB",
+        "Domonkos A",
+        "Gungor B",
+        "Farkas A",
+        "Mohammadi Eghbash E",
+        "Kiss GB",
+        "Kalo P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8851-0387",
+        "ORCID: 0000-0003-4017-0605",
+        "ORCID: 0000-0002-5612-1130",
+        "ORCID: 0000-0002-0413-8248",
+        "ORCID: 0000-0002-0404-8904"
+      ],
+      "affiliations": [
+        "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary.",
+        "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Godollo, Hungary.",
+        "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary.",
+        "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary.",
+        "HCEMM-USZ Functional Cell Biology and Immunology Advanced Core Facility, University of Szeged, Szeged, Hungary.",
+        "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Godollo, Hungary.",
+        "AMBIS Biotechnol Res & Dev Ltd, Budapest, Hungary.",
+        "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary. kalo.peter@brc.hu.",
+        "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Godollo, Hungary. kalo.peter@brc.hu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Biró, János Barnabás",
+        "short_name": "Biró JB",
+        "identifiers": [
+          "0000-0001-8851-0387"
+        ],
+        "affiliations": [
+          "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary."
+        ]
+      },
+      {
+        "full_name": "Domonkos, Ágota",
+        "short_name": "Domonkos Á",
+        "identifiers": [
+          "0000-0003-4017-0605"
+        ],
+        "affiliations": [
+          "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Gödöllő, Hungary."
+        ]
+      },
+      {
+        "full_name": "Güngör, Berivan",
+        "short_name": "Güngör B",
+        "identifiers": [
+          "0000-0002-5612-1130"
+        ],
+        "affiliations": [
+          "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary."
+        ]
+      },
+      {
+        "full_name": "Farkas, Attila",
+        "short_name": "Farkas A",
+        "identifiers": [
+          "0000-0002-0413-8248"
+        ],
+        "affiliations": [
+          "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary.",
+          "HCEMM-USZ Functional Cell Biology and Immunology Advanced Core Facility, University of Szeged, Szeged, Hungary."
+        ]
+      },
+      {
+        "full_name": "Mohammadi Eghbash, Elmira",
+        "short_name": "Mohammadi Eghbash E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Gödöllő, Hungary."
+        ]
+      },
+      {
+        "full_name": "Kiss, György Botond",
+        "short_name": "Kiss GB",
+        "identifiers": [],
+        "affiliations": [
+          "AMBIS Biotechnol Res & Dev Ltd, Budapest, Hungary."
+        ]
+      },
+      {
+        "full_name": "Kaló, Péter",
+        "short_name": "Kaló P",
+        "identifiers": [
+          "0000-0002-0404-8904"
+        ],
+        "affiliations": [
+          "HUN-REN Biological Research Centre, Institute of Plant Biology, Szeged, Hungary. kalo.peter@brc.hu.",
+          "Institute of Genetics and Biotechnology, Hungarian University of Agriculture and Life Sciences, Gödöllő, Hungary. kalo.peter@brc.hu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant molecular biology"
+    ],
+    "journal_abbrev": [
+      "Plant Mol Biol"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42850393",
+      "38923649",
+      "25844838",
+      "31061106",
+      "31493718",
+      "23634841",
+      "20185723",
+      "41662771",
+      "42302289",
+      "41351265",
+      "31782853",
+      "18321186",
+      "39480079",
+      "42252622",
+      "38462552",
+      "24119289",
+      "33990306",
+      "34599592",
+      "40421697",
+      "35171648",
+      "15516506",
+      "19061403",
+      "39827948",
+      "22098255",
+      "23961805",
+      "27551097",
+      "25682610",
+      "31712407",
+      "28607056",
+      "38001333",
+      "37381081",
+      "21726232",
+      "17369436",
+      "30026291",
+      "26401023",
+      "25151618",
+      "24082011",
+      "17545507",
+      "23535942",
+      "38003367",
+      "36646812",
+      "41572573",
+      "27748755",
+      "21155825",
+      "20209049",
+      "25608180",
+      "31653715",
+      "41015552",
+      "34311575",
+      "27245091",
+      "24916161",
+      "33631809",
+      "41131669",
+      "36305683",
+      "41555761",
+      "23573247",
+      "33387090",
+      "41272488",
+      "21304580",
+      "28607058",
+      "20042020",
+      "21139086",
+      "26884486",
+      "42521979",
+      "23136374",
+      "37545348",
+      "23425859",
+      "23217154",
+      "23551619",
+      "32367515",
+      "35471237",
+      "33819071",
+      "25690539",
+      "21457261",
+      "33384333",
+      "41390839",
+      "18184805",
+      "34850882",
+      "42721037",
+      "30649463",
+      "23278348",
+      "25928247",
+      "27448795",
+      "31748328",
+      "28017611",
+      "40433813",
+      "33797764",
+      "16570662",
+      "24934080",
+      "14739349",
+      "24259455",
+      "21071678",
+      "28990486",
+      "22415512",
+      "41229147",
+      "41023112",
+      "38859588",
+      "17951459",
+      "42263681",
+      "16543412"
+    ],
+    "review": [
+      "42850393",
+      "38462552"
+    ],
+    "pmc": [
+      "13649901"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11103-026-01766-y",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42853271",
+  "title": "Branched Split Activator-Regulated Cas12a Biosensor For Methyltransferases Detection.",
+  "authors": "Hu, Lin; Hu, Honghua; Liu, Fang; Li, Xingrong; Wu, Qinghua; Fu, Xuhuai; Li, Diangeng; Wu, Xuan; Xiang, Rong; Huang, Rongzhong; Li, Xiaosong; Li, Yi",
+  "journal": "ACS sensors",
+  "published_date": "2026-10-09",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 6,
+  "one_liner_zh": "该文利用CRISPR/Cas12a的结构控制激活机制设计分支分裂激活子，构建无需扩增的DNA甲基转移酶生物传感器，虽聚焦检测应用，但涉及Cas12a激活的分子机制设计，对碱基编辑/CRISPR工具工程化有启发。",
+  "abstract": "DNA methyltransferases (MTases) are important epigenetic enzymes involved in DNA methylation regulation and have attracted considerable interest as analytical targets in disease-related epigenetic studies. However, traditional detection methods are constrained by laboratory-bound, sophisticated instrumentation and time-consuming protocols, while emerging approaches either depend on complex enzymatic amplifications or suffer from uncontrolled background signals, limiting their bioanalysis utility for precision-medicine-related applications. Inspired by the structure-controlled activation mechanism of CRISPR/Cas12a, we designed a branched split structure to regulate Cas12a for stepwise enzymatic activation and established the Cas12a-induced DNA MTase Sensor (CDMS), which enables highly sensitive MTase activity detection without the need for nucleic-acid amplification step. The core strategy lies in designing split-and-reconstituted Cas12a-activating DNA fragments with steric hindrance effects. This design significantly inhibits nonspecific Cas12a activation while efficiently restoring its activity upon removal of steric hindrance in response to DNA MTase activity. This method achieves ultra-low detection limit of 1.06 x 10-6 U/mL for M.SssI MTase and 7.41 x 10-8 U/mL for Dam MTase, exhibiting excellent specificity and robust applicability for MTase inhibitor screening. We also developed a palm-sized portable optical device, named iCas-Analyzer, to further explore the CDMS's potential for point-of-care testing (POCT), which can be easily operated by nonexpert end users. With device integration, the CDMS extends CRISPR-based diagnostics into the field of epigenetics, holding its potential for future decentralized MTase analysis and POCT-oriented assay development.",
+  "abstract_zh": "DNA甲基转移酶（MTases）是参与DNA甲基化调控的重要表观遗传酶，并在疾病相关表观遗传研究中作为分析靶标引起了广泛关注。然而，传统检测方法受限于实验室依赖、复杂仪器和耗时流程，而新兴方法要么依赖复杂的酶扩增，要么遭受不受控制的背景信号干扰，限制了其在精准医学相关应用中的生物分析实用性。受CRISPR/Cas12a结构控制激活机制的启发，我们设计了一种分支分裂结构来调控Cas12a实现逐步酶激活，并建立了Cas12a诱导的DNA甲基转移酶传感器（CDMS），该传感器无需核酸扩增步骤即可实现高灵敏度的MTase活性检测。核心策略在于设计具有空间位阻效应的分裂重组Cas12a激活DNA片段。该设计显著抑制非特异性Cas12a激活，同时在响应DNA MTase活性时去除空间位阻后高效恢复其活性。该方法对M.SssI MTase实现了1.06 x 10-6 U/mL的超低检测限，对Dam MTase实现了7.41 x 10-8 U/mL的检测限，表现出优异的特异性和对MTase抑制剂筛选的稳健适用性。我们还开发了一种掌上型便携式光学设备，命名为iCas-Analyzer，以进一步探索CDMS在即时检测（POCT）中的潜力，该设备可由非专业终端用户轻松操作。通过设备集成，CDMS将基于CRISPR的诊断扩展到表观遗传学领域，为其未来在分散式MTase分析和面向POCT的检测开发中发挥作用奠定了基础。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42853271/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42853271/",
+  "paper_page_path": "papers/pubmed/42853271/index.html"
+}

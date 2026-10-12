@@ -1,0 +1,75 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as presented in the abstract; no access to figures, methods, or supporting data
+- **Shared manuscript claim summary** The authors report kinetic models describing molecular interactions governing the trans-cleavage activity of Cas12a ribonucleoproteins (RNPs). They propose two key processes: substrate passage through the REC–NUC domain gap (K(pass)) and substrate alignment with the catalytic triad (K(align)). They claim experimental validation of the models, quantitative determination of apparent k(cat) and K(M), and rational design of substrates and activators guided by the models.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary information provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, experimental methods, kinetic model derivations, raw data, statistical analyses, and any supporting information
+
+## Reviewer
+- **Overall assessment** The abstract presents a potentially valuable mechanistic framework for understanding Cas12a trans-cleavage kinetics. The conceptual separation of substrate accessibility (K(pass)) and alignment (K(align)) is intellectually appealing and could have practical implications for CRISPR-based diagnostics and biosensing. However, the abstract alone provides insufficient detail to evaluate the rigor of the kinetic model derivation, the quality of experimental validation, or the robustness of the quantitative claims. The work appears to be at a stage where the core hypothesis is plausible but the evidence base cannot be assessed from the supplied material.
+- **Who would be interested in the results, and why** Researchers in CRISPR biology and enzymology, developers of CRISPR-based diagnostic platforms (e.g., DETECTR, SHERLOCK), nucleic acid chemists, and the biosensing community. The proposed framework could inform rational design of substrates and activators for improved trans-cleavage efficiency, which is directly relevant to diagnostic sensitivity and specificity.
+- **Major strengths** The conceptual framework distinguishing substrate accessibility from catalytic alignment is a useful contribution that may help rationalize previously empirical observations in Cas12a trans-cleavage. The combination of kinetic modeling with experimental validation is an appropriate methodological approach. The stated goal of providing a "fundamental basis" for improving CRISPR kinetics is well-motivated and of broad interest.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "We established kinetics models that quantitatively describe critical molecular interactions involving key functional domains of Cas12a ribonucleoproteins" and "Consistent kinetic model predictions and experimental results indicate the critical importance of two processes"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract claims that kinetic models were established and experimentally validated, but no details of the model derivation, assumptions, parameter estimation, or validation criteria are provided. The claim of "consistent kinetic model predictions and experimental results" cannot be evaluated without seeing the actual data, the statistical treatment, and the model fitting procedures.
+  - **Why it matters** The central contribution of this work is the kinetic model itself. Without transparency on how the model was derived, what assumptions were made, and how well it fits independent data, the claim of quantitative description of molecular interactions is not verifiable. Overparameterized or underdetermined kinetic models can produce apparent agreement with data without capturing the true physics.
+  - **Resolution test** Provide the full model derivation, parameter estimation procedures, goodness-of-fit statistics, and ideally validation against independent datasets or perturbations not used in model fitting.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Quantitative claim support
+  - **Claim pointer** "quantitative determination of the apparent enzyme turnover number (k(*) (cat)) and Michaelis constant (K(*) (M))"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract reports quantitative values of k(cat) and K(M) but does not present the values themselves, the experimental conditions under which they were measured, the number of replicates, or the error estimates. The use of "apparent" parameters suggests a complex kinetic context, but the relationship between the apparent and intrinsic parameters is not explained.
+  - **Why it matters** Quantitative kinetic parameters are only meaningful with associated uncertainties and conditions. Without these, the values cannot be compared to literature data or used by other researchers. The distinction between apparent and intrinsic parameters is critical for interpretation but is not elaborated.
+  - **Resolution test** Report the measured values with confidence intervals, experimental conditions, and a clear explanation of what "apparent" means in this context and how it relates to the proposed K(pass) and K(align).
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Mechanistic specificity
+  - **Claim pointer** "the substrate passing through the gap between the REC (recognition) and NUC (nuclease) domains, determined by K(pass)" and "the alignment of the substrate with the catalytic triad of the ribonucleoprotein, determined by K(align)"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract attributes specific physical interpretations to K(pass) and K(align) but does not describe how these parameters were experimentally isolated or distinguished. The rational design of substrates and activators is mentioned as the approach, but the design principles and the controls used to attribute observed effects specifically to K(pass) versus K(align) are not described.
+  - **Why it matters** The mechanistic interpretation is the main intellectual contribution. If the experimental perturbations cannot uniquely identify the proposed processes, alternative explanations (e.g., changes in binding affinity, conformational dynamics, or product release) remain plausible. The distinction between accessibility and alignment may be operationally difficult to establish.
+  - **Resolution test** Describe the design strategy for substrates and activators that selectively perturb K(pass) versus K(align), and show control experiments that rule out alternative interpretations.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Notation
+  - **Evidence pointer** Abstract
+  - **Issue** The notation k(*) (cat) and K(*) (M) with asterisks is unconventional and not explained. Standard notation would be k(cat) and K(M) with a clear definition of what the asterisk denotes.
+  - **Required correction** Define the asterisk notation explicitly or use standard kinetic notation with a clear explanation of any modifications.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Scope justification
+  - **Affected element** Introduction
+  - **Evidence pointer** Abstract
+  - **Issue** The abstract states that "the mechanisms underlying molecular interactions of the substrate with the ribonucleoprotein are not clear" but does not specify what is known and what gap is being filled. A more precise statement of prior knowledge and the specific unresolved question would strengthen the motivation.
+  - **Required correction** Briefly summarize the current state of knowledge on Cas12a trans-cleavage mechanisms and state the specific gap addressed.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Generalizability
+  - **Affected element** Discussion
+  - **Evidence pointer** Abstract
+  - **Issue** The abstract claims the findings provide "a fundamental basis for improving the kinetics of CRISPR systems" but does not discuss the generality of the proposed model across different Cas12 variants, guide RNA sequences, or reaction conditions.
+  - **Required correction** Add a brief statement on the expected generality and limitations of the proposed framework.
+- **Technical failings that need to be addressed before the case is established** R1-M1 and R1-M2 are blocking. The kinetic model derivation and validation must be fully documented, and the quantitative parameters must be reported with appropriate statistical treatment. R1-M3, while not blocking, requires additional experimental detail to establish the mechanistic specificity of the proposed interpretation.
+- **Assessment against Nature-style criteria** 
+  - Originality: The conceptual separation of substrate accessibility and alignment in Cas12a trans-cleavage appears novel and potentially valuable. However, the abstract does not sufficiently distinguish this from prior kinetic analyses of CRISPR nucleases to fully assess originality.
+  - Scientific importance: If the model is robust, it could provide a quantitative framework for understanding and engineering Cas12a trans-cleavage, with implications for diagnostics and biosensing. The importance is potentially high but not yet established from the abstract alone.
+  - Interdisciplinary readership: The topic bridges CRISPR biology, enzymology, nucleic acid chemistry, and molecular diagnostics. The abstract is written in a way that is accessible to a broad readership, though the kinetic formalism may require some background.
+  - Technical soundness: Cannot be assessed from the abstract. The model derivation, experimental validation, and statistical treatment are not visible.
+  - Readability for nonspecialists: The abstract is generally clear and well-structured. The key concepts of accessibility and alignment are intuitively understandable. The notation could be simplified for broader accessibility.
+- **Recommendation posture** Currently not established from the provided evidence. The conceptual framework is promising, but the abstract alone does not provide sufficient detail to evaluate the rigor of the kinetic modeling, the quality of the experimental validation, or the robustness of the quantitative claims. A full manuscript with complete methods, data, and statistical analyses would be required to assess whether the case is made.
+
+## Risk / unsupported claims
+- The claim of "consistent kinetic model predictions and experimental results" is unsupported without access to the data and fitting procedures.
+- The quantitative values of k(cat) and K(M) are claimed but not reported.
+- The mechanistic interpretation of K(pass) and K(align) as distinct physical processes is plausible but not verifiable from the abstract.
+- The claim that the findings provide "a fundamental basis for improving the kinetics of CRISPR systems" is an extrapolation that requires evidence of generality beyond the specific experimental system studied.

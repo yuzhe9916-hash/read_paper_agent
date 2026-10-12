@@ -2,6 +2,126 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42856931",
+      "title": "Central Dogma Transformer II: an AI microscope for understanding cellular regulatory mechanisms.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42856931/index.html",
+      "meta": [
+        "Ota, Nobuyuki",
+        "Bioinformatics advances",
+        "2026-10-11"
+      ],
+      "tags": [],
+      "summary": "该文提出一个模拟中心法则的Transformer模型，用于从CRISPRi数据中预测基因调控网络，虽涉及CRISPRi但聚焦于计算预测而非切割/碱基编辑分子机制，与本课题关联较弱。",
+      "abstract": "MOTIVATION: Interpretability is not optional in biology: understanding gene regulation requires models whose learned structure can be directly interrogated, not merely accurate predictors whose internals resist mapping onto regulatory relationships. We ask whether an architecture mirroring the central dogma yields attention and gradient maps that recover known regulatory elements and networks in inspectable form. RESULTS: Central Dogma Transformer II (CDT-II) mirrors the central dogma in its architecture-DNA self-attention, RNA self-attention, and DNA-to-RNA cross-attention-requiring only genomic embeddings and raw per-cell expression. On K562 CRISPR interference (CRISPRi) data with five genes held out entirely, CDT-II predicts perturbation effects (per-gene mean r = 0.84 ), recovers the GFI1B regulatory network (6.6-fold enrichment, P = 3.5 x 10-17 ), and concentrates cross-attention on ENCODE regulatory elements including CTCF sites (mean 7.67  x  across 28 target genes, P < .001 ). Gradient attribution predicts consequences of perturbing therapeutic targets (mean r = 0.82 ). For TFRC, target of the anti-TfR1 antibody PPMX-T003, it identifies erythrocyte-structure, iron-dependent DNA-synthesis and oxidative-stress genes, matching anemia and ferroptosis reported clinically and preclinically-without clinical data as input. CDT-II acts as an AI microscope, surfacing clinically relevant regulatory structure from perturbation experiments alone. AVAILABILITY AND IMPLEMENTATION: Source code is available at https://github.com/nobusama/CDT2. Pre-computed embeddings, training data, and model weights are available at https://huggingface.co/datasets/nobusama17/CDT2-data. 动机：在生物学中，可解释性并非可选：理解基因调控需要模型的学习结构能够被直接探究，而不仅仅是内部难以映射到调控关系的准确预测器。我们探究一种镜像中心法则的架构是否能产生注意力和梯度图，以可检查的形式恢复已知的调控元件和网络。结果：中心法则Transformer II（CDT-II）在其架构中镜像了中心法则——DNA自注意力、RNA自注意力和DNA到RNA交叉注意力——仅需基因组嵌入和原始每细胞表达。在K562 CRISPR干扰（CRISPRi）数据上，完全保留五个基因，CDT-II预测扰动效应（每基因平均r = 0.84），恢复GFI1B调控网络（6.6倍富集，P = 3.5 x 10-17），并将交叉注意力集中在ENCODE调控元件上，包括CTCF位点（28个靶基因平均7.67倍，P < .001）。梯度归因预测扰动治疗靶点的后果（平均r = 0.82）。对于TFRC，即抗TfR1抗体PPMX-T003的靶点，它识别出红细胞结构、铁依赖性DNA合成和氧化应激基因，与临床和临床前报道的贫血和铁死亡一致——无需临床数据作为输入。CDT-II充当AI显微镜，仅从扰动实验中揭示临床相关的调控结构。可用性和实现：源代码可在https://github.com/nobusama/CDT2获取。预计算嵌入、训练数据和模型权重可在https://huggingface.co/datasets/nobusama17/CDT2-data获取。",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "pubmed:42850393",
+      "title": "Loss of Nod25 function does not affect nitrogen-fixing symbiosis in Medicago truncatula.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42850393/index.html",
+      "meta": [
+        "Biro, Janos Barnabas; Domonkos, Agota; Gungor, Berivan; Farkas, Attila; Mohammadi Eghbash, Elmira; Kiss, Gyorgy Botond; Kalo, Peter",
+        "Plant molecular biology",
+        "2026-10-09"
+      ],
+      "tags": [],
+      "summary": "该文用CRISPR/Cas9敲除蒺藜苜蓿NOD25基因并评估共生表型，虽涉及CRISPR工具应用，但核心是共生固氮功能研究，缺乏对切割/碱基编辑分子机制的探讨，与本课题关联度低。",
+      "abstract": "The formation of nitrogen-fixing symbiotic nodules is a complex process that involves extensive transcriptional reprogramming of legume roots to enable intracellular accommodation of host compatible rhizobia. This process requires coordinated regulation of hundreds to thousands of genes, including the induction of highly expressed genes, traditionally referred to as nodulin genes. While the functions of many nodulins have been elucidated, a substantial number remained poorly characterized, or their functions are still unclear. One such gene, NOD25, was originally identified based on differential hybridization between roots and nodules and is expressed at exceptionally high levels in Medicago nodules. MtNOD25-like proteins in IRLC legumes exhibit a repetitive modular structure flanked by conserved N- and C-terminal regions, with clade-specific repeat organization. To understand the role of NOD25 in symbiotic nitrogen fixation, we generated loss-of-function mutants in Medicago truncatula using CRISPR/Cas9-mediated genome editing. Four independent Mtnod25 mutant lines displayed normal growth under symbiotic conditions and showed no detectable defects in nodule colonization, symbiosome formation, or bacteroid differentiation. These results indicate that MtNOD25 is not essential for symbiosis in M. truncatula under the conditions tested. However, the biological function of MtNOD25 has not yet been elucidated, and its highly specialized evolutionary conservation suggests that it may have a specific, non-essential role in modulating or fine-tuning symbiotic processes under particular environmental or physiological conditions that remain to be defined. 固氮共生结瘤的形成是一个复杂的过程，涉及豆科植物根部广泛的转录重编程，以实现对宿主相容性根瘤菌的细胞内容纳。该过程需要协调调控数百至数千个基因，包括诱导高表达基因，这些基因传统上被称为结瘤素基因（nodulin genes）。尽管许多结瘤素的功能已被阐明，但仍有大量结瘤素的特征尚未明确，或其功能仍不清楚。其中一个基因，NOD25，最初通过根与结瘤之间的差异杂交鉴定得到，并在苜蓿（Medicago）结瘤中以异常高的水平表达。IRLC豆科植物中的MtNOD25样蛋白表现出由保守的N端和C端区域侧翼的重复模块化结构，并具有进化枝特异性的重复组织。为了理解NOD25在共生固氮中的作用，我们利用CRISPR/Cas9介导的基因组编辑在蒺藜苜蓿（Medicago truncatula）中生成了功能缺失突变体。四个独立的Mtnod25突变体品系在共生条件下表现出正常生长，并且在结瘤定殖、共生体形成或类菌体分化方面未检测到明显缺陷。这些结果表明，在测试条件下，MtNOD25在蒺藜苜蓿共生中并非必需。然而，MtNOD25的生物学功能尚未阐明，其高度特化的进化保守性提示，它可能在特定环境或生理条件下，对调节或微调共生过程具有特定的非必需作用，这些条件仍有待确定。",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "pubmed:42853271",
+      "title": "Branched Split Activator-Regulated Cas12a Biosensor For Methyltransferases Detection.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42853271/index.html",
+      "meta": [
+        "Hu, Lin; Hu, Honghua; Liu, Fang; Li, Xingrong; Wu, Qinghua; Fu, Xuhuai; Li, Diangeng; Wu, Xuan; Xiang, Rong; Huang, Rongzhong; Li, Xiaosong; Li, Yi",
+        "ACS sensors",
+        "2026-10-09"
+      ],
+      "tags": [],
+      "summary": "该文利用CRISPR/Cas12a的结构控制激活机制设计分支分裂激活子，构建无需扩增的DNA甲基转移酶生物传感器，虽聚焦检测应用，但涉及Cas12a激活的分子机制设计，对碱基编辑/CRISPR工具工程化有启发。",
+      "abstract": "DNA methyltransferases (MTases) are important epigenetic enzymes involved in DNA methylation regulation and have attracted considerable interest as analytical targets in disease-related epigenetic studies. However, traditional detection methods are constrained by laboratory-bound, sophisticated instrumentation and time-consuming protocols, while emerging approaches either depend on complex enzymatic amplifications or suffer from uncontrolled background signals, limiting their bioanalysis utility for precision-medicine-related applications. Inspired by the structure-controlled activation mechanism of CRISPR/Cas12a, we designed a branched split structure to regulate Cas12a for stepwise enzymatic activation and established the Cas12a-induced DNA MTase Sensor (CDMS), which enables highly sensitive MTase activity detection without the need for nucleic-acid amplification step. The core strategy lies in designing split-and-reconstituted Cas12a-activating DNA fragments with steric hindrance effects. This design significantly inhibits nonspecific Cas12a activation while efficiently restoring its activity upon removal of steric hindrance in response to DNA MTase activity. This method achieves ultra-low detection limit of 1.06 x 10-6 U/mL for M.SssI MTase and 7.41 x 10-8 U/mL for Dam MTase, exhibiting excellent specificity and robust applicability for MTase inhibitor screening. We also developed a palm-sized portable optical device, named iCas-Analyzer, to further explore the CDMS's potential for point-of-care testing (POCT), which can be easily operated by nonexpert end users. With device integration, the CDMS extends CRISPR-based diagnostics into the field of epigenetics, holding its potential for future decentralized MTase analysis and POCT-oriented assay development. DNA甲基转移酶（MTases）是参与DNA甲基化调控的重要表观遗传酶，并在疾病相关表观遗传研究中作为分析靶标引起了广泛关注。然而，传统检测方法受限于实验室依赖、复杂仪器和耗时流程，而新兴方法要么依赖复杂的酶扩增，要么遭受不受控制的背景信号干扰，限制了其在精准医学相关应用中的生物分析实用性。受CRISPR/Cas12a结构控制激活机制的启发，我们设计了一种分支分裂结构来调控Cas12a实现逐步酶激活，并建立了Cas12a诱导的DNA甲基转移酶传感器（CDMS），该传感器无需核酸扩增步骤即可实现高灵敏度的MTase活性检测。核心策略在于设计具有空间位阻效应的分裂重组Cas12a激活DNA片段。该设计显著抑制非特异性Cas12a激活，同时在响应DNA MTase活性时去除空间位阻后高效恢复其活性。该方法对M.SssI MTase实现了1.06 x 10-6 U/mL的超低检测限，对Dam MTase实现了7.41 x 10-8 U/mL的检测限，表现出优异的特异性和对MTase抑制剂筛选的稳健适用性。我们还开发了一种掌上型便携式光学设备，命名为iCas-Analyzer，以进一步探索CDMS在即时检测（POCT）中的潜力，该设备可由非专业终端用户轻松操作。通过设备集成，CDMS将基于CRISPR的诊断扩展到表观遗传学领域，为其未来在分散式MTase分析和面向POCT的检测开发中发挥作用奠定了基础。",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "pubmed:42844568",
+      "title": "Accessibility and Alignment of Trans-Cleavage Substrates Modulate the Kinetics of Cas12a Ribonucleoprotein.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42844568/index.html",
+      "meta": [
+        "Hu, Jianyu; Feng, Wei; Zhang, Hongquan; Le, X Chris",
+        "Angewandte Chemie (International ed. in English)",
+        "2026-10-08"
+      ],
+      "tags": [],
+      "summary": "该研究通过建立酶动力学模型并实验验证，定量解析了Cas12a RNP反式切割中底物穿越REC/NUC结构域间隙及与催化三联体对齐的分子机制，为CRISPR系统动力学优化提供了机制基础。",
+      "abstract": "Mechanistic understanding of molecular interactions involved in the trans-cleavage of CRISPR ribonucleoprotein systems is critical to advance genome editing, cell imaging, DNA nanotechnology, and molecular diagnostics. However, the mechanisms underlying molecular interactions of the substrate with the ribonucleoprotein are not clear. We report here molecular interactions that play critical roles in the trans-cleavage activity of Cas12a ribonucleoproteins. We established kinetics models that quantitatively describe critical molecular interactions involving key functional domains of Cas12a ribonucleoproteins. Experimental validation of the enzyme kinetic models and quantitative determination of the apparent enzyme turnover number (k(*) (cat)) and Michaelis constant (K(*) (M)) enabled detailed studies of the accessibility and the alignment of the substrate with the catalytic site of the ribonucleoprotein. Consistent kinetic model predictions and experimental results indicate the critical importance of two processes: (1) the substrate passing through the gap between the REC (recognition) and NUC (nuclease) domains, determined by K(pass), and (2) the alignment of the substrate with the catalytic triad of the ribonucleoprotein, determined by K(align). Guided by the kinetic models, rational design of substrates and activators enabled quantitative assessment of K(pass) and K(align). These results and fundamental understanding of the molecular interactions involved in the process provide a fundamental basis for improving the kinetics of CRISPR systems. 对CRISPR核糖核蛋白系统反式切割中涉及的分子相互作用的机制理解，对于推进基因组编辑、细胞成像、DNA纳米技术和分子诊断至关重要。然而，底物与核糖核蛋白相互作用的潜在机制尚不明确。我们在此报告了在Cas12a核糖核蛋白反式切割活性中起关键作用的分子相互作用。我们建立了动力学模型，定量描述了涉及Cas12a核糖核蛋白关键功能域的分子相互作用。酶动力学模型的实验验证以及表观酶转换数（k(*) (cat)）和米氏常数（K(*) (M)）的定量测定，使得对底物与核糖核蛋白催化位点的可及性和对齐进行详细研究成为可能。一致的动力学模型预测与实验结果指出了两个过程的关键重要性：（1）底物通过REC（识别）和NUC（核酸酶）域之间的间隙，由K(pass)决定；（2）底物与核糖核蛋白催化三联体的对齐，由K(align)决定。在动力学模型的指导下，底物和激活剂的合理设计使得K(pass)和K(align)的定量评估成为可能。这些结果及对该过程中分子相互作用的根本理解，为改善CRISPR系统的动力学提供了基础。",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "pubmed:42849731",
+      "title": "Systematic mapping of chimera-permissive sites by CRISPR-guided PAM scanning.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42849731/index.html",
+      "meta": [
+        "Pujols, Jacinda; Lee, Kyutae D; Kapolka, Nick J; Taylor, Sam; Colon, Bruno; Isom, Daniel G",
+        "The Journal of biological chemistry",
+        "2026-10-08"
+      ],
+      "tags": [],
+      "summary": "该文开发CRISPR引导的PAM扫描技术，在活细胞中系统绘制蛋白嵌合体允许插入位点，虽非直接研究碱基编辑或交错切割机制，但利用CRISPR靶向和切割机制进行功能筛选，对工具设计有方法学启发。",
+      "abstract": "Protein chimeras enable new biological functions by combining otherwise independent protein elements, but identifying insertion sites that preserve host protein function remains largely empirical. Here, we introduce CRISPR-guided protospacer adjacent motif (PAM) scanning, a scalable strategy for mapping chimera-permissive sites directly in living cells. PAM scanning uses CRISPR-addressable positions across coding sequences to systematically install functional payloads and measure insertion tolerance. In yeast, PAM accessibility provided near-comprehensive coverage across proteins of diverse size and function. We first applied this approach across an entire G protein-coupled receptor (GPCR) signaling pathway, generating 91 chimeras containing inserted protease recognition sequences to map insertion tolerance and site-specific biophysical protection from a protease probe by surrounding protein structure and binding partners. Cognate protease cleavage revealed how this protection varied with protease inhibition and size. We then used PAM scanning to identify bi-functional GPCR chimeras that retained receptor signaling while supporting fluorescent or luminescent reporters. Screening human adenosine A2A and melatonin MTNR1A receptors in yeast identified functional mNeonGreen and NanoLuc insertion sites that retained ligand-dependent signaling following translation to human cells. Together, these studies establish PAM scanning as a general framework for mapping insertional tolerance and biophysical protection in living cells, accelerating functional chimera engineering, and experimentally validating generative chimera design. 蛋白质嵌合体通过组合原本独立的蛋白质元件来实现新的生物学功能，但识别能保留宿主蛋白质功能的插入位点在很大程度上仍依赖经验。在此，我们介绍了CRISPR引导的原间隔区相邻基序（PAM）扫描，这是一种直接在活细胞中绘制嵌合体允许位点的可扩展策略。PAM扫描利用编码序列中CRISPR可寻址的位置，系统性地安装功能性载荷并测量插入耐受性。在酵母中，PAM可及性在多种大小和功能的蛋白质中提供了近乎全面的覆盖。我们首先将这种方法应用于整个G蛋白偶联受体（GPCR）信号通路，生成了91个含有插入蛋白酶识别序列的嵌合体，以绘制插入耐受性以及周围蛋白质结构和结合伴侣对蛋白酶探针的位点特异性生物物理保护。同源蛋白酶切割揭示了这种保护如何随蛋白酶抑制和大小而变化。随后，我们使用PAM扫描来识别双功能GPCR嵌合体，这些嵌合体在保留受体信号传导的同时支持荧光或发光报告分子。在酵母中筛选人腺苷A2A和褪黑素MTNR1A受体，鉴定出功能性mNeonGreen和NanoLuc插入位点，这些位点在转移到人类细胞后保留了配体依赖性信号传导。综合来看，这些研究确立了PAM扫描作为在活细胞中绘制插入耐受性和生物物理保护的通用框架，加速了功能性嵌合体工程，并实验验证了生成性嵌合体设计。",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "pubmed:42841232",
+      "title": "A dynamically frustrated allosteric checkpoint consistent with conformational proofreading in CRISPR-Cas9.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42841232/index.html",
+      "meta": [
+        "Huang, Jianxiang; Wei, Jiacheng; Chen, Huazhang; Qiao, Xin; Liu, Ning; Lu, Shaoyong",
+        "Nucleic acids research",
+        "2026-10-07"
+      ],
+      "tags": [],
+      "summary": "该研究通过分子动力学模拟解析CRISPR-Cas9 R-loop延伸至18-nt检查点时的动态受阻态，提出构象校对模型并整合深度学习与突变扫描，揭示HNH激活与编辑产物形成的分子机制，直接契合本课题对Cas-DNA互作与切割机制的核心关注。",
+      "abstract": "CRISPR-Cas9 DNA cleavage requires R-loop extension to activate the histidine-asparagine-histidine (HNH) nuclease domain, yet how heteroduplex maturation gates catalytic commitment remains unclear. Using extensive molecular dynamics simulations across seven experimentally trapped heteroduplex states (6-18 nt), we define a three-stage activation pathway: unlocking, preorganization, and precatalytic gating. At the 18-nt checkpoint, HNH and REC2 regain mobility but do not adopt a fully cleavage-competent orientation; this dynamically frustrated metastate is consistent with a conformational-proofreading model. Here, dynamic frustration is used operationally to describe renewed mobility and weakened directional coupling without commitment to the cleavage-competent state, rather than a formal energetic frustration calculation. Two sensors, Y450 at the sgRNA: DNA hybrid interface and K1200 in the PI domain, respond to distinct maturation milestones, encoding heteroduplex length into domain-specific conformational outputs. Integrating these insights with two deep-learning analyses and deep mutational scanning recovers known high-fidelity positions and prioritizes three unannotated residues for testing. In a cellular cleavage reporter assay, R1210D reproduces the attenuated low-completion phenotype of eSpCas9, identifying it as a candidate for direct specificity testing, while destabilizing L1-linker substitutions increase cleavage efficiency. These results connect atomic-level dynamics to experimentally testable, structure-mechanism-informed engineering hypotheses; direct matched-versus mismatched validation is required to establish effects on discrimination fidelity. CRISPR-Cas9 DNA切割需要R-loop延伸以激活组氨酸-天冬酰胺-组氨酸（HNH）核酸酶结构域，然而异源双链体成熟如何门控催化承诺仍不清楚。利用跨越七个实验捕获的异源双链体状态（6-18 nt）的广泛分子动力学模拟，我们定义了一个三阶段激活通路：解锁、预组织和预催化门控。在18-nt检查点，HNH和REC2恢复流动性，但未采用完全切割胜任的取向；这种动态受阻的亚稳态与构象校对模型一致。此处，动态受阻在操作上用于描述更新的流动性和减弱的定向耦合，而不承诺于切割胜任状态，而非正式的能垒受阻计算。两个传感器，sgRNA：DNA杂交界面处的Y450和PI结构域中的K1200，响应于不同的成熟里程碑，将异源双链体长度编码为结构域特异性构象输出。将这些见解与两项深度学习分析和深度突变扫描相结合，恢复了已知的高保真位点，并优先考虑三个未注释残基进行测试。在细胞切割报告实验中，R1210D重现了eSpCas9的减弱低完成表型，将其确定为直接特异性测试的候选者，而去稳定化L1-连接子替换则增加切割效率。这些结果将原子级动力学与实验可测试的、基于结构机制的工程假设联系起来；需要直接的匹配与错配验证以确立对区分保真度的影响。",
+      "date": "2026-10-07"
+    },
+    {
+      "id": "pubmed:42841820",
+      "title": "Preparation of an aptamer-based photoelectrochemical sensor for sequential detection of both mercury and glutathione in commercial skin lightening cosmetics.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42841820/index.html",
+      "meta": [
+        "Huang, Rui; Chen, Yafei; Zhao, Zewei; Zhang, Xuhui; Huang, Zihao; Wei, Xiaoping; Li, Jianping",
+        "The Analyst",
+        "2026-10-07"
+      ],
+      "tags": [],
+      "summary": "该文构建基于适配体与CRISPR/Cas12a的光电化学传感器检测化妆品中汞和谷胱甘肽，虽涉及Cas12a切割但仅作为信号放大工具，未研究切割/碱基编辑分子机制，与本课题核心无关。",
+      "abstract": "Glutathione (GSH) and Hg(2+) both possess skin-lightening effects, but GSH is a beneficial component while Hg(2+) poses significant health risks to humans. Accurate quantification of both GSH and Hg(2+) is crucial for distinguishing the quality of commercial skin lightening cosmetics. In this study, the In(2)S(3)-Ti(3)C(2) photoelectric material was synthesized and modified onto the surface of FTO. By incorporating T-rich Hg(2+) aptamer DNA with ferrocene-modified termini (Apt-Fc) onto the material surface, a photoelectrochemical (PEC) aptamer sensor was developed for the sequential detection of Hg(2+) and glutathione (GSH) using the same sensing platform. In the absence of Hg(2+), Fc acts as an electron acceptor to competitively capture photogenerated electrons from In(2)S(3)-Ti(3)C(2), reducing the number of electrons transferred to the electrode and resulting in a decreased photocurrent. Upon Hg(2+) addition, the formed T-Hg(2+)-T structure brings Fc into closer proximity to the photoelectrode surface, where the steric hindrance effect of the T-Hg(2+)-T duplex and the competitive electron-capturing effect of Fc synergistically lead to a further decreased photocurrent, enabling sensitive Hg(2+) detection. On the other hand, GSH reduces MnO(2) to Mn(2+), which accelerates the CRISPR/Cas12a cleavage activity to randomly cleave the T-Hg(2+)-T chain; the resultant enhanced photocurrent enables GSH detection. The detection limits are 8.47 x 10(-12) mol L(-1) and 4.83 x 10(-11) mol L(-1) for Hg(2+) and GSH, respectively. The sensor has been successfully applied to the sequential detection of illegally added Hg(2+) and the endogenous antioxidant GSH in commercial skin lightening cosmetics. 谷胱甘肽（GSH）和Hg(2+)均具有美白效果，但GSH是有益成分，而Hg(2+)对人体健康构成显著风险。准确量化GSH和Hg(2+)对于区分商业美白化妆品质量至关重要。本研究合成了In(2)S(3)-Ti(3)C(2)光电材料，并将其修饰于FTO表面。通过将富含T的Hg(2+)适配体DNA（末端修饰二茂铁，Apt-Fc）固定于材料表面，开发了一种光电化学（PEC）适配体传感器，利用同一传感平台实现对Hg(2+)和谷胱甘肽（GSH）的连续检测。在无Hg(2+)存在时，Fc作为电子受体竞争性捕获来自In(2)S(3)-Ti(3)C(2)的光生电子，减少转移至电极的电子数量，导致光电流降低。加入Hg(2+)后，形成的T-Hg(2+)-T结构使Fc更接近光电极表面，其中T-Hg(2+)-T双链体的空间位阻效应和Fc的竞争性电子捕获效应协同作用，进一步降低光电流，从而实现Hg(2+)的灵敏检测。另一方面，GSH将MnO(2)还原为Mn(2+)，这加速了CRISPR/Cas12a的切割活性，随机切割T-Hg(2+)-T链；由此增强的光电流使GSH检测成为可能。Hg(2+)和GSH的检测限分别为8.47 x 10(-12) mol L(-1)和4.83 x 10(-11) mol L(-1)。该传感器已成功应用于商业美白化妆品中非法添加的Hg(2+)和内源性抗氧化剂GSH的连续检测。",
+      "date": "2026-10-07"
+    },
+    {
+      "id": "pubmed:42836163",
+      "title": "The Dual Role of Piezo1 in Cancer: Mechanotransduction, Microenvironment Remodelling, and Therapeutic Opportunities.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42836163/index.html",
+      "meta": [
+        "Jiang, Haiyan; Liu, Ying; Xue, Fei; Sun, Hualin; Ji, Yanan; Qi, Lei",
+        "Drug design, development and therapy",
+        "2026-10-06"
+      ],
+      "tags": [],
+      "summary": "综述Piezo1机械敏感离子通道在肿瘤中的双重作用及微环境重塑，仅提及CRISPR编辑作为未来方向，与碱基编辑/交错切割机制无实质关联。",
+      "abstract": "The mechanosensitive ion channel Piezo1 translates physical cues from the tumor microenvironment-including extracellular matrix stiffness, fluid shear stress, and compressive forces-into intracellular calcium signals and downstream cascades, playing a pivotal role in cancer. Piezo1 exhibits pronounced tumor-type dependency: it acts as an oncogene in multiple solid tumor types (eg, glioma, pancreatic cancer, esophageal squamous cell carcinoma) but exerts tumor-suppressive effects in lung cancer and clear cell renal cell carcinoma. This context-dependent duality poses fundamental challenges for clinical translation. This review systematically dissects the molecular mechanisms by which Piezo1 regulates proliferation, migration, epithelial-mesenchymal transition, cancer stem cell maintenance, and Piezo1-mediated ferroptosis via the TfR1/DMT1/NCOA4/GPX4 axis, which couples iron overload and lipid peroxidation to mechanical cues, is also discussed as a novel therapeutic vulnerability. It further analyzes its role in tumor microenvironment remodelling, including extracellular matrix stiffening, cancer-associated fibroblast activation, angiogenesis, lymphangiogenesis, and metabolic reprogramming. Moreover, the bidirectional immunomodulatory functions of Piezo1 are highlighted: it enhances T cell and natural killer cell antitumor activity but may also promote immunosuppression through regulatory T cells, tumor-associated macrophages, and dendritic cells. Regarding Piezo1-targeted therapies, advances in small-molecule modulators, ultrasound-based physical modulation, nanotechnology, combination regimens, and antibody-drug conjugates are summarized. Five translational bottlenecks are critically appraised: tissue specificity, cancer type-dependent functional differences, limitations of pharmacological tools, clinical translation barriers of mechanical force stimulation and drug resistance and tumor heterogeneity. Finally, future directions are discussed, including structure-guided drug design, organ-on-a-chip screening, CRISPR-based editing, and emerging modalities. As a critical hub linking mechanical cues to tumor biology, precise Piezo1 modulation promises to establish a new \"mechanomedicine\" paradigm-an emerging field that leverages mechanical force-based diagnostics and therapeutics for disease management. Future efforts should focus on highly selective modulators, patient stratification based on Piezo1 expression and mechanical signatures, and spatiotemporally synergistic strategies combining Piezo1 targeting with chemotherapy, immunotherapy, and metabolic interventions. 机械敏感离子通道Piezo1将肿瘤微环境中的物理线索——包括细胞外基质刚度、流体剪切应力和压缩力——转化为细胞内钙信号及下游级联反应，在癌症中发挥关键作用。Piezo1表现出显著的肿瘤类型依赖性：在多种实体肿瘤类型（如胶质瘤、胰腺癌、食管鳞状细胞癌）中作为癌基因发挥作用，但在肺癌和透明细胞肾细胞癌中则发挥肿瘤抑制作用。这种情境依赖的双重性为临床转化带来了根本性挑战。本综述系统剖析了Piezo1调控增殖、迁移、上皮-间质转化、癌症干细胞维持的分子机制，并讨论了Piezo1介导的铁死亡（ferroptosis）——通过TfR1/DMT1/NCOA4/GPX4轴将铁过载和脂质过氧化与机械线索耦合——作为一种新型治疗脆弱点。进一步分析了其在肿瘤微环境重塑中的作用，包括细胞外基质硬化、癌症相关成纤维细胞活化、血管生成、淋巴管生成和代谢重编程。此外，强调了Piezo1的双向免疫调节功能：它增强T细胞和自然杀伤细胞的抗肿瘤活性，但也可能通过调节性T细胞、肿瘤相关巨噬细胞和树突状细胞促进免疫抑制。在Piezo1靶向治疗方面，总结了小分子调节剂、超声物理调控、纳米技术、联合方案和抗体-药物偶联物的进展。严格评估了五个转化瓶颈：组织特异性、癌症类型依赖性功能差异、药理学工具局限性、机械力刺激的临床转化障碍，以及耐药性和肿瘤异质性。最后，讨论了未来方向，包括结构引导的药物设计、器官芯片筛选、CRISPR编辑和新兴治疗模式。作为连接机械线索与肿瘤生物学的关键枢纽，精准调控Piezo1有望建立一种新的“机械医学 (mechanomedicine)”范式——一个利用基于机械力的诊断和治疗方法进行疾病管理的新兴领域。未来工作应聚焦于高选择性调节剂、基于Piezo1表达和机械特征的患者分层，以及将Piezo1靶向与化疗、免疫治疗和代谢干预相结合的时间-空间协同策略。",
+      "date": "2026-10-06"
+    },
+    {
       "id": "pubmed:42829036",
       "title": "MINOS1-Mediated Mitochondrial Remodeling: A Critical Regulator of Apoptosis in Hypoxic Intestinal Epithelium.",
       "subtitle": "",

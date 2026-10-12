@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42841820",
+    "doi": "10.1039/d6an00927a",
+    "title": "Preparation of an aptamer-based photoelectrochemical sensor for sequential detection of both mercury and glutathione in commercial skin lightening cosmetics."
+  },
+  "content": {
+    "abstract": "Glutathione (GSH) and Hg(2+) both possess skin-lightening effects, but GSH is a beneficial component while Hg(2+) poses significant health risks to humans. Accurate quantification of both GSH and Hg(2+) is crucial for distinguishing the quality of commercial skin lightening cosmetics. In this study, the In(2)S(3)-Ti(3)C(2) photoelectric material was synthesized and modified onto the surface of FTO. By incorporating T-rich Hg(2+) aptamer DNA with ferrocene-modified termini (Apt-Fc) onto the material surface, a photoelectrochemical (PEC) aptamer sensor was developed for the sequential detection of Hg(2+) and glutathione (GSH) using the same sensing platform. In the absence of Hg(2+), Fc acts as an electron acceptor to competitively capture photogenerated electrons from In(2)S(3)-Ti(3)C(2), reducing the number of electrons transferred to the electrode and resulting in a decreased photocurrent. Upon Hg(2+) addition, the formed T-Hg(2+)-T structure brings Fc into closer proximity to the photoelectrode surface, where the steric hindrance effect of the T-Hg(2+)-T duplex and the competitive electron-capturing effect of Fc synergistically lead to a further decreased photocurrent, enabling sensitive Hg(2+) detection. On the other hand, GSH reduces MnO(2) to Mn(2+), which accelerates the CRISPR/Cas12a cleavage activity to randomly cleave the T-Hg(2+)-T chain; the resultant enhanced photocurrent enables GSH detection. The detection limits are 8.47 x 10(-12) mol L(-1) and 4.83 x 10(-11) mol L(-1) for Hg(2+) and GSH, respectively. The sensor has been successfully applied to the sequential detection of illegally added Hg(2+) and the endogenous antioxidant GSH in commercial skin lightening cosmetics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Rui",
+        "Chen, Yafei",
+        "Zhao, Zewei",
+        "Zhang, Xuhui",
+        "Huang, Zihao",
+        "Wei, Xiaoping",
+        "Li, Jianping"
+      ],
+      "short_names": [
+        "Huang R",
+        "Chen Y",
+        "Zhao Z",
+        "Zhang X",
+        "Huang Z",
+        "Wei X",
+        "Li J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8920-3223"
+      ],
+      "affiliations": [
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn.",
+        "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Rui",
+        "short_name": "Huang R",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Yafei",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zewei",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xuhui",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Huang, Zihao",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wei, Xiaoping",
+        "short_name": "Wei X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Jianping",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0001-8920-3223"
+        ],
+        "affiliations": [
+          "Guangxi Key Laboratory of Electrochemical and Magnetochemical Function Materials, College of Chemistry and Bioengineering, Guilin University of Technology, Guilin, Guangxi, 541004, China. xpwei@glut.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Analyst"
+    ],
+    "journal_abbrev": [
+      "Analyst"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 17:33",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42841820",
+      "40425955",
+      "41330677",
+      "42207478",
+      "38874768",
+      "36283782",
+      "33784812",
+      "35721978",
+      "32439049",
+      "27592238",
+      "26528805",
+      "36283778",
+      "37555099",
+      "36413105",
+      "38359722",
+      "38615458",
+      "38950475",
+      "37225334",
+      "31987206",
+      "38250824",
+      "25906079",
+      "37423906",
+      "20877906",
+      "38395579",
+      "37885198",
+      "38017000",
+      "42627537",
+      "33667805",
+      "39824058",
+      "38861005",
+      "40617436",
+      "39721129",
+      "32418599",
+      "38834277",
+      "42842034",
+      "36259408",
+      "32729534",
+      "29331428",
+      "37944013",
+      "41895180",
+      "37757696",
+      "38855851",
+      "36727617",
+      "37306227",
+      "42242804",
+      "35680338",
+      "38565740",
+      "33876310",
+      "29992808",
+      "31780293",
+      "38856817",
+      "36464455",
+      "32101233",
+      "42456248",
+      "38067471",
+      "27240014",
+      "31784222",
+      "39933341",
+      "31075721",
+      "38663324",
+      "38245201",
+      "35764241",
+      "38156660",
+      "25467465",
+      "25590970",
+      "37615488",
+      "25630354",
+      "23377184",
+      "40818224",
+      "41448079",
+      "38973573",
+      "26852203",
+      "42230021",
+      "35611402",
+      "30466051",
+      "30305222",
+      "38404152",
+      "35984445",
+      "25622608",
+      "36788220",
+      "35676546",
+      "26164015",
+      "42166049",
+      "39800504",
+      "36989618",
+      "26599580",
+      "41172697",
+      "40350504",
+      "39241648",
+      "35425249",
+      "37499488",
+      "40326235",
+      "35469883",
+      "27529728",
+      "40946560",
+      "26785311",
+      "38457872",
+      "40405590",
+      "42691714",
+      "32331372"
+    ],
+    "review": [
+      "42841820"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6an00927a",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

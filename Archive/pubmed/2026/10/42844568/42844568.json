@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42844568",
+    "doi": "10.1002/anie.7366232",
+    "title": "Accessibility and Alignment of Trans-Cleavage Substrates Modulate the Kinetics of Cas12a Ribonucleoprotein."
+  },
+  "content": {
+    "abstract": "Mechanistic understanding of molecular interactions involved in the trans-cleavage of CRISPR ribonucleoprotein systems is critical to advance genome editing, cell imaging, DNA nanotechnology, and molecular diagnostics. However, the mechanisms underlying molecular interactions of the substrate with the ribonucleoprotein are not clear. We report here molecular interactions that play critical roles in the trans-cleavage activity of Cas12a ribonucleoproteins. We established kinetics models that quantitatively describe critical molecular interactions involving key functional domains of Cas12a ribonucleoproteins. Experimental validation of the enzyme kinetic models and quantitative determination of the apparent enzyme turnover number (k(*) (cat)) and Michaelis constant (K(*) (M)) enabled detailed studies of the accessibility and the alignment of the substrate with the catalytic site of the ribonucleoprotein. Consistent kinetic model predictions and experimental results indicate the critical importance of two processes: (1) the substrate passing through the gap between the REC (recognition) and NUC (nuclease) domains, determined by K(pass), and (2) the alignment of the substrate with the catalytic triad of the ribonucleoprotein, determined by K(align). Guided by the kinetic models, rational design of substrates and activators enabled quantitative assessment of K(pass) and K(align). These results and fundamental understanding of the molecular interactions involved in the process provide a fundamental basis for improving the kinetics of CRISPR systems.",
+    "keywords": [
+      "CRISPR",
+      "H5N1 and SARS-CoV-2",
+      "kcat and KM",
+      "kinetics model",
+      "substrate structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Jianyu",
+        "Feng, Wei",
+        "Zhang, Hongquan",
+        "Le, X Chris"
+      ],
+      "short_names": [
+        "Hu J",
+        "Feng W",
+        "Zhang H",
+        "Le XC"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2754-2339",
+        "ORCID: 0000-0003-1081-7914",
+        "ORCID: 0000-0003-1088-9862",
+        "ORCID: 0000-0002-7690-6701"
+      ],
+      "affiliations": [
+        "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada.",
+        "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada.",
+        "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada.",
+        "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Jianyu",
+        "short_name": "Hu J",
+        "identifiers": [
+          "0000-0003-2754-2339"
+        ],
+        "affiliations": [
+          "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada."
+        ]
+      },
+      {
+        "full_name": "Feng, Wei",
+        "short_name": "Feng W",
+        "identifiers": [
+          "0000-0003-1081-7914"
+        ],
+        "affiliations": [
+          "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hongquan",
+        "short_name": "Zhang H",
+        "identifiers": [
+          "0000-0003-1088-9862"
+        ],
+        "affiliations": [
+          "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada."
+        ]
+      },
+      {
+        "full_name": "Le, X Chris",
+        "short_name": "Le XC",
+        "identifiers": [
+          "0000-0002-7690-6701"
+        ],
+        "affiliations": [
+          "Division of Analytical & Environmental Toxicology, Department of Laboratory Medicine and Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Angewandte Chemie (International ed. in English)"
+    ],
+    "journal_abbrev": [
+      "Angew Chem Int Ed Engl"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 05:31",
+    "fetched_at": "2026-10-12 07:28:32"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42844568",
+      "33107304",
+      "41521661",
+      "40716775",
+      "42475469",
+      "41063348",
+      "39183441",
+      "39258555",
+      "30639240",
+      "40196614",
+      "40334424",
+      "42330823",
+      "42749264",
+      "34505008",
+      "23912807",
+      "41759295",
+      "38477377",
+      "42045650",
+      "40344384",
+      "28431230",
+      "32233423",
+      "42716355",
+      "25142582",
+      "10525416",
+      "41793179",
+      "41814651",
+      "37650631",
+      "41440293",
+      "11292334",
+      "39426279",
+      "38368461",
+      "34853172",
+      "31671185",
+      "15736949",
+      "30078724",
+      "29449511",
+      "42330666",
+      "30555184",
+      "42704632",
+      "15487984",
+      "41533584",
+      "36558152",
+      "40398570",
+      "40610153",
+      "41783155",
+      "36865253",
+      "37149147",
+      "38246741",
+      "42080263",
+      "10924098",
+      "22928782",
+      "36682874",
+      "40512544",
+      "42780226",
+      "8917458",
+      "8286354",
+      "38955179",
+      "34455224",
+      "19706517",
+      "36674715",
+      "31155345",
+      "11926828",
+      "42143446",
+      "41352906",
+      "29281823",
+      "33523494",
+      "29790280",
+      "40754777",
+      "41628563",
+      "36537251",
+      "35005648",
+      "41500123",
+      "34694606",
+      "14502490",
+      "22674578",
+      "21854807",
+      "38284432",
+      "36995625",
+      "40966510",
+      "39009379",
+      "30691648",
+      "11106479",
+      "11986308",
+      "10320327",
+      "42182444",
+      "21284559",
+      "30018371",
+      "39210187",
+      "41673757",
+      "7893710",
+      "38526321",
+      "35615910",
+      "41085147",
+      "42840375",
+      "36212739",
+      "10493802",
+      "38922054",
+      "39588774",
+      "8679574",
+      "19706511"
+    ],
+    "review": [
+      "42844568",
+      "41759295",
+      "42045650",
+      "42716355",
+      "31671185",
+      "41783155",
+      "29790280",
+      "41500123"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/anie.7366232",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3662",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

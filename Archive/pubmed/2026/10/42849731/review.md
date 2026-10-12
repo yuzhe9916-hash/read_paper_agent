@@ -1,0 +1,85 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no methods, figures, or data tables were available for verification
+- **Shared manuscript claim summary** The authors report a CRISPR-guided PAM scanning method for systematic mapping of chimera-permissive sites in living cells, demonstrated in yeast across a GPCR signaling pathway (91 chimeras) and applied to human adenosine A2A and melatonin MTNR1A receptors to identify functional insertion sites for mNeonGreen and NanoLuc that retain ligand-dependent signaling in human cells.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials provided
+- **Missing materials affecting confidence** Full methods, all figures and tables, statistical analyses, construct details, PAM coverage data, functional assay protocols, and human cell translation data
+
+## Reviewer
+- **Overall assessment** The abstract presents a conceptually appealing approach that addresses a genuine bottleneck in protein engineering, namely the empirical nature of identifying permissive insertion sites for functional chimeras. The claimed results, if fully supported, would represent a useful methodological advance. However, the abstract alone provides insufficient detail to evaluate technical rigor, data quality, or the strength of the central claims. Several statements are broad and would require substantial experimental evidence to be convincing.
+- **Who would be interested in the results, and why** Protein engineers and synthetic biologists developing chimeric proteins for biosensing, imaging, or therapeutic applications; GPCR researchers interested in receptor structure-function relationships and labeling strategies; and method developers working on CRISPR-based screening approaches. The potential to generalize insertion tolerance mapping across protein families would attract a broad readership in molecular biology and biotechnology.
+- **Major strengths** The approach addresses a real and recognized problem in chimera engineering. The use of CRISPR-addressable positions for systematic insertion is a logical and potentially scalable strategy. The demonstration across an entire GPCR signaling pathway and translation to human cells suggests practical utility. The combination of insertion tolerance mapping with biophysical protection measurements is an interesting conceptual extension.
+- **Major Concerns** 
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** "PAM accessibility provided near-comprehensive coverage across proteins of diverse size and function"
+  - **Evidence pointer** location not provided
+  - **Concern** The claim of "near-comprehensive coverage" is central to the method's utility, yet no quantitative data are presented. Coverage density, distribution across protein regions, and any systematic biases remain unspecified. Without knowing what fraction of coding sequence was addressable, how evenly sites were distributed, and whether coverage varied by protein size or topology, this claim cannot be evaluated.
+  - **Why it matters** The generalizability of PAM scanning depends entirely on the completeness and uniformity of PAM-addressable sites. If coverage is sparse or biased toward certain regions, the method's utility for mapping insertion tolerance across full proteins would be substantially limited.
+  - **Resolution test** Provide quantitative coverage statistics, including the percentage of codons addressable per gene, distribution across protein domains, and any observed biases. Ideally, show coverage maps for representative proteins of different sizes and structural classes.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** "Cognate protease cleavage revealed how this protection varied with protease inhibition and size"
+  - **Evidence pointer** location not provided
+  - **Concern** The abstract states that protease cleavage patterns revealed site-specific biophysical protection, but no data are shown. The relationship between protection, protease inhibition, and size is asserted without any quantitative description. It is unclear what was measured, how protection was defined, and what the actual variation was.
+  - **Why it matters** This is presented as a key methodological capability, distinguishing PAM scanning from simple insertion tolerance mapping. Without evidence, the claim that the method can report on biophysical protection is unsupported.
+  - **Resolution test** Show representative cleavage data, define the protection metric, and present quantitative comparisons across conditions (e.g., with and without protease inhibition, across different protease sizes).
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence quality
+  - **Claim pointer** "Screening human adenosine A2A and melatonin MTNR1A receptors in yeast identified functional mNeonGreen and NanoLuc insertion sites that retained ligand-dependent signaling following translation to human cells"
+  - **Evidence pointer** location not provided
+  - **Concern** The translation from yeast screening to human cell function is a critical validation step, but the abstract provides no details on the number of hits identified, the hit rate, the degree of retained signaling, or the reproducibility of the human cell data. The phrase "retained ligand-dependent signaling" is vague and could encompass a wide range of functional outcomes.
+  - **Why it matters** The practical value of the method depends on whether yeast screening reliably predicts human cell behavior. Without quantitative functional data, the strength of this translational claim is unclear.
+  - **Resolution test** Provide dose-response curves for ligand-dependent signaling in human cells for the identified chimeras, compare to wild-type receptor responses, and report the number of functional hits relative to total screened.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Scientific importance
+  - **Claim pointer** "experimentally validating generative chimera design"
+  - **Evidence pointer** location not provided
+  - **Concern** The abstract mentions validation of generative chimera design, but no generative model, design algorithm, or prediction framework is described. This appears to be a significant additional claim that is entirely unsubstantiated in the abstract.
+  - **Why it matters** If the method can validate computational predictions, this would substantially increase its impact. However, as presented, this claim is disconnected from the rest of the abstract and cannot be assessed.
+  - **Resolution test** Describe the generative design approach, specify what predictions were made, and show how PAM scanning results confirmed or contradicted those predictions.
+- **Minor Comments** 
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Method description
+  - **Evidence pointer** Abstract, first paragraph
+  - **Issue** The term "CRISPR-addressable positions" is introduced without explanation of the underlying mechanism. It is unclear whether this refers to protospacer adjacent motif presence, guide RNA targeting efficiency, or a specific CRISPR system variant.
+  - **Required correction** Briefly clarify what makes a position "CRISPR-addressable" and how this relates to the PAM scanning concept.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Completeness
+  - **Affected element** Scope of demonstration
+  - **Evidence pointer** Abstract, second paragraph
+  - **Issue** The abstract states the approach was applied "across an entire G protein-coupled receptor (GPCR) signaling pathway," but it is unclear which pathway components were targeted and whether all were successfully scanned.
+  - **Required correction** Specify the pathway components and note any that were refractory to PAM scanning.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "biophysical protection"
+  - **Evidence pointer** Abstract, second paragraph
+  - **Issue** The term "biophysical protection" is used without definition. It is unclear whether this refers to steric occlusion, conformational stabilization, or another mechanism.
+  - **Required correction** Define the term operationally in the context of the protease probe experiments.
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The core claims of comprehensive coverage, informative biophysical measurements, and successful human cell translation all require quantitative evidence that is not present in the abstract.
+- **Assessment against Nature-style criteria** 
+  - Originality: The concept of using CRISPR-addressable sites for systematic insertion mapping appears novel and distinct from existing transposon-based or random insertion approaches. This is a point in favor.
+  - Scientific importance: The problem addressed is real and relevant to protein engineering. However, the importance of this specific solution cannot be fully assessed without data on its generalizability and reliability.
+  - Interdisciplinary readership: The approach bridges CRISPR technology, protein engineering, and GPCR biology, which could attract readers across these fields. The abstract is written accessibly.
+  - Technical soundness: Cannot be evaluated from the abstract. The absence of any quantitative data or methodological detail is a major limitation.
+  - Readability for nonspecialists: The abstract is generally clear and well-structured, though some terms require definition.
+- **Recommendation posture** Currently not established from the provided evidence. The conceptual framework is promising, but the abstract alone does not provide sufficient support for the central claims. A full manuscript with quantitative data would be required to assess whether the method performs as described.
+
+## Risk / unsupported claims
+- "Near-comprehensive coverage" across proteins of diverse size and function is asserted without quantitative support.
+- The relationship between protease cleavage patterns and "biophysical protection" is claimed without data.
+- The successful identification of functional insertion sites in human A2A and MTNR1A receptors that retain ligand-dependent signaling in human cells is stated without functional data.
+- The claim of "experimentally validating generative chimera design" is entirely unsupported in the abstract.
+- The generalizability of PAM scanning as a "general framework" is an extrapolation from a single pathway and two receptors.
