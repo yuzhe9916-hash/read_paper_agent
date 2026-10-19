@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42887681",
+  "title": "Oocyst wall protein EtOWP6 is critical for sporocyst formation and developmental progression in Eimeria tenella.",
+  "authors": "Jia, Liushu; Wang, Jinwen; Wang, Qingjie; Wang, Lu; Zhu, Shunhai; Zhao, Qiping; Wu, Shanbo; Han, Wenqi; Bai, Jaiyu; Zhao, Fanghe; Yu, Yu; Han, Hongyu; Dong, Hui",
+  "journal": "International journal for parasitology",
+  "published_date": "2026-10-16",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 4,
+  "one_liner_zh": "该研究利用CRISPR/Cas9敲除艾美耳球虫卵囊壁蛋白EtOWP6，揭示其在孢子囊形成和发育中的作用，但对象非碱基编辑/交错切割机制，仅以CRISPR为工具，机制深度有限。",
+  "abstract": "Transmission of apicomplexan parasites-including Eimeria, Toxoplasma, and Cryptosporidium-relies on the environmentally resilient oocyst wall, a bilayered structure whose integrity is maintained by cysteine-rich oocyst wall proteins (OWPs). Yet the functional roles of these conserved proteins remain poorly defined. Here, we characterize EtOWP6, a conserved OWP in Eimeria tenella, the causative agent of avian coccidiosis. Immunofluorescence reveals that EtOWP6 localizes specifically to wall-forming bodies and oocyst/sporocyst walls during sexual development. CRISPR/Cas9-mediated knockout demonstrates that EtOWP6 is essential for sporocyst formation, with deficient parasites exhibiting malformed sporocysts, developmental arrest in vitro, and an in vivo reduction in oocyst output exceeding 85%. The knockout strain is highly attenuated yet retains partial immunogenicity. Transcriptomic analysis reveals that EtOWP6 deletion induces widespread transcriptional reprogramming, disrupting genes critical for developmental regulation and oocyst wall biogenesis. Our findings establish EtOWP6 as a critical regulator coupling structural integrity with developmental progression in Eimeria, and more broadly, highlight OWPs as conserved targets for transmission-blocking interventions across apicomplexan parasites.",
+  "abstract_zh": "顶复门寄生虫——包括艾美耳球虫（Eimeria）、弓形虫（Toxoplasma）和隐孢子虫（Cryptosporidium）——的传播依赖于环境耐受性强的卵囊壁，这是一种双层结构，其完整性由富含半胱氨酸的卵囊壁蛋白（OWPs）维持。然而，这些保守蛋白的功能角色仍不明确。在此，我们表征了EtOWP6，这是鸡球虫病病原体柔嫩艾美耳球虫（Eimeria tenella）中的一种保守OWP。免疫荧光显示，EtOWP6在性发育阶段特异性定位于成壁体和卵囊/孢子囊壁。CRISPR/Cas9介导的敲除表明，EtOWP6对孢子囊形成至关重要，缺陷寄生虫表现出孢子囊畸形、体外发育停滞，以及体内卵囊产量减少超过85%。敲除株高度减毒，但仍保留部分免疫原性。转录组分析揭示，EtOWP6缺失诱导广泛的转录重编程，破坏对发育调控和卵囊壁生物发生至关重要的基因。我们的发现确立了EtOWP6作为艾美耳球虫中耦合结构完整性与发育进程的关键调控因子，并更广泛地强调OWPs作为顶复门寄生虫传播阻断干预的保守靶点。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42887681/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42887681/",
+  "paper_page_path": "papers/pubmed/42887681/index.html"
+}

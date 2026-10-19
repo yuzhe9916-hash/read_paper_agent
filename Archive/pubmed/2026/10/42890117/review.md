@@ -1,0 +1,71 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims as stated in the abstract; no methods, figures, or supplementary data provided
+- **Shared manuscript claim summary** The authors report engineering a 400-amino acid Cas12f from *Blautia lenta* into an ultracompact platform ("CasNano") with a GC-rich (CCN) PAM. They claim that a catalytically dead version (dCasNano) fused to VPR activates endogenous genes with efficiency and specificity comparable or superior to SpCas9 for the gRNAs and loci tested under equal-mass plasmid transfection. They further report bidirectional epigenetic editing via dCasNano fusions to DNMT3A (silencing) and TET1 (activation), with TET1-mediated reactivation persisting 5 months in hESCs and DNMT3A methylation not retained at 2 weeks in a dividing reporter line.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials
+- **Missing materials affecting confidence** All experimental details, including mutagenesis strategy, sgRNA optimization data, gRNA/locus selection, editor expression quantification, specificity measurements, and epigenetic editing validation
+
+## Reviewer
+- **Overall assessment** The abstract describes a potentially valuable engineering effort to create an ultracompact CRISPR platform with a distinct PAM, which could address a real bottleneck in in vivo delivery. However, the evidence base provided is insufficient to evaluate the central claims. The most significant issue is the explicit acknowledgment that editor expression was not quantified, which undermines the comparability claim against SpCas9. The epigenetic persistence data are intriguing but presented without experimental context. The work is likely of interest to the gene editing and therapeutic delivery communities, but the current abstract does not establish the case.
+- **Who would be interested in the results, and why** Researchers in CRISPR engineering, epigenome editing, and AAV-based gene therapy would be interested. The ultracompact size and distinct CCN PAM could enable new delivery strategies, and the bidirectional epigenetic editing capability has therapeutic relevance. The 5-month persistence of TET1-mediated reactivation in hESCs would interest stem cell and developmental biology groups.
+- **Major strengths** The engineering goal is well-motivated and addresses a recognized limitation (cargo capacity for viral delivery). The multi-stage optimization strategy (structure-guided mutagenesis plus sgRNA optimization) is a sensible approach. The demonstration of bidirectional epigenetic editing (activation and silencing) adds versatility. The 5-month persistence data, if robust, would be a notable finding.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Claim-evidence mismatch
+  - **Claim pointer** "activates endogenous genes with an efficiency and specificity comparable or superior to the benchmark SpCas9 system"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract explicitly states that editor expression was not quantified and that stoichiometric differences preclude equivalent normalization. The comparison to SpCas9 is therefore based on functional output under equal-mass transfection, which does not control for differences in protein expression, stability, or nuclear localization. The claim of "comparable or superior" is not supported as a statement of intrinsic activity.
+  - **Why it matters** The central value proposition of a new CRISPR platform is its activity relative to existing tools. Without expression normalization, the comparison could reflect transfection or expression artifacts rather than genuine targeting efficiency. This directly affects whether the platform is genuinely competitive.
+  - **Resolution test** Provide quantitative editor expression data (e.g., western blot or flow cytometry) for both dCasNano-VPR and SpCas9-VPR under the experimental conditions, and show that the comparison holds when normalized to expression levels, or explicitly reframe the claim as "functional output under equal-mass transfection" without implying intrinsic superiority.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Unsupported claim
+  - **Claim pointer** "TET1-mediated reactivation persisted for 5 months in human embryonic stem cells (hESCs)"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract reports 5-month persistence of TET1-mediated reactivation but provides no information on the number of loci tested, the magnitude of reactivation, the stability of the edited cell population, or whether the persistence was continuous or measured at endpoints. No data are shown.
+  - **Why it matters** Long-term persistence of epigenetic changes is a key claim with therapeutic implications. If the effect decays over time or is locus-specific, the claim would be substantially weakened. The absence of experimental detail makes the finding impossible to evaluate.
+  - **Resolution test** Provide time-course data with multiple time points, specify the loci and cell lines tested, report the magnitude of reactivation relative to baseline, and include appropriate controls (e.g., untargeted cells, transient activation controls).
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Unsupported claim
+  - **Claim pointer** "DNMT3A-deposited methylation was not retained at 2 weeks in a dividing reporter line"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract reports loss of methylation at 2 weeks but does not specify the initial methylation level, the number of loci, the reporter line used, or whether the loss was complete or partial. The negative result is presented without context.
+  - **Why it matters** The contrast between TET1 persistence and DNMT3A non-retention is a key finding for the platform's utility. Without details on the initial methylation efficiency and the assay sensitivity, the negative result could reflect poor initial deposition rather than genuine instability.
+  - **Resolution test** Report initial methylation levels, the assay used (e.g., bisulfite sequencing), the number of loci and replicates, and the detection limit of the assay.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** "comparable or superior" claim
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The phrase "comparable or superior" is vague. It is unclear how many gRNAs and loci were tested, what the variability was, and whether the comparison was statistically powered.
+  - **Required correction** Specify the number of gRNAs and loci tested, report effect sizes and variability, and state whether the comparison was statistically significant.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "GC-rich PAM"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract states "GC-rich PAM" and then specifies "CCN PAM." The term "GC-rich" is imprecise; CCN is a specific sequence. Clarify whether the PAM is strictly CCN or includes other GC-rich variants.
+  - **Required correction** Use the precise PAM sequence (e.g., 5'-CCN-3') throughout and avoid the imprecise "GC-rich" descriptor unless additional PAM variants were characterized.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Completeness
+  - **Affected element** "multi-stage strategy"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract mentions structure-guided mutagenesis and sgRNA optimization but provides no detail on the number of variants tested, the screening approach, or the final improvement in activity.
+  - **Required correction** Briefly describe the optimization pipeline, including the number of variants and the key steps that led to the final CasNano variant.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (expression normalization), R1-M2 (TET1 persistence data), R1-M3 (DNMT3A negative result context)
+- **Assessment against Nature-style criteria** Originality: the engineering of a 400-amino acid Cas12f with a distinct PAM is a novel contribution, though the field has seen multiple compact Cas variants. Scientific importance: the potential for in vivo delivery is high, but the importance is contingent on the activity claims being robust. Interdisciplinary readership: the work would appeal to molecular biologists, gene therapists, and stem cell biologists. Technical soundness: cannot be assessed from the abstract; the expression normalization issue is a specific concern. Readability for nonspecialists: the abstract is generally clear, though the caveat about expression normalization is somewhat buried.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract contains a significant internal caveat (lack of expression normalization) that undermines the central comparison, and the epigenetic persistence claims lack experimental detail. The work may be sound, but the evidence as presented is insufficient.
+
+## Risk / unsupported claims
+- The claim of "comparable or superior" activity to SpCas9 is not supported due to the acknowledged lack of expression normalization.
+- The 5-month persistence of TET1-mediated reactivation is reported without any supporting data or experimental context.
+- The DNMT3A non-retention result is presented without initial methylation levels or assay details, making it uninterpretable.
+- The "GC-rich PAM" descriptor is imprecise and should be replaced with the specific CCN sequence.
+- The "therapeutic potential" claim is speculative and not supported by any in vivo data in the abstract.

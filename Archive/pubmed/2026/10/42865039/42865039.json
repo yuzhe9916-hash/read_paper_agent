@@ -1,0 +1,245 @@
+{
+  "identity": {
+    "pmid": "42865039",
+    "doi": "10.1080/0886022X.2026.2729639",
+    "title": "Genome-wide CRISPR screens identify shared and context-specific regulators of podocyte resistance to oxidative injury."
+  },
+  "content": {
+    "abstract": "Podocyte injury is a convergent driver of glomerular disease progression, yet the genetic determinants that govern podocyte vulnerability to oxidative stress remain incompletely defined. Here, we performed genome-wide CRISPR-Cas9 knockout screens in differentiated human podocytes exposed to two complementary injury models: Adriamycin (ADR), a clinically relevant inducer of podocyte damage, and hydrogen peroxide (H(2)O(2)), a direct oxidative stress challenge. Human podocytes were transduced with a genome-wide sgRNA library, differentiated under non-permissive conditions and subjected to optimized stress conditions that imposed selective pressure while preserving library complexity. Across five independent replicates per condition, sequencing-based sgRNA profiling demonstrated high reproducibility, balanced library representation and clear treatment-specific selection. The ADR screen identified 819 depleted and 456 enriched genes, whereas the H(2)O(2) screen identified 277 depleted and 215 enriched genes. Integrated analysis revealed both model-specific dependencies and 27 shared depleted genes across the two injury conditions, implicating stress adaptation, chromatin regulation, mitochondrial metabolism, inflammatory signaling and cytoskeletal organization as candidate processes required for podocyte survival. These genome-wide screens provide a functional framework for prioritizing genes that regulate podocyte resilience to oxidative injury and offer a resource for mechanistic studies of glomerular disease.",
+    "keywords": [
+      "ADR",
+      "Podocyte",
+      "chronic kidney disease",
+      "genome-wide CRISPR knockout screening",
+      "oxidative stress"
+    ],
+    "mesh_terms": [
+      "*Podocytes/drug effects/metabolism/pathology",
+      "Humans",
+      "*Oxidative Stress/genetics/drug effects",
+      "Doxorubicin/toxicity",
+      "Hydrogen Peroxide/toxicity",
+      "*CRISPR-Cas Systems",
+      "Gene Knockout Techniques"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhen, Xuan",
+        "Hu, Jiaying",
+        "Wang, Xiao",
+        "Qing, Jianbo",
+        "Wu, Junnan"
+      ],
+      "short_names": [
+        "Zhen X",
+        "Hu J",
+        "Wang X",
+        "Qing J",
+        "Wu J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Core Laboratory, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhen, Xuan",
+        "short_name": "Zhen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Jiaying",
+        "short_name": "Hu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiao",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Core Laboratory, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Qing, Jianbo",
+        "short_name": "Qing J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Junnan",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nephrology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Renal failure"
+    ],
+    "journal_abbrev": [
+      "Ren Fail"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42865039",
+      "42440147",
+      "42475469",
+      "40033940",
+      "42637672",
+      "39278930",
+      "34874915",
+      "25746774",
+      "27956228",
+      "27613601",
+      "27960539",
+      "41697116",
+      "20130121",
+      "41224695",
+      "38886809",
+      "28404589",
+      "30334481",
+      "34580283",
+      "34890187",
+      "40558522",
+      "32441252",
+      "30143559",
+      "28655737",
+      "25097723",
+      "31566424",
+      "28709640",
+      "42536655",
+      "23359116",
+      "39774961",
+      "32047005",
+      "30639567",
+      "29477240",
+      "24590287",
+      "39980044",
+      "32478397",
+      "24378334",
+      "31126248",
+      "39534957",
+      "27335373",
+      "32393782",
+      "32786113",
+      "22804863",
+      "39862971",
+      "24808537",
+      "30366682",
+      "25646018",
+      "33516878",
+      "38482556",
+      "40328723",
+      "39819080",
+      "42694127",
+      "24642466",
+      "42672065",
+      "34894725",
+      "37801905",
+      "24389029",
+      "32888352",
+      "40072109",
+      "27644413",
+      "41563289",
+      "38732210",
+      "41672248",
+      "15987752",
+      "31906131",
+      "41476974",
+      "30770219",
+      "22648295",
+      "40986444",
+      "38948281",
+      "42565562",
+      "34096786",
+      "28446605",
+      "36293542",
+      "41932339",
+      "19204870",
+      "41933297",
+      "23761667",
+      "32618081",
+      "40154587",
+      "41452363",
+      "41713647",
+      "26876299",
+      "38634138",
+      "33070369",
+      "27907022",
+      "42388071",
+      "32167144",
+      "32424075",
+      "41545031",
+      "39723566",
+      "38961844",
+      "33719575",
+      "26331477",
+      "29167172",
+      "41306290",
+      "32641054",
+      "26105276",
+      "30449619",
+      "42367005",
+      "17200434"
+    ],
+    "review": [
+      "42865039",
+      "39534957"
+    ],
+    "pmc": [
+      "13665701"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/0886022X.2026.2729639?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AKR1B1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

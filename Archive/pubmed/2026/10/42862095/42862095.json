@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42862095",
+    "doi": "10.1128/jb.00280-26",
+    "title": "Structural basis for ITP-selective hydrolysis by a CRISPR-associated Nudix hydrolase."
+  },
+  "content": {
+    "abstract": "The nucleoside diphosphates linked to moiety-X (Nudix) hydrolases are a superfamily of proteins defined by the characteristic Nudix box sequence, most of which are involved in clearing the cell of potentially deleterious metabolites and in preventing the accumulation of metabolic intermediates. The Nudix hydrolase associated with CRISPR-Cas-associated adenosine deaminases (CAAD) from Limisphaera ngatamarikiensis (LngNH) mitigates CAAD-induced toxicity by hydrolyzing ITP to IMP and pyrophosphate. Here, we determined crystal structures of LngNH in the apo form and in complex with ITP using catalytic mutants and validated key interactions by site-directed mutagenesis. The hypoxanthine of ITP is deeply buried in a hydrophobic pocket and engages a distinct hydrogen-bond network, whereas the triphosphate tail is coordinated by conserved residues and divalent metal ions. Together, these findings provide a structural framework for CAAD-linked nucleotide sanitization and suggest that CRISPR-associated Nudix hydrolases function as local self-protection modules that limit toxicity from noncanonical inosine nucleotides.IMPORTANCENucleotide quality-control enzymes protect cells from harmful metabolic by-products. Here, we characterize a CRISPR-associated nucleoside diphosphates linked to moiety-X (Nudix) hydrolase that removes ITP, a toxic noncanonical nucleotide generated during antiviral defense. Biochemical and structural analyses show how this enzyme specifically recognizes and hydrolyzes ITP while avoiding related cellular nucleotides. Our findings suggest that CRISPR-associated nucleotide deaminase systems require \"self-protection\" mechanisms to prevent damage from their own antiviral activities. These results expand our understanding of how bacteria maintain nucleotide homeostasis during immune responses and reveal an additional regulatory layer within CRISPR-associated defense systems. The structural framework reported here also provides a foundation for future studies of nucleotide sanitization enzymes in microbial physiology and antiviral immunity.",
+    "keywords": [
+      "ITP",
+      "Nudix hydrolase",
+      "X-ray crystallography",
+      "structure-function"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Wanqian",
+        "Xia, Shenglan",
+        "Li, Duo",
+        "Lin, Junchao",
+        "Cao, Chen",
+        "Kong, Jianping",
+        "Lu, Meiling",
+        "Xiao, Yibei",
+        "Li, Zhaoxing"
+      ],
+      "short_names": [
+        "Wu W",
+        "Xia S",
+        "Li D",
+        "Lin J",
+        "Cao C",
+        "Kong J",
+        "Lu M",
+        "Xiao Y",
+        "Li Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8738-987X",
+        "ORCID: 0000-0003-4716-5526",
+        "ORCID: 0000-0002-6928-9856"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "Department of Biochemistry, School of Life Science and Technology, Nanjing, China.",
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "Department of Biochemistry, School of Life Science and Technology, Nanjing, China.",
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "Department of Biochemistry, School of Life Science and Technology, Nanjing, China.",
+        "Jiangsu Provincial Key Laboratory of Biology and Therapeutics for Immune System-Related Diseases, China Pharmaceutical University, Nanjing, China.",
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718",
+        "Chongqing Innovation Institute of China Pharmaceutical University, Chongqing, China. ROR: https://ror.org/01sfm2718",
+        "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China. RINGGOLD: 56651. ROR: https://ror.org/01sfm2718"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Wanqian",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China.",
+          "Department of Biochemistry, School of Life Science and Technology, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Shenglan",
+        "short_name": "Xia S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Duo",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Junchao",
+        "short_name": "Lin J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Chen",
+        "short_name": "Cao C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Life Science and Technology, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Kong, Jianping",
+        "short_name": "Kong J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Meiling",
+        "short_name": "Lu M",
+        "identifiers": [
+          "0000-0001-8738-987X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, School of Life Science and Technology, Nanjing, China.",
+          "Jiangsu Provincial Key Laboratory of Biology and Therapeutics for Immune System-Related Diseases, China Pharmaceutical University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Yibei",
+        "short_name": "Xiao Y",
+        "identifiers": [
+          "0000-0003-4716-5526"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China.",
+          "Chongqing Innovation Institute of China Pharmaceutical University, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhaoxing",
+        "short_name": "Li Z",
+        "identifiers": [
+          "0000-0002-6928-9856"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Pharmacy, China Pharmaceutical University, Nanjing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of bacteriology"
+    ],
+    "journal_abbrev": [
+      "J Bacteriol"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862095",
+      "39666823",
+      "15581572",
+      "42475469",
+      "16336194",
+      "18512963",
+      "28035004",
+      "35594391",
+      "23770441",
+      "41702187",
+      "17698004",
+      "41841492",
+      "11323725",
+      "39471810",
+      "38944687",
+      "20542141",
+      "24816099",
+      "30312643",
+      "28375146",
+      "12837785",
+      "18062990",
+      "26121039",
+      "35732208",
+      "15147580",
+      "40674425",
+      "38701795",
+      "12906832",
+      "32144205",
+      "31173659",
+      "11914479",
+      "25368186",
+      "15024014",
+      "37506994",
+      "30045870",
+      "17976651",
+      "40459658",
+      "15123424",
+      "18221020",
+      "30478756",
+      "18462755",
+      "23385455",
+      "41310643",
+      "34864834",
+      "34694813",
+      "19081844",
+      "21904053",
+      "11439089",
+      "23969025",
+      "21531795",
+      "40662362",
+      "25657011",
+      "16378245",
+      "27618147",
+      "20385596",
+      "32432673",
+      "16766526",
+      "29348170",
+      "39660902",
+      "28935670",
+      "9880487",
+      "19115962",
+      "27936487",
+      "26524597",
+      "11937063",
+      "29413322",
+      "37211293",
+      "12948489",
+      "37396357",
+      "39699696",
+      "23384440",
+      "18815383",
+      "42240679",
+      "23691178",
+      "11053429",
+      "27062940",
+      "36464781",
+      "12370170",
+      "12196023",
+      "39150724",
+      "15274914",
+      "28742822",
+      "23473392",
+      "26537685",
+      "40662363",
+      "15475388",
+      "15133035",
+      "19704728",
+      "12557189",
+      "19462967",
+      "29142246",
+      "24354275",
+      "25737836",
+      "26763118",
+      "21638333",
+      "17052728",
+      "31002765",
+      "31960065",
+      "28546425",
+      "12842470",
+      "19448856"
+    ],
+    "review": [
+      "42862095",
+      "15581572",
+      "20542141",
+      "19081844",
+      "23969025",
+      "16378245",
+      "37211293"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/jb.00280-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

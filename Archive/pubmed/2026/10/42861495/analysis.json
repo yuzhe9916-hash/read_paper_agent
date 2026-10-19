@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42861495",
+  "title": "From Sequence to Structure: AlphaFold and the AI Revolution in Aquaculture Drug Discovery and Vaccine Design.",
+  "authors": "Ustuner, Enes; Oz, Mustafa",
+  "journal": "Biotechnology and bioengineering",
+  "published_date": "2026-10-12",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 3,
+  "one_liner_zh": "该综述探讨AlphaFold等AI工具在水产养殖药物发现和疫苗设计中的应用，虽提及CRISPR/Cas协同，但核心对象非CRISPR/碱基编辑/交错切割机制，机制深度有限，仅边缘相关。",
+  "abstract": "Global aquaculture faces an escalating disease and antimicrobial resistance (AMR) crisis, exacerbated by climate-driven physiochemical shifts and intensive farming practices. The integration of artificial intelligence (AI) and structural biology, spearheaded by AlphaFold, represents a paradigm shift in aquatic pharmacology, transitioning the field from empirical trial-and-error to rational in silico design. This review critically evaluates the application of AI-driven tools in aquaculture drug discovery and vaccine development. We examine the evolution of AlphaFold in predicting complex host-pathogen interactions and facilitating de novo drug design. Concurrently, we highlight critical limitations stemming from the reliance on multiple sequence alignment (MSA) depth rather than mere PDB taxonomic composition, the unreliability of direct molecular docking due to apo conformations, and the dynamic nature of psychrophilic adaptations in aquatic environments. Furthermore, we assess next-generation structural vaccinology, including reverse vaccinology and pre-fusion antigen stabilization, alongside the integration of nanomaterial-based delivery systems to overcome aquatic pharmacokinetic barriers. The synergy of AI with CRISPR/Cas technologies and multimodal large language models (MM-LLMs) for disease management is also explored. Despite unprecedented computational capabilities, significant bottlenecks remain, including a severe lack of species-specific omics data, the indispensability of in vivo wet-lab validation, and lagging regulatory frameworks. Ultimately, realizing the potential of precision aquatic medicine requires developing aquaculture-specific databases, addressing the ecological risks of open-water deployment, and democratizing these technologies for small-scale farmers to ensure sustainable, equitable, and resilient global aquaculture.",
+  "abstract_zh": "全球水产养殖正面临日益严重的疾病和抗菌素耐药性（AMR）危机，气候驱动的理化变化和集约化养殖实践进一步加剧了这一挑战。以AlphaFold为首的人工智能（AI）与结构生物学的整合，代表了水生药理学领域的范式转变，将该领域从经验性试错推进至理性的计算机模拟设计。本综述批判性评估了AI驱动工具在水产养殖药物发现和疫苗开发中的应用。我们考察了AlphaFold在预测复杂宿主-病原体相互作用及促进从头药物设计方面的演进。同时，我们强调了关键局限性，这些局限性源于对多序列比对（MSA）深度的依赖而非单纯的PDB分类组成、因脱辅基构象导致的直接分子对接不可靠性，以及水生环境中嗜冷适应的动态特性。此外，我们评估了下一代结构疫苗学，包括反向疫苗学和融合前抗原稳定化，并探讨了基于纳米材料的递送系统整合以克服水生药代动力学障碍。我们还探索了AI与CRISPR/Cas技术及多模态大语言模型（MM-LLMs）在疾病管理中的协同作用。尽管计算能力空前强大，仍存在显著瓶颈，包括物种特异性组学数据的严重缺乏、体内湿实验验证的不可或缺性，以及监管框架的滞后。最终，实现精准水生医学的潜力需要开发水产养殖专用数据库、应对开放水域部署的生态风险，并将这些技术普及至小规模养殖户，以确保全球水产养殖的可持续性、公平性和韧性。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42861495/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42861495/",
+  "paper_page_path": "papers/pubmed/42861495/index.html"
+}

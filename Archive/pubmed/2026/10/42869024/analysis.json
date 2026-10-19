@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42869024",
+  "title": "Structural basis and rational engineering of a thermophilic Cas13a for robust RNA detection.",
+  "authors": "Oladeji, Seye J; Gonzalez, Diego H; Deng, Xiangyu; You, Zheng; Zhang, Yuxuan; Golla, Devin A; Smith, Jamie; Zhang, Yi; Gao, Xue; Lillehoj, Peter B; Gao, Yang",
+  "journal": "Cell chemical biology",
+  "published_date": "2026-10-13",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 8,
+  "one_liner_zh": "该研究通过生化表征和结构指导工程化改造嗜热Cas13a，揭示其靶标识别与切割机制并显著提升RNA检测灵敏度，直接涉及CRISPR-Cas13a的蛋白-DNA/RNA互作与催化机制，对碱基编辑和交错切割机制研究具有方法学启发。",
+  "abstract": "Cas13a enzymes are particularly attractive for nucleic acid detection due to their robust collateral activity. Recently, there has been a surge in the discovery and engineering of thermostable Cas13a proteins for nucleic acid detection. The thermostable Cas13a from Thermoclostridium caenicola (TccCas13a) was identified; however, its native target sensitivity and collateral activity are relatively low and require optimization for molecular diagnostic applications. Here, we report comprehensive biochemical characterization and structure-guided engineering of TccCas13a. Our analyses reveal its intrinsic thermostability, nucleotide substrate preferences, and tolerance to structured target RNA substrates. Rational engineering of the spacer-target RNA binding channel improved target engagement and enabled determination of a 3.13 A cryo-electron microscopy ternary structure. Furthermore, extensive structure-guided engineering of active site-proximal regions yielded a variant with over  approximately 100-fold enhanced target sensitivity and collateral activity across diverse biological matrices. Together, our work provides mechanistic insights and establishes TccCas13a as a platform for next-generation RNA diagnostics.",
+  "abstract_zh": "Cas13a酶因其强大的附带活性，在核酸检测领域尤为引人注目。近期，针对核酸检测的热稳定Cas13a蛋白的发现与工程化改造激增。已鉴定出源自Thermoclostridium caenicola的热稳定Cas13a（TccCas13a）；然而，其天然靶标敏感性和附带活性相对较低，需优化以满足分子诊断应用需求。在此，我们报告了对TccCas13a的全面生化表征及结构引导工程化改造。我们的分析揭示了其内在热稳定性、核苷酸底物偏好性，以及对结构化靶RNA底物的耐受性。对间隔区-靶RNA结合通道的理性工程化改造增强了靶标结合能力，并实现了3.13 Å冷冻电镜三元结构的解析。此外，对活性位点邻近区域进行广泛的结构引导工程化改造，产生了一个变体，其在多种生物基质中的靶标敏感性和附带活性增强了约100倍。综上，我们的工作提供了机制性见解，并将TccCas13a确立为下一代RNA诊断的平台。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869024/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42869024/",
+  "paper_page_path": "papers/pubmed/42869024/index.html"
+}

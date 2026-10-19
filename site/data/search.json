@@ -2,6 +2,186 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42890117",
+      "title": "CasNano: An ultracompact CRISPR-Cas12f with a GC-rich PAM for epigenome editing with therapeutic potential.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42890117/index.html",
+      "meta": [
+        "Kim, Dongkyeong; Huang, Chia-Wei; Pan, Richard; Qian, Junming; Wu, Xuebing; Devinsky, Orrin; Tsai, Yi-Ting; Liu, Shawn",
+        "Molecular therapy. Nucleic acids",
+        "2026-10-17"
+      ],
+      "tags": [],
+      "summary": "该文工程化超紧凑Cas12f（CasNano）用于表观基因组编辑，虽涉及Cas蛋白工程和sgRNA优化，但核心是工具应用而非切割/碱基编辑的分子机制，机制深度有限。",
+      "abstract": "Clinical use of CRISPR-Cas proteins for genome engineering is constrained by their large size, limiting in vivo delivery. To address this, we engineered an ultracompact and versatile platform from a minimally active, 400-amino acid Cas12f protein from Blautia lenta. A multi-stage strategy of structure-guided protein mutagenesis and systematic single guide RNA (sgRNA) optimization transformed BlCas12f into a \"CasNano\" as a potent genome targeting tool for mammalian cells. When a catalytically dead CasNano (dCasNano) is fused to a VPR domain, it activates endogenous genes with an efficiency and specificity comparable or superior to the benchmark SpCas9 system for the guide RNAs (gRNAs) and loci tested under equal-mass plasmid transfection; as editor expression was not quantified and stoichiometric differences would, in any case, preclude equivalent normalization, these comparisons describe functional output rather than intrinsic activity. We established the platform's versatility for bidirectional epigenetic editing by fusing dCasNano to a DNA methyltransferase (DNMT3A) for gene silencing or a dioxygenase (TET1) for gene activation. TET1-mediated reactivation persisted for 5 months in human embryonic stem cells (hESCs), whereas DNMT3A-deposited methylation was not retained at 2 weeks in a dividing reporter line. CasNano's small size and distinct CCN PAM sequence highlight its potential for future therapeutic applications constrained by viral delivery cargo capacity. CRISPR-Cas蛋白在基因组工程中的临床应用受限于其较大的尺寸，从而限制了体内递送。为解决这一问题，我们从Blautia lenta中一种最小活性、由400个氨基酸组成的Cas12f蛋白出发，设计了一个超紧凑且多功能的平台。通过结构引导的蛋白质诱变和系统性单引导RNA（sgRNA）优化的多阶段策略，将BlCas12f转化为“CasNano”，成为哺乳动物细胞中强效的基因组靶向工具。当催化失活的CasNano（dCasNano）与VPR结构域融合时，在等质量质粒转染条件下，对于所测试的引导RNA（gRNAs）和位点，其激活内源基因的效率与特异性与基准SpCas9系统相当或更优；由于编辑者表达量未被量化，且化学计量差异在任何情况下都会妨碍等效标准化，这些比较描述的是功能性输出而非内在活性。我们通过将dCasNano与DNA甲基转移酶（DNMT3A）融合以实现基因沉默，或与双加氧酶（TET1）融合以实现基因激活，确立了该平台在双向表观遗传编辑中的多功能性。TET1介导的再激活在人胚胎干细胞（hESCs）中持续了5个月，而DNMT3A沉积的甲基化在分裂报告细胞系中于2周时未被保留。CasNano的小尺寸和独特的CCN PAM序列突显了其在受病毒递送载货能力限制的未来治疗应用中的潜力。",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "pubmed:42881483",
+      "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42881483/index.html",
+      "meta": [
+        "Song, Jintian; Yu, Hui; Jiang, Jianping; Jiang, Zhihui; Hong, Zhongshi; Zhang, Xu; Chen, Luchuan; Wei, Shenghong; Wang, Yi",
+        "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR-Cas9筛选和WDR5靶向干预探究胃癌中HDAC抑制的转录调控，但核心对象是组蛋白修饰与表观遗传缓冲，而非CRISPR/碱基编辑的切割或编辑机制，仅筛选工具与课题弱相关。",
+      "abstract": "Histone deacetylase inhibitors (HDACi) broadly increase chromatin acetylation but have limited and variable activity in solid tumors. To define the epigenetic buffering axis that sustains promoter output during HDAC inhibition in gastric cancer. We integrated pharmacologic profiling across a molecularly diverse gastric cancer panel with an epigenetic-focused pooled CRISPR-Cas9 screening library, domain-resolved genetic perturbation, structure-guided WIN-pocket targeting, CCK8 time-course proliferation assays, and pulse-washout clonogenic recovery assays. Chromatin and transcriptional consequences were interrogated by assessing COMPASS integrity and chromatin association, promoter-proximal H3K4me3 dynamics, data-derived ATAC-seq accessibility, and transcriptional output. WDR5 abundance and baseline H3K4me3 levels were associated with sensitivity to combined HDAC and WDR5 WIN-pocket inhibition. Multiple orthogonal approaches identified the WDR5 WIN pocket as a key interface supporting chromatin-associated COMPASS and promoter-proximal H3K4me3 under the tested conditions. WIN-pocket disruption reduced chromatin recovery of COMPASS-associated components and attenuated H3K4me3 at selected growth-linked promoters. This produced a state with elevated H3K27 acetylation, attenuated H3K4me3, and reduced transcriptional output; data-derived ATAC-enriched regions retained a centered accessibility signal, although the mean peak amplitude was lowest in the combination. HDAC inhibitor response is conditioned by promoter licensing via the WDR5-COMPASS H3K4 methylation axis. 组蛋白去乙酰化酶抑制剂（HDACi）广泛增加染色质乙酰化，但在实体瘤中活性有限且变异较大。为定义在胃癌中HDAC抑制期间维持启动子输出的表观遗传缓冲轴，我们整合了跨分子多样性胃癌细胞系的药理学分析、表观遗传聚焦的混合CRISPR-Cas9筛选文库、结构域解析的遗传扰动、结构引导的WIN口袋靶向、CCK8时间过程增殖实验以及脉冲-洗脱克隆形成恢复实验。通过评估COMPASS完整性和染色质关联、启动子近端H3K4me3动态、数据衍生的ATAC-seq可及性以及转录输出，探究了染色质和转录后果。WDR5丰度和基线H3K4me3水平与对HDAC和WDR5 WIN口袋联合抑制的敏感性相关。多种正交方法确定WDR5 WIN口袋为在测试条件下支持染色质相关COMPASS和启动子近端H3K4me3的关键界面。WIN口袋破坏减少了COMPASS相关组分的染色质恢复，并减弱了选定生长相关启动子处的H3K4me3。这产生了一种状态，其特征为H3K27乙酰化升高、H3K4me3减弱以及转录输出降低；数据衍生的ATAC富集区域保留了中心可及性信号，尽管平均峰幅度在联合处理中最低。HDAC抑制剂反应受WDR5-COMPASS H3K4甲基化轴介导的启动子许可调节。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42882475",
+      "title": "HLA-Engineered iPSC-Derived Mesenchymal Stromal Cells for the Treatment of Osteoarthritis in Mice.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42882475/index.html",
+      "meta": [
+        "Wei, Ze; Gan, Tian; Liang, Annan; Liu, Su; Hao, Jing; Zou, Wei; Li, Lun; Mu, Xuemeng; Han, Huitian; Ma, Wenjing; Xing, Jinyi; Wei, Yifan; Fan, Hao; Liu, Lijin; Liu, Fei; Zheng, Zhifa; Wu, Zhihong; Zhao, Lina",
+        "Cells",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR/Cas9敲除B2M和CIITA生成低免疫原性iPSC来源间充质干细胞治疗骨关节炎，虽使用CRISPR但仅作为基因敲除工具，未涉及切割机制、交错断裂或碱基编辑的分子机制研究。",
+      "abstract": "Osteoarthritis (OA) is one of the most prevalent degenerative joint diseases, and there is no approved pharmacological therapy that can reliably reverse cartilage degeneration or restore cartilage structure. Allogeneic mesenchymal stromal cells (MSCs) have shown therapeutic potential for OA, but inflammatory conditions can enhance HLA expression and increase allogeneic immune recognition risk. Here, we generated B2M and CIITA double-knockout induced pluripotent stem cells (dKO-iPSCs) using CRISPR/Cas9 and subsequently differentiated them into dKO-iMSCs. B2M/CIITA double-knockout did not affect iPSC pluripotency, karyotype, or teratoma formation. dKO-iMSCs retained characteristic MSC phenotypes, exhibited greater proliferative capacity than tissue-derived MSCs, and could be expanded to passage 18. Notably, HLA-ABC and HLA-DR expression remained undetectable in dKO-iMSCs even after IFN-gamma stimulation. In co-culture assays with PHA-L-stimulated allogeneic PBMCs, dKO-iMSCs suppressed PBMC and T-cell proliferation as effectively as wild-type iMSCs, indicating preservation of their immunomodulatory activity. Intra-articular administration of dKO-iMSCs significantly reduced cartilage degeneration in the destabilization of the medial meniscus (DMM) mouse model of OA. The treatment showed greater therapeutic efficacy than wild-type iMSCs and tissue-derived MSCs and did not cause evident systemic organ toxicity. Single-cell RNA sequencing of BM-MSCs and dKO-iMSCs after in vitro IFN-gamma stimulation revealed enhanced extracellular matrix-associated cell-cell communication and markedly reduced IL1B expression in dKO-iMSCs, indicating a less pro-inflammatory and more matrix-supportive cellular state under inflammatory conditions. Collectively, B2M/CIITA double-knockout enables sustained reduction in HLA expression while preserving the MSC phenotype and immunomodulatory activity, and enhances the therapeutic efficacy of iMSCs in the mouse OA model, providing a potential strategy for developing iPSC-derived MSCs with reduced HLA expression for allogeneic cell therapy. 骨关节炎（OA）是最常见的退行性关节疾病之一，目前尚无获批的药物治疗能够可靠地逆转软骨退化或恢复软骨结构。同种异体间充质基质细胞（MSCs）在OA治疗中显示出潜力，但炎症条件可增强HLA表达，增加同种异体免疫识别风险。在此，我们利用CRISPR/Cas9生成了B2M和CIITA双敲除诱导多能干细胞（dKO-iPSCs），随后将其分化为dKO-iMSCs。B2M/CIITA双敲除不影响iPSC的多能性、核型或畸胎瘤形成。dKO-iMSCs保留了典型的MSC表型，表现出比组织来源MSCs更强的增殖能力，并可扩增至第18代。值得注意的是，即使在IFN-γ刺激后，dKO-iMSCs中HLA-ABC和HLA-DR表达仍保持不可检测水平。在与PHA-L刺激的同种异体外周血单个核细胞（PBMCs）共培养实验中，dKO-iMSCs抑制PBMC和T细胞增殖的效果与野生型iMSCs相当，表明其免疫调节活性得以保留。在OA的内侧半月板失稳（DMM）小鼠模型中，关节内注射dKO-iMSCs显著减少了软骨退化。该治疗显示出比野生型iMSCs和组织来源MSCs更强的疗效，且未引起明显的全身器官毒性。对体外IFN-γ刺激后的BM-MSCs和dKO-iMSCs进行单细胞RNA测序，揭示了dKO-iMSCs中增强的细胞外基质相关细胞间通讯和显著降低的IL1B表达，表明在炎症条件下其处于促炎性较低且更支持基质的细胞状态。综上，B2M/CIITA双敲除能够在保留MSC表型和免疫调节活性的同时持续降低HLA表达，并增强iMSCs在小鼠OA模型中的治疗效果，为开发低HLA表达的iPSC来源MSCs用于同种异体细胞治疗提供了潜在策略。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42885518",
+      "title": "Optimisation and mechanistic characterization of a selective benzoxazine-based MAP4K4 inhibitor in pancreatic cancer cells.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42885518/index.html",
+      "meta": [
+        "Wu, Yi-Wen; Yang, Chun-Lin; Fang-Chin, Yu-Ting; Yeh, Yun-Hsuan; Chen, Bor-Jiun; Sung, Tzu-Ying; Chu, Jung-Chun; Lin, Tony Eight; Yen, Shih-Chung; Hsieh, Jui-Hua; Huang, Sing-Han; Chu, Cheng-Ying; Yang, Kai-Chien; Hsu, Kai-Cheng; Pan, Shiow-Lin",
+        "Journal of enzyme inhibition and medicinal chemistry",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该文研究胰腺癌中MAP4K4激酶抑制剂优化与机制表征，与CRISPR/碱基编辑/交错切割完全无关，无可迁移的分子机制启发。",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a lethal malignancy with limited targeted therapeutic options. Mitogen-activated protein kinase kinase kinase kinase 4 (MAP4K4) has been implicated in PDAC progression, but the development of effective MAP4K4 inhibitors requires further improvement in potency, selectivity, and mechanistic characterisation. We previously identified F389-0746 as a selective benzoxazine-based MAP4K4 inhibitor with anti-cancer activity in pancreatic cancer. Here, we used the F389-0746 scaffold to guide the selection and evaluation of benzoxazine-based analogs, followed by biochemical, structural, selectivity, and cellular characterisation of the most potent analogue. Among the identified analogs, F389-0736 showed the strongest MAP4K4 inhibitory activity, with an IC(50) value of 44.0 nM, representing an approximately threefold improvement over F389-0746. Docking and structure-activity relationship analyses identified key binding interactions that support the enhanced potency of F389-0736 within the MAP4K4 binding pocket. Kinase profiling further demonstrated the selectivity of F389-0736 for MAP4K4 across the tested kinase panel. CETSA further demonstrated F389-0736-induced thermal stabilisation of MAP4K4, supporting intracellular target engagement. In pancreatic cancer cells, F389-0736 suppressed TAK1, JNK, and p38 phosphorylation and significantly reduced cell viability and proliferation, with IC(50) and GI(50) values of 4.41-4.65 muM and 4.03-5.12 muM, respectively. F389-0736 also inhibited clonogenic growth and induced sub-G1 accumulation with activation of apoptotic signalling. RNA sequencing identified 398 differentially expressed genes and revealed enrichment of inflammatory and stress response pathways, programmed cell death programs, oncogenic signalling perturbation, and metabolic reprogramming. These findings identify F389-0736 as a potent and selective benzoxazine-based MAP4K4 inhibitor and support its use as a chemical probe and lead scaffold for investigating MAP4K4-dependent signalling and therapeutic vulnerability in pancreatic cancer. 胰腺导管腺癌（PDAC）仍是一种致死性恶性肿瘤，靶向治疗选择有限。丝裂原活化蛋白激酶激酶激酶激酶4（MAP4K4）已被涉及在PDAC进展中，但开发有效的MAP4K4抑制剂仍需在效力、选择性和机制表征方面进一步改进。我们先前鉴定出F389-0746作为一种选择性苯并噁嗪类MAP4K4抑制剂，在胰腺癌中具有抗癌活性。在此，我们利用F389-0746骨架指导苯并噁嗪类类似物的筛选和评估，随后对最有效类似物进行生化、结构、选择性和细胞表征。在鉴定出的类似物中，F389-0736显示出最强的MAP4K4抑制活性，IC(50)值为44.0 nM，较F389-0746约提高三倍。对接和构效关系分析确定了支持F389-0736在MAP4K4结合口袋中增强效力的关键结合相互作用。激酶谱分析进一步证明了F389-0736在测试激酶面板中对MAP4K4的选择性。CETSA进一步证明F389-0736诱导MAP4K4的热稳定性，支持细胞内靶点结合。在胰腺癌细胞中，F389-0736抑制TAK1、JNK和p38磷酸化，并显著降低细胞活力和增殖，IC(50)和GI(50)值分别为4.41-4.65 μM和4.03-5.12 μM。F389-0736还抑制克隆形成生长，并诱导亚G1期积累及凋亡信号激活。RNA测序鉴定出398个差异表达基因，并揭示炎症和应激反应通路、程序性细胞死亡程序、致癌信号扰动和代谢重编程的富集。这些发现将F389-0736鉴定为一种强效且选择性的苯并噁嗪类MAP4K4抑制剂，并支持其作为化学探针和先导骨架用于研究胰腺癌中MAP4K4依赖性信号传导和治疗脆弱性。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42887681",
+      "title": "Oocyst wall protein EtOWP6 is critical for sporocyst formation and developmental progression in Eimeria tenella.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42887681/index.html",
+      "meta": [
+        "Jia, Liushu; Wang, Jinwen; Wang, Qingjie; Wang, Lu; Zhu, Shunhai; Zhao, Qiping; Wu, Shanbo; Han, Wenqi; Bai, Jaiyu; Zhao, Fanghe; Yu, Yu; Han, Hongyu; Dong, Hui",
+        "International journal for parasitology",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR/Cas9敲除艾美耳球虫卵囊壁蛋白EtOWP6，揭示其在孢子囊形成和发育中的作用，但对象非碱基编辑/交错切割机制，仅以CRISPR为工具，机制深度有限。",
+      "abstract": "Transmission of apicomplexan parasites-including Eimeria, Toxoplasma, and Cryptosporidium-relies on the environmentally resilient oocyst wall, a bilayered structure whose integrity is maintained by cysteine-rich oocyst wall proteins (OWPs). Yet the functional roles of these conserved proteins remain poorly defined. Here, we characterize EtOWP6, a conserved OWP in Eimeria tenella, the causative agent of avian coccidiosis. Immunofluorescence reveals that EtOWP6 localizes specifically to wall-forming bodies and oocyst/sporocyst walls during sexual development. CRISPR/Cas9-mediated knockout demonstrates that EtOWP6 is essential for sporocyst formation, with deficient parasites exhibiting malformed sporocysts, developmental arrest in vitro, and an in vivo reduction in oocyst output exceeding 85%. The knockout strain is highly attenuated yet retains partial immunogenicity. Transcriptomic analysis reveals that EtOWP6 deletion induces widespread transcriptional reprogramming, disrupting genes critical for developmental regulation and oocyst wall biogenesis. Our findings establish EtOWP6 as a critical regulator coupling structural integrity with developmental progression in Eimeria, and more broadly, highlight OWPs as conserved targets for transmission-blocking interventions across apicomplexan parasites. 顶复门寄生虫——包括艾美耳球虫（Eimeria）、弓形虫（Toxoplasma）和隐孢子虫（Cryptosporidium）——的传播依赖于环境耐受性强的卵囊壁，这是一种双层结构，其完整性由富含半胱氨酸的卵囊壁蛋白（OWPs）维持。然而，这些保守蛋白的功能角色仍不明确。在此，我们表征了EtOWP6，这是鸡球虫病病原体柔嫩艾美耳球虫（Eimeria tenella）中的一种保守OWP。免疫荧光显示，EtOWP6在性发育阶段特异性定位于成壁体和卵囊/孢子囊壁。CRISPR/Cas9介导的敲除表明，EtOWP6对孢子囊形成至关重要，缺陷寄生虫表现出孢子囊畸形、体外发育停滞，以及体内卵囊产量减少超过85%。敲除株高度减毒，但仍保留部分免疫原性。转录组分析揭示，EtOWP6缺失诱导广泛的转录重编程，破坏对发育调控和卵囊壁生物发生至关重要的基因。我们的发现确立了EtOWP6作为艾美耳球虫中耦合结构完整性与发育进程的关键调控因子，并更广泛地强调OWPs作为顶复门寄生虫传播阻断干预的保守靶点。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42877157",
+      "title": "Starch characteristics distinguish malt from non-malt barley and can be modulated via SBEIIb promoter editing.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42877157/index.html",
+      "meta": [
+        "Li, Mengdi; He, Peixin; Cai, Kangfeng; Yao, Jie; Huang, Danyin; Zhang, Guoping; Ye, Lingzhen",
+        "Frontiers in plant science",
+        "2026-10-15"
+      ],
+      "tags": [],
+      "summary": "该研究通过CRISPR/Cas9编辑大麦SBEIIb启动子调节直链淀粉/支链淀粉比例，虽涉及基因编辑工具应用，但核心是淀粉性状改良而非碱基编辑或交错切割的分子机制，机制深度有限。",
+      "abstract": "Barley is classified as malt or non-malt barley according to its end use, yet the role of starch characteristics in determining malt quality remains poorly understood. In this study, we systematically compared starch content, composition, granule structure, and thermal properties between six malt and six non-malt barley varieties. Compared with non-malt barley, malt barley exhibited significantly higher total starch (TS) content, a lower amylose/amylopectin (Am/Ap) ratio, and a larger area of large starch granules (LSGs), features that may collectively enhance the contact surface for hydrolytic enzymes during mashing. Thermal property analysis further revealed a narrower gelatinization temperature range (R) in malt barley, indicating more synchronized and potentially more efficient starch gelatinization. Based on these distinct starch traits, we employed novel CRISPR/Cas9-mediated editing of the SBEIIb promoter to generate novel barley accessions. The resulting promoter-editing SBEIIb mutants showed a significantly reduced Am/Ap ratio, closely mimicking the altered starch profile potentially relevant to malt quality related traits of elite malt barley varieties, without affecting total starch content or grain morphology. Mechanistically, this compositional shift was associated with altered starch-associated genes expression, demonstrating that targeted promoter modification is a promising strategy for malt barley improvement while avoiding the pleiotropic defects commonly caused by coding-region knockouts. These findings reveal fundamental differences in starch properties between malt and non-malt barley and provide both genetic resources and a feasible breeding strategy for developing superior malt barley cultivars. 大麦根据其最终用途分为麦芽大麦和非麦芽大麦，然而淀粉特性在决定麦芽品质中的作用仍知之甚少。在本研究中，我们系统比较了六个麦芽大麦和六个非麦芽大麦品种之间的淀粉含量、组成、颗粒结构和热特性。与非麦芽大麦相比，麦芽大麦表现出显著更高的总淀粉（TS）含量、更低的直链淀粉/支链淀粉（Am/Ap）比值以及更大的大淀粉颗粒（LSGs）面积，这些特征可能共同增强了糖化过程中水解酶的接触表面。热特性分析进一步揭示麦芽大麦具有更窄的糊化温度范围（R），表明淀粉糊化更为同步且可能更高效。基于这些独特的淀粉性状，我们采用新型CRISPR/Cas9介导的SBEIIb启动子编辑技术生成了新型大麦种质。所得的启动子编辑SBEIIb突变体表现出显著降低的Am/Ap比值，密切模拟了与优质麦芽大麦品种麦芽品质相关性状相关的改变后淀粉谱，且不影响总淀粉含量或籽粒形态。机制上，这种组成变化与淀粉相关基因表达的改变相关联，证明靶向启动子修饰是改良麦芽大麦的一种有前景策略，同时避免了编码区敲除通常导致的多效性缺陷。这些发现揭示了麦芽与非麦芽大麦之间淀粉特性的根本差异，并为开发优良麦芽大麦品种提供了遗传资源和可行的育种策略。",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "pubmed:42870575",
+      "title": "Elevational melanism in East African Honey Bees involves a Major-Effect locus.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42870575/index.html",
+      "meta": [
+        "Mazzoni, Marco; Loidolt, Florian; Kersten, Sonja; Otieno, Mark; Njovu, Henry; Lasway, Julius Vincent; Scheiner, Ricarda; Hasselmann, Martin",
+        "Genome biology and evolution",
+        "2026-10-14"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR/Cas9敲除蜜蜂AmEbony基因研究体色黑化，虽涉及CRISPR应用但对象非碱基编辑/交错切割，机制为色素合成而非核酸酶切割或DNA修复，与本课题核心机制关联微弱。",
+      "abstract": "Thermal melanism, whereby darker pigmentation occurs in colder environments, is a widespread pattern, yet its genetic and physiological basis in eusocial insects remains poorly understood. East African honey bees (Apis mellifera) occupy elevational gradients in which highland populations are darker, larger, and more cold tolerant than lowland conspecifics. Here, we integrated population genomics, structural variations, and functional genomics to investigate elevational melanism. We sampled, phenotyped and resequenced 139 workers from five East African mountain systems. A genome wide association study identified 977 Single Nucleotide Polymorphisms (SNPs) significantly associated with abdominal pigmentation, with a single, peak at the ebony ortholog AmEbony on chromosome 1. Allelic variation at AmEbony formed three genetic clusters tracking a continuous pigmentation gradient, and 77 divergent SNPs (DXY = 1) almost perfectly discriminated dark from light bees. Two inversions (r7, r9), previously linked to high elevation adaptation, were detected across additional mountain systems and enriched in dark, highland genomic backgrounds, but did not replace AmEbony as the primary pigmentation locus. CRISPR/Cas9 disruption of AmEbony in A. m. carnica produced darker adults in a qualitative comparison, supporting a conserved role in pigmentation. Head RNA-seq and GENIE3 analysis identified recurrent genotype-associated modules involving oxidoreductase activity and odorant binding. Because population structure covaries with elevation and pigmentation, the GWAS supports AmEbony as a major-effect locus but cannot identify causal variants. Similarly, head-expression data identify molecular changes associated with AmEbony disruption, but cannot establish whether they contribute to pigmentation or whether naturally segregating East African alleles act through the same pathways. 热黑化现象，即在较冷环境中出现更深的色素沉着，是一种广泛存在的模式，然而其在真社会性昆虫中的遗传和生理基础仍知之甚少。东非蜜蜂（Apis mellifera）占据海拔梯度，其中高地种群比低地同种个体更黑、更大且更耐寒。在此，我们整合了群体基因组学、结构变异和功能基因组学来研究海拔黑化现象。我们采集、表型鉴定并重测序了来自五个东非山系的139只工蜂。一项全基因组关联研究识别出977个与腹部色素沉着显著相关的单核苷酸多态性（SNPs），在1号染色体上的ebony直系同源基因AmEbony处有一个单一峰值。AmEbony的等位基因变异形成三个遗传聚类，追踪连续的色素沉着梯度，77个分歧SNPs（DXY = 1）几乎完美地区分了深色和浅色蜜蜂。两个倒位（r7, r9），先前与高海拔适应相关，在额外山系中被检测到，并富集于深色、高地的基因组背景中，但并未取代AmEbony作为主要色素沉着位点。在A. m. carnica中通过CRISPR/Cas9破坏AmEbony，在定性比较中产生了更深的成体，支持其在色素沉着中的保守作用。头部RNA-seq和GENIE3分析识别出涉及氧化还原酶活性和气味结合蛋白的重复基因型相关模块。由于种群结构与海拔和色素沉着共变，GWAS支持AmEbony作为主效位点，但无法确定因果变异。同样，头部表达数据识别了与AmEbony破坏相关的分子变化，但无法确定这些变化是否促成色素沉着，或自然分离的东非等位基因是否通过相同途径起作用。",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "pubmed:42871668",
+      "title": "Programmable synthetic engineering of adaptive microbial cell factories: from amide transforming enzymes to advanced biocatalytic systems.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42871668/index.html",
+      "meta": [
+        "Fatima, Syeda Warisul; Alam, Shahenvaz",
+        "Frontiers in bioengineering and biotechnology",
+        "2026-10-14"
+      ],
+      "tags": [],
+      "summary": "该综述聚焦微生物转谷氨酰胺酶（MTGase）在合成生物学与生物催化中的应用，虽提及CRISPR调控但非核心，缺乏对CRISPR/碱基编辑/交错切割分子机制的研究，仅部分涉及蛋白工程与计算建模，与本课题关联较弱。",
+      "abstract": "Microbial cell factories integrate metabolic engineering, synthetic regulation, protein engineering, and computational design to improve catalytic performance and process robustness. Within this landscape, amide transforming enzymes provide diverse functions ranging from nitrogen metabolism and hydrolysis to covalent protein remodeling. This review examines amidases, asparaginases, glutaminases, nitrilases, nitrile hydratases, acylases, and carbamylases, with particular emphasis on microbial transglutaminase (MTGase). MTGase is distinguished by its ability to catalyze covalent epsilon-(gamma-glutamyl) lysine crosslinking through acyl transfer reactions, enabling protein stabilization, molecular assembly, immobilization, and spatial organization of catalytic systems. This review critically examines the transition from classical amide transforming enzymes toward engineered biocatalytic systems and evaluates how MTGase could be leveraged as a protein level control component in microbial cell factories. Experimental developments in MTGase production, structural and protein engineering, synthetic genetic circuits, CRISPR based regulation, metabolic control, nanobiomaterials, and spatial biocatalysis are evaluated alongside computational approaches including AlphaFold assisted structure prediction, molecular docking, molecular dynamics, machine learning guided mutagenesis, and metabolic modeling. Emphasis is placed on experimentally validated outcomes and current limitations. Key unresolved barriers include intracellular off target crosslinking, proteostatic burden, variable crosslink stoichiometry, limited temporal control of MTGase activity, chassis dependence, and industrial scale up. Where direct evidence is lacking, prospective applications are distinguished from established capabilities and corresponding engineering strategies are proposed. Collectively, this review envisions MTGase as a controllable protein level platform for synthetic biology, while defining the evidence, limitations, and experimental requirements needed for its broader application in microbial biotechnology. 微生物细胞工厂整合代谢工程、合成调控、蛋白质工程和计算设计，以提升催化性能与过程稳健性。在此背景下，酰胺转化酶提供从氮代谢、水解到共价蛋白质重塑的多种功能。本综述考察酰胺酶、天冬酰胺酶、谷氨酰胺酶、腈水解酶、腈水合酶、酰基转移酶和氨甲酰酶，并特别关注微生物转谷氨酰胺酶 (microbial transglutaminase, MTGase)。MTGase 的独特之处在于其通过酰基转移反应催化共价 epsilon-(gamma-glutamyl) 赖氨酸交联，从而实现蛋白质稳定化、分子组装、固定化及催化系统的空间组织。本综述批判性地审视从经典酰胺转化酶向工程化生物催化系统的转变，并评估 MTGase 如何作为微生物细胞工厂中的蛋白质水平控制组件加以利用。实验进展涵盖 MTGase 生产、结构与蛋白质工程、合成基因回路、基于 CRISPR 的调控、代谢控制、纳米生物材料及空间生物催化，同时评估计算方法，包括 AlphaFold 辅助结构预测、分子对接、分子动力学 (molecular dynamics)、机器学习引导的诱变及代谢建模。重点强调实验验证的结果及当前局限性。关键未解决障碍包括胞内脱靶交联、蛋白质稳态负担、交联化学计量可变性、MTGase 活性时间控制有限、底盘依赖性及工业放大。在缺乏直接证据的情况下，前瞻性应用与既有能力区分开来，并提出相应工程策略。总体而言，本综述设想 MTGase 作为合成生物学的可控蛋白质水平平台，同时明确其在微生物生物技术中更广泛应用所需的证据、局限性和实验要求。",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "pubmed:42865039",
+      "title": "Genome-wide CRISPR screens identify shared and context-specific regulators of podocyte resistance to oxidative injury.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42865039/index.html",
+      "meta": [
+        "Zhen, Xuan; Hu, Jiaying; Wang, Xiao; Qing, Jianbo; Wu, Junnan",
+        "Renal failure",
+        "2026-10-13"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR-Cas9全基因组筛选鉴定足细胞氧化应激损伤的调控基因，但仅涉及CRISPR作为筛选工具，未研究切割/碱基编辑分子机制，与本课题核心机制无关。",
+      "abstract": "Podocyte injury is a convergent driver of glomerular disease progression, yet the genetic determinants that govern podocyte vulnerability to oxidative stress remain incompletely defined. Here, we performed genome-wide CRISPR-Cas9 knockout screens in differentiated human podocytes exposed to two complementary injury models: Adriamycin (ADR), a clinically relevant inducer of podocyte damage, and hydrogen peroxide (H(2)O(2)), a direct oxidative stress challenge. Human podocytes were transduced with a genome-wide sgRNA library, differentiated under non-permissive conditions and subjected to optimized stress conditions that imposed selective pressure while preserving library complexity. Across five independent replicates per condition, sequencing-based sgRNA profiling demonstrated high reproducibility, balanced library representation and clear treatment-specific selection. The ADR screen identified 819 depleted and 456 enriched genes, whereas the H(2)O(2) screen identified 277 depleted and 215 enriched genes. Integrated analysis revealed both model-specific dependencies and 27 shared depleted genes across the two injury conditions, implicating stress adaptation, chromatin regulation, mitochondrial metabolism, inflammatory signaling and cytoskeletal organization as candidate processes required for podocyte survival. These genome-wide screens provide a functional framework for prioritizing genes that regulate podocyte resilience to oxidative injury and offer a resource for mechanistic studies of glomerular disease. 足细胞损伤是肾小球疾病进展的的汇聚性驱动因素，然而调控足细胞对氧化应激易感性的遗传决定因素仍未完全明确。在此，我们在分化的人足细胞中进行了全基因组CRISPR-Cas9敲除筛选，暴露于两种互补的损伤模型：阿霉素（ADR），一种临床相关的足细胞损伤诱导剂，以及过氧化氢（H(2)O(2)），一种直接的氧化应激挑战。人足细胞被转导全基因组sgRNA文库，在非允许条件下分化，并经受优化的应激条件，该条件施加选择压力同时保持文库复杂性。在每个条件五个独立重复中，基于测序的sgRNA分析显示出高重现性、平衡的文库表示和明确的处理特异性选择。ADR筛选鉴定出819个缺失和456个富集基因，而H(2)O(2)筛选鉴定出277个缺失和215个富集基因。整合分析揭示了模型特异性依赖性和两种损伤条件下27个共享缺失基因，暗示应激适应、染色质调控、线粒体代谢、炎症信号传导和细胞骨架组织作为足细胞存活所需的候选过程。这些全基因组筛选为优先排序调控足细胞对氧化损伤抵抗力的基因提供了功能框架，并为肾小球疾病的机制研究提供了资源。",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "pubmed:42869024",
+      "title": "Structural basis and rational engineering of a thermophilic Cas13a for robust RNA detection.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42869024/index.html",
+      "meta": [
+        "Oladeji, Seye J; Gonzalez, Diego H; Deng, Xiangyu; You, Zheng; Zhang, Yuxuan; Golla, Devin A; Smith, Jamie; Zhang, Yi; Gao, Xue; Lillehoj, Peter B; Gao, Yang",
+        "Cell chemical biology",
+        "2026-10-13"
+      ],
+      "tags": [],
+      "summary": "该研究通过生化表征和结构指导工程化改造嗜热Cas13a，揭示其靶标识别与切割机制并显著提升RNA检测灵敏度，直接涉及CRISPR-Cas13a的蛋白-DNA/RNA互作与催化机制，对碱基编辑和交错切割机制研究具有方法学启发。",
+      "abstract": "Cas13a enzymes are particularly attractive for nucleic acid detection due to their robust collateral activity. Recently, there has been a surge in the discovery and engineering of thermostable Cas13a proteins for nucleic acid detection. The thermostable Cas13a from Thermoclostridium caenicola (TccCas13a) was identified; however, its native target sensitivity and collateral activity are relatively low and require optimization for molecular diagnostic applications. Here, we report comprehensive biochemical characterization and structure-guided engineering of TccCas13a. Our analyses reveal its intrinsic thermostability, nucleotide substrate preferences, and tolerance to structured target RNA substrates. Rational engineering of the spacer-target RNA binding channel improved target engagement and enabled determination of a 3.13 A cryo-electron microscopy ternary structure. Furthermore, extensive structure-guided engineering of active site-proximal regions yielded a variant with over  approximately 100-fold enhanced target sensitivity and collateral activity across diverse biological matrices. Together, our work provides mechanistic insights and establishes TccCas13a as a platform for next-generation RNA diagnostics. Cas13a酶因其强大的附带活性，在核酸检测领域尤为引人注目。近期，针对核酸检测的热稳定Cas13a蛋白的发现与工程化改造激增。已鉴定出源自Thermoclostridium caenicola的热稳定Cas13a（TccCas13a）；然而，其天然靶标敏感性和附带活性相对较低，需优化以满足分子诊断应用需求。在此，我们报告了对TccCas13a的全面生化表征及结构引导工程化改造。我们的分析揭示了其内在热稳定性、核苷酸底物偏好性，以及对结构化靶RNA底物的耐受性。对间隔区-靶RNA结合通道的理性工程化改造增强了靶标结合能力，并实现了3.13 Å冷冻电镜三元结构的解析。此外，对活性位点邻近区域进行广泛的结构引导工程化改造，产生了一个变体，其在多种生物基质中的靶标敏感性和附带活性增强了约100倍。综上，我们的工作提供了机制性见解，并将TccCas13a确立为下一代RNA诊断的平台。",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "pubmed:42861495",
+      "title": "From Sequence to Structure: AlphaFold and the AI Revolution in Aquaculture Drug Discovery and Vaccine Design.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42861495/index.html",
+      "meta": [
+        "Ustuner, Enes; Oz, Mustafa",
+        "Biotechnology and bioengineering",
+        "2026-10-12"
+      ],
+      "tags": [],
+      "summary": "该综述探讨AlphaFold等AI工具在水产养殖药物发现和疫苗设计中的应用，虽提及CRISPR/Cas协同，但核心对象非CRISPR/碱基编辑/交错切割机制，机制深度有限，仅边缘相关。",
+      "abstract": "Global aquaculture faces an escalating disease and antimicrobial resistance (AMR) crisis, exacerbated by climate-driven physiochemical shifts and intensive farming practices. The integration of artificial intelligence (AI) and structural biology, spearheaded by AlphaFold, represents a paradigm shift in aquatic pharmacology, transitioning the field from empirical trial-and-error to rational in silico design. This review critically evaluates the application of AI-driven tools in aquaculture drug discovery and vaccine development. We examine the evolution of AlphaFold in predicting complex host-pathogen interactions and facilitating de novo drug design. Concurrently, we highlight critical limitations stemming from the reliance on multiple sequence alignment (MSA) depth rather than mere PDB taxonomic composition, the unreliability of direct molecular docking due to apo conformations, and the dynamic nature of psychrophilic adaptations in aquatic environments. Furthermore, we assess next-generation structural vaccinology, including reverse vaccinology and pre-fusion antigen stabilization, alongside the integration of nanomaterial-based delivery systems to overcome aquatic pharmacokinetic barriers. The synergy of AI with CRISPR/Cas technologies and multimodal large language models (MM-LLMs) for disease management is also explored. Despite unprecedented computational capabilities, significant bottlenecks remain, including a severe lack of species-specific omics data, the indispensability of in vivo wet-lab validation, and lagging regulatory frameworks. Ultimately, realizing the potential of precision aquatic medicine requires developing aquaculture-specific databases, addressing the ecological risks of open-water deployment, and democratizing these technologies for small-scale farmers to ensure sustainable, equitable, and resilient global aquaculture. 全球水产养殖正面临日益严重的疾病和抗菌素耐药性（AMR）危机，气候驱动的理化变化和集约化养殖实践进一步加剧了这一挑战。以AlphaFold为首的人工智能（AI）与结构生物学的整合，代表了水生药理学领域的范式转变，将该领域从经验性试错推进至理性的计算机模拟设计。本综述批判性评估了AI驱动工具在水产养殖药物发现和疫苗开发中的应用。我们考察了AlphaFold在预测复杂宿主-病原体相互作用及促进从头药物设计方面的演进。同时，我们强调了关键局限性，这些局限性源于对多序列比对（MSA）深度的依赖而非单纯的PDB分类组成、因脱辅基构象导致的直接分子对接不可靠性，以及水生环境中嗜冷适应的动态特性。此外，我们评估了下一代结构疫苗学，包括反向疫苗学和融合前抗原稳定化，并探讨了基于纳米材料的递送系统整合以克服水生药代动力学障碍。我们还探索了AI与CRISPR/Cas技术及多模态大语言模型（MM-LLMs）在疾病管理中的协同作用。尽管计算能力空前强大，仍存在显著瓶颈，包括物种特异性组学数据的严重缺乏、体内湿实验验证的不可或缺性，以及监管框架的滞后。最终，实现精准水生医学的潜力需要开发水产养殖专用数据库、应对开放水域部署的生态风险，并将这些技术普及至小规模养殖户，以确保全球水产养殖的可持续性、公平性和韧性。",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "pubmed:42862095",
+      "title": "Structural basis for ITP-selective hydrolysis by a CRISPR-associated Nudix hydrolase.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42862095/index.html",
+      "meta": [
+        "Wu, Wanqian; Xia, Shenglan; Li, Duo; Lin, Junchao; Cao, Chen; Kong, Jianping; Lu, Meiling; Xiao, Yibei; Li, Zhaoxing",
+        "Journal of bacteriology",
+        "2026-10-12"
+      ],
+      "tags": [],
+      "summary": "该文解析了CRISPR相关Nudix水解酶特异性识别并水解ITP的结构基础，虽非直接研究Cas切割或碱基编辑，但揭示了CRISPR系统内核苷酸解毒/自我保护模块的分子机制，对理解CRISPR相关编辑系统的辅助调控有迁移启发。",
+      "abstract": "The nucleoside diphosphates linked to moiety-X (Nudix) hydrolases are a superfamily of proteins defined by the characteristic Nudix box sequence, most of which are involved in clearing the cell of potentially deleterious metabolites and in preventing the accumulation of metabolic intermediates. The Nudix hydrolase associated with CRISPR-Cas-associated adenosine deaminases (CAAD) from Limisphaera ngatamarikiensis (LngNH) mitigates CAAD-induced toxicity by hydrolyzing ITP to IMP and pyrophosphate. Here, we determined crystal structures of LngNH in the apo form and in complex with ITP using catalytic mutants and validated key interactions by site-directed mutagenesis. The hypoxanthine of ITP is deeply buried in a hydrophobic pocket and engages a distinct hydrogen-bond network, whereas the triphosphate tail is coordinated by conserved residues and divalent metal ions. Together, these findings provide a structural framework for CAAD-linked nucleotide sanitization and suggest that CRISPR-associated Nudix hydrolases function as local self-protection modules that limit toxicity from noncanonical inosine nucleotides.IMPORTANCENucleotide quality-control enzymes protect cells from harmful metabolic by-products. Here, we characterize a CRISPR-associated nucleoside diphosphates linked to moiety-X (Nudix) hydrolase that removes ITP, a toxic noncanonical nucleotide generated during antiviral defense. Biochemical and structural analyses show how this enzyme specifically recognizes and hydrolyzes ITP while avoiding related cellular nucleotides. Our findings suggest that CRISPR-associated nucleotide deaminase systems require \"self-protection\" mechanisms to prevent damage from their own antiviral activities. These results expand our understanding of how bacteria maintain nucleotide homeostasis during immune responses and reveal an additional regulatory layer within CRISPR-associated defense systems. The structural framework reported here also provides a foundation for future studies of nucleotide sanitization enzymes in microbial physiology and antiviral immunity. 核苷二磷酸连接部分X（Nudix）水解酶是一个由特征性Nudix盒序列定义的蛋白质超家族，其中大多数参与清除细胞中潜在有害代谢物并防止代谢中间体积累。来自Limisphaera ngatamarikiensis的与CRISPR-Cas相关腺苷脱氨酶（CAAD）相关的Nudix水解酶（LngNH）通过将ITP水解为IMP和焦磷酸来缓解CAAD诱导的毒性。在此，我们解析了LngNH在无配体形式及与ITP复合物中的晶体结构，使用催化突变体并通过定点突变验证了关键相互作用。ITP的次黄嘌呤深埋于疏水口袋中，并参与独特的氢键网络，而三磷酸尾部则由保守残基和二价金属离子协调。综合这些发现，为CAAD关联的核苷酸净化提供了结构框架，并提示CRISPR相关Nudix水解酶作为局部自我保护模块，限制非典型肌苷核苷酸的毒性。重要性 核苷酸质量控制酶保护细胞免受有害代谢副产物的影响。在此，我们表征了一种CRISPR相关的核苷二磷酸连接部分X（Nudix）水解酶，该酶去除ITP——一种在抗病毒防御过程中产生的有毒非典型核苷酸。生化和结构分析显示该酶如何特异性识别并水解ITP，同时避免相关细胞核苷酸。我们的发现表明，CRISPR相关核苷酸脱氨酶系统需要“自我保护”机制以防止其自身抗病毒活性造成损害。这些结果扩展了我们对细菌在免疫应答期间维持核苷酸稳态的理解，并揭示了CRISPR相关防御系统内的额外调控层。本文报道的结构框架也为未来研究微生物生理学和抗病毒免疫中的核苷酸净化酶提供了基础。",
+      "date": "2026-10-12"
+    },
+    {
       "id": "pubmed:42856931",
       "title": "Central Dogma Transformer II: an AI microscope for understanding cellular regulatory mechanisms.",
       "subtitle": "",

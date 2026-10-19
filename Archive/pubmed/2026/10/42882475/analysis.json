@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42882475",
+  "title": "HLA-Engineered iPSC-Derived Mesenchymal Stromal Cells for the Treatment of Osteoarthritis in Mice.",
+  "authors": "Wei, Ze; Gan, Tian; Liang, Annan; Liu, Su; Hao, Jing; Zou, Wei; Li, Lun; Mu, Xuemeng; Han, Huitian; Ma, Wenjing; Xing, Jinyi; Wei, Yifan; Fan, Hao; Liu, Lijin; Liu, Fei; Zheng, Zhifa; Wu, Zhihong; Zhao, Lina",
+  "journal": "Cells",
+  "published_date": "2026-10-16",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究利用CRISPR/Cas9敲除B2M和CIITA生成低免疫原性iPSC来源间充质干细胞治疗骨关节炎，虽使用CRISPR但仅作为基因敲除工具，未涉及切割机制、交错断裂或碱基编辑的分子机制研究。",
+  "abstract": "Osteoarthritis (OA) is one of the most prevalent degenerative joint diseases, and there is no approved pharmacological therapy that can reliably reverse cartilage degeneration or restore cartilage structure. Allogeneic mesenchymal stromal cells (MSCs) have shown therapeutic potential for OA, but inflammatory conditions can enhance HLA expression and increase allogeneic immune recognition risk. Here, we generated B2M and CIITA double-knockout induced pluripotent stem cells (dKO-iPSCs) using CRISPR/Cas9 and subsequently differentiated them into dKO-iMSCs. B2M/CIITA double-knockout did not affect iPSC pluripotency, karyotype, or teratoma formation. dKO-iMSCs retained characteristic MSC phenotypes, exhibited greater proliferative capacity than tissue-derived MSCs, and could be expanded to passage 18. Notably, HLA-ABC and HLA-DR expression remained undetectable in dKO-iMSCs even after IFN-gamma stimulation. In co-culture assays with PHA-L-stimulated allogeneic PBMCs, dKO-iMSCs suppressed PBMC and T-cell proliferation as effectively as wild-type iMSCs, indicating preservation of their immunomodulatory activity. Intra-articular administration of dKO-iMSCs significantly reduced cartilage degeneration in the destabilization of the medial meniscus (DMM) mouse model of OA. The treatment showed greater therapeutic efficacy than wild-type iMSCs and tissue-derived MSCs and did not cause evident systemic organ toxicity. Single-cell RNA sequencing of BM-MSCs and dKO-iMSCs after in vitro IFN-gamma stimulation revealed enhanced extracellular matrix-associated cell-cell communication and markedly reduced IL1B expression in dKO-iMSCs, indicating a less pro-inflammatory and more matrix-supportive cellular state under inflammatory conditions. Collectively, B2M/CIITA double-knockout enables sustained reduction in HLA expression while preserving the MSC phenotype and immunomodulatory activity, and enhances the therapeutic efficacy of iMSCs in the mouse OA model, providing a potential strategy for developing iPSC-derived MSCs with reduced HLA expression for allogeneic cell therapy.",
+  "abstract_zh": "骨关节炎（OA）是最常见的退行性关节疾病之一，目前尚无获批的药物治疗能够可靠地逆转软骨退化或恢复软骨结构。同种异体间充质基质细胞（MSCs）在OA治疗中显示出潜力，但炎症条件可增强HLA表达，增加同种异体免疫识别风险。在此，我们利用CRISPR/Cas9生成了B2M和CIITA双敲除诱导多能干细胞（dKO-iPSCs），随后将其分化为dKO-iMSCs。B2M/CIITA双敲除不影响iPSC的多能性、核型或畸胎瘤形成。dKO-iMSCs保留了典型的MSC表型，表现出比组织来源MSCs更强的增殖能力，并可扩增至第18代。值得注意的是，即使在IFN-γ刺激后，dKO-iMSCs中HLA-ABC和HLA-DR表达仍保持不可检测水平。在与PHA-L刺激的同种异体外周血单个核细胞（PBMCs）共培养实验中，dKO-iMSCs抑制PBMC和T细胞增殖的效果与野生型iMSCs相当，表明其免疫调节活性得以保留。在OA的内侧半月板失稳（DMM）小鼠模型中，关节内注射dKO-iMSCs显著减少了软骨退化。该治疗显示出比野生型iMSCs和组织来源MSCs更强的疗效，且未引起明显的全身器官毒性。对体外IFN-γ刺激后的BM-MSCs和dKO-iMSCs进行单细胞RNA测序，揭示了dKO-iMSCs中增强的细胞外基质相关细胞间通讯和显著降低的IL1B表达，表明在炎症条件下其处于促炎性较低且更支持基质的细胞状态。综上，B2M/CIITA双敲除能够在保留MSC表型和免疫调节活性的同时持续降低HLA表达，并增强iMSCs在小鼠OA模型中的治疗效果，为开发低HLA表达的iPSC来源MSCs用于同种异体细胞治疗提供了潜在策略。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882475/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42882475/",
+  "paper_page_path": "papers/pubmed/42882475/index.html"
+}

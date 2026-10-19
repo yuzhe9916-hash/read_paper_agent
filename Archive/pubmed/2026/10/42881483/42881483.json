@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42881483",
+    "doi": "10.1002/advs.78255",
+    "title": "Disabling COMPASS Promoter Licensing Shifts HDAC-Inhibited Gastric Cancer Toward Sustained Transcriptional Suppression During Recovery."
+  },
+  "content": {
+    "abstract": "Histone deacetylase inhibitors (HDACi) broadly increase chromatin acetylation but have limited and variable activity in solid tumors. To define the epigenetic buffering axis that sustains promoter output during HDAC inhibition in gastric cancer. We integrated pharmacologic profiling across a molecularly diverse gastric cancer panel with an epigenetic-focused pooled CRISPR-Cas9 screening library, domain-resolved genetic perturbation, structure-guided WIN-pocket targeting, CCK8 time-course proliferation assays, and pulse-washout clonogenic recovery assays. Chromatin and transcriptional consequences were interrogated by assessing COMPASS integrity and chromatin association, promoter-proximal H3K4me3 dynamics, data-derived ATAC-seq accessibility, and transcriptional output. WDR5 abundance and baseline H3K4me3 levels were associated with sensitivity to combined HDAC and WDR5 WIN-pocket inhibition. Multiple orthogonal approaches identified the WDR5 WIN pocket as a key interface supporting chromatin-associated COMPASS and promoter-proximal H3K4me3 under the tested conditions. WIN-pocket disruption reduced chromatin recovery of COMPASS-associated components and attenuated H3K4me3 at selected growth-linked promoters. This produced a state with elevated H3K27 acetylation, attenuated H3K4me3, and reduced transcriptional output; data-derived ATAC-enriched regions retained a centered accessibility signal, although the mean peak amplitude was lowest in the combination. HDAC inhibitor response is conditioned by promoter licensing via the WDR5-COMPASS H3K4 methylation axis.",
+    "keywords": [
+      "apoptosis",
+      "biology",
+      "cancer",
+      "cancer cell",
+      "cancer research",
+      "chromatin remodeling",
+      "compass",
+      "epigenetics",
+      "histone",
+      "in vivo",
+      "programmed cell death"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Jintian",
+        "Yu, Hui",
+        "Jiang, Jianping",
+        "Jiang, Zhihui",
+        "Hong, Zhongshi",
+        "Zhang, Xu",
+        "Chen, Luchuan",
+        "Wei, Shenghong",
+        "Wang, Yi"
+      ],
+      "short_names": [
+        "Song J",
+        "Yu H",
+        "Jiang J",
+        "Jiang Z",
+        "Hong Z",
+        "Zhang X",
+        "Chen L",
+        "Wei S",
+        "Wang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1222-0847",
+        "ORCID: 0000-0002-1385-158X"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Pharmacy, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, Fujian, People's Republic of China.",
+        "University of Alabama at Birmingham, Birmingham, Alabama, USA.",
+        "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Jintian",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yu, Hui",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Jianping",
+        "short_name": "Jiang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhihui",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Hong, Zhongshi",
+        "short_name": "Hong Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xu",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "University of Alabama at Birmingham, Birmingham, Alabama, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Luchuan",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wei, Shenghong",
+        "short_name": "Wei S",
+        "identifiers": [
+          "0000-0003-1222-0847"
+        ],
+        "affiliations": [
+          "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yi",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-1385-158X"
+        ],
+        "affiliations": [
+          "Department of Gastric Surgery, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fujian Branch of Fudan University Shanghai Cancer Center, Fuzhou, Fujian, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:32",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42881483"
+    ],
+    "review": [
+      "42881483"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1242",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

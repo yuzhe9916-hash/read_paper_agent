@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42861495",
+    "doi": "10.1002/bit.70398",
+    "title": "From Sequence to Structure: AlphaFold and the AI Revolution in Aquaculture Drug Discovery and Vaccine Design."
+  },
+  "content": {
+    "abstract": "Global aquaculture faces an escalating disease and antimicrobial resistance (AMR) crisis, exacerbated by climate-driven physiochemical shifts and intensive farming practices. The integration of artificial intelligence (AI) and structural biology, spearheaded by AlphaFold, represents a paradigm shift in aquatic pharmacology, transitioning the field from empirical trial-and-error to rational in silico design. This review critically evaluates the application of AI-driven tools in aquaculture drug discovery and vaccine development. We examine the evolution of AlphaFold in predicting complex host-pathogen interactions and facilitating de novo drug design. Concurrently, we highlight critical limitations stemming from the reliance on multiple sequence alignment (MSA) depth rather than mere PDB taxonomic composition, the unreliability of direct molecular docking due to apo conformations, and the dynamic nature of psychrophilic adaptations in aquatic environments. Furthermore, we assess next-generation structural vaccinology, including reverse vaccinology and pre-fusion antigen stabilization, alongside the integration of nanomaterial-based delivery systems to overcome aquatic pharmacokinetic barriers. The synergy of AI with CRISPR/Cas technologies and multimodal large language models (MM-LLMs) for disease management is also explored. Despite unprecedented computational capabilities, significant bottlenecks remain, including a severe lack of species-specific omics data, the indispensability of in vivo wet-lab validation, and lagging regulatory frameworks. Ultimately, realizing the potential of precision aquatic medicine requires developing aquaculture-specific databases, addressing the ecological risks of open-water deployment, and democratizing these technologies for small-scale farmers to ensure sustainable, equitable, and resilient global aquaculture.",
+    "keywords": [
+      "antimicrobial resistance",
+      "aquaculture therapeutics",
+      "artificial intelligence",
+      "structural vaccinology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ustuner, Enes",
+        "Oz, Mustafa"
+      ],
+      "short_names": [
+        "Ustuner E",
+        "Oz M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3837-5049",
+        "ORCID: 0000-0001-5264-7103"
+      ],
+      "affiliations": [
+        "Department of Fisheries and Diseases, Faculty of Veterinary Medicine, Aksaray University, Aksaray, Turkiye.",
+        "Department of Fisheries and Diseases, Faculty of Veterinary Medicine, Aksaray University, Aksaray, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Üstüner, Enes",
+        "short_name": "Üstüner E",
+        "identifiers": [
+          "0000-0002-3837-5049"
+        ],
+        "affiliations": [
+          "Department of Fisheries and Diseases, Faculty of Veterinary Medicine, Aksaray University, Aksaray, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Öz, Mustafa",
+        "short_name": "Öz M",
+        "identifiers": [
+          "0000-0001-5264-7103"
+        ],
+        "affiliations": [
+          "Department of Fisheries and Diseases, Faculty of Veterinary Medicine, Aksaray University, Aksaray, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology and bioengineering"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Bioeng"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861495",
+      "42475469",
+      "42569261",
+      "42700916",
+      "42344774",
+      "42044246",
+      "41758998",
+      "42075869",
+      "42148057",
+      "39996136",
+      "41410516",
+      "42562952",
+      "41064763",
+      "42421846",
+      "40524056",
+      "42419186",
+      "42846869",
+      "41751160",
+      "42780543",
+      "42817087",
+      "41065853",
+      "40459283",
+      "40451590",
+      "42364829",
+      "41253282",
+      "42638493",
+      "41782801",
+      "41286386",
+      "41996874",
+      "42494527",
+      "42798731",
+      "40774584",
+      "42461270",
+      "42795594",
+      "41035886",
+      "40871464",
+      "40414522",
+      "42784810",
+      "42551559",
+      "41951835",
+      "42482806",
+      "39837431",
+      "42793992",
+      "41753681",
+      "40406131",
+      "40829151",
+      "41388211",
+      "42211230",
+      "41009902",
+      "39952319",
+      "42095951",
+      "41930911",
+      "40973394",
+      "41025068",
+      "41354625",
+      "42198231",
+      "41520708",
+      "40111154",
+      "42807370",
+      "42453397",
+      "42736693",
+      "42467983",
+      "41755349",
+      "41832735",
+      "42852752",
+      "39988220",
+      "42719355",
+      "41590268",
+      "42153319",
+      "41584179",
+      "40732361",
+      "42183878",
+      "42569460",
+      "40725243",
+      "42780123",
+      "42710027",
+      "42075335",
+      "42330856",
+      "41323158",
+      "41340279",
+      "42181087",
+      "42565648",
+      "42152705",
+      "42123604",
+      "41463765",
+      "36321557",
+      "40853597",
+      "42230553",
+      "42572360",
+      "42776794",
+      "41700319",
+      "42182033",
+      "41073589",
+      "41632854",
+      "41520911",
+      "42392238",
+      "42007396",
+      "40483546",
+      "41923798",
+      "42747742"
+    ],
+    "review": [
+      "42861495",
+      "42569261",
+      "42700916",
+      "42344774",
+      "42075869",
+      "42148057",
+      "39996136",
+      "41410516",
+      "42562952",
+      "41064763",
+      "42421846",
+      "40524056",
+      "42419186",
+      "42846869",
+      "41751160",
+      "42780543",
+      "41065853",
+      "40459283",
+      "40451590",
+      "42364829",
+      "41253282",
+      "42638493",
+      "41286386",
+      "41996874",
+      "42494527",
+      "42798731",
+      "40774584",
+      "42461270",
+      "42795594",
+      "41035886",
+      "40871464",
+      "40414522",
+      "42551559",
+      "41951835",
+      "42482806",
+      "39837431",
+      "42793992",
+      "41753681",
+      "40406131",
+      "40829151",
+      "41388211",
+      "42211230",
+      "41009902",
+      "39952319",
+      "42095951",
+      "41930911",
+      "40973394",
+      "41025068",
+      "41354625",
+      "42198231",
+      "40111154",
+      "42807370",
+      "42453397",
+      "42467983",
+      "41755349",
+      "41832735",
+      "39988220",
+      "42719355",
+      "41590268",
+      "42153319",
+      "41584179",
+      "40732361",
+      "42183878",
+      "42569460",
+      "40725243",
+      "42780123",
+      "42710027",
+      "42075335",
+      "42330856",
+      "41323158",
+      "42181087",
+      "42565648",
+      "42123604",
+      "41463765",
+      "36321557",
+      "40853597",
+      "42230553",
+      "42572360",
+      "42776794",
+      "41700319",
+      "42182033",
+      "41073589",
+      "41632854",
+      "41520911",
+      "42392238",
+      "42007396",
+      "41923798",
+      "42747742"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/bit.70398",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

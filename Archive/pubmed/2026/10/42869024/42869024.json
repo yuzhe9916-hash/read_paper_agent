@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "42869024",
+    "doi": "10.1016/j.chembiol.2026.09.012",
+    "title": "Structural basis and rational engineering of a thermophilic Cas13a for robust RNA detection."
+  },
+  "content": {
+    "abstract": "Cas13a enzymes are particularly attractive for nucleic acid detection due to their robust collateral activity. Recently, there has been a surge in the discovery and engineering of thermostable Cas13a proteins for nucleic acid detection. The thermostable Cas13a from Thermoclostridium caenicola (TccCas13a) was identified; however, its native target sensitivity and collateral activity are relatively low and require optimization for molecular diagnostic applications. Here, we report comprehensive biochemical characterization and structure-guided engineering of TccCas13a. Our analyses reveal its intrinsic thermostability, nucleotide substrate preferences, and tolerance to structured target RNA substrates. Rational engineering of the spacer-target RNA binding channel improved target engagement and enabled determination of a 3.13 A cryo-electron microscopy ternary structure. Furthermore, extensive structure-guided engineering of active site-proximal regions yielded a variant with over  approximately 100-fold enhanced target sensitivity and collateral activity across diverse biological matrices. Together, our work provides mechanistic insights and establishes TccCas13a as a platform for next-generation RNA diagnostics.",
+    "keywords": [
+      "CRISPR-Cas13",
+      "RNA diagnostics",
+      "collateral RNA cleavage",
+      "cryo-electron microscopy",
+      "lateral flow assay",
+      "protein engineering",
+      "protein stability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Oladeji, Seye J",
+        "Gonzalez, Diego H",
+        "Deng, Xiangyu",
+        "You, Zheng",
+        "Zhang, Yuxuan",
+        "Golla, Devin A",
+        "Smith, Jamie",
+        "Zhang, Yi",
+        "Gao, Xue",
+        "Lillehoj, Peter B",
+        "Gao, Yang"
+      ],
+      "short_names": [
+        "Oladeji SJ",
+        "Gonzalez DH",
+        "Deng X",
+        "You Z",
+        "Zhang Y",
+        "Golla DA",
+        "Smith J",
+        "Zhang Y",
+        "Gao X",
+        "Lillehoj PB",
+        "Gao Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of BioSciences, Rice University, Houston, TX 77005, USA.",
+        "Department of Bioengineering, Rice University, Houston, TX 77005, USA.",
+        "Department of BioSciences, Rice University, Houston, TX 77005, USA.",
+        "Department of Chemical and Biomolecular Engineering, Rice University, Houston, TX, USA.",
+        "Department of Biomedical Engineering, University of Connecticut, Storrs, CT 06269, USA; Institute of Materials Science, University of Connecticut, Storrs, CT 06269, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of Pennsylvania, Philadelphia, PA 19104, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+        "Department of BioSciences, Rice University, Houston, TX 77005, USA.",
+        "Department of Biomedical Engineering, University of Connecticut, Storrs, CT 06269, USA; Institute of Materials Science, University of Connecticut, Storrs, CT 06269, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of Pennsylvania, Philadelphia, PA 19104, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Bioengineering, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+        "Department of Bioengineering, Rice University, Houston, TX 77005, USA; Department of Mechanical Engineering, Rice University, Houston, TX 77005, USA.",
+        "Department of BioSciences, Rice University, Houston, TX 77005, USA. Electronic address: yg60@rice.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Oladeji, Seye J",
+        "short_name": "Oladeji SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of BioSciences, Rice University, Houston, TX 77005, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez, Diego H",
+        "short_name": "Gonzalez DH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Rice University, Houston, TX 77005, USA."
+        ]
+      },
+      {
+        "full_name": "Deng, Xiangyu",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of BioSciences, Rice University, Houston, TX 77005, USA."
+        ]
+      },
+      {
+        "full_name": "You, Zheng",
+        "short_name": "You Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, Rice University, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuxuan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, University of Connecticut, Storrs, CT 06269, USA; Institute of Materials Science, University of Connecticut, Storrs, CT 06269, USA."
+        ]
+      },
+      {
+        "full_name": "Golla, Devin A",
+        "short_name": "Golla DA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of Pennsylvania, Philadelphia, PA 19104, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA 19104, USA."
+        ]
+      },
+      {
+        "full_name": "Smith, Jamie",
+        "short_name": "Smith J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of BioSciences, Rice University, Houston, TX 77005, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, University of Connecticut, Storrs, CT 06269, USA; Institute of Materials Science, University of Connecticut, Storrs, CT 06269, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Xue",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of Pennsylvania, Philadelphia, PA 19104, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Bioengineering, University of Pennsylvania, Philadelphia, PA 19104, USA."
+        ]
+      },
+      {
+        "full_name": "Lillehoj, Peter B",
+        "short_name": "Lillehoj PB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Rice University, Houston, TX 77005, USA; Department of Mechanical Engineering, Rice University, Houston, TX 77005, USA."
+        ]
+      },
+      {
+        "full_name": "Gao, Yang",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of BioSciences, Rice University, Houston, TX 77005, USA. Electronic address: yg60@rice.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell chemical biology"
+    ],
+    "journal_abbrev": [
+      "Cell Chem Biol"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869024"
+    ],
+    "review": [
+      "42869024"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2451-9456(26)00361-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

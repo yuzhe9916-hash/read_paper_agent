@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42870575",
+  "title": "Elevational melanism in East African Honey Bees involves a Major-Effect locus.",
+  "authors": "Mazzoni, Marco; Loidolt, Florian; Kersten, Sonja; Otieno, Mark; Njovu, Henry; Lasway, Julius Vincent; Scheiner, Ricarda; Hasselmann, Martin",
+  "journal": "Genome biology and evolution",
+  "published_date": "2026-10-14",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究利用CRISPR/Cas9敲除蜜蜂AmEbony基因研究体色黑化，虽涉及CRISPR应用但对象非碱基编辑/交错切割，机制为色素合成而非核酸酶切割或DNA修复，与本课题核心机制关联微弱。",
+  "abstract": "Thermal melanism, whereby darker pigmentation occurs in colder environments, is a widespread pattern, yet its genetic and physiological basis in eusocial insects remains poorly understood. East African honey bees (Apis mellifera) occupy elevational gradients in which highland populations are darker, larger, and more cold tolerant than lowland conspecifics. Here, we integrated population genomics, structural variations, and functional genomics to investigate elevational melanism. We sampled, phenotyped and resequenced 139 workers from five East African mountain systems. A genome wide association study identified 977 Single Nucleotide Polymorphisms (SNPs) significantly associated with abdominal pigmentation, with a single, peak at the ebony ortholog AmEbony on chromosome 1. Allelic variation at AmEbony formed three genetic clusters tracking a continuous pigmentation gradient, and 77 divergent SNPs (DXY = 1) almost perfectly discriminated dark from light bees. Two inversions (r7, r9), previously linked to high elevation adaptation, were detected across additional mountain systems and enriched in dark, highland genomic backgrounds, but did not replace AmEbony as the primary pigmentation locus. CRISPR/Cas9 disruption of AmEbony in A. m. carnica produced darker adults in a qualitative comparison, supporting a conserved role in pigmentation. Head RNA-seq and GENIE3 analysis identified recurrent genotype-associated modules involving oxidoreductase activity and odorant binding. Because population structure covaries with elevation and pigmentation, the GWAS supports AmEbony as a major-effect locus but cannot identify causal variants. Similarly, head-expression data identify molecular changes associated with AmEbony disruption, but cannot establish whether they contribute to pigmentation or whether naturally segregating East African alleles act through the same pathways.",
+  "abstract_zh": "热黑化现象，即在较冷环境中出现更深的色素沉着，是一种广泛存在的模式，然而其在真社会性昆虫中的遗传和生理基础仍知之甚少。东非蜜蜂（Apis mellifera）占据海拔梯度，其中高地种群比低地同种个体更黑、更大且更耐寒。在此，我们整合了群体基因组学、结构变异和功能基因组学来研究海拔黑化现象。我们采集、表型鉴定并重测序了来自五个东非山系的139只工蜂。一项全基因组关联研究识别出977个与腹部色素沉着显著相关的单核苷酸多态性（SNPs），在1号染色体上的ebony直系同源基因AmEbony处有一个单一峰值。AmEbony的等位基因变异形成三个遗传聚类，追踪连续的色素沉着梯度，77个分歧SNPs（DXY = 1）几乎完美地区分了深色和浅色蜜蜂。两个倒位（r7, r9），先前与高海拔适应相关，在额外山系中被检测到，并富集于深色、高地的基因组背景中，但并未取代AmEbony作为主要色素沉着位点。在A. m. carnica中通过CRISPR/Cas9破坏AmEbony，在定性比较中产生了更深的成体，支持其在色素沉着中的保守作用。头部RNA-seq和GENIE3分析识别出涉及氧化还原酶活性和气味结合蛋白的重复基因型相关模块。由于种群结构与海拔和色素沉着共变，GWAS支持AmEbony作为主效位点，但无法确定因果变异。同样，头部表达数据识别了与AmEbony破坏相关的分子变化，但无法确定这些变化是否促成色素沉着，或自然分离的东非等位基因是否通过相同途径起作用。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870575/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42870575/",
+  "paper_page_path": "papers/pubmed/42870575/index.html"
+}

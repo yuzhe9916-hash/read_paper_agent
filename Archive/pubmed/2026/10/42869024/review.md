@@ -1,0 +1,92 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as presented in the abstract; no access to figures, methods, or supplementary data
+- **Shared manuscript claim summary** The authors report biochemical characterization and structure-guided engineering of the thermostable Cas13a from Thermoclostridium caenicola (TccCas13a). They claim intrinsic thermostability, defined nucleotide substrate preferences, tolerance to structured RNA targets, a 3.13 Å cryo-EM ternary structure enabled by rational engineering of the spacer-target RNA binding channel, and a variant with approximately 100-fold enhanced target sensitivity and collateral activity across diverse biological matrices. They position TccCas13a as a platform for next-generation RNA diagnostics.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, methods section, cryo-EM data validation metrics, quantitative assay details, statistical analyses, and comparison datasets
+
+## Reviewer
+- **Overall assessment** The abstract describes a potentially valuable contribution to the RNA diagnostics field, addressing a clear need for improved thermostable Cas13a variants. The combination of biochemical characterization, structure determination, and rational engineering is a coherent and ambitious approach. However, the abstract alone provides insufficient evidence to evaluate the robustness of the claims. Key quantitative details, validation metrics for the cryo-EM structure, and the nature of the "approximately 100-fold" enhancement are not assessable from the supplied material. The work is likely of interest to the molecular diagnostics and CRISPR enzymology communities, but the strength of the conclusions cannot be verified at this stage.
+- **Who would be interested in the results, and why** Researchers in molecular diagnostics, particularly those developing point-of-care nucleic acid detection platforms; CRISPR enzymologists studying Cas13 structure-function relationships; and groups working on thermostable enzyme engineering for field-deployable diagnostics. The combination of structural data and functional enhancement would appeal to both fundamental and applied audiences.
+- **Major strengths** The work addresses a recognized limitation in the field, namely the relatively low activity of thermostable Cas13a variants. The structure-guided engineering approach is methodologically sound in principle. The reported cryo-EM structure at 3.13 Å, if properly validated, would be a valuable addition to the Cas13a structural repertoire. The claim of enhanced performance across diverse biological matrices suggests practical applicability.
+- **Major Concerns** 
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "extensive structure-guided engineering of active site-proximal regions yielded a variant with over approximately 100-fold enhanced target sensitivity and collateral activity across diverse biological matrices"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The central claim of approximately 100-fold enhancement is presented without any quantitative context. It is unclear what the baseline comparator is (wild-type TccCas13a under identical conditions?), what assay formats were used, how sensitivity was defined (limit of detection? signal-to-noise ratio?), and what statistical confidence accompanies this figure. The phrase "over approximately" is imprecise and suggests uncertainty in the measurement.
+  - **Why it matters** This is the primary translational claim of the work. If the enhancement is not rigorously quantified and compared against appropriate controls, the practical significance of the engineered variant cannot be established. The diagnostics field is replete with fold-improvement claims that do not translate to clinically meaningful gains.
+  - **Resolution test** Provide the full dose-response curves, limit-of-detection values with confidence intervals, and direct head-to-head comparisons with wild-type TccCas13a and, ideally, with established Cas13a diagnostics platforms under identical conditions.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Structural validation
+  - **Claim pointer** "determination of a 3.13 A cryo-electron microscopy ternary structure"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** No validation metrics for the cryo-EM structure are provided. The abstract does not mention resolution of the map versus the model, Fourier shell correlation curves, local resolution estimates, or whether the structure has been deposited in the EM Data Bank and Protein Data Bank with accession codes.
+  - **Why it matters** A 3.13 Å cryo-EM structure is a significant claim that requires rigorous validation. Without deposition identifiers and quality metrics, the structural basis of the engineering cannot be independently assessed. The field has established standards for cryo-EM reporting that should be met.
+  - **Resolution test** Provide EMDB/PDB accession codes, FSC curves, model-to-map fit statistics, and a validation table in the full manuscript.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Mechanistic attribution
+  - **Claim pointer** "Rational engineering of the spacer-target RNA binding channel improved target engagement and enabled determination of a 3.13 A cryo-electron microscopy ternary structure"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The causal link between engineering of the spacer-target RNA binding channel and the ability to determine the cryo-EM structure is asserted but not explained. It is unclear whether the engineering was necessary for sample homogeneity, complex stability, or some other property. The abstract does not clarify whether the structure was determined with the engineered or wild-type protein.
+  - **Why it matters** Understanding whether the structure represents the engineered variant or the wild-type enzyme is critical for interpreting the mechanistic insights. If the structure is of the engineered variant, the relevance to the native enzyme's mechanism needs discussion.
+  - **Resolution test** Clarify in the full manuscript which construct was used for structure determination and provide supporting biochemical data showing how the engineering improved target engagement.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Specificity and off-target effects
+  - **Claim pointer** "enhanced target sensitivity and collateral activity across diverse biological matrices"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract emphasizes enhanced collateral activity as a positive outcome. However, in diagnostic applications, collateral activity must be balanced against specificity. It is not stated whether the engineered variant maintains or improves target specificity, or whether the enhanced activity comes at the cost of increased non-specific background cleavage.
+  - **Why it matters** A variant with enhanced collateral activity but reduced specificity would have limited diagnostic utility. The field has learned that sensitivity gains must be evaluated alongside specificity metrics.
+  - **Resolution test** Provide specificity data, including mismatched target discrimination, background signal in no-target controls, and performance in complex matrices with defined spike-in targets.
+- **Minor Comments** 
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Precision of language
+  - **Affected element** "over approximately 100-fold"
+  - **Evidence pointer** Abstract
+  - **Issue** The phrase "over approximately" is imprecise and internally contradictory. It is unclear whether the enhancement is greater than 100-fold or approximately 100-fold.
+  - **Required correction** Use a precise value with confidence interval, or state a clear threshold such as "greater than 100-fold" with supporting statistics.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Contextualization
+  - **Affected element** "diverse biological matrices"
+  - **Evidence pointer** Abstract
+  - **Issue** The abstract does not specify which biological matrices were tested. This limits the reader's ability to assess the practical relevance of the claim.
+  - **Required correction** List the specific matrices tested in the abstract or clearly reference a table in the full manuscript.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Comparative benchmarking
+  - **Affected element** "robust RNA detection"
+  - **Evidence pointer** Abstract
+  - **Issue** The abstract does not compare the engineered TccCas13a variant to existing Cas13a-based detection platforms, such as SHERLOCK or other thermostable Cas13 variants. Without such comparison, the relative improvement is unclear.
+  - **Required correction** Include a direct comparison to at least one established Cas13a detection platform under matched conditions.
+  - **Concern ID** R1-m4
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "intrinsic thermostability"
+  - **Evidence pointer** Abstract
+  - **Issue** The term "intrinsic" is vague. It is unclear whether this refers to melting temperature, half-life at elevated temperatures, or activity retention after heat exposure.
+  - **Required correction** Specify the thermostability metric used and provide quantitative values.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (quantitative support for the 100-fold claim), R1-M2 (cryo-EM validation and deposition), R1-M3 (clarification of which construct was used for structure determination)
+- **Assessment against Nature-style criteria** 
+  - Originality: The work appears to be an incremental but useful contribution. Structure-guided engineering of Cas13a is not entirely novel, but the specific focus on a thermostable variant from Thermoclostridium caenicola and the combination of structural and functional data may offer new insights. The originality claim is moderate and cannot be fully assessed from the abstract alone.
+  - Scientific importance: The work addresses a practical need in RNA diagnostics, specifically the optimization of thermostable Cas13a for field-deployable applications. If the claims hold, this could be a useful advance. However, the importance is primarily applied rather than fundamental.
+  - Interdisciplinary readership: The work bridges structural biology, enzymology, and molecular diagnostics. It would appeal to a reasonably broad readership within these intersecting communities, though perhaps not to a wider audience.
+  - Technical soundness: Cannot be assessed from the abstract. The cryo-EM structure and the functional assays require full methodological scrutiny. The imprecise language around the fold-enhancement claim raises concerns about rigor.
+  - Readability for nonspecialists: The abstract is concise and generally accessible, though terms like "collateral activity" and "spacer-target RNA binding channel" assume some familiarity with CRISPR biology. The abstract is well-structured and communicates the narrative clearly.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract presents a coherent narrative and a potentially valuable contribution, but the central quantitative claims and the structural validation cannot be assessed without the full manuscript. A decision would require access to the complete data, particularly the cryo-EM validation metrics, the dose-response data supporting the 100-fold claim, and the specificity analyses.
+
+## Risk / unsupported claims
+- The "approximately 100-fold enhanced target sensitivity and collateral activity" claim is unsupported without quantitative data and statistical analysis.
+- The claim that engineering of the spacer-target RNA binding channel "enabled" structure determination implies a causal relationship that is not explained.
+- The assertion of "intrinsic thermostability" is vague and unquantified.
+- The claim of performance "across diverse biological matrices" is unverifiable without specification of the matrices and the data.
+- The positioning of TccCas13a as "a platform for next-generation RNA diagnostics" is a forward-looking statement that extends beyond the data presented in the abstract.

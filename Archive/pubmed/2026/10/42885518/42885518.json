@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42885518",
+    "doi": "10.1080/14756366.2026.2743434",
+    "title": "Optimisation and mechanistic characterization of a selective benzoxazine-based MAP4K4 inhibitor in pancreatic cancer cells."
+  },
+  "content": {
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a lethal malignancy with limited targeted therapeutic options. Mitogen-activated protein kinase kinase kinase kinase 4 (MAP4K4) has been implicated in PDAC progression, but the development of effective MAP4K4 inhibitors requires further improvement in potency, selectivity, and mechanistic characterisation. We previously identified F389-0746 as a selective benzoxazine-based MAP4K4 inhibitor with anti-cancer activity in pancreatic cancer. Here, we used the F389-0746 scaffold to guide the selection and evaluation of benzoxazine-based analogs, followed by biochemical, structural, selectivity, and cellular characterisation of the most potent analogue. Among the identified analogs, F389-0736 showed the strongest MAP4K4 inhibitory activity, with an IC(50) value of 44.0 nM, representing an approximately threefold improvement over F389-0746. Docking and structure-activity relationship analyses identified key binding interactions that support the enhanced potency of F389-0736 within the MAP4K4 binding pocket. Kinase profiling further demonstrated the selectivity of F389-0736 for MAP4K4 across the tested kinase panel. CETSA further demonstrated F389-0736-induced thermal stabilisation of MAP4K4, supporting intracellular target engagement. In pancreatic cancer cells, F389-0736 suppressed TAK1, JNK, and p38 phosphorylation and significantly reduced cell viability and proliferation, with IC(50) and GI(50) values of 4.41-4.65 muM and 4.03-5.12 muM, respectively. F389-0736 also inhibited clonogenic growth and induced sub-G1 accumulation with activation of apoptotic signalling. RNA sequencing identified 398 differentially expressed genes and revealed enrichment of inflammatory and stress response pathways, programmed cell death programs, oncogenic signalling perturbation, and metabolic reprogramming. These findings identify F389-0736 as a potent and selective benzoxazine-based MAP4K4 inhibitor and support its use as a chemical probe and lead scaffold for investigating MAP4K4-dependent signalling and therapeutic vulnerability in pancreatic cancer.",
+    "keywords": [
+      "MAP4K4",
+      "benzoxazine-based inhibitor",
+      "pancreatic cancer",
+      "structure-activity relationship"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Structure-Activity Relationship",
+      "*Pancreatic Neoplasms/pathology/drug therapy/metabolism",
+      "*Antineoplastic Agents/pharmacology/chemistry/chemical synthesis",
+      "Cell Proliferation/drug effects",
+      "Dose-Response Relationship, Drug",
+      "Molecular Structure",
+      "Drug Screening Assays, Antitumor",
+      "*Protein Kinase Inhibitors/pharmacology/chemistry/chemical synthesis",
+      "*Benzoxazines/pharmacology/chemistry/chemical synthesis",
+      "*Protein Serine-Threonine Kinases/antagonists & inhibitors/metabolism",
+      "*Intracellular Signaling Peptides and Proteins/antagonists & inhibitors/metabolism",
+      "Apoptosis/drug effects",
+      "Cell Line, Tumor",
+      "Tumor Cells, Cultured"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Yi-Wen",
+        "Yang, Chun-Lin",
+        "Fang-Chin, Yu-Ting",
+        "Yeh, Yun-Hsuan",
+        "Chen, Bor-Jiun",
+        "Sung, Tzu-Ying",
+        "Chu, Jung-Chun",
+        "Lin, Tony Eight",
+        "Yen, Shih-Chung",
+        "Hsieh, Jui-Hua",
+        "Huang, Sing-Han",
+        "Chu, Cheng-Ying",
+        "Yang, Kai-Chien",
+        "Hsu, Kai-Cheng",
+        "Pan, Shiow-Lin"
+      ],
+      "short_names": [
+        "Wu YW",
+        "Yang CL",
+        "Fang-Chin YT",
+        "Yeh YH",
+        "Chen BJ",
+        "Sung TY",
+        "Chu JC",
+        "Lin TE",
+        "Yen SC",
+        "Hsieh JH",
+        "Huang SH",
+        "Chu CY",
+        "Yang KC",
+        "Hsu KC",
+        "Pan SL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Warshel Institute for Computational Biology, School of Medicine, The Chinese University of Hong Kong (Shenzhen), Shenzhen, Guangdong, China.",
+        "Division of Translational Toxicology, National Institute of Environmental Health Sciences, National Institutes of Health, Durham, NC, USA.",
+        "Department of Digital Biology, Graphen Drugomics Inc., New York, NY, USA.",
+        "CRISPR Gene Targeting Core, Taipei Medical University, Taipei, Taiwan.",
+        "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Department and Graduate Institute of Pharmacology, National Taiwan University College of Medicine, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program in Innovative Medical Technology Research and Development Industry, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+        "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Ph.D. Program in Innovative Medical Technology Research and Development Industry, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Yi-Wen",
+        "short_name": "Wu YW",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yang, Chun-Lin",
+        "short_name": "Yang CL",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Fang-Chin, Yu-Ting",
+        "short_name": "Fang-Chin YT",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yeh, Yun-Hsuan",
+        "short_name": "Yeh YH",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Bor-Jiun",
+        "short_name": "Chen BJ",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Sung, Tzu-Ying",
+        "short_name": "Sung TY",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chu, Jung-Chun",
+        "short_name": "Chu JC",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Tony Eight",
+        "short_name": "Lin TE",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yen, Shih-Chung",
+        "short_name": "Yen SC",
+        "identifiers": [],
+        "affiliations": [
+          "Warshel Institute for Computational Biology, School of Medicine, The Chinese University of Hong Kong (Shenzhen), Shenzhen, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Hsieh, Jui-Hua",
+        "short_name": "Hsieh JH",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Translational Toxicology, National Institute of Environmental Health Sciences, National Institutes of Health, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Sing-Han",
+        "short_name": "Huang SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Digital Biology, Graphen Drugomics Inc., New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chu, Cheng-Ying",
+        "short_name": "Chu CY",
+        "identifiers": [],
+        "affiliations": [
+          "CRISPR Gene Targeting Core, Taipei Medical University, Taipei, Taiwan.",
+          "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yang, Kai-Chien",
+        "short_name": "Yang KC",
+        "identifiers": [],
+        "affiliations": [
+          "Department and Graduate Institute of Pharmacology, National Taiwan University College of Medicine, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hsu, Kai-Cheng",
+        "short_name": "Hsu KC",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program in Innovative Medical Technology Research and Development Industry, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Pan, Shiow-Lin",
+        "short_name": "Pan SL",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan.",
+          "TMU Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei, Taiwan.",
+          "Ph.D. Program in Innovative Medical Technology Research and Development Industry, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of enzyme inhibition and medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Enzyme Inhib Med Chem"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 11:38",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42885518"
+    ],
+    "review": [
+      "42885518"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/14756366.2026.2743434?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MAPK8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-853",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

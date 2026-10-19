@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42877157",
+  "title": "Starch characteristics distinguish malt from non-malt barley and can be modulated via SBEIIb promoter editing.",
+  "authors": "Li, Mengdi; He, Peixin; Cai, Kangfeng; Yao, Jie; Huang, Danyin; Zhang, Guoping; Ye, Lingzhen",
+  "journal": "Frontiers in plant science",
+  "published_date": "2026-10-15",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 6,
+  "one_liner_zh": "该研究通过CRISPR/Cas9编辑大麦SBEIIb启动子调节直链淀粉/支链淀粉比例，虽涉及基因编辑工具应用，但核心是淀粉性状改良而非碱基编辑或交错切割的分子机制，机制深度有限。",
+  "abstract": "Barley is classified as malt or non-malt barley according to its end use, yet the role of starch characteristics in determining malt quality remains poorly understood. In this study, we systematically compared starch content, composition, granule structure, and thermal properties between six malt and six non-malt barley varieties. Compared with non-malt barley, malt barley exhibited significantly higher total starch (TS) content, a lower amylose/amylopectin (Am/Ap) ratio, and a larger area of large starch granules (LSGs), features that may collectively enhance the contact surface for hydrolytic enzymes during mashing. Thermal property analysis further revealed a narrower gelatinization temperature range (R) in malt barley, indicating more synchronized and potentially more efficient starch gelatinization. Based on these distinct starch traits, we employed novel CRISPR/Cas9-mediated editing of the SBEIIb promoter to generate novel barley accessions. The resulting promoter-editing SBEIIb mutants showed a significantly reduced Am/Ap ratio, closely mimicking the altered starch profile potentially relevant to malt quality related traits of elite malt barley varieties, without affecting total starch content or grain morphology. Mechanistically, this compositional shift was associated with altered starch-associated genes expression, demonstrating that targeted promoter modification is a promising strategy for malt barley improvement while avoiding the pleiotropic defects commonly caused by coding-region knockouts. These findings reveal fundamental differences in starch properties between malt and non-malt barley and provide both genetic resources and a feasible breeding strategy for developing superior malt barley cultivars.",
+  "abstract_zh": "大麦根据其最终用途分为麦芽大麦和非麦芽大麦，然而淀粉特性在决定麦芽品质中的作用仍知之甚少。在本研究中，我们系统比较了六个麦芽大麦和六个非麦芽大麦品种之间的淀粉含量、组成、颗粒结构和热特性。与非麦芽大麦相比，麦芽大麦表现出显著更高的总淀粉（TS）含量、更低的直链淀粉/支链淀粉（Am/Ap）比值以及更大的大淀粉颗粒（LSGs）面积，这些特征可能共同增强了糖化过程中水解酶的接触表面。热特性分析进一步揭示麦芽大麦具有更窄的糊化温度范围（R），表明淀粉糊化更为同步且可能更高效。基于这些独特的淀粉性状，我们采用新型CRISPR/Cas9介导的SBEIIb启动子编辑技术生成了新型大麦种质。所得的启动子编辑SBEIIb突变体表现出显著降低的Am/Ap比值，密切模拟了与优质麦芽大麦品种麦芽品质相关性状相关的改变后淀粉谱，且不影响总淀粉含量或籽粒形态。机制上，这种组成变化与淀粉相关基因表达的改变相关联，证明靶向启动子修饰是改良麦芽大麦的一种有前景策略，同时避免了编码区敲除通常导致的多效性缺陷。这些发现揭示了麦芽与非麦芽大麦之间淀粉特性的根本差异，并为开发优良麦芽大麦品种提供了遗传资源和可行的育种策略。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42877157/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42877157/",
+  "paper_page_path": "papers/pubmed/42877157/index.html"
+}

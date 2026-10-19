@@ -1,0 +1,216 @@
+{
+  "identity": {
+    "pmid": "42887681",
+    "doi": "10.1016/j.ijpara.2026.104985",
+    "title": "Oocyst wall protein EtOWP6 is critical for sporocyst formation and developmental progression in Eimeria tenella."
+  },
+  "content": {
+    "abstract": "Transmission of apicomplexan parasites-including Eimeria, Toxoplasma, and Cryptosporidium-relies on the environmentally resilient oocyst wall, a bilayered structure whose integrity is maintained by cysteine-rich oocyst wall proteins (OWPs). Yet the functional roles of these conserved proteins remain poorly defined. Here, we characterize EtOWP6, a conserved OWP in Eimeria tenella, the causative agent of avian coccidiosis. Immunofluorescence reveals that EtOWP6 localizes specifically to wall-forming bodies and oocyst/sporocyst walls during sexual development. CRISPR/Cas9-mediated knockout demonstrates that EtOWP6 is essential for sporocyst formation, with deficient parasites exhibiting malformed sporocysts, developmental arrest in vitro, and an in vivo reduction in oocyst output exceeding 85%. The knockout strain is highly attenuated yet retains partial immunogenicity. Transcriptomic analysis reveals that EtOWP6 deletion induces widespread transcriptional reprogramming, disrupting genes critical for developmental regulation and oocyst wall biogenesis. Our findings establish EtOWP6 as a critical regulator coupling structural integrity with developmental progression in Eimeria, and more broadly, highlight OWPs as conserved targets for transmission-blocking interventions across apicomplexan parasites.",
+    "keywords": [
+      "Apicomplexa",
+      "Oocyst wall protein",
+      "gene knockout",
+      "sexual reproduction",
+      "sporocyst formation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jia, Liushu",
+        "Wang, Jinwen",
+        "Wang, Qingjie",
+        "Wang, Lu",
+        "Zhu, Shunhai",
+        "Zhao, Qiping",
+        "Wu, Shanbo",
+        "Han, Wenqi",
+        "Bai, Jaiyu",
+        "Zhao, Fanghe",
+        "Yu, Yu",
+        "Han, Hongyu",
+        "Dong, Hui"
+      ],
+      "short_names": [
+        "Jia L",
+        "Wang J",
+        "Wang Q",
+        "Wang L",
+        "Zhu S",
+        "Zhao Q",
+        "Wu S",
+        "Han W",
+        "Bai J",
+        "Zhao F",
+        "Yu Y",
+        "Han H",
+        "Dong H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; College of Life Science, Jiangxi Science and Technology Normal University, Nanchang 330000, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; Shaanxi Provincial Center for Animal Disease Prevention and Control, Xi'an 710003, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; Xin Hua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China. Electronic address: hhysh@shvri.ac.cn.",
+        "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China. Electronic address: donghui@shvri.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jia, Liushu",
+        "short_name": "Jia L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; College of Life Science, Jiangxi Science and Technology Normal University, Nanchang 330000, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jinwen",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qingjie",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; Shaanxi Provincial Center for Animal Disease Prevention and Control, Xi'an 710003, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China; Xin Hua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Shunhai",
+        "short_name": "Zhu S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Qiping",
+        "short_name": "Zhao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Shanbo",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Han, Wenqi",
+        "short_name": "Han W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Bai, Jaiyu",
+        "short_name": "Bai J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Fanghe",
+        "short_name": "Zhao F",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yu",
+        "short_name": "Yu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China."
+        ]
+      },
+      {
+        "full_name": "Han, Hongyu",
+        "short_name": "Han H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China. Electronic address: hhysh@shvri.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Dong, Hui",
+        "short_name": "Dong H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Animal Parasitology of Ministry of Agriculture, Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Shanghai 200241, PR China. Electronic address: donghui@shvri.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal for parasitology"
+    ],
+    "journal_abbrev": [
+      "Int J Parasitol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 23:33",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42887681"
+    ],
+    "review": [
+      "42887681"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0020-7519(26)00216-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

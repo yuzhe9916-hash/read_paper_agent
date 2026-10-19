@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42862095",
+  "title": "Structural basis for ITP-selective hydrolysis by a CRISPR-associated Nudix hydrolase.",
+  "authors": "Wu, Wanqian; Xia, Shenglan; Li, Duo; Lin, Junchao; Cao, Chen; Kong, Jianping; Lu, Meiling; Xiao, Yibei; Li, Zhaoxing",
+  "journal": "Journal of bacteriology",
+  "published_date": "2026-10-12",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 6,
+  "one_liner_zh": "该文解析了CRISPR相关Nudix水解酶特异性识别并水解ITP的结构基础，虽非直接研究Cas切割或碱基编辑，但揭示了CRISPR系统内核苷酸解毒/自我保护模块的分子机制，对理解CRISPR相关编辑系统的辅助调控有迁移启发。",
+  "abstract": "The nucleoside diphosphates linked to moiety-X (Nudix) hydrolases are a superfamily of proteins defined by the characteristic Nudix box sequence, most of which are involved in clearing the cell of potentially deleterious metabolites and in preventing the accumulation of metabolic intermediates. The Nudix hydrolase associated with CRISPR-Cas-associated adenosine deaminases (CAAD) from Limisphaera ngatamarikiensis (LngNH) mitigates CAAD-induced toxicity by hydrolyzing ITP to IMP and pyrophosphate. Here, we determined crystal structures of LngNH in the apo form and in complex with ITP using catalytic mutants and validated key interactions by site-directed mutagenesis. The hypoxanthine of ITP is deeply buried in a hydrophobic pocket and engages a distinct hydrogen-bond network, whereas the triphosphate tail is coordinated by conserved residues and divalent metal ions. Together, these findings provide a structural framework for CAAD-linked nucleotide sanitization and suggest that CRISPR-associated Nudix hydrolases function as local self-protection modules that limit toxicity from noncanonical inosine nucleotides.IMPORTANCENucleotide quality-control enzymes protect cells from harmful metabolic by-products. Here, we characterize a CRISPR-associated nucleoside diphosphates linked to moiety-X (Nudix) hydrolase that removes ITP, a toxic noncanonical nucleotide generated during antiviral defense. Biochemical and structural analyses show how this enzyme specifically recognizes and hydrolyzes ITP while avoiding related cellular nucleotides. Our findings suggest that CRISPR-associated nucleotide deaminase systems require \"self-protection\" mechanisms to prevent damage from their own antiviral activities. These results expand our understanding of how bacteria maintain nucleotide homeostasis during immune responses and reveal an additional regulatory layer within CRISPR-associated defense systems. The structural framework reported here also provides a foundation for future studies of nucleotide sanitization enzymes in microbial physiology and antiviral immunity.",
+  "abstract_zh": "核苷二磷酸连接部分X（Nudix）水解酶是一个由特征性Nudix盒序列定义的蛋白质超家族，其中大多数参与清除细胞中潜在有害代谢物并防止代谢中间体积累。来自Limisphaera ngatamarikiensis的与CRISPR-Cas相关腺苷脱氨酶（CAAD）相关的Nudix水解酶（LngNH）通过将ITP水解为IMP和焦磷酸来缓解CAAD诱导的毒性。在此，我们解析了LngNH在无配体形式及与ITP复合物中的晶体结构，使用催化突变体并通过定点突变验证了关键相互作用。ITP的次黄嘌呤深埋于疏水口袋中，并参与独特的氢键网络，而三磷酸尾部则由保守残基和二价金属离子协调。综合这些发现，为CAAD关联的核苷酸净化提供了结构框架，并提示CRISPR相关Nudix水解酶作为局部自我保护模块，限制非典型肌苷核苷酸的毒性。重要性 核苷酸质量控制酶保护细胞免受有害代谢副产物的影响。在此，我们表征了一种CRISPR相关的核苷二磷酸连接部分X（Nudix）水解酶，该酶去除ITP——一种在抗病毒防御过程中产生的有毒非典型核苷酸。生化和结构分析显示该酶如何特异性识别并水解ITP，同时避免相关细胞核苷酸。我们的发现表明，CRISPR相关核苷酸脱氨酶系统需要“自我保护”机制以防止其自身抗病毒活性造成损害。这些结果扩展了我们对细菌在免疫应答期间维持核苷酸稳态的理解，并揭示了CRISPR相关防御系统内的额外调控层。本文报道的结构框架也为未来研究微生物生理学和抗病毒免疫中的核苷酸净化酶提供了基础。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42862095/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42862095/",
+  "paper_page_path": "papers/pubmed/42862095/index.html"
+}

@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42890117",
+    "doi": "10.1016/j.omtn.2026.103106",
+    "title": "CasNano: An ultracompact CRISPR-Cas12f with a GC-rich PAM for epigenome editing with therapeutic potential."
+  },
+  "content": {
+    "abstract": "Clinical use of CRISPR-Cas proteins for genome engineering is constrained by their large size, limiting in vivo delivery. To address this, we engineered an ultracompact and versatile platform from a minimally active, 400-amino acid Cas12f protein from Blautia lenta. A multi-stage strategy of structure-guided protein mutagenesis and systematic single guide RNA (sgRNA) optimization transformed BlCas12f into a \"CasNano\" as a potent genome targeting tool for mammalian cells. When a catalytically dead CasNano (dCasNano) is fused to a VPR domain, it activates endogenous genes with an efficiency and specificity comparable or superior to the benchmark SpCas9 system for the guide RNAs (gRNAs) and loci tested under equal-mass plasmid transfection; as editor expression was not quantified and stoichiometric differences would, in any case, preclude equivalent normalization, these comparisons describe functional output rather than intrinsic activity. We established the platform's versatility for bidirectional epigenetic editing by fusing dCasNano to a DNA methyltransferase (DNMT3A) for gene silencing or a dioxygenase (TET1) for gene activation. TET1-mediated reactivation persisted for 5 months in human embryonic stem cells (hESCs), whereas DNMT3A-deposited methylation was not retained at 2 weeks in a dividing reporter line. CasNano's small size and distinct CCN PAM sequence highlight its potential for future therapeutic applications constrained by viral delivery cargo capacity.",
+    "keywords": [
+      "CRISPR activation",
+      "CRISPR-Cas",
+      "CRISPRa",
+      "CasMini",
+      "DNA methylation;",
+      "MT: RNA/DNA Editing",
+      "epigenetic editing",
+      "functional genomics",
+      "rett syndrome"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Dongkyeong",
+        "Huang, Chia-Wei",
+        "Pan, Richard",
+        "Qian, Junming",
+        "Wu, Xuebing",
+        "Devinsky, Orrin",
+        "Tsai, Yi-Ting",
+        "Liu, Shawn"
+      ],
+      "short_names": [
+        "Kim D",
+        "Huang CW",
+        "Pan R",
+        "Qian J",
+        "Wu X",
+        "Devinsky O",
+        "Tsai YT",
+        "Liu S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Epitor Therapeutics, Inc., New York, NY 10032, USA.",
+        "Epitor Therapeutics, Inc., New York, NY 10032, USA.",
+        "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA.",
+        "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA.",
+        "Department of Medicine and Department of Systems Biology, New York, NY 10032, USA.",
+        "Epitor Therapeutics, Inc., New York, NY 10032, USA.",
+        "Epitor Therapeutics, Inc., New York, NY 10032, USA.",
+        "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Dongkyeong",
+        "short_name": "Kim D",
+        "identifiers": [],
+        "affiliations": [
+          "Epitor Therapeutics, Inc., New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Huang, Chia-Wei",
+        "short_name": "Huang CW",
+        "identifiers": [],
+        "affiliations": [
+          "Epitor Therapeutics, Inc., New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Pan, Richard",
+        "short_name": "Pan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Qian, Junming",
+        "short_name": "Qian J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Xuebing",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine and Department of Systems Biology, New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Devinsky, Orrin",
+        "short_name": "Devinsky O",
+        "identifiers": [],
+        "affiliations": [
+          "Epitor Therapeutics, Inc., New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Tsai, Yi-Ting",
+        "short_name": "Tsai YT",
+        "identifiers": [],
+        "affiliations": [
+          "Epitor Therapeutics, Inc., New York, NY 10032, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Shawn",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Cellular Biophysics, Columbia University, New York, NY 10032, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular therapy. Nucleic acids"
+    ],
+    "journal_abbrev": [
+      "Mol Ther Nucleic Acids"
+    ],
+    "pub_date": "2026 Dec 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42890117"
+    ],
+    "review": [
+      "42890117"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2162-2531(26)00277-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

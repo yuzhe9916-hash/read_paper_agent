@@ -1,0 +1,169 @@
+{
+  "identity": {
+    "pmid": "42870575",
+    "doi": "10.1093/gbe/evag260",
+    "title": "Elevational melanism in East African Honey Bees involves a Major-Effect locus."
+  },
+  "content": {
+    "abstract": "Thermal melanism, whereby darker pigmentation occurs in colder environments, is a widespread pattern, yet its genetic and physiological basis in eusocial insects remains poorly understood. East African honey bees (Apis mellifera) occupy elevational gradients in which highland populations are darker, larger, and more cold tolerant than lowland conspecifics. Here, we integrated population genomics, structural variations, and functional genomics to investigate elevational melanism. We sampled, phenotyped and resequenced 139 workers from five East African mountain systems. A genome wide association study identified 977 Single Nucleotide Polymorphisms (SNPs) significantly associated with abdominal pigmentation, with a single, peak at the ebony ortholog AmEbony on chromosome 1. Allelic variation at AmEbony formed three genetic clusters tracking a continuous pigmentation gradient, and 77 divergent SNPs (DXY = 1) almost perfectly discriminated dark from light bees. Two inversions (r7, r9), previously linked to high elevation adaptation, were detected across additional mountain systems and enriched in dark, highland genomic backgrounds, but did not replace AmEbony as the primary pigmentation locus. CRISPR/Cas9 disruption of AmEbony in A. m. carnica produced darker adults in a qualitative comparison, supporting a conserved role in pigmentation. Head RNA-seq and GENIE3 analysis identified recurrent genotype-associated modules involving oxidoreductase activity and odorant binding. Because population structure covaries with elevation and pigmentation, the GWAS supports AmEbony as a major-effect locus but cannot identify causal variants. Similarly, head-expression data identify molecular changes associated with AmEbony disruption, but cannot establish whether they contribute to pigmentation or whether naturally segregating East African alleles act through the same pathways.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "adaptation",
+      "chromosomal inversion",
+      "melanism"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mazzoni, Marco",
+        "Loidolt, Florian",
+        "Kersten, Sonja",
+        "Otieno, Mark",
+        "Njovu, Henry",
+        "Lasway, Julius Vincent",
+        "Scheiner, Ricarda",
+        "Hasselmann, Martin"
+      ],
+      "short_names": [
+        "Mazzoni M",
+        "Loidolt F",
+        "Kersten S",
+        "Otieno M",
+        "Njovu H",
+        "Lasway JV",
+        "Scheiner R",
+        "Hasselmann M"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8028-9624",
+        "ORCID: 0000-0003-3305-4024"
+      ],
+      "affiliations": [
+        "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany.",
+        "Behavioral Physiology and Sociobiology, Biocenter, Julius-Maximilian-Universitat Wurzburg, Am Hubland, 97974 Wurzburg, Germany.",
+        "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany.",
+        "Department of Water and Agricultural Resource Management, University of Embu, P.O. Box 6-60100, Embu - Kenya.",
+        "National Center for Wildlife, Protected Areas Directorate, P.O. BOX. 4508, Riyadh 12411, Kingdom of Saudi Arabia.",
+        "Department of Wildlife Management, College of African Wildlife Management, Mweka, 214 Mweka Chini HM 25216 Kibosho Mashariki, Moshi, Tanzania.",
+        "Behavioral Physiology and Sociobiology, Biocenter, Julius-Maximilian-Universitat Wurzburg, Am Hubland, 97974 Wurzburg, Germany.",
+        "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany.",
+        "KomBioTa- Center for Biodiversity and Integrative Taxonomy, University of Hohenheim and State Museum of Natural History, Stuttgart, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mazzoni, Marco",
+        "short_name": "Mazzoni M",
+        "identifiers": [
+          "0009-0003-8028-9624"
+        ],
+        "affiliations": [
+          "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany."
+        ]
+      },
+      {
+        "full_name": "Loidolt, Florian",
+        "short_name": "Loidolt F",
+        "identifiers": [],
+        "affiliations": [
+          "Behavioral Physiology and Sociobiology, Biocenter, Julius-Maximilian-Universität Würzburg, Am Hubland, 97974 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kersten, Sonja",
+        "short_name": "Kersten S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany."
+        ]
+      },
+      {
+        "full_name": "Otieno, Mark",
+        "short_name": "Otieno M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Water and Agricultural Resource Management, University of Embu, P.O. Box 6-60100, Embu - Kenya."
+        ]
+      },
+      {
+        "full_name": "Njovu, Henry",
+        "short_name": "Njovu H",
+        "identifiers": [],
+        "affiliations": [
+          "National Center for Wildlife, Protected Areas Directorate, P.O. BOX. 4508, Riyadh 12411, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Lasway, Julius Vincent",
+        "short_name": "Lasway JV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Wildlife Management, College of African Wildlife Management, Mweka, 214 Mweka Chini HM 25216 Kibosho Mashariki, Moshi, Tanzania."
+        ]
+      },
+      {
+        "full_name": "Scheiner, Ricarda",
+        "short_name": "Scheiner R",
+        "identifiers": [],
+        "affiliations": [
+          "Behavioral Physiology and Sociobiology, Biocenter, Julius-Maximilian-Universität Würzburg, Am Hubland, 97974 Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Hasselmann, Martin",
+        "short_name": "Hasselmann M",
+        "identifiers": [
+          "0000-0003-3305-4024"
+        ],
+        "affiliations": [
+          "Department of Livestock Population Genomics, Institute of Animal Science, University of Hohenheim, Garbenstrasse 17, 70599, Stuttgart, Germany.",
+          "KomBioTa- Center for Biodiversity and Integrative Taxonomy, University of Hohenheim and State Museum of Natural History, Stuttgart, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology and evolution"
+    ],
+    "journal_abbrev": [
+      "Genome Biol Evol"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870575"
+    ],
+    "review": [
+      "42870575"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/gbe/article-lookup/doi/10.1093/gbe/evag260",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

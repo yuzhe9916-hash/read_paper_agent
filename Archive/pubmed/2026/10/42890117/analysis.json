@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42890117",
+  "title": "CasNano: An ultracompact CRISPR-Cas12f with a GC-rich PAM for epigenome editing with therapeutic potential.",
+  "authors": "Kim, Dongkyeong; Huang, Chia-Wei; Pan, Richard; Qian, Junming; Wu, Xuebing; Devinsky, Orrin; Tsai, Yi-Ting; Liu, Shawn",
+  "journal": "Molecular therapy. Nucleic acids",
+  "published_date": "2026-10-17",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 6,
+  "one_liner_zh": "该文工程化超紧凑Cas12f（CasNano）用于表观基因组编辑，虽涉及Cas蛋白工程和sgRNA优化，但核心是工具应用而非切割/碱基编辑的分子机制，机制深度有限。",
+  "abstract": "Clinical use of CRISPR-Cas proteins for genome engineering is constrained by their large size, limiting in vivo delivery. To address this, we engineered an ultracompact and versatile platform from a minimally active, 400-amino acid Cas12f protein from Blautia lenta. A multi-stage strategy of structure-guided protein mutagenesis and systematic single guide RNA (sgRNA) optimization transformed BlCas12f into a \"CasNano\" as a potent genome targeting tool for mammalian cells. When a catalytically dead CasNano (dCasNano) is fused to a VPR domain, it activates endogenous genes with an efficiency and specificity comparable or superior to the benchmark SpCas9 system for the guide RNAs (gRNAs) and loci tested under equal-mass plasmid transfection; as editor expression was not quantified and stoichiometric differences would, in any case, preclude equivalent normalization, these comparisons describe functional output rather than intrinsic activity. We established the platform's versatility for bidirectional epigenetic editing by fusing dCasNano to a DNA methyltransferase (DNMT3A) for gene silencing or a dioxygenase (TET1) for gene activation. TET1-mediated reactivation persisted for 5 months in human embryonic stem cells (hESCs), whereas DNMT3A-deposited methylation was not retained at 2 weeks in a dividing reporter line. CasNano's small size and distinct CCN PAM sequence highlight its potential for future therapeutic applications constrained by viral delivery cargo capacity.",
+  "abstract_zh": "CRISPR-Cas蛋白在基因组工程中的临床应用受限于其较大的尺寸，从而限制了体内递送。为解决这一问题，我们从Blautia lenta中一种最小活性、由400个氨基酸组成的Cas12f蛋白出发，设计了一个超紧凑且多功能的平台。通过结构引导的蛋白质诱变和系统性单引导RNA（sgRNA）优化的多阶段策略，将BlCas12f转化为“CasNano”，成为哺乳动物细胞中强效的基因组靶向工具。当催化失活的CasNano（dCasNano）与VPR结构域融合时，在等质量质粒转染条件下，对于所测试的引导RNA（gRNAs）和位点，其激活内源基因的效率与特异性与基准SpCas9系统相当或更优；由于编辑者表达量未被量化，且化学计量差异在任何情况下都会妨碍等效标准化，这些比较描述的是功能性输出而非内在活性。我们通过将dCasNano与DNA甲基转移酶（DNMT3A）融合以实现基因沉默，或与双加氧酶（TET1）融合以实现基因激活，确立了该平台在双向表观遗传编辑中的多功能性。TET1介导的再激活在人胚胎干细胞（hESCs）中持续了5个月，而DNMT3A沉积的甲基化在分裂报告细胞系中于2周时未被保留。CasNano的小尺寸和独特的CCN PAM序列突显了其在受病毒递送载货能力限制的未来治疗应用中的潜力。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42890117/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42890117/",
+  "paper_page_path": "papers/pubmed/42890117/index.html"
+}

@@ -1,0 +1,158 @@
+{
+  "identity": {
+    "pmid": "42877157",
+    "doi": "10.3389/fpls.2026.1958138",
+    "title": "Starch characteristics distinguish malt from non-malt barley and can be modulated via SBEIIb promoter editing."
+  },
+  "content": {
+    "abstract": "Barley is classified as malt or non-malt barley according to its end use, yet the role of starch characteristics in determining malt quality remains poorly understood. In this study, we systematically compared starch content, composition, granule structure, and thermal properties between six malt and six non-malt barley varieties. Compared with non-malt barley, malt barley exhibited significantly higher total starch (TS) content, a lower amylose/amylopectin (Am/Ap) ratio, and a larger area of large starch granules (LSGs), features that may collectively enhance the contact surface for hydrolytic enzymes during mashing. Thermal property analysis further revealed a narrower gelatinization temperature range (R) in malt barley, indicating more synchronized and potentially more efficient starch gelatinization. Based on these distinct starch traits, we employed novel CRISPR/Cas9-mediated editing of the SBEIIb promoter to generate novel barley accessions. The resulting promoter-editing SBEIIb mutants showed a significantly reduced Am/Ap ratio, closely mimicking the altered starch profile potentially relevant to malt quality related traits of elite malt barley varieties, without affecting total starch content or grain morphology. Mechanistically, this compositional shift was associated with altered starch-associated genes expression, demonstrating that targeted promoter modification is a promising strategy for malt barley improvement while avoiding the pleiotropic defects commonly caused by coding-region knockouts. These findings reveal fundamental differences in starch properties between malt and non-malt barley and provide both genetic resources and a feasible breeding strategy for developing superior malt barley cultivars.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "amylose/amylopectin ratio",
+      "barley (Hordeum vulgare L.)",
+      "malt quality",
+      "starch"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Mengdi",
+        "He, Peixin",
+        "Cai, Kangfeng",
+        "Yao, Jie",
+        "Huang, Danyin",
+        "Zhang, Guoping",
+        "Ye, Lingzhen"
+      ],
+      "short_names": [
+        "Li M",
+        "He P",
+        "Cai K",
+        "Yao J",
+        "Huang D",
+        "Zhang G",
+        "Ye L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China.",
+        "Institute of Crop and Nuclear Technology Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China.",
+        "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China.",
+        "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+        "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Mengdi",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "He, Peixin",
+        "short_name": "He P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Kangfeng",
+        "short_name": "Cai K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Crop and Nuclear Technology Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Jie",
+        "short_name": "Yao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Danyin",
+        "short_name": "Huang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Guoping",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Lingzhen",
+        "short_name": "Ye L",
+        "identifiers": [],
+        "affiliations": [
+          "Zhongyuan Institute, Zhejiang University, Zhengzhou, China.",
+          "Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 17:38",
+    "fetched_at": "2026-10-19 06:19:13"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42877157"
+    ],
+    "review": [
+      "42877157"
+    ],
+    "pmc": [
+      "13662047"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1958138",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
