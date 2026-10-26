@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42903669",
+  "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering.",
+  "authors": "Jurek, Benjamin; Winter, Julia J; Quintana, Daniel S",
+  "journal": "Frontiers in neuroscience",
+  "published_date": "2026-10-22",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 2,
+  "one_liner_zh": "该综述聚焦催产素受体信号传导与转录本工程，仅提及CRISPR作为研究策略，未涉及碱基编辑、交错切割或Cas核酸酶机制，与本课题核心无关。",
+  "abstract": "The oxytocin receptor (OXTR) is a G protein-coupled receptor that integrates neuroendocrine release, cellular signaling, and behavioral effects across species. Despite extensive research, the mechanistic basis underlying variability in oxytocin's effects remains incompletely understood. This review synthesizes recent advances in OXTR biology and focuses on three biological sources of signaling heterogeneity: variation in receptor sequence and structure, epigenetic and cell-state-dependent regulation, and temporal patterns of receptor activation. It examines targeted manipulation of receptor transcripts as an experimental strategy for testing intracellular mechanisms with behavioral outcomes. Mechanistic studies show that subtle structural changes, including single nucleotide polymorphisms, can bias intracellular signaling toward distinct pathways. Chronic receptor activation induces transcriptional and post-transcriptional reprogramming that can invert behavioral outcomes relative to acute stimulation. Intracellular signaling converges on core pathways, including Ca(2+)-dependent cascades, MAPK signaling, and transcriptional regulators such as CREB and MEF2A, which together shape gene expression, protein synthesis, and cellular morphology. Human studies reveal substantial variability in oxytocin effects, consistent with context-dependent signaling and limited control over intracellular pathways. These observations illustrate the challenge of linking receptor-level processes to behavioral phenotypes and underscore the importance of mechanistic approaches to OXTR signaling. Within this framework, GapmeR-mediated manipulation of OXTR transcripts and CRISPR-based genetic or epigenetic approaches are discussed as preclinical research strategies for testing receptor-level mechanisms. These strategies complement classical biased-ligand-pharmacology and support a model in which OXTR functions as a context-sensitive signaling hub, determined by receptor structure, activation history, and intracellular state.",
+  "abstract_zh": "催产素受体（OXTR）是一种G蛋白偶联受体，整合了跨物种的神经内分泌释放、细胞信号传导和行为效应。尽管已有广泛研究，催产素效应变异性的机制基础仍未完全阐明。本综述综合了OXTR生物学的最新进展，并聚焦于信号异质性的三个生物学来源：受体序列和结构的变异、表观遗传及细胞状态依赖性调控，以及受体激活的时间模式。它探讨了靶向操作受体转录本作为一种实验策略，用于测试具有行为结果的细胞内机制。机制研究表明，细微的结构变化，包括单核苷酸多态性，可将细胞内信号偏向不同的通路。慢性受体激活诱导转录和转录后重编程，可相对于急性刺激逆转行为结果。细胞内信号汇聚于核心通路，包括Ca(2+)依赖性级联、MAPK信号传导以及CREB和MEF2A等转录调控因子，这些共同塑造基因表达、蛋白质合成和细胞形态。人类研究揭示了催产素效应的显著变异性，与情境依赖性信号传导及对细胞内通路的有限控制一致。这些观察结果说明了将受体水平过程与行为表型联系起来的挑战，并强调了OXTR信号传导机制研究方法的重要性。在此框架内，讨论了GapmeR介导的OXTR转录本操作和基于CRISPR的遗传或表观遗传方法，作为测试受体水平机制的临床前研究策略。这些策略补充了经典的偏向性配体药理学，并支持一种模型，其中OXTR作为情境敏感的信号枢纽，由受体结构、激活历史和细胞内状态决定。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42903669/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42903669/",
+  "paper_page_path": "papers/pubmed/42903669/index.html"
+}

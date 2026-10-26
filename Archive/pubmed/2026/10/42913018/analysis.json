@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42913018",
+  "title": "Retroviral insertions contributed to the divergence of human and chimpanzee brains.",
+  "authors": "Gerdes, Patricia; Karlsson, Ofelia; Garza, Raquel; Atacho, Diahann A M; Hsieh, PingHsun; Prajapati, Bharat; Yoo, DongAhn; Muralidharan, Chandramouli; Adami, Anita; Davis-Hansson, Carrie; Johansson, Emily M; Sharma, Yogita; Castilla-Vallmanya, Laura; West, Wiktor; Vinod, Meghna; Domitrovic, Lucian; Johansson, Pia A; Johansson, Jenny; Douse, Christopher H; Kanduri, Chandrasekhar; Jern, Patric; Eichler, Evan E; Jakobsson, Johan",
+  "journal": "Science advances",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究分析黑猩猩内源逆转录病毒插入对脑发育基因调控的影响，虽使用CRISPR删除验证功能，但核心对象非CRISPR/碱基编辑机制，且无切割或编辑分子机制研究，仅边缘相关。",
+  "abstract": "Over the past 5 to 7 million years, humans and chimpanzees have diverged in brain size, structure, and cognition despite high conservation of protein-coding genes. However, retroviral infections within host genomes have introduced numerous species-specific regulatory elements. Chimpanzees harbor lineage-specific PTERV1 endogenous retroviruses that are absent in humans, but their role in brain evolution has remained unclear. We performed an epigenomic analysis of PTERV1 insertions in chimpanzee neural organoids and found they are heavily DNA methylated, forming over 150 species-specific heterochromatin domains with the potential to influence gene regulation. We identified a chimpanzee-specific insertion on chromosome 19 that silences the long noncoding RNA LINC00662 through DNA methylation spreading. CRISPR-mediated deletion of this PTERV1 restored LINC00662 expression in chimpanzee induced pluripotent stem cells. We show that LINC00662, a human-specific transcript expressed during brain development, plays a role in neuronal maturation, axon outgrowth, and neural organoid development. These findings reveal a mechanism by which endogenous retroviral insertions contributed to human-chimpanzee brain divergence.",
+  "abstract_zh": "在过去的500万至700万年里，人类与黑猩猩在脑大小、结构和认知方面发生了分化，尽管蛋白质编码基因高度保守。然而，宿主基因组内的逆转录病毒感染引入了许多物种特异的调控元件。黑猩猩携带谱系特异的PTERV1内源性逆转录病毒，这些病毒在人类中缺失，但它们在脑进化中的作用一直不清楚。我们对黑猩猩神经类器官中PTERV1插入进行了表观基因组分析，发现它们被高度DNA甲基化，形成超过150个物种特异的异染色质结构域，具有影响基因调控的潜力。我们鉴定了19号染色体上一个黑猩猩特异的插入，通过DNA甲基化扩散沉默了长链非编码RNA LINC00662。CRISPR介导的该PTERV1缺失恢复了黑猩猩诱导多能干细胞中LINC00662的表达。我们表明，LINC00662是一种在脑发育过程中表达的人类特异转录本，在神经元成熟、轴突生长和神经类器官发育中发挥作用。这些发现揭示了一种机制，即内源性逆转录病毒插入促进了人类与黑猩猩脑的分化。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913018/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42913018/",
+  "paper_page_path": "papers/pubmed/42913018/index.html"
+}

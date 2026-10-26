@@ -1,0 +1,172 @@
+{
+  "identity": {
+    "pmid": "42924722",
+    "doi": "10.3390/epigenomes10040063",
+    "title": "The Role of METTL3-Mediated m(6)A Methylation in Hepatocellular Carcinoma Progression and Treatment."
+  },
+  "content": {
+    "abstract": "Hepatocellular carcinoma (HCC) is a major cause of cancer-related mortality worldwide. Emerging evidence has established N(6)-methyladenosine (m(6)A) RNA methylation as a key epitranscriptomic mechanism underlying hepatocarcinogenesis. Methyltransferase-like 3 (METTL3), the catalytic core of the m(6)A methyltransferase complex (MTC), forms a heterodimer with METTL14 and cooperates with auxiliary components of the MTC to deposit m(6)A modifications that modulate mRNA stability, splicing, nuclear export, and translation. In this review, we comprehensively summarize the current understanding of METTL3 biology in HCC, focusing on its structure, assembly within the MTC, regulation of coding and non-coding RNAs, and its roles in driving key oncogenic signaling cascades, such as JAK/STAT3, PI3K/AKT/mTOR, Wnt/beta-catenin, Hippo/YAP, Notch, Hedgehog, and epithelial-mesenchymal transition. In addition, we discussed how METTL3 remodels the tumor immune microenvironment (TIME) by regulating immune responses and metabolic pathways promoting immune evasion and therapy resistance. Therapeutic strategies targeting METTL3-including small-molecule inhibitors, CRISPR-Cas9 approaches, combination immunotherapy, and tumor-selective delivery systems-are discussed together with the challenges that continue to limit clinical translation. Collectively, these findings position METTL3 as a central epitranscriptomic regulator of HCC progression; however, further mechanistic and clinical validation remains necessary to establish its utility as a therapeutic target and prognostic biomarker.",
+    "keywords": [
+      "METTL3",
+      "N6-methyladenosine",
+      "epitranscriptomics",
+      "hepatocellular carcinoma",
+      "tumor microenvironment"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maduranga, Bala Gamage Nalaka Hasith",
+        "Yang, Hee Doo",
+        "Lee, Su In",
+        "Eun, Jung Woo",
+        "Lim, Sun-Young",
+        "Kim, Hyung Seok",
+        "Jeong, Jee-Yeong"
+      ],
+      "short_names": [
+        "Maduranga BGNH",
+        "Yang HD",
+        "Lee SI",
+        "Eun JW",
+        "Lim SY",
+        "Kim HS",
+        "Jeong JY"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3889-1972",
+        "ORCID: 0000-0002-2461-6702",
+        "ORCID: 0000-0003-2784-0109",
+        "ORCID: 0000-0001-9482-4526"
+      ],
+      "affiliations": [
+        "Department of Marine Bioscience and Environment, College of Ocean Science and Technology, Korea Maritime & Ocean University, Busan 49112, Republic of Korea.",
+        "Section of Hematology, Department of Internal Medicine and Yale Cancer Center, Yale University School of Medicine, New Haven, CT 06520, USA.",
+        "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea.",
+        "Department of Gastroenterology, Ajou University School of Medicine, 164 Worldcup-Ro, Yeongtong-Gu, Suwon 16499, Republic of Korea.",
+        "Department of Marine Bioscience and Environment, College of Ocean Science and Technology, Korea Maritime & Ocean University, Busan 49112, Republic of Korea.",
+        "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea.",
+        "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maduranga, Bala Gamage Nalaka Hasith",
+        "short_name": "Maduranga BGNH",
+        "identifiers": [
+          "0000-0003-3889-1972"
+        ],
+        "affiliations": [
+          "Department of Marine Bioscience and Environment, College of Ocean Science and Technology, Korea Maritime & Ocean University, Busan 49112, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Yang, Hee Doo",
+        "short_name": "Yang HD",
+        "identifiers": [],
+        "affiliations": [
+          "Section of Hematology, Department of Internal Medicine and Yale Cancer Center, Yale University School of Medicine, New Haven, CT 06520, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Su In",
+        "short_name": "Lee SI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Eun, Jung Woo",
+        "short_name": "Eun JW",
+        "identifiers": [
+          "0000-0002-2461-6702"
+        ],
+        "affiliations": [
+          "Department of Gastroenterology, Ajou University School of Medicine, 164 Worldcup-Ro, Yeongtong-Gu, Suwon 16499, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lim, Sun-Young",
+        "short_name": "Lim SY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Marine Bioscience and Environment, College of Ocean Science and Technology, Korea Maritime & Ocean University, Busan 49112, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Hyung Seok",
+        "short_name": "Kim HS",
+        "identifiers": [
+          "0000-0003-2784-0109"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeong, Jee-Yeong",
+        "short_name": "Jeong JY",
+        "identifiers": [
+          "0000-0001-9482-4526"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Kosin University College of Medicine, Seo-Gu, Busan 49267, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Epigenomes"
+    ],
+    "journal_abbrev": [
+      "Epigenomes"
+    ],
+    "pub_date": "2026 Oct 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42924722"
+    ],
+    "review": [
+      "42924722"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=epigenomes10040063",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

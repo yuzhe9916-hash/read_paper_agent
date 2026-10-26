@@ -1,0 +1,162 @@
+{
+  "identity": {
+    "pmid": "42915938",
+    "doi": "10.1021/acs.analchem.6c03370",
+    "title": "Rotary Piston Valve with Surface-Engraved Microfluidic Channels for Cassette-Based Nucleic Acid Detection."
+  },
+  "content": {
+    "abstract": "Point-of-care testing (POCT) plays a crucial role in both clinical- and home-based diagnostics. Integrated POCT systems that combine nucleic acid extraction with detection provide significant advantages, including portable operation, rapid processing, and high sensitivity. In this work, we present a fully automated and integrated nucleic acid detection system based on microfluidic chips with a surface-engraved rotary piston (SERP), which incorporates all of the liquid channels on the surface of one valve. This design consists of only three parts: the chip, the rubber sealing ring, and the rotary valve containing microfluidic channels, allowing the sequential connection of reaction chambers to facilitate nucleic acid extraction, recombinase polymerase amplification (RPA), and clustered regularly interspaced short palindromic repeats (CRISPR) into a single chip. Our chip consists of only three components, can be fabricated directly by 3D printing, and features a simple structure with a compact size. This platform was employed for the detection of human papillomavirus (HPV16) DNA, achieving a limit of detection (LOD) as low as 60 copies/mL. This result underscores the potential of the SERP as a rapid, cost-effective, and modular solution for POCT applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Microfluidic Analytical Techniques/instrumentation",
+      "Humans",
+      "*DNA, Viral/analysis",
+      "Nucleic Acid Amplification Techniques",
+      "*Human papillomavirus 16/genetics/isolation & purification",
+      "Surface Properties",
+      "*Lab-On-A-Chip Devices",
+      "Rapid Diagnostic Tests"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cai, Yanwei",
+        "Zi, Longbin",
+        "Zheng, Jintao",
+        "Tang, Yunyan",
+        "Wei, Lanlan",
+        "Wang, Dou",
+        "Jiang, Xingyu"
+      ],
+      "short_names": [
+        "Cai Y",
+        "Zi L",
+        "Zheng J",
+        "Tang Y",
+        "Wei L",
+        "Wang D",
+        "Jiang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7836-9180",
+        "ORCID: 0000-0002-5008-4703"
+      ],
+      "affiliations": [
+        "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China.",
+        "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China.",
+        "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China.",
+        "National Clinical Research Center for Infectious Diseases, Institute for Hepatology, The Third People's Hospital of Shenzhen, The Second Hospital Affiliated to Southern University of Science and Technology, Shenzhen518000, Guangdong, China.",
+        "National Clinical Research Center for Infectious Diseases, Institute for Hepatology, The Third People's Hospital of Shenzhen, The Second Hospital Affiliated to Southern University of Science and Technology, Shenzhen518000, Guangdong, China.",
+        "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China.",
+        "KingMed School of Laboratory Medicine, Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou Medical University, Guangzhou511436, China.",
+        "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cai, Yanwei",
+        "short_name": "Cai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Zi, Longbin",
+        "short_name": "Zi L",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jintao",
+        "short_name": "Zheng J",
+        "identifiers": [],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Yunyan",
+        "short_name": "Tang Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Clinical Research Center for Infectious Diseases, Institute for Hepatology, The Third People's Hospital of Shenzhen, The Second Hospital Affiliated to Southern University of Science and Technology, Shenzhen518000, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Lanlan",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "National Clinical Research Center for Infectious Diseases, Institute for Hepatology, The Third People's Hospital of Shenzhen, The Second Hospital Affiliated to Southern University of Science and Technology, Shenzhen518000, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dou",
+        "short_name": "Wang D",
+        "identifiers": [
+          "0000-0001-7836-9180"
+        ],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China.",
+          "KingMed School of Laboratory Medicine, Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou Medical University, Guangzhou511436, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xingyu",
+        "short_name": "Jiang X",
+        "identifiers": [
+          "0000-0002-5008-4703"
+        ],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Smart Healthcare Engineering, Department of Biomedical Engineering, Southern University of Science and Technology, No. 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen518055, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915938"
+    ],
+    "review": [
+      "42915938"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c03370",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

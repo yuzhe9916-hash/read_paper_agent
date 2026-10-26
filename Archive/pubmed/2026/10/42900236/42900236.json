@@ -1,0 +1,321 @@
+{
+  "identity": {
+    "pmid": "42900236",
+    "doi": "10.1007/s00125-026-06905-0",
+    "title": "CCKBR signalling controls human definitive endoderm specification and pancreatic lineage differentiation."
+  },
+  "content": {
+    "abstract": "AIMS/HYPOTHESIS: Paracrine signalling by hormone-producing endocrine cells potentially influences pancreatic development, but this feedback regulation remains poorly understood. Here, we investigated the roles of gastrin (GAST), cholecystokinin (CCK) and their receptor cholecystokinin B receptor (CCKBR) during human pancreatic development. METHODS: Human iPSCs were differentiated stepwise into definitive endoderm and then the pancreatic endocrine lineage. To assess CCKBR function, CRISPR/Cas9 was used to generate CCKBR-knockout iPSC lines. We profiled transcriptional states by bulk and single-cell RNA-seq with computational analyses, and complemented these with biochemical assays, flow cytometry (FACS) and confocal microscopy. RESULTS: CCKBR expression peaked during definitive endoderm formation and progressively declined during differentiation, remaining detectable in pancreatic progenitors but largely absent from the endocrine lineage. By contrast, GAST and CCK were expressed only transiently during pancreatic progenitor and endocrine lineage formation. Pharmacological activation/inhibition and genetic knockout implicated CCKBR signalling during definitive endoderm formation. Consistently, bulk RNA-seq indicated that CCKBR deletion triggered ectodermal- and mesodermal-associated transcriptional programs and diminished pancreatic lineage specification. During pancreatic induction and lineage formation, sustained CCKBR activation with GAST or CCK attenuated endocrinogenesis and promoted epithelial structure formation. Further analysis revealed the emergence of a pancreatic ductal-like cell formation under prolonged CCKBR stimulation. CONCLUSIONS/INTERPRETATION: This study provides mechanistic evidence that the GAST/CCK-CCKBR axis is functionally important during human endoderm and pancreas development. This pathway is repeatedly required during in vitro pluripotent stem cell differentiation, regulating germ-layer formation as well as ductal vs endocrine fate decisions. These findings support the optimisation of pancreatic differentiation protocols and inform future studies on whether this axis contributes to human pancreas development and disease.",
+    "keywords": [
+      "Beta cells",
+      "CCK",
+      "CCKBR",
+      "Definitive endoderm",
+      "Diabetes",
+      "Ductal",
+      "Endocrinogenesis",
+      "Gastrin",
+      "Islets",
+      "Stem cell differentiation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saber, Lama",
+        "Kozawa, Kei",
+        "Karampelias, Christos",
+        "Jing, Changying",
+        "Jaki, Jessica",
+        "Akgun Canan, Melis",
+        "Sterr, Michael",
+        "Rodrigues Pereira, Osvaldo",
+        "Czarnecki, Oliver",
+        "Korbutt, Gregory S",
+        "Pepper, Andrew R",
+        "Moya, Noel",
+        "Burtscher, Ingo",
+        "Lickert, Heiko",
+        "Bakhti, Mostafa"
+      ],
+      "short_names": [
+        "Saber L",
+        "Kozawa K",
+        "Karampelias C",
+        "Jing C",
+        "Jaki J",
+        "Akgun Canan M",
+        "Sterr M",
+        "Rodrigues Pereira O",
+        "Czarnecki O",
+        "Korbutt GS",
+        "Pepper AR",
+        "Moya N",
+        "Burtscher I",
+        "Lickert H",
+        "Bakhti M"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-0297-050X",
+        "ORCID: 0000-0002-9990-5760",
+        "ORCID: 0000-0002-0671-4114",
+        "ORCID: 0009-0006-0418-2333",
+        "ORCID: 0000-0002-4368-4305",
+        "ORCID: 0000-0002-1767-658X",
+        "ORCID: 0000-0001-9690-4351",
+        "ORCID: 0000-0002-2227-4446",
+        "ORCID: 0009-0007-6190-2648",
+        "ORCID: 0000-0002-4597-8825",
+        "ORCID: 0000-0002-2307-1122"
+      ],
+      "affiliations": [
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "School of Medicine, Technical University of Munich (TUM), Munich, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Munich Medical Research School (MMRS), Ludwig Maximilian University (LMU), Munich, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Stem Cell Institute, Ankara University, Ankara, Turkiye.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "School of Medicine, Technical University of Munich (TUM), Munich, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "School of Medicine, Technical University of Munich (TUM), Munich, Germany.",
+        "Alberta Diabetes Institute, Li Ka Shing Centre for Research, Edmonton, AB, Canada.",
+        "Department of Surgery, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada.",
+        "Alberta Diabetes Institute, Li Ka Shing Centre for Research, Edmonton, AB, Canada.",
+        "Department of Surgery, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Regenerative Medicine Division, Delphi Stem, Inc., Atlanta, GA, USA.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany. heiko.lickert@helmholtz-munich.de.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany. heiko.lickert@helmholtz-munich.de.",
+        "School of Medicine, Technical University of Munich (TUM), Munich, Germany. heiko.lickert@helmholtz-munich.de.",
+        "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany. mostafa.bakhti@helmholtz-munich.de.",
+        "German Center for Diabetes Research (DZD), Neuherberg, Germany. mostafa.bakhti@helmholtz-munich.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saber, Lama",
+        "short_name": "Saber L",
+        "identifiers": [
+          "0009-0004-0297-050X"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "School of Medicine, Technical University of Munich (TUM), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Kozawa, Kei",
+        "short_name": "Kozawa K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Karampelias, Christos",
+        "short_name": "Karampelias C",
+        "identifiers": [
+          "0000-0002-9990-5760"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Jing, Changying",
+        "short_name": "Jing C",
+        "identifiers": [
+          "0000-0002-0671-4114"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "Munich Medical Research School (MMRS), Ludwig Maximilian University (LMU), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Jaki, Jessica",
+        "short_name": "Jaki J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Akgün Canan, Melis",
+        "short_name": "Akgün Canan M",
+        "identifiers": [
+          "0009-0006-0418-2333"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "Stem Cell Institute, Ankara University, Ankara, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Sterr, Michael",
+        "short_name": "Sterr M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Rodrigues Pereira, Osvaldo",
+        "short_name": "Rodrigues Pereira O",
+        "identifiers": [
+          "0000-0002-4368-4305"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "School of Medicine, Technical University of Munich (TUM), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Czarnecki, Oliver",
+        "short_name": "Czarnecki O",
+        "identifiers": [
+          "0000-0002-1767-658X"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "School of Medicine, Technical University of Munich (TUM), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Korbutt, Gregory S",
+        "short_name": "Korbutt GS",
+        "identifiers": [
+          "0000-0001-9690-4351"
+        ],
+        "affiliations": [
+          "Alberta Diabetes Institute, Li Ka Shing Centre for Research, Edmonton, AB, Canada.",
+          "Department of Surgery, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+        ]
+      },
+      {
+        "full_name": "Pepper, Andrew R",
+        "short_name": "Pepper AR",
+        "identifiers": [
+          "0000-0002-2227-4446"
+        ],
+        "affiliations": [
+          "Alberta Diabetes Institute, Li Ka Shing Centre for Research, Edmonton, AB, Canada.",
+          "Department of Surgery, Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada."
+        ]
+      },
+      {
+        "full_name": "Moya, Noel",
+        "short_name": "Moya N",
+        "identifiers": [
+          "0009-0007-6190-2648"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany.",
+          "Regenerative Medicine Division, Delphi Stem, Inc., Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Burtscher, Ingo",
+        "short_name": "Burtscher I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany."
+        ]
+      },
+      {
+        "full_name": "Lickert, Heiko",
+        "short_name": "Lickert H",
+        "identifiers": [
+          "0000-0002-4597-8825"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany. heiko.lickert@helmholtz-munich.de.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany. heiko.lickert@helmholtz-munich.de.",
+          "School of Medicine, Technical University of Munich (TUM), Munich, Germany. heiko.lickert@helmholtz-munich.de."
+        ]
+      },
+      {
+        "full_name": "Bakhti, Mostafa",
+        "short_name": "Bakhti M",
+        "identifiers": [
+          "0000-0002-2307-1122"
+        ],
+        "affiliations": [
+          "Institute of Diabetes and Regeneration Research, Helmholtz Munich, Neuherberg, Germany. mostafa.bakhti@helmholtz-munich.de.",
+          "German Center for Diabetes Research (DZD), Neuherberg, Germany. mostafa.bakhti@helmholtz-munich.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Diabetologia"
+    ],
+    "journal_abbrev": [
+      "Diabetologia"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 17:34",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42900236"
+    ],
+    "review": [
+      "42900236"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s00125-026-06905-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

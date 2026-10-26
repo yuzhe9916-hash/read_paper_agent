@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "42921428",
+    "doi": "10.1021/acsmeasuresciau.6c00142",
+    "title": "Catalytic Hairpin Assembly-Aided CRISPR/Cas-SERS for Nucleic Acid Detection Enhanced by Multiple Catalytic Amplification."
+  },
+  "content": {
+    "abstract": "This study established a surface-enhanced Raman scattering (SERS) detection method based on the catalytic hairpin assembly (CHA) reaction combined with clustered regularly interspaced short palindromic repeats and its associated proteins (CRISPR/Cas), integrated with the guanine-quadruplexes/Hemin (G4/Hemin) catalytic amplification effect, which is available for identifying a typical indicator for genetically modified crops, the 35S promoter from the cauliflower mosaic virus (CaMV35S). Target CaMV35S-derived RNA (CaMV35S RNA) triggers the CHA reaction, yielding a double-stranded DNA product (C1/C2) that is recognized by CRISPR RNA (crRNA), thereby activating the trans-cleavage activity of Cas12a. A magnetic bead-based nanoprobe was fabricated by linking the hybridization chain reaction (HCR) product to the magnetic bead. This probe can fold into repeated G4 units under a specific potassium ion concentration to enable a high loading of Hemin, thereby providing strong peroxidase-like catalytic activity for 3,3',5,5'-tetra-methyl-benz-idine (TMB). In a positive trial, the 35S RNA initiates CHA, and the CHA product activates Cas12a, disrupting the HCR products on the magnetic bead probe, preventing the G4 structure formation, accordingly yielding a weak SERS signal from TMB. In contrast, a negative trial fails to activate Cas12a, and the probe retains its nanoenzyme activity, resulting in a strong SERS signal from the produced oxTMB. Owing to the collateral trans-cleavage activity of Cas12a and the high peroxidase-like nanozyme activity of G4/Hemin, this method achieves the highly sensitive SERS detection of genetically modified samples without target gene preamplification.",
+    "keywords": [
+      "CHA",
+      "Cas12a",
+      "G-quadruplexes",
+      "HCR",
+      "SERS"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Lin",
+        "Bao, Chengxin",
+        "Wang, Huimin",
+        "Li, Feiwu",
+        "Liu, Xiangguo",
+        "He, Yuxuan",
+        "Chang, Jingjing",
+        "Yin, Yuejia",
+        "Xu, Shuping"
+      ],
+      "short_names": [
+        "Liu L",
+        "Bao C",
+        "Wang H",
+        "Li F",
+        "Liu X",
+        "He Y",
+        "Chang J",
+        "Yin Y",
+        "Xu S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6216-6175"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China. RINGGOLD: 12510",
+        "School of Chemistry and Environmental Engineering, Changchun University of Science and Technology, Changchun 130022, P. R. China. RINGGOLD: 47819",
+        "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China. RINGGOLD: 12510",
+        "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China. RINGGOLD: 12510",
+        "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China.",
+        "Maize Research Institute, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130118, P.R. China.",
+        "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China.",
+        "School of Chemistry and Environmental Engineering, Changchun University of Science and Technology, Changchun 130022, P. R. China. RINGGOLD: 47819",
+        "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China.",
+        "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China. RINGGOLD: 12510",
+        "Center for Supramolecular Chemical Biology, College of Chemistry, Jilin University, Changchun 130012, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Lin",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China.",
+          "School of Chemistry and Environmental Engineering, Changchun University of Science and Technology, Changchun 130022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Bao, Chengxin",
+        "short_name": "Bao C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Huimin",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Feiwu",
+        "short_name": "Li F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiangguo",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Maize Research Institute, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130118, P.R. China."
+        ]
+      },
+      {
+        "full_name": "He, Yuxuan",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chang, Jingjing",
+        "short_name": "Chang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Environmental Engineering, Changchun University of Science and Technology, Changchun 130022, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yin, Yuejia",
+        "short_name": "Yin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Agricultural Quality Standard and Testing Technology, Jilin Academy of Agricultural Sciences (Northeast Innovation Center of Agricultural Science and Technology in China), Changchun 130033, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Shuping",
+        "short_name": "Xu S",
+        "identifiers": [
+          "0000-0002-6216-6175"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun 130012, P. R. China.",
+          "Center for Supramolecular Chemical Biology, College of Chemistry, Jilin University, Changchun 130012, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS measurement science au"
+    ],
+    "journal_abbrev": [
+      "ACS Meas Sci Au"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42921428"
+    ],
+    "review": [
+      "42921428"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1104",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/amachv/article-lookup/doi/10.1021/acsmeasuresciau.6c00142",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

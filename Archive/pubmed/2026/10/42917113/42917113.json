@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42917113",
+    "doi": "10.1021/acsinfecdis.6c00417",
+    "title": "BDF6 Deficiency Severely Compromises Intracellular Amastigote Development and Infectivity of Trypanosoma cruzi."
+  },
+  "content": {
+    "abstract": "Trypanosoma cruzi, the causative agent of Chagas disease, relies on complex gene regulatory mechanisms to adapt to its diverse host environments. In recent years, it has been established that epigenetics plays an essential role in these mechanisms via the regulation of chromatin structure. Bromodomain-containing factors (BDFs), known for recognizing acetylated lysines on histones, have emerged as key factors in chromatin remodeling complexes. Among the eight predicted BDFs in T. cruzi, BDF6 is part of a TINTIN-like complex with MRGx and MRGBP, homologous to components of the NuA4/TIP60 chromatin remodeling complex. We generated knockout (KO) parasites for the bdf6 gene using CRISPR/Cas9 gene editing. BDF6 KO epimastigotes exhibit normal morphology but decreased size and growth, and the resulting metacyclic trypomastigotes displayed drastically reduced infectivity. Strikingly, once inside host cells, KO parasites differentiated into amastigotes but failed to replicate. This intracellular arrest was reversed by episomal complementation of BDF6. Consistently, KO parasites also exhibited impaired infectivity in mice, a defect that was also rescued in the addback parasite lines. Our findings highlight BDF6 as a critical regulator of intracellular parasite development, operating in stages beyond epimastigotes where epigenetic plasticity is essential for host adaptation. This striking stage-specific phenotype of BDF6 KO underscores its functional importance and highlights the relevance of epigenetic regulators along T. cruzi life cycle.",
+    "keywords": [
+      "TINTIN/NuA4",
+      "amastigote proliferation",
+      "bromodomains",
+      "infectivity"
+    ],
+    "mesh_terms": [
+      "*Trypanosoma cruzi/genetics/growth & development/pathogenicity/metabolism",
+      "Animals",
+      "*Protozoan Proteins/genetics/metabolism",
+      "*Chagas Disease/parasitology",
+      "Mice",
+      "Gene Knockout Techniques",
+      "Bromodomain Containing Proteins",
+      "*Transcription Factors/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Boselli Raposo, Victoria",
+        "Perdomo, Virginia",
+        "Pacini, Florencia",
+        "Cueto, Juan A",
+        "Pezza, Alejandro",
+        "Romano, Patricia S",
+        "Docampo, Roberto",
+        "Perez, Ana Rosa",
+        "Serra, Esteban"
+      ],
+      "short_names": [
+        "Boselli Raposo V",
+        "Perdomo V",
+        "Pacini F",
+        "Cueto JA",
+        "Pezza A",
+        "Romano PS",
+        "Docampo R",
+        "Perez AR",
+        "Serra E"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4229-8784",
+        "ORCID: 0000-0001-5986-7459"
+      ],
+      "affiliations": [
+        "Instituto de Biologia Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+        "Facultad de Ciencias Bioquimicas y Farmaceuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+        "Facultad de Ciencias Bioquimicas y Farmaceuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+        "Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET), Rosario, Santa Fe2000, Argentina.",
+        "Instituto de Inmunologia Clinica y Experimental de Rosario (IDICER), CONICET-Universidad Nacional de Rosario, Rosario2000, Argentina.",
+        "Instituto de Histologia y Embriologia de Mendoza \"Dr. Mario H. Burgos\", CONICET-Universidad Nacional de Cuyo, Mendoza, Mendoza5500, Argentina.",
+        "Instituto de Biologia Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+        "Instituto de Histologia y Embriologia de Mendoza \"Dr. Mario H. Burgos\", CONICET-Universidad Nacional de Cuyo, Mendoza, Mendoza5500, Argentina.",
+        "Facultad de Ciencias Medicas, Universidad Nacional de Cuyo, Mendoza5500, Argentina.",
+        "Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, Georgia30602-7399, United States.",
+        "Department of Cellular Biology, University of Georgia, Athens, Georgia30602-2607, United States.",
+        "Instituto de Inmunologia Clinica y Experimental de Rosario (IDICER), CONICET-Universidad Nacional de Rosario, Rosario2000, Argentina.",
+        "Centro de Investigacion y Produccion de Reactivos Biologicos (CIPReB), Facultad de Ciencias Medicas, Universidad Nacional de Rosario, Rosario2000, Argentina.",
+        "Instituto de Biologia Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+        "Facultad de Ciencias Bioquimicas y Farmaceuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Boselli Raposo, Victoria",
+        "short_name": "Boselli Raposo V",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Biología Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+          "Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina."
+        ]
+      },
+      {
+        "full_name": "Perdomo, Virginia",
+        "short_name": "Perdomo V",
+        "identifiers": [],
+        "affiliations": [
+          "Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+          "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Rosario, Santa Fe2000, Argentina."
+        ]
+      },
+      {
+        "full_name": "Pacini, Florencia",
+        "short_name": "Pacini F",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Inmunología Clínica y Experimental de Rosario (IDICER), CONICET-Universidad Nacional de Rosario, Rosario2000, Argentina."
+        ]
+      },
+      {
+        "full_name": "Cueto, Juan A",
+        "short_name": "Cueto JA",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Histología y Embriología de Mendoza \"Dr. Mario H. Burgos\", CONICET-Universidad Nacional de Cuyo, Mendoza, Mendoza5500, Argentina."
+        ]
+      },
+      {
+        "full_name": "Pezza, Alejandro",
+        "short_name": "Pezza A",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Biología Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina."
+        ]
+      },
+      {
+        "full_name": "Romano, Patricia S",
+        "short_name": "Romano PS",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Histología y Embriología de Mendoza \"Dr. Mario H. Burgos\", CONICET-Universidad Nacional de Cuyo, Mendoza, Mendoza5500, Argentina.",
+          "Facultad de Ciencias Médicas, Universidad Nacional de Cuyo, Mendoza5500, Argentina."
+        ]
+      },
+      {
+        "full_name": "Docampo, Roberto",
+        "short_name": "Docampo R",
+        "identifiers": [
+          "0000-0003-4229-8784"
+        ],
+        "affiliations": [
+          "Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, Georgia30602-7399, United States.",
+          "Department of Cellular Biology, University of Georgia, Athens, Georgia30602-2607, United States."
+        ]
+      },
+      {
+        "full_name": "Perez, Ana Rosa",
+        "short_name": "Perez AR",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Inmunología Clínica y Experimental de Rosario (IDICER), CONICET-Universidad Nacional de Rosario, Rosario2000, Argentina.",
+          "Centro de Investigación y Producción de Reactivos Biológicos (CIPReB), Facultad de Ciencias Médicas, Universidad Nacional de Rosario, Rosario2000, Argentina."
+        ]
+      },
+      {
+        "full_name": "Serra, Esteban",
+        "short_name": "Serra E",
+        "identifiers": [
+          "0000-0001-5986-7459"
+        ],
+        "affiliations": [
+          "Instituto de Biología Molecular y Celular de Rosario (IBR), CONICET-Universidad Nacional de Rosario, RosarioS2002LRK, Argentina.",
+          "Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario, RosarioS2002LRK, Argentina."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS infectious diseases"
+    ],
+    "journal_abbrev": [
+      "ACS Infect Dis"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917113"
+    ],
+    "review": [
+      "42917113"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/chagasdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Chagas Disease"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-2605",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/aidcbc/article-lookup/doi/10.1021/acsinfecdis.6c00417",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

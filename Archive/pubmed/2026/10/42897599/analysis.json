@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42897599",
+  "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment.",
+  "authors": "Jeon, Beom-Jin; Moon, Byeongho; Jang, Hyun-Sung; Kwon, Dong-Hyeok; Jeon, Young-Lim; Eom, Kyeong-Hyeon; Choi, Jae-Yoon; Kim, Young-Chai; Jang, Goo",
+  "journal": "Stem cell research & therapy",
+  "published_date": "2026-10-20",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 5,
+  "one_liner_zh": "该研究在猪肺类器官中利用GFP引导富集策略提升CRISPR/Cas9和prime editing编辑效率，虽涉及碱基编辑工具应用，但核心是编辑效率优化而非切割/编辑分子机制，机制深度有限。",
+  "abstract": "BACKGROUND: Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant challenges for functional genetic studies. To address these limitations, this study aimed to establish porcine lung organoid (PLOs) and to develop a robust, high-efficiency genome-editing platform by leveraging the high physiological and anatomical similarity between pigs and humans. METHODS: PLOs were derived from lung tissues and characterized by immunofluorescence and immunohistochemistry analysis. To enhance genome-editing efficiency using CRISPR/Cas9 and prime editing, a GFP-guided enrichment strategy was used by co-targeting a GFP transgene and endogenous loci, followed by the selection of GFP-negative organoids. Clonal expansion from single organoids was performed to generate genetically homogenous lines. Genetic modifications were validated through cDNA sequencing and western blot analysis. Structural integrity was assessed using AlphaFold2 modeling, and functional changes were evaluated using the forskolin-induced swelling assay. RESULTS: The established PLOs exhibited sustained self-renewal capacity and expression of surfactant protein C alongside both proximal epithelial and mesenchymal markers, reflecting a composite lung organoid identity. GFP-guided enrichment significantly enriched edited cells; the mutation ratio in the GFP-negative group was significantly higher than that in the GFP-positive group. This system successfully generated fully gene-edited clones with high genetic homogeneity, and effectively enriched for precisely edited organoids, even when applying complex modalities such as prime editing. CONCLUSIONS: The PLOs and genome-editing platform developed in this study provide a powerful resource for translational medicine. By enabling precise genetic manipulation in a model that closely mimics human lung physiology, this system offers an essential platform for recapitulating human lung pathologies, studying zoonotic infectious diseases, and validating the efficacy of gene therapies.",
+  "abstract_zh": "背景：成体干细胞来源的类器官因其组织特异性对应关系，在疾病建模和转化医学中是不可或缺的工具。然而，其复杂的三维结构和低基因组编辑效率对功能性遗传研究构成了重大挑战。为解决这些局限性，本研究旨在建立猪肺类器官（porcine lung organoids, PLOs），并利用猪与人类之间高度的生理和解剖学相似性，开发一个稳健、高效的基因组编辑平台。方法：PLOs来源于肺组织，并通过免疫荧光和免疫组织化学分析进行表征。为提高使用CRISPR/Cas9和prime editing的基因组编辑效率，采用了一种GFP引导的富集策略，通过共靶向GFP转基因和内源位点，随后选择GFP阴性类器官。从单个类器官进行克隆扩增以生成遗传同质的细胞系。遗传修饰通过cDNA测序和western blot分析进行验证。结构完整性使用AlphaFold2建模评估，功能变化使用forskolin诱导的肿胀实验评估。结果：建立的PLOs表现出持续的自我更新能力，并表达表面活性蛋白C以及近端上皮和间充质标志物，反映了复合肺类器官的特性。GFP引导的富集显著富集了编辑细胞；GFP阴性组中的突变比例显著高于GFP阳性组。该系统成功生成了具有高遗传同质性的完全基因编辑克隆，并有效富集了精确编辑的类器官，即使应用复杂模式如prime editing也是如此。结论：本研究开发的PLOs和基因组编辑平台为转化医学提供了强大的资源。通过在密切模拟人类肺生理的模型中实现精确遗传操作，该系统为重现人类肺病理、研究人畜共患传染病以及验证基因治疗疗效提供了重要平台。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42897599/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42897599/",
+  "paper_page_path": "papers/pubmed/42897599/index.html"
+}

@@ -1,0 +1,110 @@
+{
+  "identity": {
+    "pmid": "42922509",
+    "doi": "10.64898/2026.09.01.748654",
+    "title": "Structural basis for tetraspanin-dependent surface export and adhesive function of integrin alpha3beta1."
+  },
+  "content": {
+    "abstract": "Integrin alpha3beta1 (ITGalpha3beta1) is a member of an integrin subfamily that binds to laminin proteins and promotes attachment of epithelial cells to the basement membrane. ITGalpha3beta1 forms a complex with the tetraspanin CD151, and loss-of-function mutations in both ITGalpha3 and CD151 cause epidermolysis bullosa, a severe skin blistering disease resulting from a defect in basement membrane attachment. Here, we report the cryoEM structure of an ITGalpha3beta1 complex with CD151 and show that mutation of CD151 at the binding interface disrupts complex formation in cells. Strikingly, CRISPR-mediated knockout of CD151 leads to a variably penetrant ITGalpha3beta1 surface export defect that is restored by re-expression of wild-type but not interface-mutated CD151. Together, these studies define the molecular basis for binding of CD151 to ITGalpha3beta1, and show that CD151 promotes ITGalpha3beta1 surface export, providing a biochemical explanation for the CD151 loss-of-function phenotype in epidermolysis bullosa.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Litzau, Lauren",
+        "Wren, Elizabeth K",
+        "Kruse, Andrew C",
+        "Blacklow, Stephen C"
+      ],
+      "short_names": [
+        "Litzau L",
+        "Wren EK",
+        "Kruse AC",
+        "Blacklow SC"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4541-2925",
+        "ORCID: 0000-0002-1467-1222",
+        "ORCID: 0000-0002-6904-1981"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Litzau, Lauren",
+        "short_name": "Litzau L",
+        "identifiers": [
+          "0000-0003-4541-2925"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wren, Elizabeth K",
+        "short_name": "Wren EK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kruse, Andrew C",
+        "short_name": "Kruse AC",
+        "identifiers": [
+          "0000-0002-1467-1222"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Blacklow, Stephen C",
+        "short_name": "Blacklow SC",
+        "identifiers": [
+          "0000-0002-6904-1981"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42922509"
+    ],
+    "review": [
+      "42922509"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.01.748654",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

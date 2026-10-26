@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42897599",
+    "doi": "10.1186/s13287-026-05185-0",
+    "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant challenges for functional genetic studies. To address these limitations, this study aimed to establish porcine lung organoid (PLOs) and to develop a robust, high-efficiency genome-editing platform by leveraging the high physiological and anatomical similarity between pigs and humans. METHODS: PLOs were derived from lung tissues and characterized by immunofluorescence and immunohistochemistry analysis. To enhance genome-editing efficiency using CRISPR/Cas9 and prime editing, a GFP-guided enrichment strategy was used by co-targeting a GFP transgene and endogenous loci, followed by the selection of GFP-negative organoids. Clonal expansion from single organoids was performed to generate genetically homogenous lines. Genetic modifications were validated through cDNA sequencing and western blot analysis. Structural integrity was assessed using AlphaFold2 modeling, and functional changes were evaluated using the forskolin-induced swelling assay. RESULTS: The established PLOs exhibited sustained self-renewal capacity and expression of surfactant protein C alongside both proximal epithelial and mesenchymal markers, reflecting a composite lung organoid identity. GFP-guided enrichment significantly enriched edited cells; the mutation ratio in the GFP-negative group was significantly higher than that in the GFP-positive group. This system successfully generated fully gene-edited clones with high genetic homogeneity, and effectively enriched for precisely edited organoids, even when applying complex modalities such as prime editing. CONCLUSIONS: The PLOs and genome-editing platform developed in this study provide a powerful resource for translational medicine. By enabling precise genetic manipulation in a model that closely mimics human lung physiology, this system offers an essential platform for recapitulating human lung pathologies, studying zoonotic infectious diseases, and validating the efficacy of gene therapies.",
+    "keywords": [
+      "Adult stem cell-derived organoids",
+      "GFP-guided enrichment",
+      "Gene editing",
+      "Lung",
+      "Pig",
+      "Translational medicine"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Organoids/metabolism/cytology",
+      "Swine",
+      "*Lung/cytology/metabolism",
+      "*Gene Editing/methods",
+      "*Green Fluorescent Proteins/metabolism/genetics",
+      "CRISPR-Cas Systems/genetics",
+      "Humans",
+      "*Adult Stem Cells/metabolism/cytology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jeon, Beom-Jin",
+        "Moon, Byeongho",
+        "Jang, Hyun-Sung",
+        "Kwon, Dong-Hyeok",
+        "Jeon, Young-Lim",
+        "Eom, Kyeong-Hyeon",
+        "Choi, Jae-Yoon",
+        "Kim, Young-Chai",
+        "Jang, Goo"
+      ],
+      "short_names": [
+        "Jeon BJ",
+        "Moon B",
+        "Jang HS",
+        "Kwon DH",
+        "Jeon YL",
+        "Eom KH",
+        "Choi JY",
+        "Kim YC",
+        "Jang G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3804-1871"
+      ],
+      "affiliations": [
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "LARTBio Inc., Gyeonggi-Do, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "LARTBio Inc., Gyeonggi-Do, Republic of Korea. snujang@snu.ac.kr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jeon, Beom-Jin",
+        "short_name": "Jeon BJ",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Moon, Byeongho",
+        "short_name": "Moon B",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jang, Hyun-Sung",
+        "short_name": "Jang HS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kwon, Dong-Hyeok",
+        "short_name": "Kwon DH",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeon, Young-Lim",
+        "short_name": "Jeon YL",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Eom, Kyeong-Hyeon",
+        "short_name": "Eom KH",
+        "identifiers": [],
+        "affiliations": [
+          "LARTBio Inc., Gyeonggi-Do, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Choi, Jae-Yoon",
+        "short_name": "Choi JY",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Young-Chai",
+        "short_name": "Kim YC",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jang, Goo",
+        "short_name": "Jang G",
+        "identifiers": [
+          "0000-0003-3804-1871"
+        ],
+        "affiliations": [
+          "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+          "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+          "LARTBio Inc., Gyeonggi-Do, Republic of Korea. snujang@snu.ac.kr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Stem cell research & therapy"
+    ],
+    "journal_abbrev": [
+      "Stem Cell Res Ther"
+    ],
+    "pub_date": "2026 Jul 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 05:30",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42897599"
+    ],
+    "review": [
+      "42897599"
+    ],
+    "pmc": [
+      "13682025"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://stemcellres.biomedcentral.com/articles/10.1186/s13287-026-05185-0",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3636",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

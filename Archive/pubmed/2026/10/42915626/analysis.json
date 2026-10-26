@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42915626",
+  "title": "AI-Guided Engineering of Tunable CcdB Variants for Flexible Selection in Escherichia coli.",
+  "authors": "Li, Pengpai; Wang, Hongle; Fan, Xiangrui; Zhang, Fa; Lv, Jiugong; Tan, Huiping; Liang, Liya; Liu, Rongming",
+  "journal": "ACS synthetic biology",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 5,
+  "one_liner_zh": "该文用AI引导工程化CcdB毒素变体以降低基础毒性并用于CRISPR gRNA质粒构建的反向筛选，虽涉及CRISPR应用但核心是毒素-促旋酶互作，非碱基编辑或交错切割机制，机制深度有限。",
+  "abstract": "The strong cytotoxicity of wild-type CcdB limits its use as a counter-selection marker, as leaky expression can cause unintended cell death. Here, we report the rational engineering of a tunable CcdB variant with minimal basal toxicity while retaining inducible lethality. Using a structure-aware deep learning-guided strategy, we prioritized mutations predicted to alter CcdB-DNA gyrase binding energetics and experimentally identified variants with reduced basal toxicity and retained inducible killing. Targeted validation identified CcdB_L96P, which significantly reduces basal toxicity while preserving effective killing upon induction. This variant exhibits minimal leakage and robust inducible lethality across multiple Escherichia coli strains without requiring specialized hosts. It enables antibiotic-free CRISPR gRNA plasmid construction with high accuracy and efficient enrichment of correctly assembled clones. In a succinic acid-producing chassis, CcdB_L96P imposes no detectable metabolic burden and supports effective removal of residual cells using low concentrations of anhydrotetracycline. Together, this work provides a generalizable protein-level strategy for tuning toxin activity in synthetic biology.",
+  "abstract_zh": "野生型CcdB的强细胞毒性限制了其作为反选择标记的应用，因为泄漏表达可能导致非预期细胞死亡。在此，我们报告了一种可调控CcdB变体的理性工程化设计，该变体具有最低的基础毒性，同时保留诱导性致死活性。通过采用结构感知的深度学习引导策略，我们优先考虑了预测会改变CcdB-DNA旋转酶结合能量的突变，并通过实验鉴定了基础毒性降低且诱导杀伤活性保留的变体。靶向验证确定了CcdB_L96P，该变体显著降低基础毒性，同时保持诱导后的有效杀伤能力。此变体表现出最小泄漏，并在多种大肠杆菌菌株中具有稳健的诱导性致死活性，无需特殊宿主。它支持无抗生素的CRISPR gRNA质粒构建，具有高准确性，并能高效富集正确组装的克隆。在产琥珀酸底盘菌株中，CcdB_L96P不施加可检测的代谢负担，并支持使用低浓度脱水四环素有效去除残留细胞。综上，这项工作为合成生物学中调控毒素活性提供了一种可推广的蛋白质层面策略。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915626/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42915626/",
+  "paper_page_path": "papers/pubmed/42915626/index.html"
+}

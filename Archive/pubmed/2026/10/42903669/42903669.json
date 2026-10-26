@@ -1,0 +1,128 @@
+{
+  "identity": {
+    "pmid": "42903669",
+    "doi": "10.3389/fnins.2026.1938379",
+    "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering."
+  },
+  "content": {
+    "abstract": "The oxytocin receptor (OXTR) is a G protein-coupled receptor that integrates neuroendocrine release, cellular signaling, and behavioral effects across species. Despite extensive research, the mechanistic basis underlying variability in oxytocin's effects remains incompletely understood. This review synthesizes recent advances in OXTR biology and focuses on three biological sources of signaling heterogeneity: variation in receptor sequence and structure, epigenetic and cell-state-dependent regulation, and temporal patterns of receptor activation. It examines targeted manipulation of receptor transcripts as an experimental strategy for testing intracellular mechanisms with behavioral outcomes. Mechanistic studies show that subtle structural changes, including single nucleotide polymorphisms, can bias intracellular signaling toward distinct pathways. Chronic receptor activation induces transcriptional and post-transcriptional reprogramming that can invert behavioral outcomes relative to acute stimulation. Intracellular signaling converges on core pathways, including Ca(2+)-dependent cascades, MAPK signaling, and transcriptional regulators such as CREB and MEF2A, which together shape gene expression, protein synthesis, and cellular morphology. Human studies reveal substantial variability in oxytocin effects, consistent with context-dependent signaling and limited control over intracellular pathways. These observations illustrate the challenge of linking receptor-level processes to behavioral phenotypes and underscore the importance of mechanistic approaches to OXTR signaling. Within this framework, GapmeR-mediated manipulation of OXTR transcripts and CRISPR-based genetic or epigenetic approaches are discussed as preclinical research strategies for testing receptor-level mechanisms. These strategies complement classical biased-ligand-pharmacology and support a model in which OXTR functions as a context-sensitive signaling hub, determined by receptor structure, activation history, and intracellular state.",
+    "keywords": [
+      "G protein coupled receptor (GPCR)",
+      "OXTR",
+      "SNP",
+      "exon-skipping",
+      "gapmer antisense oligonucleotides",
+      "intracellular signaling cascades",
+      "soluble GPCR",
+      "splice variant"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jurek, Benjamin",
+        "Winter, Julia J",
+        "Quintana, Daniel S"
+      ],
+      "short_names": [
+        "Jurek B",
+        "Winter JJ",
+        "Quintana DS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurobiology, Ludwig Maximilians-University Munich, Munich, Germany.",
+        "Neurobiology of Stress Resilience, Max Planck Institute for Psychiatry, Munich, Germany.",
+        "Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Epigenetics Institute at the Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, United States.",
+        "Department of Psychology, University of Oslo, Oslo, Norway.",
+        "K.G. Jebsen Centre for Neurodevelopmental Disorders, University of Oslo, Oslo, Norway.",
+        "Department of Rare Diseases, Oslo University Hospital, Oslo, Norway."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jurek, Benjamin",
+        "short_name": "Jurek B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurobiology, Ludwig Maximilians-University Munich, Munich, Germany.",
+          "Neurobiology of Stress Resilience, Max Planck Institute for Psychiatry, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Winter, Julia J",
+        "short_name": "Winter JJ",
+        "identifiers": [],
+        "affiliations": [
+          "Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+          "Epigenetics Institute at the Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, United States."
+        ]
+      },
+      {
+        "full_name": "Quintana, Daniel S",
+        "short_name": "Quintana DS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Psychology, University of Oslo, Oslo, Norway.",
+          "K.G. Jebsen Centre for Neurodevelopmental Disorders, University of Oslo, Oslo, Norway.",
+          "Department of Rare Diseases, Oslo University Hospital, Oslo, Norway."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in neuroscience"
+    ],
+    "journal_abbrev": [
+      "Front Neurosci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42903669"
+    ],
+    "review": [
+      "42903669"
+    ],
+    "pmc": [
+      "13681303"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fnins.2026.1938379",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

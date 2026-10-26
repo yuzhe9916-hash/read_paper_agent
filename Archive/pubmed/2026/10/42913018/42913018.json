@@ -1,0 +1,405 @@
+{
+  "identity": {
+    "pmid": "42913018",
+    "doi": "10.1126/sciadv.aeg5791",
+    "title": "Retroviral insertions contributed to the divergence of human and chimpanzee brains."
+  },
+  "content": {
+    "abstract": "Over the past 5 to 7 million years, humans and chimpanzees have diverged in brain size, structure, and cognition despite high conservation of protein-coding genes. However, retroviral infections within host genomes have introduced numerous species-specific regulatory elements. Chimpanzees harbor lineage-specific PTERV1 endogenous retroviruses that are absent in humans, but their role in brain evolution has remained unclear. We performed an epigenomic analysis of PTERV1 insertions in chimpanzee neural organoids and found they are heavily DNA methylated, forming over 150 species-specific heterochromatin domains with the potential to influence gene regulation. We identified a chimpanzee-specific insertion on chromosome 19 that silences the long noncoding RNA LINC00662 through DNA methylation spreading. CRISPR-mediated deletion of this PTERV1 restored LINC00662 expression in chimpanzee induced pluripotent stem cells. We show that LINC00662, a human-specific transcript expressed during brain development, plays a role in neuronal maturation, axon outgrowth, and neural organoid development. These findings reveal a mechanism by which endogenous retroviral insertions contributed to human-chimpanzee brain divergence.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Pan troglodytes/genetics",
+      "Humans",
+      "*Brain/metabolism/virology",
+      "DNA Methylation",
+      "*Endogenous Retroviruses/genetics",
+      "RNA, Long Noncoding/genetics",
+      "*Mutagenesis, Insertional",
+      "Evolution, Molecular",
+      "Species Specificity",
+      "*Virus Integration",
+      "Neurons/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gerdes, Patricia",
+        "Karlsson, Ofelia",
+        "Garza, Raquel",
+        "Atacho, Diahann A M",
+        "Hsieh, PingHsun",
+        "Prajapati, Bharat",
+        "Yoo, DongAhn",
+        "Muralidharan, Chandramouli",
+        "Adami, Anita",
+        "Davis-Hansson, Carrie",
+        "Johansson, Emily M",
+        "Sharma, Yogita",
+        "Castilla-Vallmanya, Laura",
+        "West, Wiktor",
+        "Vinod, Meghna",
+        "Domitrovic, Lucian",
+        "Johansson, Pia A",
+        "Johansson, Jenny",
+        "Douse, Christopher H",
+        "Kanduri, Chandrasekhar",
+        "Jern, Patric",
+        "Eichler, Evan E",
+        "Jakobsson, Johan"
+      ],
+      "short_names": [
+        "Gerdes P",
+        "Karlsson O",
+        "Garza R",
+        "Atacho DAM",
+        "Hsieh P",
+        "Prajapati B",
+        "Yoo D",
+        "Muralidharan C",
+        "Adami A",
+        "Davis-Hansson C",
+        "Johansson EM",
+        "Sharma Y",
+        "Castilla-Vallmanya L",
+        "West W",
+        "Vinod M",
+        "Domitrovic L",
+        "Johansson PA",
+        "Johansson J",
+        "Douse CH",
+        "Kanduri C",
+        "Jern P",
+        "Eichler EE",
+        "Jakobsson J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1148-9134",
+        "ORCID: 0000-0002-2524-3055",
+        "ORCID: 0000-0002-6158-0235",
+        "ORCID: 0000-0001-8294-6227",
+        "ORCID: 0000-0003-0033-3721",
+        "ORCID: 0000-0003-2271-9609",
+        "ORCID: 0000-0002-9421-7942",
+        "ORCID: 0009-0007-8819-5701",
+        "ORCID: 0000-0001-8186-0747",
+        "ORCID: 0000-0001-9702-1809",
+        "ORCID: 0000-0002-2260-9664",
+        "ORCID: 0009-0008-9057-6834",
+        "ORCID: 0009-0008-5639-8624",
+        "ORCID: 0000-0002-6938-4060",
+        "ORCID: 0009-0007-2504-0067",
+        "ORCID: 0000-0002-1604-8944",
+        "ORCID: 0000-0001-6271-9078",
+        "ORCID: 0000-0003-3393-5825",
+        "ORCID: 0000-0002-8246-4014",
+        "ORCID: 0000-0003-0669-7673"
+      ],
+      "affiliations": [
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Department of Genetics, Cell Biology, and Development, Institute for Health Informatics and Bioinformatics and Computational Biology Graduate Program, University of Minnesota, Twin Cities, MN, USA.",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, SE-40530 Gothenburg, Sweden.",
+        "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Laboratory of Epigenetics and Chromatin Dynamics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, SE-40530 Gothenburg, Sweden.",
+        "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+        "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+        "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gerdes, Patricia",
+        "short_name": "Gerdes P",
+        "identifiers": [
+          "0000-0002-1148-9134"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Karlsson, Ofelia",
+        "short_name": "Karlsson O",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Garza, Raquel",
+        "short_name": "Garza R",
+        "identifiers": [
+          "0000-0002-2524-3055"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Atacho, Diahann A M",
+        "short_name": "Atacho DAM",
+        "identifiers": [
+          "0000-0002-6158-0235"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Hsieh, PingHsun",
+        "short_name": "Hsieh P",
+        "identifiers": [
+          "0000-0001-8294-6227"
+        ],
+        "affiliations": [
+          "Department of Genetics, Cell Biology, and Development, Institute for Health Informatics and Bioinformatics and Computational Biology Graduate Program, University of Minnesota, Twin Cities, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Prajapati, Bharat",
+        "short_name": "Prajapati B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, SE-40530 Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Yoo, DongAhn",
+        "short_name": "Yoo D",
+        "identifiers": [
+          "0000-0003-0033-3721"
+        ],
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Muralidharan, Chandramouli",
+        "short_name": "Muralidharan C",
+        "identifiers": [
+          "0000-0003-2271-9609"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Adami, Anita",
+        "short_name": "Adami A",
+        "identifiers": [
+          "0000-0002-9421-7942"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Davis-Hansson, Carrie",
+        "short_name": "Davis-Hansson C",
+        "identifiers": [
+          "0009-0007-8819-5701"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Johansson, Emily M",
+        "short_name": "Johansson EM",
+        "identifiers": [
+          "0000-0001-8186-0747"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sharma, Yogita",
+        "short_name": "Sharma Y",
+        "identifiers": [
+          "0000-0001-9702-1809"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Castilla-Vallmanya, Laura",
+        "short_name": "Castilla-Vallmanya L",
+        "identifiers": [
+          "0000-0002-2260-9664"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "West, Wiktor",
+        "short_name": "West W",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Vinod, Meghna",
+        "short_name": "Vinod M",
+        "identifiers": [
+          "0009-0008-9057-6834"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Domitrovic, Lucian",
+        "short_name": "Domitrovic L",
+        "identifiers": [
+          "0009-0008-5639-8624"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Johansson, Pia A",
+        "short_name": "Johansson PA",
+        "identifiers": [
+          "0000-0002-6938-4060"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Johansson, Jenny",
+        "short_name": "Johansson J",
+        "identifiers": [
+          "0009-0007-2504-0067"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Douse, Christopher H",
+        "short_name": "Douse CH",
+        "identifiers": [
+          "0000-0002-1604-8944"
+        ],
+        "affiliations": [
+          "Laboratory of Epigenetics and Chromatin Dynamics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Kanduri, Chandrasekhar",
+        "short_name": "Kanduri C",
+        "identifiers": [
+          "0000-0001-6271-9078"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, SE-40530 Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Jern, Patric",
+        "short_name": "Jern P",
+        "identifiers": [
+          "0000-0003-3393-5825"
+        ],
+        "affiliations": [
+          "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Eichler, Evan E",
+        "short_name": "Eichler EE",
+        "identifiers": [
+          "0000-0002-8246-4014"
+        ],
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.",
+          "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Jakobsson, Johan",
+        "short_name": "Jakobsson J",
+        "identifiers": [
+          "0000-0003-0669-7673"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42913018"
+    ],
+    "review": [
+      "42913018"
+    ],
+    "pmc": [
+      "13693685"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg5791?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-68",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

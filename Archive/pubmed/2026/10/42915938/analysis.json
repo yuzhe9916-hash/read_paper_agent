@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42915938",
+  "title": "Rotary Piston Valve with Surface-Engraved Microfluidic Channels for Cassette-Based Nucleic Acid Detection.",
+  "authors": "Cai, Yanwei; Zi, Longbin; Zheng, Jintao; Tang, Yunyan; Wei, Lanlan; Wang, Dou; Jiang, Xingyu",
+  "journal": "Analytical chemistry",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 2,
+  "one_liner_zh": "该文开发了基于旋转活塞阀的微流控芯片，用于整合核酸提取、RPA和CRISPR检测HPV16，属于CRISPR检测应用平台，但未涉及切割/碱基编辑的分子机制，与本课题机制研究关联微弱。",
+  "abstract": "Point-of-care testing (POCT) plays a crucial role in both clinical- and home-based diagnostics. Integrated POCT systems that combine nucleic acid extraction with detection provide significant advantages, including portable operation, rapid processing, and high sensitivity. In this work, we present a fully automated and integrated nucleic acid detection system based on microfluidic chips with a surface-engraved rotary piston (SERP), which incorporates all of the liquid channels on the surface of one valve. This design consists of only three parts: the chip, the rubber sealing ring, and the rotary valve containing microfluidic channels, allowing the sequential connection of reaction chambers to facilitate nucleic acid extraction, recombinase polymerase amplification (RPA), and clustered regularly interspaced short palindromic repeats (CRISPR) into a single chip. Our chip consists of only three components, can be fabricated directly by 3D printing, and features a simple structure with a compact size. This platform was employed for the detection of human papillomavirus (HPV16) DNA, achieving a limit of detection (LOD) as low as 60 copies/mL. This result underscores the potential of the SERP as a rapid, cost-effective, and modular solution for POCT applications.",
+  "abstract_zh": "即时检测（POCT）在临床和家庭诊断中均发挥着关键作用。结合核酸提取与检测的一体化POCT系统具有显著优势，包括便携操作、快速处理和高灵敏度。在本研究中，我们提出了一种基于微流控芯片的全自动集成核酸检测系统，该系统采用表面雕刻旋转活塞（SERP），将所有液体通道集成于单个阀门表面。该设计仅由三个部件组成：芯片、橡胶密封圈和包含微流控通道的旋转阀，能够顺序连接反应室，以促进核酸提取、重组酶聚合酶扩增（RPA）和成簇规律间隔短回文重复序列（CRISPR）集成于单个芯片中。我们的芯片仅包含三个组件，可直接通过3D打印制造，结构简单且尺寸紧凑。该平台用于检测人乳头瘤病毒（HPV16）DNA，检测限（LOD）低至60拷贝/毫升。这一结果凸显了SERP作为快速、经济高效且模块化的POCT应用解决方案的潜力。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915938/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42915938/",
+  "paper_page_path": "papers/pubmed/42915938/index.html"
+}

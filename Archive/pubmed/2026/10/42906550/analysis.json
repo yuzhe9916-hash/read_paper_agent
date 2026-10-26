@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42906550",
+  "title": "A phage-encoded small RNA that mimics chimeric guide to inhibit CRISPR-Cas9.",
+  "authors": "Chen, Ying; Zhao, Peng; Guo, Chenmin; Chen, Dandan; Yun, Caihong; Chen, Jiyun; Liu, Liang",
+  "journal": "Cell host & microbe",
+  "published_date": "2026-10-22",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 9,
+  "one_liner_zh": "该文发现噬菌体编码的小RNA rAcrIIA1通过模拟完整sgRNA结构抑制Cas9，并通过冷冻电镜解析其与Cas9及DNA复合物的分子机制，同时证明其可重编程为功能性编辑工具，直接聚焦CRISPR-Cas9的RNA引导识别与切割机制，对碱基编辑和交错切割研究具有高度启发性。",
+  "abstract": "CRISPR-Cas9 relies on a dual CRISPR RNA (crRNA)-trans-activating crRNA (tracrRNA) guide, yet whether RNA-based anti-CRISPRs exist for this system has remained unknown. Here, we identify a phage-encoded small non-coding RNA, rAcrIIA1, that adopts an unexpected chimeric crRNA-tracrRNA architecture, faithfully recapitulating the entire single-guide RNA (sgRNA) of Cas9. Cryo-electron microscopy (cryo-EM) structures of the Cas9-rAcrIIA1 binary complex and the Cas9-rAcrIIA1-DNA ternary complex reveal that rAcrIIA1 engages Cas9 nearly identically to the native sgRNA, competitively blocking crRNA and tracrRNA loading and thereby abolishing DNA interference. Strikingly, beyond its natural inhibitory function, rAcrIIA1 is fully reprogrammable: with variable guide sequences, it directs Cas9 for sequence-specific DNA cleavage with efficiency comparable to the canonical sgRNA, and it activates trans-cleavage more potently. Thus, rAcrIIA1 provides an experimentally validated, mechanistically resolved RNA-based inhibitor of CRISPR-Cas9, reveals a distinct anti-CRISPR mechanism through complete sgRNA mimicry, and serves as a versatile bifunctional scaffold for genome editing and diagnostics.",
+  "abstract_zh": "CRISPR-Cas9依赖于双链CRISPR RNA (crRNA)-反式激活crRNA (tracrRNA) 引导，然而，对于该系统是否存在基于RNA的抗CRISPR机制，此前一直未知。在此，我们鉴定了一种噬菌体编码的小型非编码RNA，rAcrIIA1，其采用了一种意想不到的嵌合crRNA-tracrRNA结构，忠实地重现了Cas9的完整单引导RNA (sgRNA)。冷冻电子显微镜 (cryo-EM) 结构解析了Cas9-rAcrIIA1二元复合物及Cas9-rAcrIIA1-DNA三元复合物，揭示rAcrIIA1以几乎与天然sgRNA相同的方式结合Cas9，竞争性地阻断crRNA和tracrRNA的装载，从而消除DNA干扰。引人注目的是，除了其天然抑制功能外，rAcrIIA1完全可重编程：通过可变引导序列，它能引导Cas9进行序列特异性DNA切割，效率与典型sgRNA相当，并且更有效地激活反式切割。因此，rAcrIIA1提供了一个经实验验证、机制解析的基于RNA的CRISPR-Cas9抑制剂，揭示了通过完全sgRNA模拟实现的一种独特抗CRISPR机制，并作为基因组编辑和诊断的多功能双功能支架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906550/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42906550/",
+  "paper_page_path": "papers/pubmed/42906550/index.html"
+}

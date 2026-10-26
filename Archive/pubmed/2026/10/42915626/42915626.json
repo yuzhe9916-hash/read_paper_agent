@@ -1,0 +1,177 @@
+{
+  "identity": {
+    "pmid": "42915626",
+    "doi": "10.1021/acssynbio.6c00344",
+    "title": "AI-Guided Engineering of Tunable CcdB Variants for Flexible Selection in Escherichia coli."
+  },
+  "content": {
+    "abstract": "The strong cytotoxicity of wild-type CcdB limits its use as a counter-selection marker, as leaky expression can cause unintended cell death. Here, we report the rational engineering of a tunable CcdB variant with minimal basal toxicity while retaining inducible lethality. Using a structure-aware deep learning-guided strategy, we prioritized mutations predicted to alter CcdB-DNA gyrase binding energetics and experimentally identified variants with reduced basal toxicity and retained inducible killing. Targeted validation identified CcdB_L96P, which significantly reduces basal toxicity while preserving effective killing upon induction. This variant exhibits minimal leakage and robust inducible lethality across multiple Escherichia coli strains without requiring specialized hosts. It enables antibiotic-free CRISPR gRNA plasmid construction with high accuracy and efficient enrichment of correctly assembled clones. In a succinic acid-producing chassis, CcdB_L96P imposes no detectable metabolic burden and supports effective removal of residual cells using low concentrations of anhydrotetracycline. Together, this work provides a generalizable protein-level strategy for tuning toxin activity in synthetic biology.",
+    "keywords": [
+      "antibiotic-free selection",
+      "deep learning-guided design",
+      "protein engineering",
+      "toxin-antitoxin system",
+      "tunable toxicity"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/genetics/metabolism",
+      "*Protein Engineering/methods",
+      "DNA Gyrase/metabolism/genetics",
+      "*Escherichia coli Proteins/genetics/metabolism",
+      "Plasmids/genetics/metabolism",
+      "Mutation",
+      "*Bacterial Proteins/genetics/metabolism",
+      "Succinic Acid/metabolism",
+      "CRISPR-Cas Systems/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Pengpai",
+        "Wang, Hongle",
+        "Fan, Xiangrui",
+        "Zhang, Fa",
+        "Lv, Jiugong",
+        "Tan, Huiping",
+        "Liang, Liya",
+        "Liu, Rongming"
+      ],
+      "short_names": [
+        "Li P",
+        "Wang H",
+        "Fan X",
+        "Zhang F",
+        "Lv J",
+        "Tan H",
+        "Liang L",
+        "Liu R"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-2681-8164"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+        "Ningbo Institute of Dalian University of Technology , Ningbo315016, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Pengpai",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hongle",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Xiangrui",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fa",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Jiugong",
+        "short_name": "Lv J",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Huiping",
+        "short_name": "Tan H",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Liya",
+        "short_name": "Liang L",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Rongming",
+        "short_name": "Liu R",
+        "identifiers": [
+          "0009-0001-2681-8164"
+        ],
+        "affiliations": [
+          "MOE Key Laboratory of Bio-Intelligent Manufacturing, School of Bioengineering, Dalian University of Technology, Dalian116024, China.",
+          "Ningbo Institute of Dalian University of Technology , Ningbo315016, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915626"
+    ],
+    "review": [
+      "42915626"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/asbcd6/article-lookup/doi/10.1021/acssynbio.6c00344",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

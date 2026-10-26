@@ -2,6 +2,246 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42921428",
+      "title": "Catalytic Hairpin Assembly-Aided CRISPR/Cas-SERS for Nucleic Acid Detection Enhanced by Multiple Catalytic Amplification.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42921428/index.html",
+      "meta": [
+        "Liu, Lin; Bao, Chengxin; Wang, Huimin; Li, Feiwu; Liu, Xiangguo; He, Yuxuan; Chang, Jingjing; Yin, Yuejia; Xu, Shuping",
+        "ACS measurement science au",
+        "2026-10-25"
+      ],
+      "tags": [],
+      "summary": "该文利用Cas12a反式切割活性结合CHA和G4/Hemin构建SERS核酸检测方法，虽涉及CRISPR/Cas但聚焦于检测应用，未深入探究切割或碱基编辑的分子机制，对课题启发有限。",
+      "abstract": "This study established a surface-enhanced Raman scattering (SERS) detection method based on the catalytic hairpin assembly (CHA) reaction combined with clustered regularly interspaced short palindromic repeats and its associated proteins (CRISPR/Cas), integrated with the guanine-quadruplexes/Hemin (G4/Hemin) catalytic amplification effect, which is available for identifying a typical indicator for genetically modified crops, the 35S promoter from the cauliflower mosaic virus (CaMV35S). Target CaMV35S-derived RNA (CaMV35S RNA) triggers the CHA reaction, yielding a double-stranded DNA product (C1/C2) that is recognized by CRISPR RNA (crRNA), thereby activating the trans-cleavage activity of Cas12a. A magnetic bead-based nanoprobe was fabricated by linking the hybridization chain reaction (HCR) product to the magnetic bead. This probe can fold into repeated G4 units under a specific potassium ion concentration to enable a high loading of Hemin, thereby providing strong peroxidase-like catalytic activity for 3,3',5,5'-tetra-methyl-benz-idine (TMB). In a positive trial, the 35S RNA initiates CHA, and the CHA product activates Cas12a, disrupting the HCR products on the magnetic bead probe, preventing the G4 structure formation, accordingly yielding a weak SERS signal from TMB. In contrast, a negative trial fails to activate Cas12a, and the probe retains its nanoenzyme activity, resulting in a strong SERS signal from the produced oxTMB. Owing to the collateral trans-cleavage activity of Cas12a and the high peroxidase-like nanozyme activity of G4/Hemin, this method achieves the highly sensitive SERS detection of genetically modified samples without target gene preamplification. 本研究建立了一种基于催化发夹组装（CHA）反应结合成簇规律间隔短回文重复序列及其相关蛋白（CRISPR/Cas），并整合鸟嘌呤四链体/氯化血红素（G4/Hemin）催化放大效应的表面增强拉曼散射（SERS）检测方法，可用于识别转基因作物的典型指示物——来自花椰菜花叶病毒的35S启动子（CaMV35S）。目标CaMV35S来源的RNA（CaMV35S RNA）触发CHA反应，生成双链DNA产物（C1/C2），该产物被CRISPR RNA（crRNA）识别，从而激活Cas12a的反式切割活性。通过将杂交链式反应（HCR）产物连接至磁珠，制备了一种基于磁珠的纳米探针。该探针在特定钾离子浓度下可折叠成重复的G4单元，以实现高负载的Hemin，从而为3,3',5,5'-四甲基联苯胺（TMB）提供强过氧化物酶样催化活性。在阳性试验中，35S RNA启动CHA，CHA产物激活Cas12a，破坏磁珠探针上的HCR产物，阻止G4结构形成，从而产生来自TMB的弱SERS信号。相反，阴性试验无法激活Cas12a，探针保留其纳米酶活性，导致产生的oxTMB产生强SERS信号。得益于Cas12a的附带反式切割活性和G4/Hemin的高过氧化物酶样纳米酶活性，该方法无需靶基因预扩增即可实现对转基因样品的高灵敏度SERS检测。",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "pubmed:42922509",
+      "title": "Structural basis for tetraspanin-dependent surface export and adhesive function of integrin alpha3beta1.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42922509/index.html",
+      "meta": [
+        "Litzau, Lauren; Wren, Elizabeth K; Kruse, Andrew C; Blacklow, Stephen C",
+        "bioRxiv : the preprint server for biology",
+        "2026-10-25"
+      ],
+      "tags": [],
+      "summary": "该研究通过冷冻电镜解析整合素与四旋蛋白复合物结构，仅使用CRISPR作为基因敲除工具，不涉及切割机制或碱基编辑，与本课题无关。",
+      "abstract": "Integrin alpha3beta1 (ITGalpha3beta1) is a member of an integrin subfamily that binds to laminin proteins and promotes attachment of epithelial cells to the basement membrane. ITGalpha3beta1 forms a complex with the tetraspanin CD151, and loss-of-function mutations in both ITGalpha3 and CD151 cause epidermolysis bullosa, a severe skin blistering disease resulting from a defect in basement membrane attachment. Here, we report the cryoEM structure of an ITGalpha3beta1 complex with CD151 and show that mutation of CD151 at the binding interface disrupts complex formation in cells. Strikingly, CRISPR-mediated knockout of CD151 leads to a variably penetrant ITGalpha3beta1 surface export defect that is restored by re-expression of wild-type but not interface-mutated CD151. Together, these studies define the molecular basis for binding of CD151 to ITGalpha3beta1, and show that CD151 promotes ITGalpha3beta1 surface export, providing a biochemical explanation for the CD151 loss-of-function phenotype in epidermolysis bullosa. 整合素α3β1（ITGalpha3beta1）是整合素亚家族的一员，该亚家族与层粘连蛋白结合并促进上皮细胞附着于基底膜。ITGalpha3beta1与四旋蛋白CD151形成复合物，且ITGalpha3和CD151的功能缺失突变均可导致大疱性表皮松解症，这是一种因基底膜附着缺陷引起的严重皮肤起疱疾病。在此，我们报道了ITGalpha3beta1与CD151复合物的冷冻电镜结构，并表明在结合界面处突变CD151会破坏细胞中的复合物形成。引人注目的是，CRISPR介导的CD151敲除导致一种可变外显率的ITGalpha3beta1表面输出缺陷，该缺陷可通过野生型CD151的重新表达得以恢复，而界面突变的CD151则不能。综合来看，这些研究定义了CD151与ITGalpha3beta1结合的分子基础，并表明CD151促进ITGalpha3beta1的表面输出，为CD151功能缺失表型在大疱性表皮松解症中的表现提供了生化解释。",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "pubmed:42924722",
+      "title": "The Role of METTL3-Mediated m(6)A Methylation in Hepatocellular Carcinoma Progression and Treatment.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42924722/index.html",
+      "meta": [
+        "Maduranga, Bala Gamage Nalaka Hasith; Yang, Hee Doo; Lee, Su In; Eun, Jung Woo; Lim, Sun-Young; Kim, Hyung Seok; Jeong, Jee-Yeong",
+        "Epigenomes",
+        "2026-10-25"
+      ],
+      "tags": [],
+      "summary": "该综述聚焦METTL3介导的m6A甲基化在肝癌进展与治疗中的作用，仅提及CRISPR-Cas9作为靶向策略之一，未涉及交错切割或碱基编辑的分子机制，与本课题核心无关。",
+      "abstract": "Hepatocellular carcinoma (HCC) is a major cause of cancer-related mortality worldwide. Emerging evidence has established N(6)-methyladenosine (m(6)A) RNA methylation as a key epitranscriptomic mechanism underlying hepatocarcinogenesis. Methyltransferase-like 3 (METTL3), the catalytic core of the m(6)A methyltransferase complex (MTC), forms a heterodimer with METTL14 and cooperates with auxiliary components of the MTC to deposit m(6)A modifications that modulate mRNA stability, splicing, nuclear export, and translation. In this review, we comprehensively summarize the current understanding of METTL3 biology in HCC, focusing on its structure, assembly within the MTC, regulation of coding and non-coding RNAs, and its roles in driving key oncogenic signaling cascades, such as JAK/STAT3, PI3K/AKT/mTOR, Wnt/beta-catenin, Hippo/YAP, Notch, Hedgehog, and epithelial-mesenchymal transition. In addition, we discussed how METTL3 remodels the tumor immune microenvironment (TIME) by regulating immune responses and metabolic pathways promoting immune evasion and therapy resistance. Therapeutic strategies targeting METTL3-including small-molecule inhibitors, CRISPR-Cas9 approaches, combination immunotherapy, and tumor-selective delivery systems-are discussed together with the challenges that continue to limit clinical translation. Collectively, these findings position METTL3 as a central epitranscriptomic regulator of HCC progression; however, further mechanistic and clinical validation remains necessary to establish its utility as a therapeutic target and prognostic biomarker. 肝细胞癌（HCC）是全球癌症相关死亡的主要原因。新近证据已将N(6)-甲基腺苷（m(6)A）RNA甲基化确立为肝细胞癌发生的关键表观转录组机制。甲基转移酶样3（METTL3）作为m(6)A甲基转移酶复合物（MTC）的催化核心，与METTL14形成异二聚体，并与MTC的辅助组分协同作用，沉积m(6)A修饰，从而调节mRNA稳定性、剪接、核输出和翻译。在本综述中，我们全面总结了目前对METTL3在HCC中生物学功能的理解，重点关注其结构、在MTC内的组装、对编码和非编码RNA的调控，及其在驱动关键致癌信号级联（如JAK/STAT3、PI3K/AKT/mTOR、Wnt/β-catenin、Hippo/YAP、Notch、Hedgehog和上皮-间质转化）中的作用。此外，我们讨论了METTL3如何通过调节免疫反应和代谢途径重塑肿瘤免疫微环境（TIME），从而促进免疫逃逸和治疗耐药。针对METTL3的治疗策略——包括小分子抑制剂、CRISPR-Cas9方法、联合免疫治疗和肿瘤选择性递送系统——连同持续限制临床转化的挑战一并进行了讨论。总体而言，这些发现将METTL3定位为HCC进展的核心表观转录组调控因子；然而，进一步的机制和临床验证仍必要，以确立其作为治疗靶点和预后生物标志物的实用性。",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "pubmed:42925849",
+      "title": "When prevention constrains cure: Institutional lock-in and gene therapy access for beta-thalassemia.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42925849/index.html",
+      "meta": [
+        "Huang, Qixian",
+        "Social science & medicine (1982)",
+        "2026-10-25"
+      ],
+      "tags": [],
+      "summary": "该文分析CRISPR基因疗法（Casgevy）在不同国家的制度性获取障碍，属于政策/卫生系统研究，未涉及碱基编辑或交错切割的分子机制，仅以CRISPR疗法为背景，与本课题机制研究关联极弱。",
+      "abstract": "On 16 November 2023, the United Kingdom Medicines and Healthcare products Regulatory Agency approved Casgevy (exagamglogene autotemcel), the first CRISPR-based gene therapy for a genetic disease, offering patients with transfusion-dependent beta-thalassemia (TDT) freedom from lifelong monthly transfusions. Yet in China, which carries the world's largest TDT patient population, no patient has received the therapy through the public health system, and the access gap is not explained by price or manufacturing economics alone. This paper argues that prevention-era institutional architecture constrains cure-era access through three lock-in mechanisms: cognitive (the direction of genetic information flow), infrastructural (the spatial distribution of treatment capacity), and fiscal (the structure of payment responsibility). Drawing on a structured comparison of four countries selected to represent distinct institutional pathway types (Cyprus, ecclesiastical-public certification; China, administrative filing; Thailand, public health universal coverage; India, federal fragmentation), the analysis proposes a typology of barrier configurations and illustrates them through four exploratory cases. The administrative-filing pathway is associated with high barriers across information, geographic, and economic dimensions; trust-intention is not assessable on current evidence. The ecclesiastical-public pathway is associated with medium information and low geographic barriers with medium fiscal and low-confidence trust barriers; the universal-coverage pathway provides a balanced platform that remains under-activated for gene therapy; and the federal-fragmented pathway fails the precondition of patient identification. No pathway simultaneously optimizes all four readiness dimensions. Presented as a hypothesis-generating typology rather than a tested diagnostic model, the framework relates pathway type to barrier configuration and offers testable hypotheses for pathway-specific intervention design and for extension to sickle cell disease, hemophilia, and other genetic conditions entering the curative era. 2023年11月16日，英国药品和健康产品管理局批准了Casgevy（exagamglogene autotemcel），这是首个基于CRISPR的基因疗法，用于治疗遗传性疾病，为输血依赖性β-地中海贫血（TDT）患者提供了摆脱终身每月输血的可能。然而，在中国——全球TDT患者人数最多的国家——尚无患者通过公共卫生系统接受该疗法，且这一获取差距并非仅由价格或制造经济性所能解释。本文认为，预防时代的制度架构通过三种锁定机制制约了治疗时代的可及性：认知机制（遗传信息流动的方向）、基础设施机制（治疗能力的空间分布）和财政机制（支付责任的结构）。通过对四个代表不同制度路径类型的国家进行结构化比较（塞浦路斯，教会-公共认证；中国，行政备案；泰国，公共卫生全民覆盖；印度，联邦碎片化），分析提出了一种障碍配置的类型学，并通过四个探索性案例加以说明。行政备案路径在信息、地理和经济维度上均与高障碍相关；信任意图在现有证据下无法评估。教会-公共路径与中等信息障碍和低地理障碍相关，但伴有中等财政障碍和低置信度的信任障碍；全民覆盖路径提供了一个平衡的平台，但在基因治疗方面尚未充分激活；联邦碎片化路径则未能满足患者识别的先决条件。没有任何路径能同时优化所有四个准备维度。本文提出的框架是一种生成假设的类型学，而非经过验证的诊断模型，它将路径类型与障碍配置联系起来，并为路径特定干预设计及扩展到镰状细胞病、血友病和其他进入治愈时代的遗传性疾病提供了可检验的假设。",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "pubmed:42913018",
+      "title": "Retroviral insertions contributed to the divergence of human and chimpanzee brains.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42913018/index.html",
+      "meta": [
+        "Gerdes, Patricia; Karlsson, Ofelia; Garza, Raquel; Atacho, Diahann A M; Hsieh, PingHsun; Prajapati, Bharat; Yoo, DongAhn; Muralidharan, Chandramouli; Adami, Anita; Davis-Hansson, Carrie; Johansson, Emily M; Sharma, Yogita; Castilla-Vallmanya, Laura; West, Wiktor; Vinod, Meghna; Domitrovic, Lucian; Johansson, Pia A; Johansson, Jenny; Douse, Christopher H; Kanduri, Chandrasekhar; Jern, Patric; Eichler, Evan E; Jakobsson, Johan",
+        "Science advances",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该研究分析黑猩猩内源逆转录病毒插入对脑发育基因调控的影响，虽使用CRISPR删除验证功能，但核心对象非CRISPR/碱基编辑机制，且无切割或编辑分子机制研究，仅边缘相关。",
+      "abstract": "Over the past 5 to 7 million years, humans and chimpanzees have diverged in brain size, structure, and cognition despite high conservation of protein-coding genes. However, retroviral infections within host genomes have introduced numerous species-specific regulatory elements. Chimpanzees harbor lineage-specific PTERV1 endogenous retroviruses that are absent in humans, but their role in brain evolution has remained unclear. We performed an epigenomic analysis of PTERV1 insertions in chimpanzee neural organoids and found they are heavily DNA methylated, forming over 150 species-specific heterochromatin domains with the potential to influence gene regulation. We identified a chimpanzee-specific insertion on chromosome 19 that silences the long noncoding RNA LINC00662 through DNA methylation spreading. CRISPR-mediated deletion of this PTERV1 restored LINC00662 expression in chimpanzee induced pluripotent stem cells. We show that LINC00662, a human-specific transcript expressed during brain development, plays a role in neuronal maturation, axon outgrowth, and neural organoid development. These findings reveal a mechanism by which endogenous retroviral insertions contributed to human-chimpanzee brain divergence. 在过去的500万至700万年里，人类与黑猩猩在脑大小、结构和认知方面发生了分化，尽管蛋白质编码基因高度保守。然而，宿主基因组内的逆转录病毒感染引入了许多物种特异的调控元件。黑猩猩携带谱系特异的PTERV1内源性逆转录病毒，这些病毒在人类中缺失，但它们在脑进化中的作用一直不清楚。我们对黑猩猩神经类器官中PTERV1插入进行了表观基因组分析，发现它们被高度DNA甲基化，形成超过150个物种特异的异染色质结构域，具有影响基因调控的潜力。我们鉴定了19号染色体上一个黑猩猩特异的插入，通过DNA甲基化扩散沉默了长链非编码RNA LINC00662。CRISPR介导的该PTERV1缺失恢复了黑猩猩诱导多能干细胞中LINC00662的表达。我们表明，LINC00662是一种在脑发育过程中表达的人类特异转录本，在神经元成熟、轴突生长和神经类器官发育中发挥作用。这些发现揭示了一种机制，即内源性逆转录病毒插入促进了人类与黑猩猩脑的分化。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42914331",
+      "title": "Umami-active components in edible Fungi: Distribution, structure-function relationships, molecular mechanisms, computational insights and industrial applications.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42914331/index.html",
+      "meta": [
+        "Khengle, Samruddhi; Kalam, Tejas; Mondal, Imdadul Hoque; Sherin, Zincia; Bashir, Omar; Pawase, Prashant Anil; Kapila, Akshit",
+        "Food research international (Ottawa, Ont.)",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该综述探讨食用菌中鲜味化合物的分布、结构与功能关系及工业应用，仅提及CRISPR/Cas9代谢工程作为未来方向，与本课题的CRISPR切割/碱基编辑分子机制无实质关联。",
+      "abstract": "Edible mushrooms are a biodiverse yet underutilized source of umami compounds providing clean-label alternatives to synthetic flavourings such as monosodium glutamate (MSG). The characteristic savory taste arises from interactions among free amino acids (glutamate, aspartate), 5'-ribonucleotides (5'-GMP, 5'-IMP), organic acids (succinic, citric), polyols (trehalose, mannitol), and bioactive peptides, whose accumulation is influenced by genetic composition, growth substrate, developmental stage, and postharvest management. This review systematically examines the distribution of umami compounds in Pleurotus spp., Lentinula edodes, Hypsizygus marmoreus, and other species, with emphasis on umami peptides, their structure-function relationships, and taste perception mediated by T1R1/T1R3, mGluR1/mGluR4, and CaSR receptors. In addition, it critically assesses industrial applications and advanced computational approaches including iUmami-SCM, UMPred-FRL, Umami-MRNN, Umami-BERT, molecular docking and molecular dynamics simulations for high-throughput discovery of umami peptides. Enzymatic hydrolysis coupled with ultrafiltration enriches low-molecular-weight (<3 kDa) umami peptides while reducing associated bitterness. Equivalent Umami Concentration (EUC) reflects an 8-10-fold synergistic enhancement between amino acids and nucleotides, where the synergistic constant represents the strength of their non-additive umami interaction. While fungal peptides are highly valued for their unique sensory contributions, their significance extends beyond taste as they also exert multifunctional bioactivities including ACE inhibition (IC(5)(0): 9-150 muM), antioxidant activity (DPPH and ABTS assays), and endothelial protection. Challenges include genetic engineering strategies for umami enhancement, salt-umami interactions, and analytical standards. Emerging industrial applications, including CRISPR/Cas9-based metabolic engineering and agro-waste upcycling, position edible fungi as promising platforms for clean-label flavor systems, sodium reduction, and circular food economies. 食用菌是鲜味化合物的一个生物多样性丰富但尚未充分利用的来源，为味精（MSG）等合成调味品提供了清洁标签替代品。其特有的咸鲜味源于游离氨基酸（谷氨酸、天冬氨酸）、5‘-核糖核苷酸（5’-GMP、5‘-IMP）、有机酸（琥珀酸、柠檬酸）、多元醇（海藻糖、甘露醇）和生物活性肽之间的相互作用，这些化合物的积累受遗传组成、生长基质、发育阶段和采后管理的影响。本综述系统考察了侧耳属（Pleurotus spp.）、香菇（Lentinula edodes）、白玉菇（Hypsizygus marmoreus）及其他物种中鲜味化合物的分布，重点探讨鲜味肽、其结构-功能关系以及由T1R1/T1R3、mGluR1/mGluR4和CaSR受体介导的味觉感知。此外，本文还批判性评估了工业应用及先进计算方法，包括iUmami-SCM、UMPred-FRL、Umami-MRNN、Umami-BERT、分子对接和分子动力学模拟，用于鲜味肽的高通量发现。酶解结合超滤可富集低分子量（<3 kDa）鲜味肽，同时降低相关苦味。等效鲜味浓度（EUC）反映氨基酸与核苷酸之间8-10倍的协同增强效应，其中协同常数代表其非加性鲜味相互作用的强度。虽然真菌肽因其独特的感官贡献而备受重视，但其意义超越味觉范畴，因为它们还发挥多功能生物活性，包括ACE抑制（IC(5)(0)：9-150 μM）、抗氧化活性（DPPH和ABTS测定）及内皮保护。挑战包括鲜味增强的基因工程策略、盐-鲜味相互作用及分析标准。新兴工业应用，包括基于CRISPR/Cas9的代谢工程和农业废弃物升级利用，使食用菌成为清洁标签风味系统、减钠和循环食品经济的有前景平台。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42915614",
+      "title": "Engineering DNA-Targeting CRISPR and CRISPR-Like Effectors: Advances from Rational Design and High-Throughput Screening to AI-Driven Development.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42915614/index.html",
+      "meta": [
+        "She, Lingwei; Liang, Zeyu; Zou, Qin; Huo, Yi-Xin",
+        "ACS synthetic biology",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "综述整合理性设计、高通量筛选与AI驱动的DNA靶向CRISPR/Cas效应器工程化，涵盖结构引导与定向进化策略，虽为综述且机制深度有限，但系统覆盖碱基编辑与切割工具优化，对本课题工具设计与机制理解有参考价值。",
+      "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR) and CRISPR-associated (Cas) proteins constitute adaptive immune systems in prokaryotes and have transformed life sciences, precision medicine, and synthetic biology as programmable genome-editing tools. Despite their broad utility, naturally occurring DNA-targeting Cas effectors remain constrained by several intrinsic limitations, including large protein size that complicates delivery, stringent protospacer adjacent motif (PAM) requirements that restrict targetable genomic space, and mismatch tolerance that can lead to off-target activity and potential genotoxicity. These challenges have made Cas protein engineering and the discovery of novel CRISPR and CRISPR-like systems from metagenomic resources central to the development of next-generation genome-editing platforms. This Review places recent advances within an integrated synthetic biology engineering continuum that links natural effector discovery, structure-guided hypothesis generation, high-throughput functional screening, machine learning-enabled model construction, and iterative redesign. This Review summarizes progress in the screening, optimization, and functional engineering of DNA-targeting CRISPR and CRISPR-like effectors, with emphasis on structure-guided rational design, directed evolution coupled with high-throughput screening, bioinformatics- and evolution-guided mining of novel systems from large-scale sequence databases, and artificial intelligence-assisted development. By integrating these strategies, we highlight how CRISPR effector engineering is moving toward design-build-test-learn (DBTL)-inspired workflows that expand the functional landscape of genome-editing technologies and advance genome editing toward improved efficiency, safety, and programmability. 成簇规律间隔短回文重复序列（CRISPR）及其相关（Cas）蛋白在原核生物中构成适应性免疫系统，并作为可编程基因组编辑工具，已深刻变革生命科学、精准医学和合成生物学领域。尽管其应用广泛，天然存在的靶向DNA的Cas效应物仍受若干内在限制的约束，包括蛋白尺寸过大导致递送复杂化、严格的间隔区前邻近基序（PAM）要求限制可靶向基因组空间，以及错配耐受性可能引发脱靶活性和潜在基因毒性。这些挑战使得Cas蛋白工程及从宏基因组资源中发现新型CRISPR和类CRISPR系统成为开发下一代基因组编辑平台的核心。本综述将近期进展置于一个整合的合成生物学工程连续体中，该连续体连接天然效应物发现、结构引导的假设生成、高通量功能筛选、机器学习驱动的模型构建及迭代再设计。本综述总结了靶向DNA的CRISPR和类CRISPR效应物在筛选、优化及功能工程方面的进展，重点强调结构引导的理性设计、与高通量筛选相结合的定向进化、基于生物信息学和进化引导的大规模序列数据库新系统挖掘，以及人工智能辅助开发。通过整合这些策略，我们强调CRISPR效应物工程正朝着受设计-构建-测试-学习（DBTL）启发的工作流程迈进，这些流程扩展了基因组编辑技术的功能景观，并推动基因组编辑向更高效率、安全性和可编程性方向发展。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42915626",
+      "title": "AI-Guided Engineering of Tunable CcdB Variants for Flexible Selection in Escherichia coli.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42915626/index.html",
+      "meta": [
+        "Li, Pengpai; Wang, Hongle; Fan, Xiangrui; Zhang, Fa; Lv, Jiugong; Tan, Huiping; Liang, Liya; Liu, Rongming",
+        "ACS synthetic biology",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该文用AI引导工程化CcdB毒素变体以降低基础毒性并用于CRISPR gRNA质粒构建的反向筛选，虽涉及CRISPR应用但核心是毒素-促旋酶互作，非碱基编辑或交错切割机制，机制深度有限。",
+      "abstract": "The strong cytotoxicity of wild-type CcdB limits its use as a counter-selection marker, as leaky expression can cause unintended cell death. Here, we report the rational engineering of a tunable CcdB variant with minimal basal toxicity while retaining inducible lethality. Using a structure-aware deep learning-guided strategy, we prioritized mutations predicted to alter CcdB-DNA gyrase binding energetics and experimentally identified variants with reduced basal toxicity and retained inducible killing. Targeted validation identified CcdB_L96P, which significantly reduces basal toxicity while preserving effective killing upon induction. This variant exhibits minimal leakage and robust inducible lethality across multiple Escherichia coli strains without requiring specialized hosts. It enables antibiotic-free CRISPR gRNA plasmid construction with high accuracy and efficient enrichment of correctly assembled clones. In a succinic acid-producing chassis, CcdB_L96P imposes no detectable metabolic burden and supports effective removal of residual cells using low concentrations of anhydrotetracycline. Together, this work provides a generalizable protein-level strategy for tuning toxin activity in synthetic biology. 野生型CcdB的强细胞毒性限制了其作为反选择标记的应用，因为泄漏表达可能导致非预期细胞死亡。在此，我们报告了一种可调控CcdB变体的理性工程化设计，该变体具有最低的基础毒性，同时保留诱导性致死活性。通过采用结构感知的深度学习引导策略，我们优先考虑了预测会改变CcdB-DNA旋转酶结合能量的突变，并通过实验鉴定了基础毒性降低且诱导杀伤活性保留的变体。靶向验证确定了CcdB_L96P，该变体显著降低基础毒性，同时保持诱导后的有效杀伤能力。此变体表现出最小泄漏，并在多种大肠杆菌菌株中具有稳健的诱导性致死活性，无需特殊宿主。它支持无抗生素的CRISPR gRNA质粒构建，具有高准确性，并能高效富集正确组装的克隆。在产琥珀酸底盘菌株中，CcdB_L96P不施加可检测的代谢负担，并支持使用低浓度脱水四环素有效去除残留细胞。综上，这项工作为合成生物学中调控毒素活性提供了一种可推广的蛋白质层面策略。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42915938",
+      "title": "Rotary Piston Valve with Surface-Engraved Microfluidic Channels for Cassette-Based Nucleic Acid Detection.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42915938/index.html",
+      "meta": [
+        "Cai, Yanwei; Zi, Longbin; Zheng, Jintao; Tang, Yunyan; Wei, Lanlan; Wang, Dou; Jiang, Xingyu",
+        "Analytical chemistry",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该文开发了基于旋转活塞阀的微流控芯片，用于整合核酸提取、RPA和CRISPR检测HPV16，属于CRISPR检测应用平台，但未涉及切割/碱基编辑的分子机制，与本课题机制研究关联微弱。",
+      "abstract": "Point-of-care testing (POCT) plays a crucial role in both clinical- and home-based diagnostics. Integrated POCT systems that combine nucleic acid extraction with detection provide significant advantages, including portable operation, rapid processing, and high sensitivity. In this work, we present a fully automated and integrated nucleic acid detection system based on microfluidic chips with a surface-engraved rotary piston (SERP), which incorporates all of the liquid channels on the surface of one valve. This design consists of only three parts: the chip, the rubber sealing ring, and the rotary valve containing microfluidic channels, allowing the sequential connection of reaction chambers to facilitate nucleic acid extraction, recombinase polymerase amplification (RPA), and clustered regularly interspaced short palindromic repeats (CRISPR) into a single chip. Our chip consists of only three components, can be fabricated directly by 3D printing, and features a simple structure with a compact size. This platform was employed for the detection of human papillomavirus (HPV16) DNA, achieving a limit of detection (LOD) as low as 60 copies/mL. This result underscores the potential of the SERP as a rapid, cost-effective, and modular solution for POCT applications. 即时检测（POCT）在临床和家庭诊断中均发挥着关键作用。结合核酸提取与检测的一体化POCT系统具有显著优势，包括便携操作、快速处理和高灵敏度。在本研究中，我们提出了一种基于微流控芯片的全自动集成核酸检测系统，该系统采用表面雕刻旋转活塞（SERP），将所有液体通道集成于单个阀门表面。该设计仅由三个部件组成：芯片、橡胶密封圈和包含微流控通道的旋转阀，能够顺序连接反应室，以促进核酸提取、重组酶聚合酶扩增（RPA）和成簇规律间隔短回文重复序列（CRISPR）集成于单个芯片中。我们的芯片仅包含三个组件，可直接通过3D打印制造，结构简单且尺寸紧凑。该平台用于检测人乳头瘤病毒（HPV16）DNA，检测限（LOD）低至60拷贝/毫升。这一结果凸显了SERP作为快速、经济高效且模块化的POCT应用解决方案的潜力。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42916570",
+      "title": "High-Level Mycoprotein Production through Metabolic Regulation of Concanavalin A-Like Lectin/Glucanase Domain-Containing Protein in Fusarium venenatum.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42916570/index.html",
+      "meta": [
+        "Wu, Xiaohui; Luo, Shijun; Chen, Yaru; Du, Guocheng; Chen, Jian; Liu, Xiao",
+        "Journal of agricultural and food chemistry",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该文研究真菌蛋白生产菌株的代谢工程改造，与CRISPR/碱基编辑/交错切割机制无关，无可迁移的分子机制启发。",
+      "abstract": "Mycoprotein produced by Fusarium venenatum is emerging as an increasingly widespread edible microbial protein source. However, their development is constrained by low protein content, inefficient substrate conversion, and substantial byproducts like ethanol, leading to considerable carbon loss. This study identifies a new genetic target FvCLG encoding concanavalin A-like lectin/glucanase domain-containing protein that associated with cell wall construction. In the 5 L fermenter, the DeltaFvCLG strain FG31 achieved the highest reported protein content (61.34%), representing a 22.41% increase over the wild-type strain, while ethanol production was significantly restricted with only minimal CO2 generation. Furthermore, the glucose-to-biomass and glucose-to-protein conversion rate of FG31 increased by 44.02% and 76.41%, respectively. The widespread upregulation of nitrogen metabolism pathway genes associated with multiple amino acid synthesis in FG31 was revealed through transcriptomic analysis, while glycolysis pathway genes linked to ethanol synthesis were downregulated. This work provides new insights into enhancing the mycoprotein content and improving the substrate conversion efficiency. 由Fusarium venenatum生产的真菌蛋白正日益成为一种广泛使用的食用微生物蛋白来源。然而，其发展受到蛋白质含量低、底物转化效率低以及大量副产物（如乙醇）产生的制约，导致显著的碳损失。本研究识别出一个新的遗传靶点FvCLG，其编码含有刀豆素A样凝集素/葡聚糖酶结构域的蛋白质，与细胞壁构建相关。在5升发酵罐中，DeltaFvCLG菌株FG31实现了报道中最高的蛋白质含量（61.34%），较野生型菌株提高了22.41%，同时乙醇产量显著受限，仅产生极少量CO2。此外，FG31的葡萄糖至生物质和葡萄糖至蛋白质的转化率分别提高了44.02%和76.41%。通过转录组分析，揭示了FG31中与多种氨基酸合成相关的氮代谢途径基因广泛上调，而与乙醇合成相关的糖酵解途径基因则下调。这项工作为提升真菌蛋白含量和改善底物转化效率提供了新见解。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42917113",
+      "title": "BDF6 Deficiency Severely Compromises Intracellular Amastigote Development and Infectivity of Trypanosoma cruzi.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42917113/index.html",
+      "meta": [
+        "Boselli Raposo, Victoria; Perdomo, Virginia; Pacini, Florencia; Cueto, Juan A; Pezza, Alejandro; Romano, Patricia S; Docampo, Roberto; Perez, Ana Rosa; Serra, Esteban",
+        "ACS infectious diseases",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR/Cas9敲除布氏锥虫BDF6基因，发现其影响胞内无鞭毛体发育和感染性，但聚焦于寄生虫表观遗传调控而非核酸酶切割或碱基编辑机制，仅工具层面使用CRISPR，与本课题核心机制关联弱。",
+      "abstract": "Trypanosoma cruzi, the causative agent of Chagas disease, relies on complex gene regulatory mechanisms to adapt to its diverse host environments. In recent years, it has been established that epigenetics plays an essential role in these mechanisms via the regulation of chromatin structure. Bromodomain-containing factors (BDFs), known for recognizing acetylated lysines on histones, have emerged as key factors in chromatin remodeling complexes. Among the eight predicted BDFs in T. cruzi, BDF6 is part of a TINTIN-like complex with MRGx and MRGBP, homologous to components of the NuA4/TIP60 chromatin remodeling complex. We generated knockout (KO) parasites for the bdf6 gene using CRISPR/Cas9 gene editing. BDF6 KO epimastigotes exhibit normal morphology but decreased size and growth, and the resulting metacyclic trypomastigotes displayed drastically reduced infectivity. Strikingly, once inside host cells, KO parasites differentiated into amastigotes but failed to replicate. This intracellular arrest was reversed by episomal complementation of BDF6. Consistently, KO parasites also exhibited impaired infectivity in mice, a defect that was also rescued in the addback parasite lines. Our findings highlight BDF6 as a critical regulator of intracellular parasite development, operating in stages beyond epimastigotes where epigenetic plasticity is essential for host adaptation. This striking stage-specific phenotype of BDF6 KO underscores its functional importance and highlights the relevance of epigenetic regulators along T. cruzi life cycle. 克氏锥虫（Trypanosoma cruzi）是恰加斯病的病原体，其依赖复杂的基因调控机制以适应多样的宿主环境。近年来，已确定表观遗传学通过调控染色质结构在这些机制中发挥重要作用。含溴结构域因子（BDFs）以识别组蛋白上乙酰化赖氨酸而闻名，已成为染色质重塑复合物中的关键因子。在克氏锥虫中预测的八个BDFs中，BDF6是包含MRGx和MRGBP的TINTIN样复合物的一部分，与NuA4/TIP60染色质重塑复合物的组分同源。我们利用CRISPR/Cas9基因编辑技术生成了bdf6基因敲除（KO）寄生虫。BDF6 KO上鞭毛体表现出正常形态，但尺寸和生长减少，由此产生的锥鞭毛体感染性显著降低。引人注目的是，一旦进入宿主细胞，KO寄生虫分化为无鞭毛体但未能复制。这种细胞内停滞通过附加体互补BDF6得以逆转。一致地，KO寄生虫在小鼠中也表现出受损的感染性，这一缺陷在回补寄生虫系中也得到挽救。我们的发现强调BDF6是细胞内寄生虫发育的关键调控因子，其作用阶段超越上鞭毛体，在这些阶段表观遗传可塑性对宿主适应至关重要。BDF6 KO的这种显著阶段特异性表型凸显了其功能重要性，并强调了表观遗传调控因子在克氏锥虫生命周期中的相关性。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42917241",
+      "title": "RNA-Lipid Interactions Control Structure and Dynamics of Lipid Nanoparticles.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42917241/index.html",
+      "meta": [
+        "Chen, Xiaobing; Xu, Cong; Baiz, Carlos R",
+        "The journal of physical chemistry. B",
+        "2026-10-23"
+      ],
+      "tags": [],
+      "summary": "该文研究脂质纳米颗粒中RNA-脂质静电相互作用对LNP结构动态的调控，虽涉及CRISPR递送平台但未聚焦Cas切割或碱基编辑机制，仅提供递送载体层面的分子见解，与本课题核心机制关联较弱。",
+      "abstract": "Lipid nanoparticles (LNPs) are the leading platform for RNA delivery, enabling applications ranging from mRNA vaccines to CRISPR therapeutics. Ionizable lipids, such as DLin-MC3-DMA (MC3), play a central role in nucleic acid encapsulation and intracellular delivery, yet the molecular mechanisms governing LNP structure and function remain incompletely understood. The internal organization of LNP cores is highly sensitive to pH and has been described by inverse hexagonal, cubic, and lamellar phases that influence delivery performance. Here, we investigate the pH-dependent structure and dynamics of MC3-containing LNPs using two-dimensional infrared (2D IR) spectroscopy and molecular dynamics (MD) simulations. Both experiments and simulations reveal pronounced pH-dependent changes in the local environment surrounding the lipid ester linkage. At pH 4, strong electrostatic interactions between RNA and protonated MC3 produce broader spectral features consistent with increased interfacial heterogeneity and hydration. In addition, the frequency fluctuation dynamics exhibit a 46% slowdown in RNA-loaded LNPs relative to empty LNPs. In contrast, increasing the pH from 4 to 8 narrows the ester carbonyl band by  approximately 10 cm-1 and yields nearly identical dynamics for loaded and empty LNPs, indicating a more homogeneous and less hydrated lipid interface. MD simulations further demonstrate that MC3 protonation modulates RNA binding, interfacial hydration, and lipid packing. Together, these results highlight RNA-lipid electrostatic interactions as an important factor influencing the local environment within LNPs and potentially their pH-dependent behavior, providing molecular-level insights into the rational design of next-generation RNA delivery systems. 脂质纳米颗粒（LNPs）是RNA递送的主要平台，其应用范围涵盖mRNA疫苗至CRISPR疗法。可电离脂质，如DLin-MC3-DMA（MC3），在核酸封装和细胞内递送中发挥核心作用，然而调控LNP结构和功能的分子机制仍未完全阐明。LNP核心的内部组织对pH高度敏感，并已被描述为影响递送性能的反六方相、立方相和层状相。在此，我们利用二维红外（2D IR）光谱和分子动力学（molecular dynamics）模拟研究含MC3的LNP的pH依赖性结构和动力学。实验和模拟均揭示脂质酯键周围局部环境的显著pH依赖性变化。在pH 4时，RNA与质子化MC3之间的强静电相互作用产生更宽的光谱特征，与界面异质性和水合作用增加一致。此外，频率波动动力学显示，负载RNA的LNP相对于空LNP减速46%。相反，将pH从4升至8会使酯羰基带窄化约10 cm⁻¹，并导致负载和空LNP的动力学几乎相同，表明脂质界面更均匀且水合程度更低。MD模拟进一步证明，MC3质子化调节RNA结合、界面水合和脂质堆积。综合这些结果，突出了RNA-脂质静电相互作用作为影响LNP内局部环境及其潜在pH依赖性行为的重要因素，为下一代RNA递送系统的合理设计提供分子层面的见解。",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "pubmed:42903669",
+      "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42903669/index.html",
+      "meta": [
+        "Jurek, Benjamin; Winter, Julia J; Quintana, Daniel S",
+        "Frontiers in neuroscience",
+        "2026-10-22"
+      ],
+      "tags": [],
+      "summary": "该综述聚焦催产素受体信号传导与转录本工程，仅提及CRISPR作为研究策略，未涉及碱基编辑、交错切割或Cas核酸酶机制，与本课题核心无关。",
+      "abstract": "The oxytocin receptor (OXTR) is a G protein-coupled receptor that integrates neuroendocrine release, cellular signaling, and behavioral effects across species. Despite extensive research, the mechanistic basis underlying variability in oxytocin's effects remains incompletely understood. This review synthesizes recent advances in OXTR biology and focuses on three biological sources of signaling heterogeneity: variation in receptor sequence and structure, epigenetic and cell-state-dependent regulation, and temporal patterns of receptor activation. It examines targeted manipulation of receptor transcripts as an experimental strategy for testing intracellular mechanisms with behavioral outcomes. Mechanistic studies show that subtle structural changes, including single nucleotide polymorphisms, can bias intracellular signaling toward distinct pathways. Chronic receptor activation induces transcriptional and post-transcriptional reprogramming that can invert behavioral outcomes relative to acute stimulation. Intracellular signaling converges on core pathways, including Ca(2+)-dependent cascades, MAPK signaling, and transcriptional regulators such as CREB and MEF2A, which together shape gene expression, protein synthesis, and cellular morphology. Human studies reveal substantial variability in oxytocin effects, consistent with context-dependent signaling and limited control over intracellular pathways. These observations illustrate the challenge of linking receptor-level processes to behavioral phenotypes and underscore the importance of mechanistic approaches to OXTR signaling. Within this framework, GapmeR-mediated manipulation of OXTR transcripts and CRISPR-based genetic or epigenetic approaches are discussed as preclinical research strategies for testing receptor-level mechanisms. These strategies complement classical biased-ligand-pharmacology and support a model in which OXTR functions as a context-sensitive signaling hub, determined by receptor structure, activation history, and intracellular state. 催产素受体（OXTR）是一种G蛋白偶联受体，整合了跨物种的神经内分泌释放、细胞信号传导和行为效应。尽管已有广泛研究，催产素效应变异性的机制基础仍未完全阐明。本综述综合了OXTR生物学的最新进展，并聚焦于信号异质性的三个生物学来源：受体序列和结构的变异、表观遗传及细胞状态依赖性调控，以及受体激活的时间模式。它探讨了靶向操作受体转录本作为一种实验策略，用于测试具有行为结果的细胞内机制。机制研究表明，细微的结构变化，包括单核苷酸多态性，可将细胞内信号偏向不同的通路。慢性受体激活诱导转录和转录后重编程，可相对于急性刺激逆转行为结果。细胞内信号汇聚于核心通路，包括Ca(2+)依赖性级联、MAPK信号传导以及CREB和MEF2A等转录调控因子，这些共同塑造基因表达、蛋白质合成和细胞形态。人类研究揭示了催产素效应的显著变异性，与情境依赖性信号传导及对细胞内通路的有限控制一致。这些观察结果说明了将受体水平过程与行为表型联系起来的挑战，并强调了OXTR信号传导机制研究方法的重要性。在此框架内，讨论了GapmeR介导的OXTR转录本操作和基于CRISPR的遗传或表观遗传方法，作为测试受体水平机制的临床前研究策略。这些策略补充了经典的偏向性配体药理学，并支持一种模型，其中OXTR作为情境敏感的信号枢纽，由受体结构、激活历史和细胞内状态决定。",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "pubmed:42906550",
+      "title": "A phage-encoded small RNA that mimics chimeric guide to inhibit CRISPR-Cas9.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42906550/index.html",
+      "meta": [
+        "Chen, Ying; Zhao, Peng; Guo, Chenmin; Chen, Dandan; Yun, Caihong; Chen, Jiyun; Liu, Liang",
+        "Cell host & microbe",
+        "2026-10-22"
+      ],
+      "tags": [],
+      "summary": "该文发现噬菌体编码的小RNA rAcrIIA1通过模拟完整sgRNA结构抑制Cas9，并通过冷冻电镜解析其与Cas9及DNA复合物的分子机制，同时证明其可重编程为功能性编辑工具，直接聚焦CRISPR-Cas9的RNA引导识别与切割机制，对碱基编辑和交错切割研究具有高度启发性。",
+      "abstract": "CRISPR-Cas9 relies on a dual CRISPR RNA (crRNA)-trans-activating crRNA (tracrRNA) guide, yet whether RNA-based anti-CRISPRs exist for this system has remained unknown. Here, we identify a phage-encoded small non-coding RNA, rAcrIIA1, that adopts an unexpected chimeric crRNA-tracrRNA architecture, faithfully recapitulating the entire single-guide RNA (sgRNA) of Cas9. Cryo-electron microscopy (cryo-EM) structures of the Cas9-rAcrIIA1 binary complex and the Cas9-rAcrIIA1-DNA ternary complex reveal that rAcrIIA1 engages Cas9 nearly identically to the native sgRNA, competitively blocking crRNA and tracrRNA loading and thereby abolishing DNA interference. Strikingly, beyond its natural inhibitory function, rAcrIIA1 is fully reprogrammable: with variable guide sequences, it directs Cas9 for sequence-specific DNA cleavage with efficiency comparable to the canonical sgRNA, and it activates trans-cleavage more potently. Thus, rAcrIIA1 provides an experimentally validated, mechanistically resolved RNA-based inhibitor of CRISPR-Cas9, reveals a distinct anti-CRISPR mechanism through complete sgRNA mimicry, and serves as a versatile bifunctional scaffold for genome editing and diagnostics. CRISPR-Cas9依赖于双链CRISPR RNA (crRNA)-反式激活crRNA (tracrRNA) 引导，然而，对于该系统是否存在基于RNA的抗CRISPR机制，此前一直未知。在此，我们鉴定了一种噬菌体编码的小型非编码RNA，rAcrIIA1，其采用了一种意想不到的嵌合crRNA-tracrRNA结构，忠实地重现了Cas9的完整单引导RNA (sgRNA)。冷冻电子显微镜 (cryo-EM) 结构解析了Cas9-rAcrIIA1二元复合物及Cas9-rAcrIIA1-DNA三元复合物，揭示rAcrIIA1以几乎与天然sgRNA相同的方式结合Cas9，竞争性地阻断crRNA和tracrRNA的装载，从而消除DNA干扰。引人注目的是，除了其天然抑制功能外，rAcrIIA1完全可重编程：通过可变引导序列，它能引导Cas9进行序列特异性DNA切割，效率与典型sgRNA相当，并且更有效地激活反式切割。因此，rAcrIIA1提供了一个经实验验证、机制解析的基于RNA的CRISPR-Cas9抑制剂，揭示了通过完全sgRNA模拟实现的一种独特抗CRISPR机制，并作为基因组编辑和诊断的多功能双功能支架。",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "pubmed:42897599",
+      "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42897599/index.html",
+      "meta": [
+        "Jeon, Beom-Jin; Moon, Byeongho; Jang, Hyun-Sung; Kwon, Dong-Hyeok; Jeon, Young-Lim; Eom, Kyeong-Hyeon; Choi, Jae-Yoon; Kim, Young-Chai; Jang, Goo",
+        "Stem cell research & therapy",
+        "2026-10-20"
+      ],
+      "tags": [],
+      "summary": "该研究在猪肺类器官中利用GFP引导富集策略提升CRISPR/Cas9和prime editing编辑效率，虽涉及碱基编辑工具应用，但核心是编辑效率优化而非切割/编辑分子机制，机制深度有限。",
+      "abstract": "BACKGROUND: Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant challenges for functional genetic studies. To address these limitations, this study aimed to establish porcine lung organoid (PLOs) and to develop a robust, high-efficiency genome-editing platform by leveraging the high physiological and anatomical similarity between pigs and humans. METHODS: PLOs were derived from lung tissues and characterized by immunofluorescence and immunohistochemistry analysis. To enhance genome-editing efficiency using CRISPR/Cas9 and prime editing, a GFP-guided enrichment strategy was used by co-targeting a GFP transgene and endogenous loci, followed by the selection of GFP-negative organoids. Clonal expansion from single organoids was performed to generate genetically homogenous lines. Genetic modifications were validated through cDNA sequencing and western blot analysis. Structural integrity was assessed using AlphaFold2 modeling, and functional changes were evaluated using the forskolin-induced swelling assay. RESULTS: The established PLOs exhibited sustained self-renewal capacity and expression of surfactant protein C alongside both proximal epithelial and mesenchymal markers, reflecting a composite lung organoid identity. GFP-guided enrichment significantly enriched edited cells; the mutation ratio in the GFP-negative group was significantly higher than that in the GFP-positive group. This system successfully generated fully gene-edited clones with high genetic homogeneity, and effectively enriched for precisely edited organoids, even when applying complex modalities such as prime editing. CONCLUSIONS: The PLOs and genome-editing platform developed in this study provide a powerful resource for translational medicine. By enabling precise genetic manipulation in a model that closely mimics human lung physiology, this system offers an essential platform for recapitulating human lung pathologies, studying zoonotic infectious diseases, and validating the efficacy of gene therapies. 背景：成体干细胞来源的类器官因其组织特异性对应关系，在疾病建模和转化医学中是不可或缺的工具。然而，其复杂的三维结构和低基因组编辑效率对功能性遗传研究构成了重大挑战。为解决这些局限性，本研究旨在建立猪肺类器官（porcine lung organoids, PLOs），并利用猪与人类之间高度的生理和解剖学相似性，开发一个稳健、高效的基因组编辑平台。方法：PLOs来源于肺组织，并通过免疫荧光和免疫组织化学分析进行表征。为提高使用CRISPR/Cas9和prime editing的基因组编辑效率，采用了一种GFP引导的富集策略，通过共靶向GFP转基因和内源位点，随后选择GFP阴性类器官。从单个类器官进行克隆扩增以生成遗传同质的细胞系。遗传修饰通过cDNA测序和western blot分析进行验证。结构完整性使用AlphaFold2建模评估，功能变化使用forskolin诱导的肿胀实验评估。结果：建立的PLOs表现出持续的自我更新能力，并表达表面活性蛋白C以及近端上皮和间充质标志物，反映了复合肺类器官的特性。GFP引导的富集显著富集了编辑细胞；GFP阴性组中的突变比例显著高于GFP阳性组。该系统成功生成了具有高遗传同质性的完全基因编辑克隆，并有效富集了精确编辑的类器官，即使应用复杂模式如prime editing也是如此。结论：本研究开发的PLOs和基因组编辑平台为转化医学提供了强大的资源。通过在密切模拟人类肺生理的模型中实现精确遗传操作，该系统为重现人类肺病理、研究人畜共患传染病以及验证基因治疗疗效提供了重要平台。",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "pubmed:42900236",
+      "title": "CCKBR signalling controls human definitive endoderm specification and pancreatic lineage differentiation.",
+      "subtitle": "",
+      "url": "/read_paper_agent/papers/pubmed/42900236/index.html",
+      "meta": [
+        "Saber, Lama; Kozawa, Kei; Karampelias, Christos; Jing, Changying; Jaki, Jessica; Akgun Canan, Melis; Sterr, Michael; Rodrigues Pereira, Osvaldo; Czarnecki, Oliver; Korbutt, Gregory S; Pepper, Andrew R; Moya, Noel; Burtscher, Ingo; Lickert, Heiko; Bakhti, Mostafa",
+        "Diabetologia",
+        "2026-10-20"
+      ],
+      "tags": [],
+      "summary": "该研究利用CRISPR/Cas9敲除CCKBR研究其在人胰腺分化中的作用，但聚焦于发育信号通路而非核酸酶切割或碱基编辑机制，与本课题无直接关联。",
+      "abstract": "AIMS/HYPOTHESIS: Paracrine signalling by hormone-producing endocrine cells potentially influences pancreatic development, but this feedback regulation remains poorly understood. Here, we investigated the roles of gastrin (GAST), cholecystokinin (CCK) and their receptor cholecystokinin B receptor (CCKBR) during human pancreatic development. METHODS: Human iPSCs were differentiated stepwise into definitive endoderm and then the pancreatic endocrine lineage. To assess CCKBR function, CRISPR/Cas9 was used to generate CCKBR-knockout iPSC lines. We profiled transcriptional states by bulk and single-cell RNA-seq with computational analyses, and complemented these with biochemical assays, flow cytometry (FACS) and confocal microscopy. RESULTS: CCKBR expression peaked during definitive endoderm formation and progressively declined during differentiation, remaining detectable in pancreatic progenitors but largely absent from the endocrine lineage. By contrast, GAST and CCK were expressed only transiently during pancreatic progenitor and endocrine lineage formation. Pharmacological activation/inhibition and genetic knockout implicated CCKBR signalling during definitive endoderm formation. Consistently, bulk RNA-seq indicated that CCKBR deletion triggered ectodermal- and mesodermal-associated transcriptional programs and diminished pancreatic lineage specification. During pancreatic induction and lineage formation, sustained CCKBR activation with GAST or CCK attenuated endocrinogenesis and promoted epithelial structure formation. Further analysis revealed the emergence of a pancreatic ductal-like cell formation under prolonged CCKBR stimulation. CONCLUSIONS/INTERPRETATION: This study provides mechanistic evidence that the GAST/CCK-CCKBR axis is functionally important during human endoderm and pancreas development. This pathway is repeatedly required during in vitro pluripotent stem cell differentiation, regulating germ-layer formation as well as ductal vs endocrine fate decisions. These findings support the optimisation of pancreatic differentiation protocols and inform future studies on whether this axis contributes to human pancreas development and disease. 目的/假设：激素生成性内分泌细胞的旁分泌信号可能影响胰腺发育，但这种反馈调节仍知之甚少。在此，我们研究了胃泌素（GAST）、胆囊收缩素（CCK）及其受体胆囊收缩素B受体（CCKBR）在人类胰腺发育过程中的作用。方法：将人类iPSCs逐步分化为定型内胚层，进而分化为胰腺内分泌谱系。为评估CCKBR功能，使用CRISPR/Cas9生成了CCKBR敲除的iPSC系。我们通过批量及单细胞RNA-seq结合计算分析来描绘转录状态，并辅以生化测定、流式细胞术（FACS）和共聚焦显微镜检查。结果：CCKBR表达在定型内胚层形成期间达到峰值，并在分化过程中逐渐下降，在胰腺祖细胞中仍可检测到，但在内分泌谱系中基本缺失。相比之下，GAST和CCK仅在胰腺祖细胞和内分泌谱系形成期间短暂表达。药理学激活/抑制和基因敲除表明CCKBR信号在定型内胚层形成中起作用。一致地，批量RNA-seq显示CCKBR缺失触发了外胚层和中胚层相关的转录程序，并减弱了胰腺谱系特化。在胰腺诱导和谱系形成期间，用GAST或CCK持续激活CCKBR减弱了内分泌发生并促进了上皮结构形成。进一步分析揭示，在长期CCKBR刺激下出现了胰腺导管样细胞形成。结论/解释：本研究提供了机制性证据，表明GAST/CCK-CCKBR轴在人类内胚层和胰腺发育中具有功能重要性。该通路在体外多能干细胞分化过程中反复需要，调节胚层形成以及导管与内分泌命运决定。这些发现支持优化胰腺分化方案，并为未来研究该轴是否参与人类胰腺发育和疾病提供信息。",
+      "date": "2026-10-20"
+    },
+    {
       "id": "pubmed:42890117",
       "title": "CasNano: An ultracompact CRISPR-Cas12f with a GC-rich PAM for epigenome editing with therapeutic potential.",
       "subtitle": "",

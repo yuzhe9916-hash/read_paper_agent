@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42915614",
+  "title": "Engineering DNA-Targeting CRISPR and CRISPR-Like Effectors: Advances from Rational Design and High-Throughput Screening to AI-Driven Development.",
+  "authors": "She, Lingwei; Liang, Zeyu; Zou, Qin; Huo, Yi-Xin",
+  "journal": "ACS synthetic biology",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 7,
+  "one_liner_zh": "综述整合理性设计、高通量筛选与AI驱动的DNA靶向CRISPR/Cas效应器工程化，涵盖结构引导与定向进化策略，虽为综述且机制深度有限，但系统覆盖碱基编辑与切割工具优化，对本课题工具设计与机制理解有参考价值。",
+  "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR) and CRISPR-associated (Cas) proteins constitute adaptive immune systems in prokaryotes and have transformed life sciences, precision medicine, and synthetic biology as programmable genome-editing tools. Despite their broad utility, naturally occurring DNA-targeting Cas effectors remain constrained by several intrinsic limitations, including large protein size that complicates delivery, stringent protospacer adjacent motif (PAM) requirements that restrict targetable genomic space, and mismatch tolerance that can lead to off-target activity and potential genotoxicity. These challenges have made Cas protein engineering and the discovery of novel CRISPR and CRISPR-like systems from metagenomic resources central to the development of next-generation genome-editing platforms. This Review places recent advances within an integrated synthetic biology engineering continuum that links natural effector discovery, structure-guided hypothesis generation, high-throughput functional screening, machine learning-enabled model construction, and iterative redesign. This Review summarizes progress in the screening, optimization, and functional engineering of DNA-targeting CRISPR and CRISPR-like effectors, with emphasis on structure-guided rational design, directed evolution coupled with high-throughput screening, bioinformatics- and evolution-guided mining of novel systems from large-scale sequence databases, and artificial intelligence-assisted development. By integrating these strategies, we highlight how CRISPR effector engineering is moving toward design-build-test-learn (DBTL)-inspired workflows that expand the functional landscape of genome-editing technologies and advance genome editing toward improved efficiency, safety, and programmability.",
+  "abstract_zh": "成簇规律间隔短回文重复序列（CRISPR）及其相关（Cas）蛋白在原核生物中构成适应性免疫系统，并作为可编程基因组编辑工具，已深刻变革生命科学、精准医学和合成生物学领域。尽管其应用广泛，天然存在的靶向DNA的Cas效应物仍受若干内在限制的约束，包括蛋白尺寸过大导致递送复杂化、严格的间隔区前邻近基序（PAM）要求限制可靶向基因组空间，以及错配耐受性可能引发脱靶活性和潜在基因毒性。这些挑战使得Cas蛋白工程及从宏基因组资源中发现新型CRISPR和类CRISPR系统成为开发下一代基因组编辑平台的核心。本综述将近期进展置于一个整合的合成生物学工程连续体中，该连续体连接天然效应物发现、结构引导的假设生成、高通量功能筛选、机器学习驱动的模型构建及迭代再设计。本综述总结了靶向DNA的CRISPR和类CRISPR效应物在筛选、优化及功能工程方面的进展，重点强调结构引导的理性设计、与高通量筛选相结合的定向进化、基于生物信息学和进化引导的大规模序列数据库新系统挖掘，以及人工智能辅助开发。通过整合这些策略，我们强调CRISPR效应物工程正朝着受设计-构建-测试-学习（DBTL）启发的工作流程迈进，这些流程扩展了基因组编辑技术的功能景观，并推动基因组编辑向更高效率、安全性和可编程性方向发展。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915614/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42915614/",
+  "paper_page_path": "papers/pubmed/42915614/index.html"
+}

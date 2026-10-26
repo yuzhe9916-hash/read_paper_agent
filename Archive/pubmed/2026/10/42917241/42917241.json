@@ -1,0 +1,118 @@
+{
+  "identity": {
+    "pmid": "42917241",
+    "doi": "10.1021/acs.jpcb.6c04413",
+    "title": "RNA-Lipid Interactions Control Structure and Dynamics of Lipid Nanoparticles."
+  },
+  "content": {
+    "abstract": "Lipid nanoparticles (LNPs) are the leading platform for RNA delivery, enabling applications ranging from mRNA vaccines to CRISPR therapeutics. Ionizable lipids, such as DLin-MC3-DMA (MC3), play a central role in nucleic acid encapsulation and intracellular delivery, yet the molecular mechanisms governing LNP structure and function remain incompletely understood. The internal organization of LNP cores is highly sensitive to pH and has been described by inverse hexagonal, cubic, and lamellar phases that influence delivery performance. Here, we investigate the pH-dependent structure and dynamics of MC3-containing LNPs using two-dimensional infrared (2D IR) spectroscopy and molecular dynamics (MD) simulations. Both experiments and simulations reveal pronounced pH-dependent changes in the local environment surrounding the lipid ester linkage. At pH 4, strong electrostatic interactions between RNA and protonated MC3 produce broader spectral features consistent with increased interfacial heterogeneity and hydration. In addition, the frequency fluctuation dynamics exhibit a 46% slowdown in RNA-loaded LNPs relative to empty LNPs. In contrast, increasing the pH from 4 to 8 narrows the ester carbonyl band by  approximately 10 cm-1 and yields nearly identical dynamics for loaded and empty LNPs, indicating a more homogeneous and less hydrated lipid interface. MD simulations further demonstrate that MC3 protonation modulates RNA binding, interfacial hydration, and lipid packing. Together, these results highlight RNA-lipid electrostatic interactions as an important factor influencing the local environment within LNPs and potentially their pH-dependent behavior, providing molecular-level insights into the rational design of next-generation RNA delivery systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*Nanoparticles/chemistry",
+      "Hydrogen-Ion Concentration",
+      "*RNA/chemistry",
+      "*Lipids/chemistry",
+      "Static Electricity",
+      "Liposomes"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xiaobing",
+        "Xu, Cong",
+        "Baiz, Carlos R"
+      ],
+      "short_names": [
+        "Chen X",
+        "Xu C",
+        "Baiz CR"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6107-1713",
+        "ORCID: 0000-0002-7102-2851",
+        "ORCID: 0000-0003-0699-8468"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, Augusta University, Augusta, Georgia30912, United States.",
+        "Department of Chemistry, University of Texas at Austin, Austin, Texas78712, United States.",
+        "Department of Chemistry, University of Texas at Austin, Austin, Texas78712, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xiaobing",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0000-0002-6107-1713"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Augusta University, Augusta, Georgia30912, United States."
+        ]
+      },
+      {
+        "full_name": "Xu, Cong",
+        "short_name": "Xu C",
+        "identifiers": [
+          "0000-0002-7102-2851"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Texas at Austin, Austin, Texas78712, United States."
+        ]
+      },
+      {
+        "full_name": "Baiz, Carlos R",
+        "short_name": "Baiz CR",
+        "identifiers": [
+          "0000-0003-0699-8468"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Texas at Austin, Austin, Texas78712, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917241"
+    ],
+    "review": [
+      "42917241"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c04413",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

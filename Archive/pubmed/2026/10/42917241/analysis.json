@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42917241",
+  "title": "RNA-Lipid Interactions Control Structure and Dynamics of Lipid Nanoparticles.",
+  "authors": "Chen, Xiaobing; Xu, Cong; Baiz, Carlos R",
+  "journal": "The journal of physical chemistry. B",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 3,
+  "one_liner_zh": "该文研究脂质纳米颗粒中RNA-脂质静电相互作用对LNP结构动态的调控，虽涉及CRISPR递送平台但未聚焦Cas切割或碱基编辑机制，仅提供递送载体层面的分子见解，与本课题核心机制关联较弱。",
+  "abstract": "Lipid nanoparticles (LNPs) are the leading platform for RNA delivery, enabling applications ranging from mRNA vaccines to CRISPR therapeutics. Ionizable lipids, such as DLin-MC3-DMA (MC3), play a central role in nucleic acid encapsulation and intracellular delivery, yet the molecular mechanisms governing LNP structure and function remain incompletely understood. The internal organization of LNP cores is highly sensitive to pH and has been described by inverse hexagonal, cubic, and lamellar phases that influence delivery performance. Here, we investigate the pH-dependent structure and dynamics of MC3-containing LNPs using two-dimensional infrared (2D IR) spectroscopy and molecular dynamics (MD) simulations. Both experiments and simulations reveal pronounced pH-dependent changes in the local environment surrounding the lipid ester linkage. At pH 4, strong electrostatic interactions between RNA and protonated MC3 produce broader spectral features consistent with increased interfacial heterogeneity and hydration. In addition, the frequency fluctuation dynamics exhibit a 46% slowdown in RNA-loaded LNPs relative to empty LNPs. In contrast, increasing the pH from 4 to 8 narrows the ester carbonyl band by  approximately 10 cm-1 and yields nearly identical dynamics for loaded and empty LNPs, indicating a more homogeneous and less hydrated lipid interface. MD simulations further demonstrate that MC3 protonation modulates RNA binding, interfacial hydration, and lipid packing. Together, these results highlight RNA-lipid electrostatic interactions as an important factor influencing the local environment within LNPs and potentially their pH-dependent behavior, providing molecular-level insights into the rational design of next-generation RNA delivery systems.",
+  "abstract_zh": "脂质纳米颗粒（LNPs）是RNA递送的主要平台，其应用范围涵盖mRNA疫苗至CRISPR疗法。可电离脂质，如DLin-MC3-DMA（MC3），在核酸封装和细胞内递送中发挥核心作用，然而调控LNP结构和功能的分子机制仍未完全阐明。LNP核心的内部组织对pH高度敏感，并已被描述为影响递送性能的反六方相、立方相和层状相。在此，我们利用二维红外（2D IR）光谱和分子动力学（molecular dynamics）模拟研究含MC3的LNP的pH依赖性结构和动力学。实验和模拟均揭示脂质酯键周围局部环境的显著pH依赖性变化。在pH 4时，RNA与质子化MC3之间的强静电相互作用产生更宽的光谱特征，与界面异质性和水合作用增加一致。此外，频率波动动力学显示，负载RNA的LNP相对于空LNP减速46%。相反，将pH从4升至8会使酯羰基带窄化约10 cm⁻¹，并导致负载和空LNP的动力学几乎相同，表明脂质界面更均匀且水合程度更低。MD模拟进一步证明，MC3质子化调节RNA结合、界面水合和脂质堆积。综合这些结果，突出了RNA-脂质静电相互作用作为影响LNP内局部环境及其潜在pH依赖性行为的重要因素，为下一代RNA递送系统的合理设计提供分子层面的见解。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42917241/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42917241/",
+  "paper_page_path": "papers/pubmed/42917241/index.html"
+}

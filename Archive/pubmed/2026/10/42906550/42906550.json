@@ -1,0 +1,151 @@
+{
+  "identity": {
+    "pmid": "42906550",
+    "doi": "10.1016/j.chom.2026.09.017",
+    "title": "A phage-encoded small RNA that mimics chimeric guide to inhibit CRISPR-Cas9."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 relies on a dual CRISPR RNA (crRNA)-trans-activating crRNA (tracrRNA) guide, yet whether RNA-based anti-CRISPRs exist for this system has remained unknown. Here, we identify a phage-encoded small non-coding RNA, rAcrIIA1, that adopts an unexpected chimeric crRNA-tracrRNA architecture, faithfully recapitulating the entire single-guide RNA (sgRNA) of Cas9. Cryo-electron microscopy (cryo-EM) structures of the Cas9-rAcrIIA1 binary complex and the Cas9-rAcrIIA1-DNA ternary complex reveal that rAcrIIA1 engages Cas9 nearly identically to the native sgRNA, competitively blocking crRNA and tracrRNA loading and thereby abolishing DNA interference. Strikingly, beyond its natural inhibitory function, rAcrIIA1 is fully reprogrammable: with variable guide sequences, it directs Cas9 for sequence-specific DNA cleavage with efficiency comparable to the canonical sgRNA, and it activates trans-cleavage more potently. Thus, rAcrIIA1 provides an experimentally validated, mechanistically resolved RNA-based inhibitor of CRISPR-Cas9, reveals a distinct anti-CRISPR mechanism through complete sgRNA mimicry, and serves as a versatile bifunctional scaffold for genome editing and diagnostics.",
+    "keywords": [
+      "CRISPR-Cas9 system",
+      "RNA-based anti-CRISPR",
+      "phage",
+      "single-guide RNA",
+      "small non-coding RNA",
+      "structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Ying",
+        "Zhao, Peng",
+        "Guo, Chenmin",
+        "Chen, Dandan",
+        "Yun, Caihong",
+        "Chen, Jiyun",
+        "Liu, Liang"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Zhao P",
+        "Guo C",
+        "Chen D",
+        "Yun C",
+        "Chen J",
+        "Liu L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China.",
+        "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China. Electronic address: yunch@pku.edu.cn.",
+        "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China. Electronic address: chenjiyun@xmu.edu.cn.",
+        "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China. Electronic address: liangliu2019@xmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Ying",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Peng",
+        "short_name": "Zhao P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Chenmin",
+        "short_name": "Guo C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Dandan",
+        "short_name": "Chen D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yun, Caihong",
+        "short_name": "Yun C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural and Biomimetic Drugs & Department of Biophysics, School of Basic Medical Sciences, Peking University, Beijing, China. Electronic address: yunch@pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiyun",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China. Electronic address: chenjiyun@xmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Liang",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Cellular Stress Biology, Department of Otorhinolaryngology Head and Neck Surgery, Xiang'an Hospital of Xiamen University, School of Life Sciences, Faculty of Medicine and Life Sciences, Xiamen University, Xiamen, China. Electronic address: liangliu2019@xmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell host & microbe"
+    ],
+    "journal_abbrev": [
+      "Cell Host Microbe"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906550"
+    ],
+    "review": [
+      "42906550"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1931-3128(26)00406-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "42914331",
+    "doi": "10.1016/j.foodres.2026.120600",
+    "title": "Umami-active components in edible Fungi: Distribution, structure-function relationships, molecular mechanisms, computational insights and industrial applications."
+  },
+  "content": {
+    "abstract": "Edible mushrooms are a biodiverse yet underutilized source of umami compounds providing clean-label alternatives to synthetic flavourings such as monosodium glutamate (MSG). The characteristic savory taste arises from interactions among free amino acids (glutamate, aspartate), 5'-ribonucleotides (5'-GMP, 5'-IMP), organic acids (succinic, citric), polyols (trehalose, mannitol), and bioactive peptides, whose accumulation is influenced by genetic composition, growth substrate, developmental stage, and postharvest management. This review systematically examines the distribution of umami compounds in Pleurotus spp., Lentinula edodes, Hypsizygus marmoreus, and other species, with emphasis on umami peptides, their structure-function relationships, and taste perception mediated by T1R1/T1R3, mGluR1/mGluR4, and CaSR receptors. In addition, it critically assesses industrial applications and advanced computational approaches including iUmami-SCM, UMPred-FRL, Umami-MRNN, Umami-BERT, molecular docking and molecular dynamics simulations for high-throughput discovery of umami peptides. Enzymatic hydrolysis coupled with ultrafiltration enriches low-molecular-weight (<3 kDa) umami peptides while reducing associated bitterness. Equivalent Umami Concentration (EUC) reflects an 8-10-fold synergistic enhancement between amino acids and nucleotides, where the synergistic constant represents the strength of their non-additive umami interaction. While fungal peptides are highly valued for their unique sensory contributions, their significance extends beyond taste as they also exert multifunctional bioactivities including ACE inhibition (IC(5)(0): 9-150 muM), antioxidant activity (DPPH and ABTS assays), and endothelial protection. Challenges include genetic engineering strategies for umami enhancement, salt-umami interactions, and analytical standards. Emerging industrial applications, including CRISPR/Cas9-based metabolic engineering and agro-waste upcycling, position edible fungi as promising platforms for clean-label flavor systems, sodium reduction, and circular food economies.",
+    "keywords": [
+      "Edible fungi",
+      "Equivalent umami concentration (EUC)",
+      "Sustainable food systems",
+      "Taste receptor type 1 member 1/type 1 member 3 (T1R1/T1R3)",
+      "Umami peptides"
+    ],
+    "mesh_terms": [
+      "Structure-Activity Relationship",
+      "*Taste",
+      "Humans",
+      "*Agaricales/chemistry/metabolism",
+      "Taste Perception",
+      "*Flavoring Agents/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khengle, Samruddhi",
+        "Kalam, Tejas",
+        "Mondal, Imdadul Hoque",
+        "Sherin, Zincia",
+        "Bashir, Omar",
+        "Pawase, Prashant Anil",
+        "Kapila, Akshit"
+      ],
+      "short_names": [
+        "Khengle S",
+        "Kalam T",
+        "Mondal IH",
+        "Sherin Z",
+        "Bashir O",
+        "Pawase PA",
+        "Kapila A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India.",
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India.",
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India.",
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India.",
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India. Electronic address: abuumi786@gmail.com.",
+        "MIT INSPIRE (Institute for sponsored and Innovative Research), MIT Art Design and Technology University, Loni, Kalbhor, India. Electronic address: Prashantpawase4444@gmail.com.",
+        "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khengle, Samruddhi",
+        "short_name": "Khengle S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Kalam, Tejas",
+        "short_name": "Kalam T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Mondal, Imdadul Hoque",
+        "short_name": "Mondal IH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Sherin, Zincia",
+        "short_name": "Sherin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Bashir, Omar",
+        "short_name": "Bashir O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India. Electronic address: abuumi786@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Pawase, Prashant Anil",
+        "short_name": "Pawase PA",
+        "identifiers": [],
+        "affiliations": [
+          "MIT INSPIRE (Institute for sponsored and Innovative Research), MIT Art Design and Technology University, Loni, Kalbhor, India. Electronic address: Prashantpawase4444@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Kapila, Akshit",
+        "short_name": "Kapila A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Technology and Nutrition, Lovely Professional University, Phagwara 144402, Punjab, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-26 06:25:18"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914331"
+    ],
+    "review": [
+      "42914331"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)02287-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1612",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

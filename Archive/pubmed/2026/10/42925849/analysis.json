@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42925849",
+  "title": "When prevention constrains cure: Institutional lock-in and gene therapy access for beta-thalassemia.",
+  "authors": "Huang, Qixian",
+  "journal": "Social science & medicine (1982)",
+  "published_date": "2026-10-25",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 2,
+  "one_liner_zh": "该文分析CRISPR基因疗法（Casgevy）在不同国家的制度性获取障碍，属于政策/卫生系统研究，未涉及碱基编辑或交错切割的分子机制，仅以CRISPR疗法为背景，与本课题机制研究关联极弱。",
+  "abstract": "On 16 November 2023, the United Kingdom Medicines and Healthcare products Regulatory Agency approved Casgevy (exagamglogene autotemcel), the first CRISPR-based gene therapy for a genetic disease, offering patients with transfusion-dependent beta-thalassemia (TDT) freedom from lifelong monthly transfusions. Yet in China, which carries the world's largest TDT patient population, no patient has received the therapy through the public health system, and the access gap is not explained by price or manufacturing economics alone. This paper argues that prevention-era institutional architecture constrains cure-era access through three lock-in mechanisms: cognitive (the direction of genetic information flow), infrastructural (the spatial distribution of treatment capacity), and fiscal (the structure of payment responsibility). Drawing on a structured comparison of four countries selected to represent distinct institutional pathway types (Cyprus, ecclesiastical-public certification; China, administrative filing; Thailand, public health universal coverage; India, federal fragmentation), the analysis proposes a typology of barrier configurations and illustrates them through four exploratory cases. The administrative-filing pathway is associated with high barriers across information, geographic, and economic dimensions; trust-intention is not assessable on current evidence. The ecclesiastical-public pathway is associated with medium information and low geographic barriers with medium fiscal and low-confidence trust barriers; the universal-coverage pathway provides a balanced platform that remains under-activated for gene therapy; and the federal-fragmented pathway fails the precondition of patient identification. No pathway simultaneously optimizes all four readiness dimensions. Presented as a hypothesis-generating typology rather than a tested diagnostic model, the framework relates pathway type to barrier configuration and offers testable hypotheses for pathway-specific intervention design and for extension to sickle cell disease, hemophilia, and other genetic conditions entering the curative era.",
+  "abstract_zh": "2023年11月16日，英国药品和健康产品管理局批准了Casgevy（exagamglogene autotemcel），这是首个基于CRISPR的基因疗法，用于治疗遗传性疾病，为输血依赖性β-地中海贫血（TDT）患者提供了摆脱终身每月输血的可能。然而，在中国——全球TDT患者人数最多的国家——尚无患者通过公共卫生系统接受该疗法，且这一获取差距并非仅由价格或制造经济性所能解释。本文认为，预防时代的制度架构通过三种锁定机制制约了治疗时代的可及性：认知机制（遗传信息流动的方向）、基础设施机制（治疗能力的空间分布）和财政机制（支付责任的结构）。通过对四个代表不同制度路径类型的国家进行结构化比较（塞浦路斯，教会-公共认证；中国，行政备案；泰国，公共卫生全民覆盖；印度，联邦碎片化），分析提出了一种障碍配置的类型学，并通过四个探索性案例加以说明。行政备案路径在信息、地理和经济维度上均与高障碍相关；信任意图在现有证据下无法评估。教会-公共路径与中等信息障碍和低地理障碍相关，但伴有中等财政障碍和低置信度的信任障碍；全民覆盖路径提供了一个平衡的平台，但在基因治疗方面尚未充分激活；联邦碎片化路径则未能满足患者识别的先决条件。没有任何路径能同时优化所有四个准备维度。本文提出的框架是一种生成假设的类型学，而非经过验证的诊断模型，它将路径类型与障碍配置联系起来，并为路径特定干预设计及扩展到镰状细胞病、血友病和其他进入治愈时代的遗传性疾病提供了可检验的假设。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42925849/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42925849/",
+  "paper_page_path": "papers/pubmed/42925849/index.html"
+}
