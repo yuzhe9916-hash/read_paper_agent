@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42960179",
+  "title": "CRISPR/Cas9-mediated knock-out of abnormal chemosensory jump 6 (acj6) gene impacts Helicoverpa armigera antennal lobe structure.",
+  "authors": "Xie, Guiying; Chen, Shuting; Sun, Longlong; Chu, Xi; Lu, Jing; Khalid, Muhammad Lubaid; Lin, Rongmei; Chen, Wenbo; Zhao, Xincheng",
+  "journal": "Current research in insect science",
+  "published_date": "2026-10-30",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 2,
+  "one_liner_zh": "该研究利用CRISPR/Cas9敲除棉铃虫acj6基因并分析触角叶结构变化，属于基因编辑工具在神经发育表型研究中的应用，未涉及切割机制、碱基编辑或DNA修复等分子机制。",
+  "abstract": "The specificity of the olfactory system in the brain is determined not only by the expression of odorant receptor genes but also by the specific neural circuit assembly within the antennal lobe (AL). To investigate the developmental role of abnormal chemosensory jump 6 (acj6) in the moth Helicoverpa armigera, we generated Haacj6 mutants using CRISPR/Cas9 and examined the detailed structure of the AL based on immunostaining and three-dimensional reconstruction. The results showed that the AL in male Haacj6 mutants was markedly enlarged. In both sexes, the AL of Haacj6 mutants contained approximately 100 glomeruli, compared with about 75 glomeruli in wild-type. Glomerular volumes were also more heterogeneous in the mutants: the largest glomeruli were expanded, whereas the smallest were reduced, although the mean glomerular volume remained unchanged. These results demonstrate that the Haacj6 gene plays a critical role in normal AL development and that AL enlargement in the mutants arises primarily from the presence of additional glomeruli. These additional glomeruli likely reflect defects in olfactory receptor neuron axon wiring to AL projection neurons, or glial mediated glomerular boundary formation. These findings indicate that acj6 is an essential regulator of AL architecture and provide crucial insights into the molecular mechanisms governing neural circuits assembly in insects.",
+  "abstract_zh": "脑内嗅觉系统的特异性不仅取决于气味受体基因的表达，还取决于触角叶（antennal lobe, AL）内特定的神经回路组装。为研究异常化学感觉跳跃6（abnormal chemosensory jump 6, acj6）在棉铃虫 Helicoverpa armigera 中的发育作用，我们利用CRISPR/Cas9生成了 Haacj6 突变体，并基于免疫染色和三维重建检查了AL的详细结构。结果表明，雄性 Haacj6 突变体的AL显著增大。在两种性别中，Haacj6 突变体的AL包含约100个肾小球（glomeruli），而野生型约为75个肾小球。突变体中肾小球体积也更加异质：最大的肾小球扩大，而最小的肾小球缩小，尽管平均肾小球体积保持不变。这些结果表明，Haacj6 基因在正常AL发育中起关键作用，并且突变体中AL的增大主要源于额外肾小球的存在。这些额外的肾小球可能反映了嗅觉受体神经元轴突向AL投射神经元的连接缺陷，或胶质细胞介导的肾小球边界形成缺陷。这些发现表明，acj6 是AL结构的重要调节因子，并为昆虫神经回路组装的分子机制提供了关键见解。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960179/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42960179/",
+  "paper_page_path": "papers/pubmed/42960179/index.html"
+}

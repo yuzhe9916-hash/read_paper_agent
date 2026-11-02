@@ -1,0 +1,183 @@
+{
+  "identity": {
+    "pmid": "42960179",
+    "doi": "10.1016/j.cris.2026.100135",
+    "title": "CRISPR/Cas9-mediated knock-out of abnormal chemosensory jump 6 (acj6) gene impacts Helicoverpa armigera antennal lobe structure."
+  },
+  "content": {
+    "abstract": "The specificity of the olfactory system in the brain is determined not only by the expression of odorant receptor genes but also by the specific neural circuit assembly within the antennal lobe (AL). To investigate the developmental role of abnormal chemosensory jump 6 (acj6) in the moth Helicoverpa armigera, we generated Haacj6 mutants using CRISPR/Cas9 and examined the detailed structure of the AL based on immunostaining and three-dimensional reconstruction. The results showed that the AL in male Haacj6 mutants was markedly enlarged. In both sexes, the AL of Haacj6 mutants contained approximately 100 glomeruli, compared with about 75 glomeruli in wild-type. Glomerular volumes were also more heterogeneous in the mutants: the largest glomeruli were expanded, whereas the smallest were reduced, although the mean glomerular volume remained unchanged. These results demonstrate that the Haacj6 gene plays a critical role in normal AL development and that AL enlargement in the mutants arises primarily from the presence of additional glomeruli. These additional glomeruli likely reflect defects in olfactory receptor neuron axon wiring to AL projection neurons, or glial mediated glomerular boundary formation. These findings indicate that acj6 is an essential regulator of AL architecture and provide crucial insights into the molecular mechanisms governing neural circuits assembly in insects.",
+    "keywords": [
+      "Abnormal chemosensory jump 6",
+      "Antennal lobe",
+      "Gene editing",
+      "Helicoverpa armigera",
+      "Olfaction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Guiying",
+        "Chen, Shuting",
+        "Sun, Longlong",
+        "Chu, Xi",
+        "Lu, Jing",
+        "Khalid, Muhammad Lubaid",
+        "Lin, Rongmei",
+        "Chen, Wenbo",
+        "Zhao, Xincheng"
+      ],
+      "short_names": [
+        "Xie G",
+        "Chen S",
+        "Sun L",
+        "Chu X",
+        "Lu J",
+        "Khalid ML",
+        "Lin R",
+        "Chen W",
+        "Zhao X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "Office of Laboratory and Equipment Management, Henan Agricultural University, Zhengzhou, China.",
+        "Chemosensory Laboratory, Department of Psychology, Norwegian University of Science and Technology, NTNU, Trondheim, Norway.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+        "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Guiying",
+        "short_name": "Xie G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Shuting",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Longlong",
+        "short_name": "Sun L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China.",
+          "Office of Laboratory and Equipment Management, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chu, Xi",
+        "short_name": "Chu X",
+        "identifiers": [],
+        "affiliations": [
+          "Chemosensory Laboratory, Department of Psychology, Norwegian University of Science and Technology, NTNU, Trondheim, Norway."
+        ]
+      },
+      {
+        "full_name": "Lu, Jing",
+        "short_name": "Lu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Khalid, Muhammad Lubaid",
+        "short_name": "Khalid ML",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Rongmei",
+        "short_name": "Lin R",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wenbo",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xincheng",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping/Henan International Joint Laboratory of Green Pest Control, College of Plant Protection, Henan Agricultural University, Zhengzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current research in insect science"
+    ],
+    "journal_abbrev": [
+      "Curr Res Insect Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42960179"
+    ],
+    "review": [
+      "42960179"
+    ],
+    "pmc": [
+      "13718499"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2666-5158(26)00014-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42960179/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

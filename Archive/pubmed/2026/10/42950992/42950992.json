@@ -1,0 +1,109 @@
+{
+  "identity": {
+    "pmid": "42950992",
+    "doi": "10.1016/j.plantsci.2026.113562",
+    "title": "Nucleoredoxin proteins in green lineage: Insights about its roles in biotic and abiotic stress resilience."
+  },
+  "content": {
+    "abstract": "Oxidative stress and reactive oxygen species (ROS) in plants are inevitable, and plants employ enzymatic and non-enzymatic system for cell homeostasis. Nucleoredoxins (NRX) are a family of thioredoxin (TRX) superfamily and being nuclear oxidoreductase, NRX are an important class of proteins present in many organisms including plants. Unlike TRXs, plant NRXs are larger proteins comprising of multiple TRX domains and conserved active redox motif 'WCPPC', displayed evolutionary conservation across various plants. NRX maintains oxidative stress tolerance by maintaining the reduced state by thiol-disulphide chemistry via conserved cysteine residues present in active site. Subcellular localization of NRX is mostly cytoplasmic and the putative protein interacting partners predicted their correlation with oxidative stress tolerance. We have also attempted to correlate plant NRXs with the available patent documents and observed that very little information is available. Compared to TRX research that started in 1960s, NRX have been discovered later and their structural complexity, multiple isoforms have led to their functional characterization more challenging. NRXs have roles in abiotic and biotic stresses and emerging roles indicate its role in plant immunity and modulation of plant defense response at molecular level by -OMICS studies. In view of the above, the present review discusses the sequence analysis, structure, and functional genomics associated with NRXs in plants. This is also correlated with the futuristic aspect of NRX roles being delineated in molecular stress response and signaling using CRISPR-Cas genome editing and related techniques.",
+    "keywords": [
+      "Abiotic stress",
+      "Nucleoredoxin (NRX)",
+      "Oxidative stress",
+      "Plant immunity",
+      "ROS",
+      "Thioredoxin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gupta, Arvind",
+        "Thakur, Rahul",
+        "Yadav, Saurabh"
+      ],
+      "short_names": [
+        "Gupta A",
+        "Thakur R",
+        "Yadav S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India.",
+        "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India.",
+        "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India. Electronic address: saurabhyadav40@rediffmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gupta, Arvind",
+        "short_name": "Gupta A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India."
+        ]
+      },
+      {
+        "full_name": "Thakur, Rahul",
+        "short_name": "Thakur R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India."
+        ]
+      },
+      {
+        "full_name": "Yadav, Saurabh",
+        "short_name": "Yadav S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Hemvati Nandan Bahuguna Garhwal University (A Central University), Srinagar, Uttarakhand 246174, India. Electronic address: saurabhyadav40@rediffmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant science : an international journal of experimental plant biology"
+    ],
+    "journal_abbrev": [
+      "Plant Sci"
+    ],
+    "pub_date": "2026 Oct 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 23:27",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42950992"
+    ],
+    "review": [
+      "42950992"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-9452(26)00590-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

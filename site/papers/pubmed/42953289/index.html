@@ -1,0 +1,861 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reshaping the scissors: From directed evolution to AI-driven design for enhanced Cas performance. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-mid">6</span>
+    <div>
+      <h1>Reshaping the scissors: From directed evolution to AI-driven design for enhanced Cas performance.</h1>
+      <div class="meta">Cheng, Xinrui; Ruan, Weimin; Jin, Zheng; Suo, Langda; Ma, Yuehui; Jiang, Lin; Zheng, Wenxin; Li, Ning; Hu, Wenping</div>
+      <div class="meta muted">
+        
+        <span class="journal">Biodesign research</span>
+        · 2026-10-29
+         · 全文(pmc)
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/42953289/">原文</a>
+      </div>
+      <p class="one-liner">该综述系统梳理了Cas蛋白定向进化、理性结构设计与AI辅助工程化的三层优化框架，虽聚焦工具改造策略而非切割/碱基编辑的分子机制，但对高性能编辑器的工程化设计有参考价值。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">CRISPR/Cas gene editing holds great promise for applications in agricultural breeding and gene therapy; however, native Cas proteins face bottlenecks such as off-target effects, PAM limitations, and delivery challenges. This review explores a three-tiered, progressive, and synergistic analytical framework comprising directed evolution, rational structural design, and integrated protein engineering. Following the logic of &#34;random exploration-precision modification-system integration,&#34; it systematically clarifies the principles, advantages, disadvantages, and complementary interactions among these three optimization techniques. By comprehensively mapping the entire technical pathway for Cas protein improvement, this study fills a gap in systematic analysis within the field and provides a theoretical framework for tiered, synergistic modification to support the development of high-performance editors. The paper further analyzes a novel research and development paradigm in which AI and protein language models profoundly empower Cas modification. It summarizes intelligent toolchains such as structure prediction, virtual mutation, and de novo design of artificial Cas proteins, and highlights the unique advantages of AI in overcoming the performance trade-offs inherent in traditional protein engineering. At the same time, it identifies existing challenges, such as data scarcity and insufficient model interpretability, and looks ahead to how multimodal gene-editing large language models and automated closed-loop experimental systems will drive the iterative development of miniaturized, broad-spectrum, and highly precise editing tools, thereby facilitating the clinical and industrial implementation of gene-editing technologies.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">CRISPR/Cas基因编辑在农业育种和基因治疗中具有广阔的应用前景，然而天然Cas蛋白面临脱靶效应、PAM限制和递送挑战等瓶颈。本综述探讨了一个由定向进化、理性结构设计和整合蛋白质工程组成的三层递进、协同增效的分析框架。遵循“随机探索—精准修饰—系统整合”的逻辑，系统阐明了这三种优化技术的原理、优缺点及互补互动关系。通过全面绘制Cas蛋白改良的完整技术路径，本研究填补了该领域系统分析的空白，并为分层协同修饰提供了理论框架，以支持高性能编辑器的开发。本文进一步分析了AI和蛋白质语言模型深度赋能Cas修饰的新型研发范式，总结了结构预测、虚拟突变和人工Cas蛋白从头设计等智能工具链，并强调了AI在克服传统蛋白质工程固有性能权衡方面的独特优势。同时，指出了现有挑战，如数据稀缺和模型可解释性不足，并展望了多模态基因编辑大语言模型和自动化闭环实验系统将如何推动小型化、广谱性和高精度编辑工具的迭代发展，从而促进基因编辑技术的临床和产业化应用。</div>
+  </section>
+  
+  
+  <section>
+    <h2>Paper Card</h2>
+    <div class="md"><h2>01 基本信息</h2>
+<ul>
+<li><strong>标题</strong>：Reshaping the scissors: From directed evolution to AI-driven design for enhanced Cas performance</li>
+<li><strong>作者</strong>：Cheng, Xinrui; Ruan, Weimin; Jin, Zheng; Suo, Langda; Ma, Yuehui; Jiang, Lin; Zheng, Wenxin; Li, Ning; Hu, Wenping</li>
+<li><strong>单位</strong>：未提供（作者所属机构未在摘要中列出）</li>
+<li><strong>期刊/平台</strong>：Biodesign Research</li>
+<li><strong>年份</strong>：2026-10-29（在线日期）</li>
+<li><strong>论文类型</strong>：综述（Review）</li>
+<li><strong>领域</strong>：CRISPR/Cas 基因编辑、蛋白质工程、定向进化、AI 辅助蛋白设计</li>
+<li><strong>关键词</strong>：CRISPR/Cas、Cas 蛋白优化、定向进化、理性设计、人工智能、蛋白质语言模型、碱基编辑、先导编辑</li>
+<li><strong>DOI/ID</strong>：10.1016/j.bidere.2026.100124</li>
+<li><strong>代码</strong>：未提供</li>
+<li><strong>数据</strong>：未提供（综述性论文，无原始实验数据）</li>
+<li><strong>阅读日期</strong>：2026-05-12（按当前日期推算）</li>
+<li><strong>在本课题方向中的位置</strong>：本文是一篇系统综述，覆盖 Cas 蛋白优化的三大策略（定向进化、理性结构设计、整合蛋白质工程）及 AI 赋能的新范式。与课题方向直接相关：文中多处涉及碱基编辑器（CBE/ABE）和先导编辑器（PE）的蛋白工程优化，并讨论了 PAM 识别域改造、脱靶效应控制等与 stagger-cleavage 机制相关的 Cas 变体（如 Cas12a 系列）的工程策略。该文为课题提供宏观技术路线图，而非具体机制研究。</li>
+</ul>
+<hr />
+<h2>02 一句话总结</h2>
+<p>本文通过系统梳理定向进化、理性结构设计和整合蛋白质工程三种策略的互补关系，并引入 AI/蛋白质语言模型作为跨层赋能工具，构建了 Cas 蛋白优化的三层递进框架（"随机探索—精准修饰—系统整合"），以解决天然 Cas 蛋白在 PAM 限制、脱靶效应和递送效率方面的性能瓶颈。</p>
+<hr />
+<h2>03 研究问题</h2>
+<ul>
+<li><strong>具体问题</strong>：如何系统性地优化 CRISPR/Cas 系统中的 Cas 蛋白，以克服其在 PAM 识别范围、靶向特异性、编辑效率和体内递送方面的固有局限？</li>
+<li><strong>为什么重要</strong>：CRISPR/Cas 基因编辑在农业育种和基因治疗中具有巨大潜力，但天然 Cas 蛋白的性能瓶颈（PAM 限制、脱靶风险、递送困难）严重制约其临床转化和产业化应用。</li>
+<li><strong>现有方法为何不足</strong>：单一优化策略各有局限——定向进化成本高、周期长、机制不明确；理性设计依赖高分辨率结构信息，而多数新型 Cas 同源物缺乏结构解析；传统方法难以同时优化多个相互制约的性能指标（如活性与特异性之间的权衡）。</li>
+<li><strong>精确研究问题</strong>："Can a three-tiered synergistic framework integrating directed evolution, rational design, and AI-driven protein engineering overcome the intrinsic performance trade-offs of native Cas proteins to enable clinical-grade gene editing tools?"</li>
+</ul>
+<hr />
+<h2>04 背景与发展脉络</h2>
+<blockquote>
+<p>注：以下脉络基于本文框架整理，标注为「仅本文框架」，未经外部文献独立核验。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>代表性方法/工具</th>
+<th>优点</th>
+<th>局限</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>第一阶段：定向进化</strong></td>
+<td>易错 PCR、DNA shuffling、转座子突变、PACE、CRISPR-MACE</td>
+<td>无需结构信息；可发现意外突变组合；适合突破 PAM 限制</td>
+<td>周期长（数月至数年）；筛选成本高；机制不透明；难以同时优化多性状</td>
+</tr>
+<tr>
+<td><strong>第二阶段：理性结构设计</strong></td>
+<td>基于晶体结构/冷冻电镜的定点突变、结构域截短、功能域融合</td>
+<td>精准可控；机制清晰；可定向改造特定功能（如 PAM 识别域、催化域）</td>
+<td>依赖高分辨率结构；多数新型 Cas 同源物无结构；难以预测多位点协同效应</td>
+</tr>
+<tr>
+<td><strong>第三阶段：整合蛋白质工程</strong></td>
+<td>定向进化 + 理性设计的闭环（筛选→结构解析→精准修饰→再筛选）</td>
+<td>兼顾广谱探索与精准优化；可叠加多种有利突变</td>
+<td>技术复杂度高；需要多学科团队协作</td>
+</tr>
+<tr>
+<td><strong>AI 赋能新范式</strong></td>
+<td>AlphaFold2/3、ESMFold、ESM、EVOLVEpro、ProGen、ProteinMPNN、BE-Hive、PRIDICT</td>
+<td>无需实验结构；可探索超大序列空间；支持多目标优化；实现 de novo 蛋白设计</td>
+<td>数据稀缺；模型可解释性差；预测结果需实验验证</td>
+</tr>
+</tbody>
+</table>
+<p><strong>本文主张的位置</strong>：AI 并非替代传统三大策略，而是作为跨层赋能工具贯穿发现层、优化层和整合层，并催生独立的 de novo 设计范式。</p>
+<hr />
+<h2>05 核心痛点</h2>
+<table>
+<thead>
+<tr>
+<th>痛点</th>
+<th>表现</th>
+<th>成因或作者解释</th>
+<th>文中证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>PAM 限制</strong></td>
+<td>天然 Cas 蛋白只能识别特定 PAM 序列，导致靶向范围狭窄</td>
+<td>PAM 识别域的结构约束；天然蛋白进化未针对人类基因组优化</td>
+<td>Introduction 节；"PAM sites limit the scope of editing"</td>
+</tr>
+<tr>
+<td><strong>脱靶效应</strong></td>
+<td>Cas 蛋白在非靶位点产生切割，威胁治疗安全性</td>
+<td>sgRNA 错配容忍度；Cas 蛋白与 DNA 的非特异性相互作用</td>
+<td>Introduction 节；"off-target effects threaten treatment safety"</td>
+</tr>
+<tr>
+<td><strong>递送困难</strong></td>
+<td>大分子量 Cas 蛋白难以装入 AAV 等临床递送载体</td>
+<td>SpCas9 约 1368 aa，超出 AAV 包装容量</td>
+<td>Miniaturized design 小节；"the large molecular weight of Cas proteins leads to difficulties in in-vivo delivery"</td>
+</tr>
+<tr>
+<td><strong>活性-特异性权衡</strong></td>
+<td>提高特异性常伴随活性下降，反之亦然</td>
+<td>蛋白结构上的内在约束；单点突变难以同时优化两个性状</td>
+<td>"Overcoming the activity-specificity trade-off" 小节</td>
+</tr>
+<tr>
+<td><strong>结构信息缺乏</strong></td>
+<td>多数新型 Cas 同源物无高分辨率结构，阻碍理性设计</td>
+<td>结构解析技术门槛高、周期长</td>
+<td>"the structures of most novel Cas homologs have not yet been determined"</td>
+</tr>
+<tr>
+<td><strong>数据稀缺</strong></td>
+<td>AI 模型训练缺乏标准化、高质量的功能数据</td>
+<td>全球数据库缺乏统一格式和质量控制标准</td>
+<td>"uneven distribution and scarcity of standardized high-quality datasets"</td>
+</tr>
+<tr>
+<td><strong>模型可解释性差</strong></td>
+<td>深度学习模型输出高评分突变但无法解释机制</td>
+<td>神经网络的黑箱特性</td>
+<td>"the black-box nature of deep protein language models"</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>06 核心思想</h2>
+<h3>1) 表面方法</h3>
+<p>本文是一篇综述，其"方法"在于对 Cas 蛋白优化领域的系统分类与整合分析：
+- 将现有优化策略划分为三大类：定向进化、理性结构设计、整合蛋白质工程
+- 引入 AI/蛋白质语言模型作为第四种赋能范式
+- 构建"发现层→优化层→整合层"的三层递进框架
+- 对每类策略列举代表性成果（如 xCas9-3.7、SpG、SpRY、HiFiCas9、SuperFi-Cas9、hfCas12Max、Flex-Cas12a 等）</p>
+<h3>2) 核心洞察</h3>
+<ul>
+<li><strong>三大策略互补而非替代</strong>：定向进化擅长"发现可能性"（哪些位点可以突变），理性设计擅长"解释机制"（为什么这些突变有效），整合策略则通过闭环迭代将两者优势叠加。</li>
+<li><strong>AI 是跨层赋能工具而非独立替代方案</strong>：AI 可以缩小突变库规模、预测突变效应、设计全新蛋白骨架，但 AI 输出仍需传统实验验证。</li>
+<li><strong>性能权衡是核心矛盾</strong>：活性、特异性、尺寸、递送兼容性之间存在内在制约，单一策略难以同时突破，需要多策略协同。</li>
+<li><strong>de novo 设计开辟新路径</strong>：AI 可以跳出天然蛋白序列空间，生成自然界不存在的 Cas 骨架，从根本上规避天然蛋白的进化约束。</li>
+</ul>
+<h3>3) 可能的普适教训 [Analysis]</h3>
+<ul>
+<li><strong>"随机探索→精准修饰→系统整合"的三层框架</strong>可迁移至其他蛋白质工程问题（如碱基编辑器中的脱氨酶优化、先导编辑器中的逆转录酶工程），不仅限于 Cas 核酸酶。</li>
+<li><strong>AI 工具的分类法</strong>（结构预测、突变效应量化、de novo 生成、编辑结果预测）为课题中 AI 辅助碱基编辑器设计提供了工具选择地图。</li>
+<li><strong>"数据稀缺+黑箱模型"的双重瓶颈</strong>提示：在碱基编辑器优化中，建立标准化功能数据集（如不同细胞类型、不同染色质环境下的编辑效率）比单纯追求模型复杂度更为紧迫。</li>
+</ul>
+<hr />
+<h2>07 方法总览</h2>
+<blockquote>
+<p>注：本文为综述，无原始实验方法。以下为综述所覆盖的技术路线整合。</p>
+</blockquote>
+<ul>
+<li><strong>输入</strong>：天然 Cas 蛋白序列/结构、突变文库筛选数据、结构生物学数据（冷冻电镜、X 射线晶体学）、AI 模型训练数据</li>
+<li><strong>处理模块</strong>：
+  1. <strong>突变文库构建</strong>：易错 PCR、DNA shuffling、转座子突变
+  2. <strong>筛选系统</strong>：荧光报告系统、流式细胞术、高通量测序、PACE/CRISPR-MACE 连续进化
+  3. <strong>结构解析</strong>：冷冻电镜、X 射线晶体学、NMR
+  4. <strong>计算预测</strong>：AlphaFold2/3、ESMFold（结构预测）；ESM、EVOLVEpro（突变效应预测）；ProGen、ProteinMPNN（de novo 序列生成）；BE-Hive、PRIDICT（编辑结果预测）
+  5. <strong>功能验证</strong>：细胞水平编辑效率/特异性检测、体内递送实验</li>
+<li><strong>输出</strong>：优化后的 Cas 变体（如 xCas9-3.7、SpG、SpRY、HiFiCas9、SuperFi-Cas9、hfCas12Max、Flex-Cas12a 等）</li>
+<li><strong>反馈回路</strong>：筛选→结构解析→机制阐明→理性设计→再筛选（整合策略的闭环）；AI 预测→实验验证→数据回馈→模型更新（AI 赋能的闭环）</li>
+<li><strong>文字流程</strong>：天然 Cas 蛋白 → 定向进化（随机突变+筛选）或理性设计（结构解析+定点突变）→ 获得候选变体 → 功能验证 → 若性能不足则进行结构解析/机制分析 → 设计第二轮突变 → 整合有利突变 → 最终获得高性能编辑器</li>
+</ul>
+<hr />
+<h2>08 核心模块拆解</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>功能</th>
+<th>为何需要</th>
+<th>输入输出</th>
+<th>支撑证据</th>
+<th>移除后的已知或预期影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>突变文库构建</strong>（易错 PCR、DNA shuffling、转座子突变）</td>
+<td>产生覆盖目标区域的随机突变库</td>
+<td>定向进化的起点，提供遗传多样性</td>
+<td>输入：野生型 Cas 基因；输出：含 10⁴–10⁶ 变体的突变库</td>
+<td>Fig. 3a；"mutant libraries containing 10⁴-10⁶ variants"</td>
+<td>移除后定向进化无法启动；预期影响：丧失发现非直觉突变的能力 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>高通量筛选系统</strong>（荧光报告、流式细胞术、高通量测序）</td>
+<td>从突变库中富集功能增强的变体</td>
+<td>定向进化的核心选择压力</td>
+<td>输入：突变库；输出：富集的候选变体</td>
+<td>Fig. 3b；"fluorescent reporters, flow cytometry and high-throughput sequencing"</td>
+<td>移除后无法从突变库中识别有利突变；预期影响：进化过程停滞 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>连续进化平台</strong>（PACE、CRISPR-MACE）</td>
+<td>实现多轮自主迭代进化，无需人工干预</td>
+<td>加速进化周期，积累多个有利突变</td>
+<td>输入：初始突变库；输出：多轮进化后的优化变体</td>
+<td>"Continuous evolution tools including PACE and CRISPR-MACE"</td>
+<td>移除后进化周期延长至数月-数年；预期影响：无法快速获得多突变组合 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>结构解析模块</strong>（冷冻电镜、X 射线晶体学）</td>
+<td>获取 Cas 蛋白-核酸复合物的高分辨率结构</td>
+<td>理性设计的基础，识别关键功能残基</td>
+<td>输入：蛋白样品；输出：原子级三维结构</td>
+<td>Fig. 4a；"cryo-electron microscopy, X-ray crystallography"</td>
+<td>移除后理性设计失去靶点；预期影响：无法进行精准定点突变 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>计算模拟模块</strong>（分子动力学、能量计算）</td>
+<td>预测突变对蛋白稳定性、结合亲和力的影响</td>
+<td>缩小候选突变范围，降低实验成本</td>
+<td>输入：结构+候选突变；输出：突变效应排序</td>
+<td>Fig. 4b；"molecular dynamics simulations and energy calculations"</td>
+<td>移除后定点突变依赖经验猜测；预期影响：设计成功率下降 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>AI 结构预测工具</strong>（AlphaFold2/3、ESMFold）</td>
+<td>预测无实验结构的 Cas 蛋白三维构象</td>
+<td>解决多数新型 Cas 同源物无结构解析的瓶颈</td>
+<td>输入：氨基酸序列；输出：预测结构</td>
+<td>Table 3；"AlphaFold2, AlphaFold3, ESMFold"</td>
+<td>移除后无法对新型 Cas 进行结构指导设计；预期影响：理性设计适用范围大幅缩小 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>AI 突变效应预测工具</strong>（ESM、EVOLVEpro）</td>
+<td>零样本虚拟饱和突变扫描，量化突变对蛋白功能的影响</td>
+<td>大幅降低湿实验筛选成本，加速迭代</td>
+<td>输入：序列+功能标签；输出：突变位点功能预测</td>
+<td>Table 3；"zero-shot virtual saturation mutagenesis"</td>
+<td>移除后突变筛选依赖随机文库；预期影响：筛选效率降低数个数量级 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>de novo 蛋白设计工具</strong>（ProGen、ProteinMPNN）</td>
+<td>不依赖天然模板，直接生成人工 Cas 骨架</td>
+<td>突破天然蛋白序列空间的限制，实现功能定制</td>
+<td>输入：功能约束条件；输出：全新蛋白序列</td>
+<td>Table 3；"generate fully synthetic Cas scaffolds"</td>
+<td>移除后无法创造自然界不存在的 Cas 变体；预期影响：小型化、功能定制化设计受限 [预期效应]</td>
+</tr>
+<tr>
+<td><strong>编辑结果预测工具</strong>（BE-Hive、PRIDICT）</td>
+<td>预测碱基编辑/先导编辑的效率和产物分布</td>
+<td>为编辑器选择和 sgRNA 设计提供先验指导</td>
+<td>输入：编辑器类型+靶位点序列；输出：编辑效率/产物预测</td>
+<td>Table 3；"predict base and prime editing efficiency, product homogeneity"</td>
+<td>移除后碱基编辑器优化依赖试错；预期影响：临床位点筛选成本增加 [预期效应]</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>09 关键公式符号</h2>
+<p><strong>不适用</strong>。本文为综述性论文，未包含数学公式或算法伪代码。文中涉及的"公式"层面内容仅为概念性描述，如：</p>
+<ul>
+<li>定向进化的核心循环：<code>突变 → 筛选 → 扩增 → 再突变</code>（概念性迭代，无数学表达）</li>
+<li>AI 模型中的损失函数、注意力机制等未在文中展开</li>
+</ul>
+<hr />
+<h2>10 实验设计与证据链</h2>
+<blockquote>
+<p>注：本文为综述，无原始实验。以下为综述中引用的代表性案例及其证据类型。</p>
+</blockquote>
+<p><strong>数据集/群体</strong>：不适用（综述无原始数据）</p>
+<p><strong>指标</strong>：编辑效率（%）、脱靶率、PAM 兼容性（识别序列范围）、蛋白分子量（aa）、递送效率</p>
+<p><strong>基线</strong>：野生型 Cas 蛋白（如 SpCas9、Cas12a）</p>
+<p><strong>代表性案例汇总</strong>：</p>
+<table>
+<thead>
+<tr>
+<th>实验/案例</th>
+<th>检验的 claim</th>
+<th>对比与条件</th>
+<th>结果</th>
+<th>支持的结论</th>
+<th>不支持更强的结论</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>xCas9-3.7 进化</strong></td>
+<td>定向进化可突破 PAM 限制</td>
+<td>野生型 SpCas9 vs. 进化变体</td>
+<td>识别 NGN PAM（宽于野生型 NGG）</td>
+<td>定向进化能有效扩展 PAM 兼容性</td>
+<td>未提供具体编辑效率数值；未与其他策略直接对比</td>
+<td>"A breakthrough expansion of PAM compatibility" 小节</td>
+</tr>
+<tr>
+<td><strong>SpG/SpRY 开发</strong></td>
+<td>结构指导的 PAM 识别域改造可实现近乎无 PAM 限制的靶向</td>
+<td>野生型 SpCas9 vs. 工程变体</td>
+<td>SpRY 可识别 NRN/NYN PAM</td>
+<td>理性设计可大幅扩展靶向范围</td>
+<td>未讨论 SpRY 在碱基编辑器中的具体表现</td>
+<td>同上</td>
+</tr>
+<tr>
+<td><strong>HiFiCas9 进化</strong></td>
+<td>双筛选系统可同时优化活性和特异性</td>
+<td>野生型 SpCas9 vs. HiFiCas9</td>
+<td>脱靶显著降低，靶上活性保持</td>
+<td>定向进化可解决活性-特异性权衡</td>
+<td>未提供定量脱靶数据</td>
+<td>"Overcoming the activity-specificity trade-off" 小节</td>
+</tr>
+<tr>
+<td><strong>evoCas9/Sniper2L</strong></td>
+<td>多轮迭代进化可累积有利突变</td>
+<td>野生型 vs. 多轮进化变体</td>
+<td>Sniper2L 消除单碱基错配脱靶，保持野生型活性</td>
+<td>迭代进化可精细平衡多性状</td>
+<td>未与其他高保真变体（如 SpCas9-HF1）直接对比</td>
+<td>同上</td>
+</tr>
+<tr>
+<td><strong>SuperFi-Cas9</strong></td>
+<td>结构引导的工程改造可防止脱靶切割</td>
+<td>野生型 vs. 工程变体</td>
+<td>错配 DNA 切割活性降低，靶上活性保持</td>
+<td>理性设计可精准控制核酸结合界面</td>
+<td>未讨论对碱基编辑器的影响</td>
+<td>"Enhancing specificity" 小节</td>
+</tr>
+<tr>
+<td><strong>Cas12f 系列工程</strong></td>
+<td>小型 Cas 蛋白可通过工程改造实现高效编辑</td>
+<td>天然 Cas12f vs. 工程变体（yham、hkra、Al3Cas12f RKK）</td>
+<td>活性提升 10 倍，PAM 范围扩展 3–4 倍</td>
+<td>整合策略可同时优化活性、PAM、稳定性</td>
+<td>未提供体内递送数据</td>
+<td>"Miniaturized design" 小节</td>
+</tr>
+<tr>
+<td><strong>Flex-Cas12a (Lbm6-RVQ)</strong></td>
+<td>定向进化+理性设计整合可协同优化多性状</td>
+<td>野生型 Cas12a vs. 整合工程变体</td>
+<td>PAM 兼容性提升，编辑效率从 34% 提升至 80%</td>
+<td>整合策略优于单一策略</td>
+<td>未提供脱靶数据</td>
+<td>"Comprehensive protein engineering" 小节</td>
+</tr>
+<tr>
+<td><strong>BE-Hive/PRIDICT 预测</strong></td>
+<td>AI 可预测碱基编辑效率</td>
+<td>预测 vs. 实验验证</td>
+<td>高相关性（未提供具体数值）</td>
+<td>AI 可作为编辑结果预筛工具</td>
+<td>未提供跨细胞类型泛化性数据</td>
+<td>Table 3</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>11 结论正确解读</h2>
+<ul>
+<li><strong>任务范围</strong>：本文仅覆盖 Cas 蛋白的蛋白质工程优化，不涉及 gRNA 设计优化、DNA 修复通路调控、递送系统开发等其他基因编辑优化维度。</li>
+<li><strong>oracle/真值输入</strong>：综述中引用的案例均来自已发表的实验研究，但本文未提供原始数据访问途径，无法独立验证。</li>
+<li><strong>端到端状态</strong>：文中描述的优化流程（如 hfCas12Max、Flex-Cas12a）已达到细胞水平验证，但多数尚未进入动物模型或临床试验阶段。</li>
+<li><strong>算力成本</strong>：未讨论 AI 模型训练的具体算力需求。</li>
+<li><strong>历史数据依赖</strong>：AI 模型（如 ESM、EVOLVEpro）依赖大规模蛋白质序列数据库训练，对新型 Cas 同源物的预测能力受限于训练数据覆盖度。</li>
+<li><strong>最难情形</strong>：文中明确指出多目标协同优化（活性+特异性+小型化+递送兼容性）是最具挑战的场景，单一策略难以应对。</li>
+<li><strong>群体/领域边界</strong>：结论主要基于原核生物来源的 Cas 蛋白（SpCas9、Cas12a/f 等），对真核生物来源的 Cas 变体（如 Cas13 家族）覆盖有限。</li>
+<li><strong>不确定性</strong>：AI 预测的突变效应仍需湿实验验证；文中未提供任何预测-实验一致性的定量评估。</li>
+</ul>
+<p><strong>有边界的复述</strong>：本文系统论证了"定向进化→理性设计→整合工程→AI 赋能"这一递进框架在 Cas 蛋白优化中的有效性，但所有结论均基于已发表的案例研究，且多数优化变体仍处于临床前阶段，其体内安全性和长期稳定性尚未充分验证。</p>
+<hr />
+<h2>12 作者自认局限</h2>
+<table>
+<thead>
+<tr>
+<th>局限</th>
+<th>具体表现</th>
+<th>作者提出的未来方向</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>数据稀缺</strong></td>
+<td>全球公共数据库缺乏统一格式和质量控制标准，阻碍 AI 模型训练</td>
+<td>建立标准化 Cas 蛋白功能数据集</td>
+<td>"Core bottlenecks" 小节</td>
+</tr>
+<tr>
+<td><strong>模型可解释性不足</strong></td>
+<td>深度学习模型无法阐明突变的作用机制，降低临床可信度</td>
+<td>发展可解释 AI 模型</td>
+<td>同上</td>
+</tr>
+<tr>
+<td><strong>单模态训练局限</strong></td>
+<td>现有模型仅基于序列或静态结构，未整合动态构象变化</td>
+<td>多模态模型整合序列、结构、动力学数据</td>
+<td>同上</td>
+</tr>
+<tr>
+<td><strong>湿实验验证瓶颈</strong></td>
+<td>AI 预测的候选变体仍需传统实验验证，验证通量成为瓶颈</td>
+<td>自动化闭环实验系统（自驱动实验室）</td>
+<td>"Future perspectives" 小节</td>
+</tr>
+<tr>
+<td><strong>体内外差异</strong></td>
+<td>多数优化变体仅在细胞水平验证，体内效果未知</td>
+<td>推进动物模型和临床研究</td>
+<td>"Applications and prospects" 小节</td>
+</tr>
+<tr>
+<td><strong>伦理监管滞后</strong></td>
+<td>基因编辑技术的伦理审查和监管框架不完善</td>
+<td>建立分级伦理审查和风险管理体系</td>
+<td>同上</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>13 批判性分析</h2>
+<table>
+<thead>
+<tr>
+<th>[Analysis] 观察</th>
+<th>潜在问题或替代解释</th>
+<th>为何重要</th>
+<th>如何检验</th>
+<th>依据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>综述框架的线性叙事</strong></td>
+<td>本文将三大策略描述为"递进"关系，但实际研究中三者常并行或交叉使用，并非严格的时间或逻辑递进</td>
+<td>可能误导读者对技术发展历史的认知</td>
+<td>对比其他综述（如 Nature Reviews 系列）对同一案例的归类</td>
+<td>文中 Fig. 3-4 的框架划分</td>
+</tr>
+<tr>
+<td><strong>AI 效果缺乏定量证据</strong></td>
+<td>文中宣称 AI"降低筛选成本数个数量级"，但未提供任何定量对比数据</td>
+<td>无法评估 AI 赋能的真实增益幅度</td>
+<td>检索原文引用的 EVOLVEpro、ProGen 论文中的基准测试数据</td>
+<td>Table 3 中未提供性能指标</td>
+</tr>
+<tr>
+<td><strong>案例选择偏倚</strong></td>
+<td>综述引用的成功案例（xCas9、SpRY、hfCas12Max 等）均为高影响力成果，未讨论大量失败的工程尝试</td>
+<td>可能高估各策略的成功率</td>
+<td>检索文献中未成功的 Cas 工程报告（如低活性变体）</td>
+<td>文中未提及失败案例</td>
+</tr>
+<tr>
+<td><strong>"整合策略优于单一策略"缺乏直接对比</strong></td>
+<td>Flex-Cas12a 案例展示了整合策略的成功，但未与纯定向进化或纯理性设计的平行尝试对比</td>
+<td>无法确定整合策略的增量贡献</td>
+<td>查阅 Flex-Cas12a 原始论文是否包含单策略对照</td>
+<td>"Comprehensive protein engineering" 小节</td>
+</tr>
+<tr>
+<td><strong>对 stagger-cleavage 机制着墨有限</strong></td>
+<td>文中虽涉及 Cas12a 系列（其切割产生交错切口），但未深入讨论 stagger 机制本身对碱基编辑产物类型的影响</td>
+<td>对关注交错切割机制的读者而言，本文的机制深度不足</td>
+<td>对比其他专门讨论 Cas12a 切割机制的综述</td>
+<td>全文未出现 "stagger" 或 "staggered cleavage" 术语</td>
+</tr>
+<tr>
+<td><strong>碱基编辑器优化案例覆盖不足</strong></td>
+<td>文中提及碱基编辑器（CBE/ABE）和先导编辑器（PE）作为应用场景，但未系统讨论脱氨酶或逆转录酶的工程优化</td>
+<td>对碱基编辑方向的读者而言，本文的针对性有限</td>
+<td>检索文中是否引用碱基编辑器优化的代表性工作（如 TadA 进化）</td>
+<td>文中仅简要提及"fusing deaminases with nCas9"</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>14 学到什么</h2>
+<blockquote>
+<p><strong>Agent 提炼的知识候选</strong></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>可迁移知识</th>
+<th>描述</th>
+<th>如何迁移到本课题（CRISPR 系统、stagger-cleavage 机制、碱基编辑）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>三层递进优化框架</strong></td>
+<td>"随机探索→精准修饰→系统整合"的蛋白质工程路线</td>
+<td>可用于碱基编辑器优化：先通过定向进化发现高活性脱氨酶变体，再通过结构解析明确关键残基，最后整合多个有利突变获得临床级编辑器</td>
+</tr>
+<tr>
+<td><strong>双筛选系统设计</strong></td>
+<td>HiFiCas9 采用正负双筛选同时优化活性和特异性</td>
+<td>可迁移至碱基编辑器筛选：同时筛选编辑效率和旁观者编辑（bystander editing）抑制，解决碱基编辑器"宽窗口"问题</td>
+</tr>
+<tr>
+<td><strong>AI 虚拟饱和突变</strong></td>
+<td>ESM/EVOLVEpro 可零样本预测突变效应，缩小湿实验筛选范围</td>
+<td>可用于预测脱氨酶或 Cas 变体的突变组合效应，特别是多目标协同优化（活性+特异性+窗口宽度）</td>
+</tr>
+<tr>
+<td><strong>小型化设计策略</strong></td>
+<td>Cas12f（400–700 aa）的工程改造经验</td>
+<td>对碱基编辑器小型化有直接参考价值：将脱氨酶与小型 Cas 变体融合，解决 AAV 递送难题</td>
+</tr>
+<tr>
+<td><strong>PAM 识别域改造方法</strong></td>
+<td>SpG/SpRY 通过结构指导的 PAM 相互作用残基改造扩展识别范围</td>
+<td>可迁移至碱基编辑器的靶向范围扩展：改造 Cas 变体的 PAM 识别域，使碱基编辑器覆盖更多致病位点</td>
+</tr>
+<tr>
+<td><strong>整合策略的闭环流程</strong></td>
+<td>"筛选→结构解析→机制阐明→再设计"的迭代循环</td>
+<td>可用于阐明 stagger-cleavage 机制对碱基编辑产物类型的影响：通过结构解析明确切割位点偏移的分子基础，再设计变体精确控制切口位置</td>
+</tr>
+<tr>
+<td><strong>AI 工具分类法</strong></td>
+<td>将 AI 工具分为结构预测、突变效应、de novo 设计、编辑结果预测四类</td>
+<td>为碱基编辑器优化提供工具选择地图：结构预测用 AlphaFold，突变筛选用 ESM，编辑结果预测用 BE-Hive</td>
+</tr>
+<tr>
+<td><strong>数据标准化意识</strong></td>
+<td>数据稀缺是 AI 赋能的主要瓶颈</td>
+<td>提示本课题应建立标准化的碱基编辑效率/特异性数据集，涵盖不同细胞类型、染色质环境、靶位点序列特征</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>15 与已有知识连接</h2>
+<ul>
+<li><strong>与 CRISPR-Cas9 经典文献的连接</strong>：本文引用的 SpCas9 工程变体（xCas9-3.7、SpG、SpRY、HiFiCas9、evoCas9、Sniper2L、SuperFi-Cas9）均为已发表的高影响力工作，可追溯至原始论文（如 Hu et al., 2018 Nature; Walton et al., 2020 Science; Vakulskas et al., 2018 Nature Medicine 等）。[外部可核验]</li>
+<li><strong>与 Cas12 家族研究的连接</strong>：文中涉及的 Cas12a/f 工程（yham、hkra、Al3Cas12f、Flex-Cas12a）与 stagger-cleavage 机制直接相关——Cas12a 切割产生 5' 突出端交错切口（staggered cut），其切割位点偏移（PAM 远端 18–23 nt）决定了碱基编辑的编辑窗口。本文虽未深入讨论该机制，但所引用的工程案例可作为机制研究的起点。[外部可核验]</li>
+<li><strong>与碱基编辑器发展的连接</strong>：文中提及的碱基编辑器（CBE/ABE）和先导编辑器（PE）可连接至经典文献（Komor et al., 2016 Nature; Gaudelli et al., 2017 Nature; Anzalone et al., 2019 Nature）。本文的优化框架可视为这些编辑器后续工程优化的宏观路线图。[外部可核验]</li>
+<li><strong>与 AI 蛋白质设计的连接</strong>：文中引用的 AlphaFold2/3（Jumper et al., 2021 Nature; Abramson et al., 2024 Nature）、ESM（Lin et al., 2023 Science）、ProGen（Madani et al., 2023 Nature Biotechnology）均为 AI 蛋白质领域的里程碑工作。[外部可核验]</li>
+<li><strong>与 PAM 识别机制研究的连接</strong>：文中讨论的 PAM 识别域改造可连接至 PAM 相互作用残基的系统研究（如 Anders et al., 2014 Nature; Hirano et al., 2016 Cell），为理解 PAM 识别与 stagger-cleavage 位点选择之间的结构耦合提供背景。[外部可核验]</li>
+<li><strong>与递送技术研究的连接</strong>：文中讨论的 Cas 蛋白小型化策略可连接至 AAV 递送领域（如 Ran et al., 2015 Nature 的 SaCas9 小型化工作），以及近年来基于 Cas12f/TnpB 的超小型编辑器开发。[外部可核验]</li>
+</ul>
+<hr />
+<h2>16 研究想法</h2>
+<blockquote>
+<p><strong>Agent 生成的研究候选</strong></p>
+</blockquote>
+<h3>候选 1：基于 stagger-cleavage 机制的碱基编辑器窗口精确调控</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文指出碱基编辑器（CBE/ABE）存在编辑窗口宽、旁观者编辑多的问题，但未讨论编辑窗口与 Cas 蛋白 stagger-cleavage 位点偏移之间的结构关系。</li>
+<li><strong>核心假设</strong>：通过理性设计 Cas 变体的切割位点偏移（即改变 stagger 位置），可以精确控制碱基编辑器的编辑窗口位置和宽度。</li>
+<li><strong>初步方法</strong>：利用 AlphaFold2 预测 Cas9/Cas12a 变体与靶 DNA 的复合物结构，识别决定切割位点偏移的关键残基；通过定点突变系统改变切割位点偏移距离（如从 PAM 远端 3–4 nt 移至 5–6 nt）；在报告系统中验证编辑窗口位置变化。</li>
+<li><strong>验证方式</strong>：比较野生型与突变体的编辑窗口图谱（高保真测序）；检测旁观者编辑频率变化。</li>
+<li><strong>可能的失败模式</strong>：切割位点偏移与编辑窗口之间的耦合可能不如假设的直接；突变可能同时影响催化活性。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 2：AI 辅助的多目标协同优化框架（活性+特异性+小型化）</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文指出传统方法难以同时优化多个相互制约的性状（活性、特异性、尺寸），AI 可辅助多目标优化但缺乏具体方案。</li>
+<li><strong>核心假设</strong>：基于蛋白质语言模型的嵌入表示可以捕捉 Cas 蛋白序列中影响多个性状的协同突变模式，从而在序列空间中高效搜索 Pareto 最优解。</li>
+<li><strong>初步方法</strong>：构建 Cas 蛋白变体序列-功能数据库（整合已发表的编辑效率、脱靶率、分子量数据）；使用 ESM 嵌入训练多任务预测模型；采用贝叶斯优化或强化学习在序列空间中搜索同时满足高活性、高特异性、小尺寸的变体。</li>
+<li><strong>验证方式</strong>：预测的 top 候选变体进行湿实验验证；与单目标优化结果对比 Pareto 前沿覆盖度。</li>
+<li><strong>可能的失败模式</strong>：训练数据不足导致预测偏差；多目标之间的权衡可能比模型假设的更复杂。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 3：小型 Cas 蛋白（Cas12f/TnpB）的 de novo 设计</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文讨论了 Cas12f 和 TnpB/IscB 作为小型化平台的优势，但指出传统工程方法受限于天然序列空间。</li>
+<li><strong>核心假设</strong>：利用 de novo 蛋白设计工具（如 ProGen、ProteinMPNN）可以生成保留催化活性但序列更短、免疫原性更低的人工 Cas 骨架。</li>
+<li><strong>初步方法</strong>：以 Cas12f 的结构为模板，使用 ProteinMPNN 在固定骨架条件下重新设计序列；筛选低分子量、高稳定性的候选；在体外验证 DNA 切割活性；进一步融合脱氨酶构建小型碱基编辑器。</li>
+<li><strong>验证方式</strong>：体外切割实验；细胞水平编辑效率检测；AAV 包装效率比较。</li>
+<li><strong>可能的失败模式</strong>：de novo 设计的序列可能无法正确折叠或丧失催化活性；小型化可能牺牲 PAM 兼容性。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 4：整合定向进化与 AI 预测的闭环自动化平台</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文指出定向进化周期长（数月至数年），AI 可缩短筛选周期但缺乏与湿实验的闭环整合方案。</li>
+<li><strong>核心假设</strong>：将 AI 预测模型嵌入定向进化循环（预测→实验验证→数据回馈→模型更新），可显著减少筛选轮次并发现传统方法难以获得的突变组合。</li>
+<li><strong>初步方法</strong>：构建自动化实验平台（液体处理工作站+高通量测序）；每一轮进化中，AI 模型基于已有数据预测下一轮最优突变组合；实验验证后数据自动回馈更新模型。</li>
+<li><strong>验证方式</strong>：比较 AI 驱动进化与传统定向进化的收敛速度和最终变体性能。</li>
+<li><strong>可能的失败模式</strong>：自动化平台的通量仍不足以支撑模型所需的数据量；模型预测偏差可能引导进化进入局部最优。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 5：碱基编辑器的细胞类型特异性优化</h3>
+<ul>
+<li><strong>来源局限/观察</strong>：本文指出大多数优化变体仅在细胞水平验证，未讨论不同细胞类型/染色质环境下的性能差异。</li>
+<li><strong>核心假设</strong>：碱基编辑器在不同细胞类型中的效率差异部分源于 Cas 蛋白与染色质环境的相互作用，可通过针对特定细胞类型的定向进化获得适应性变体。</li>
+<li><strong>初步方法</strong>：在多种细胞类型（如 iPSC、原代 T 细胞、肝细胞）中平行进行碱基编辑器定向进化；比较不同细胞类型中富集的突变位点；分析染色质可及性、表观遗传标记与突变偏好的关联。</li>
+<li><strong>验证方式</strong>：跨细胞类型的编辑效率矩阵；染色质特征与突变位点的相关性分析。</li>
+<li><strong>可能的失败模式</strong>：细胞类型间差异可能主要源于递送效率而非 Cas 蛋白本身；难以分离 Cas 蛋白适应性与细胞环境因素。</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul></div>
+  </section>
+  
+  
+  <section>
+    <h2>审稿人评审</h2>
+    <div class="md"><h2>Review setup</h2>
+<ul>
+<li><strong>Input scope</strong> Full manuscript text provided (Abstract, Introduction, five main sections, Conclusion, author contributions, declarations, acknowledgments). Figures and Tables are provided as captions and inline table text only; no high-resolution figure files, no supplementary materials, no reference list with full bibliographic entries.</li>
+<li><strong>Assessment boundary</strong> Assessment is limited to the supplied text. Claims about figure content, table accuracy, and citation correctness are evaluated only to the extent that the supplied material permits. No external literature verification was performed.</li>
+<li><strong>Shared manuscript claim summary</strong> The manuscript argues that Cas protein engineering has progressed through three tiers (directed evolution, structure-based rational design, integrated/multi-strategy protein engineering) following a "random exploration, precision modification, system integration" logic, and that AI and protein language models now act as cross-layer enabling tools plus an independent de novo design paradigm, together forming a closed-loop ecosystem that will yield miniaturized, broad-spectrum, high-precision editors for clinical and agricultural use.</li>
+<li><strong>Visible evidence base</strong> Narrative synthesis of named variants and platforms (xCas9-3.7, SpG, SpRY, HiFiCas9, evoCas9, Sniper2L, SpCas9-Mut5, OpenCRISPR-1, FrCas9, HypaCas9, SuperFi-Cas9, HyperDriveCas9, MISER Cas9, mini-SaCas9, AsCas12f yham/hkra, AsCas12f1-M5, Al3Cas12f RKK, Cas12i.3, MIDAS, LbCas12a-RRV, ttLbCas12a Ultra, hfCas12Max, Flex-Cas12a Lbm6-RVQ); Table 1 and Table 2 on delivery; Table 3 on AI tools; Table 4 on strategy comparison; Fig. 1 to Fig. 4 as captions.</li>
+<li><strong>Missing materials affecting confidence</strong> No reference list with titles/journals/years; no quantitative benchmarking tables with matched conditions; no figure files; no supplementary methods or search strategy; no statement of literature search date, database, or inclusion criteria; no data-availability or code-availability statement for the AI toolchain discussion.</li>
+</ul>
+<h2>Reviewer</h2>
+<ul>
+<li><strong>Overall assessment</strong> This is a broad, well-organized narrative review that maps a genuinely useful conceptual structure onto a crowded field. The three-tier framing plus an AI cross-layer role is pedagogically clear and the AI tool table (Table 3) is a practical contribution. However, the manuscript is currently a taxonomy-and-assertion document rather than a critical synthesis. Several performance claims are stated as settled facts without matched quantitative context, the "fills a gap in systematic analysis" claim is not demonstrated against existing reviews, and the AI section mixes validated tools with speculative projections without consistently separating the two. The delivery tables (Table 1, Table 2) are largely disconnected from the protein-engineering argument that the title and abstract promise. The manuscript is readable and likely useful to newcomers, but the evidence base as supplied does not establish the stronger claims about superiority, mechanism, and clinical readiness.</li>
+<li><strong>Who would be interested in the results, and why</strong> Protein engineers and genome-editing tool developers seeking an entry-level map of Cas optimization strategies; computational biologists and ML practitioners evaluating where protein language models and structure predictors fit into an editing-tool pipeline; translational researchers and process-development groups assessing miniaturized AAV-compatible editors; plant and agricultural biotechnology groups tracking species-adapted variants; reviewers and funding bodies needing a compact orientation to the field. The AI tool table and the strategy-comparison table are the elements most likely to be reused.</li>
+<li><strong>Major strengths</strong></li>
+<li>The three-tier framework (directed evolution, rational design, integrated engineering) with AI as a cross-layer enabler is a coherent organizing device, and Table 4 makes the comparison operational rather than rhetorical.</li>
+<li>Table 3 is a substantive, structured inventory of AI tools with architecture, advantages, limitations, applications, and references, which is more useful than a prose list.</li>
+<li>The manuscript correctly and repeatedly states that AI-generated candidates require wet-lab validation and that AI does not replace traditional engineering, which is an appropriately calibrated position.</li>
+<li>The bottleneck analysis in the AI section (data scarcity, non-standardized datasets, black-box interpretability, single-modal training, low wet-lab automation) is specific and actionable rather than generic.</li>
+<li>Coverage of miniaturization routes (truncation of large Cas proteins versus native small Cas12f and TnpB/IscB) is a well-chosen axis that connects engineering to a concrete delivery constraint.</li>
+<li>
+<p><strong>Major Concerns</strong></p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M1</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Novelty and positioning</li>
+<li><strong>Claim pointer</strong> The abstract states the study "fills a gap in systematic analysis within the field and provides a theoretical framework for tiered, synergistic modification."</li>
+<li><strong>Evidence pointer</strong> Abstract; Introduction final paragraph; no comparison to prior reviews anywhere in the supplied text</li>
+<li><strong>Concern</strong> The gap claim is asserted but never substantiated. The supplied material contains no discussion of existing reviews on Cas protein engineering, no statement of what prior syntheses covered, and no explicit delineation of what is new here beyond the three-tier labeling. The three-tier framing itself is a relabeling of a widely used distinction (random mutagenesis, structure-guided design, combined approaches), and the AI cross-layer role is presented as novel without evidence that it has not been articulated elsewhere.</li>
+<li><strong>Why it matters</strong> For a review, the contribution is the synthesis, not the primary data. If the synthesis overlaps substantially with existing reviews, the manuscript's stated value proposition does not hold, and the reader cannot judge what to read here rather than elsewhere.</li>
+<li>
+<p><strong>Resolution test</strong> Provide an explicit comparison against at least three to five prior reviews in this space, stating for each what it covered and what the present manuscript adds. Either narrow the gap claim to a specific, defensible increment (for example, the AI tool taxonomy in Table 3, or the integration-layer decision logic) or remove the "fills a gap" language.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M2</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Evidence sufficiency for comparative performance claims</li>
+<li><strong>Claim pointer</strong> Multiple variants are described as achieving superior performance, for example Sniper2L "eliminates single-base mismatch off-target events while maintaining wild-type editing efficiency," SpCas9-Mut5 "combines ultra-high specificity with lossless editing activity," and AsCas12f yham/hkra achieved "a tenfold increase in activity without increasing the risk of off-target effects."</li>
+<li><strong>Evidence pointer</strong> Sections "Overcoming the activity-specificity trade-off," "A breakthrough expansion of PAM compatibility," "Miniaturized design"; no quantitative table or figure with matched assay conditions</li>
+<li><strong>Concern</strong> These are strong, quantitative, comparative claims presented without the measurement context that determines whether they are meaningful. "Tenfold increase" is meaningless without specifying the assay, target site, cell type, dose, and comparator. "Lossless" and "eliminates" are absolute terms that require the detection limit of the assay to be stated. The manuscript provides no table of head-to-head benchmarks, no indication of whether numbers come from the original papers under their own conditions or from independent replication, and no discussion of the well-documented reproducibility issues in high-fidelity Cas9 variant comparisons.</li>
+<li><strong>Why it matters</strong> A review that transmits uncontextualized performance numbers propagates exactly the comparability problem that hampers this field. Readers may adopt variants based on numbers that are not transferable across assays.</li>
+<li>
+<p><strong>Resolution test</strong> Add a benchmark table with columns for variant, parent scaffold, assay system, target site or library, dose, on-target metric, off-target metric, and source reference, with an explicit note where conditions are not comparable across rows. Soften absolute language ("eliminates," "lossless," "ultra-high") to match what the cited assays can detect, or state the detection limits.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M3</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Internal consistency between stated framework and presented content</li>
+<li><strong>Claim pointer</strong> The abstract and title frame the review around Cas protein engineering for enhanced performance, and the Introduction states that the four bottlenecks (off-target, PAM, NHEJ outcomes, delivery) are "essentially closely associated with the intrinsic molecular properties of Cas proteins."</li>
+<li><strong>Evidence pointer</strong> Introduction; Table 1; Table 2; Fig. 2</li>
+<li><strong>Concern</strong> Table 1 and Table 2 plus Fig. 2 constitute a substantial delivery-method survey (pDNA, mRNA, RNP; AAV, AdV, LV, LNP, polymer, inorganic, DNA nanocages, electroporation, microinjection, exosomes) that is only weakly connected to protein engineering. Most entries are formulation and vector properties, not Cas protein properties. The manuscript does not explain why a protein-engineering review needs two full delivery tables, nor does it use them analytically, for example to derive the size ceiling that motivates miniaturization or the immunogenicity constraint that motivates specific surface modifications. The tables read as inserted reference material.</li>
+<li><strong>Why it matters</strong> Unintegrated content dilutes the framework and inflates length without advancing the argument. It also creates an expectation of analysis that the text does not deliver.</li>
+<li>
+<p><strong>Resolution test</strong> Either integrate the delivery tables explicitly into the engineering argument (for example, derive the AAV packaging limit and use it to frame the miniaturization section, and connect RNP delivery to the stability and aggregation properties that protein engineering can tune), or move them to supplementary material and reduce the main text to the delivery constraints that directly drive protein design.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M4</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Attribution accuracy and mechanistic specificity</li>
+<li><strong>Claim pointer</strong> Specific variants and mechanisms are attributed to specific teams and strategies, for example "Mark A. Behlke's team utilized a dual-screening system (positive and negative) in E. coli... to iteratively evolve a HiFiCas9 variant," "SuperFi-Cas9, developed by the University of Texas team," "The Doudna team's modifications to the Cas9 WED domain," and "The MIDAS modification method developed by the Chinese Academy of Sciences."</li>
+<li><strong>Evidence pointer</strong> Sections "Overcoming the activity-specificity trade-off," "Enhancing specificity," "Enhanced efficiency," "Universal engineering and species-specific optimization"</li>
+<li><strong>Concern</strong> Team attributions are used as evidence of provenance but are not verifiable from the supplied material, since no reference list with author affiliations is included. More substantively, several mechanistic descriptions are too compressed to be checkable. For example, the HiFiCas9 description does not name the specific mutations or explain how the positive/negative screen distinguishes on-target from off-target activity. The SuperFi-Cas9 description refers to "non-specific interactions at the DNA-binding interface and abnormal structural flexibility" without identifying residues or domains. The WED domain claim about "DNA unwinding efficiency" as "the central regulatory role" is stated as established without noting that this is one of several proposed determinants of Cas9 kinetics.</li>
+<li><strong>Why it matters</strong> Mechanistic claims are the part of a review that specialists will scrutinize. Vague mechanism statements that read as settled can mislead non-specialist readers and will not survive expert review.</li>
+<li>
+<p><strong>Resolution test</strong> For each named variant, state the specific mutations or domains, the assay that established the mechanism, and the reference. Where a mechanism is contested or one of several models, say so explicitly. Remove or qualify team attributions that cannot be tied to a verifiable citation in the reference list.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M5</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Separation of validated results from projection</li>
+<li><strong>Claim pointer</strong> The AI section presents a toolchain and then states that "AI-driven rational design effectively overcomes the coupling dilemma in traditional directed evolution... while cutting screening cycles and experimental costs by orders of magnitude," and that computational pipelines "support personalized therapeutic design... such as corrective edits for sickle cell anemia-causing HBB variants, accelerating clinical translation."</li>
+<li><strong>Evidence pointer</strong> Section "Multidimensional advantages of AI-powered Cas protein engineering"; Section "Core bottlenecks and future perspectives"; Table 3</li>
+<li><strong>Concern</strong> The section moves between demonstrated capabilities and aspirational projections without a consistent marker. "Orders of magnitude" cost and cycle reduction is a strong quantitative claim with no supporting measurement. The personalized HBB editing example is presented as an existing capability of computational pipelines, but the supplied text provides no evidence that an AI-designed editor has been used for a patient-specific HBB correction. Table 3 itself lists substantial limitations for nearly every tool (AlphaFold2/3 limitations in dynamic structures and complexes; ESMFold lower accuracy than AlphaFold; EVOLVEpro high computational demand and limited mutational space exploration; ProGen dependence on homology and poor generalization to orphan proteins), which sits in tension with the strong claims in the prose.</li>
+<li><strong>Why it matters</strong> Overstating AI maturity in this field is a common failure mode and directly undermines the manuscript's otherwise well-calibrated caveats. It also risks misleading readers who are deciding whether to invest in these pipelines.</li>
+<li>
+<p><strong>Resolution test</strong> Mark each claim in this section as demonstrated, partially demonstrated, or projected, and cite the specific study for each demonstrated claim. Provide a source for the "orders of magnitude" figure or remove the quantification. Reframe the HBB example as an illustrative target class rather than an achieved AI-driven outcome, unless a specific study is cited.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-M6</p>
+</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Reproducibility of the review methodology</li>
+<li><strong>Claim pointer</strong> The manuscript presents itself as a systematic analysis that "comprehensively map[s] the entire technical pathway for Cas protein improvement."</li>
+<li><strong>Evidence pointer</strong> Abstract; Introduction; no methods section anywhere in the supplied text</li>
+<li><strong>Concern</strong> There is no description of how the literature was identified, what databases and date range were used, what inclusion and exclusion criteria were applied, or how many studies were screened. "Comprehensively map the entire technical pathway" is a strong claim that requires either a systematic search or an explicit statement that the review is expert-narrative and selective. The current text does neither.</li>
+<li><strong>Why it matters</strong> Readers cannot assess coverage bias. Notable omissions are difficult to detect without a stated search strategy, and the "entire technical pathway" claim invites the reader to assume completeness that a narrative review cannot guarantee.</li>
+<li>
+<p><strong>Resolution test</strong> Add a short methods paragraph stating search databases, date range, search terms, and selection criteria, or explicitly reframe the review as a selective expert synthesis and remove "entire" and "comprehensively" from the claims.</p>
+</li>
+<li>
+<p><strong>Minor Comments</strong></p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m1</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Terminology consistency</li>
+<li><strong>Affected element</strong> System classification in the Introduction</li>
+<li><strong>Evidence pointer</strong> Introduction, paragraph 2</li>
+<li><strong>Issue</strong> The text states the system "can be classified into Type I and Type II systems based on the number of Cas proteins, and is further subdivided into seven classes (Types I–VII)," then immediately describes Class I and Class II. The Type/Class terminology is used interchangeably and the initial "Type I and Type II" phrasing conflicts with the subsequent Class I/Class II framing.</li>
+<li>
+<p><strong>Required correction</strong> Standardize on Class 1 and Class 2 for the multi-subunit versus single-protein division, and reserve Type I to VII for the specific subtypes, consistent with the current accepted nomenclature.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m2</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Internal contradiction</li>
+<li><strong>Affected element</strong> Rational design workflow description</li>
+<li><strong>Evidence pointer</strong> Section "Structure-based rational design," paragraph 2</li>
+<li><strong>Issue</strong> The paragraph states that rational design "does not require prior structural information of target proteins," which directly contradicts the preceding and following sentences establishing high-resolution structure as "the fundamental premise" and the core limitation of the approach.</li>
+<li>
+<p><strong>Required correction</strong> Delete or correct this sentence. The intended contrast is presumably with directed evolution, which does not require structural information.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m3</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Figure and table integration</li>
+<li><strong>Affected element</strong> Fig. 1 through Fig. 4 and Tables 1 to 4</li>
+<li><strong>Evidence pointer</strong> Inline captions throughout</li>
+<li><strong>Issue</strong> Figures and tables are referenced but the surrounding text rarely interprets them. For example, Fig. 3 is cited once in a parenthetical and Table 3 is referenced only as "(Table 3)" at the end of a long paragraph. Table 4, which is the most analytically important table, is introduced with a single sentence.</li>
+<li>
+<p><strong>Required correction</strong> Add explicit interpretive sentences for each figure and table that state what the reader should conclude from it, and cross-reference Table 4 to the specific claims in the Conclusion.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m4</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Citation completeness</li>
+<li><strong>Affected element</strong> Reference list</li>
+<li><strong>Evidence pointer</strong> Not provided in the supplied material</li>
+<li><strong>Issue</strong> The text cites over ninety references by number, including several that carry specific factual claims (for example the tenfold activity increase, the 34% to 80% efficiency improvement, the 3 to 4 fold genomic coverage increase). Without the reference list, none of these can be verified, and the manuscript cannot be assessed for citation accuracy.</li>
+<li>
+<p><strong>Required correction</strong> Ensure the reference list is complete and that each quantitative claim maps to a specific primary source rather than a review.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m5</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Precision of quantitative statements</li>
+<li><strong>Affected element</strong> Applications and prospects section</li>
+<li><strong>Evidence pointer</strong> Section "Applications and prospects," paragraph 1</li>
+<li><strong>Issue</strong> The statement that engineered small Cas proteins "can achieve editing efficiencies of up to 90% in human cells without significant off-target effects or tissue toxicity" is presented without a specific variant, target, assay, or citation, and "without significant" is undefined.</li>
+<li>
+<p><strong>Required correction</strong> Attribute the figure to a specific variant and study, state the assay and target, and define the off-target and toxicity thresholds used.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m6</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Figure caption accuracy</li>
+<li><strong>Affected element</strong> Fig. 1 caption, panel d</li>
+<li><strong>Evidence pointer</strong> Fig. 1 caption</li>
+<li><strong>Issue</strong> The caption states prime editing supports "small insertions (∼40 bp), small deletions (∼80 bp), and precise point mutations within approximately 30 bp flanking the Cas9 nicking site." These specific size limits are stated without a source and without noting that they are configuration-dependent and have been substantially extended in later PE variants.</li>
+<li>
+<p><strong>Required correction</strong> Cite the source for these limits and note that achievable insert size and edit window depend on the PE architecture and pegRNA design.</p>
+</li>
+<li>
+<p><strong>Concern ID</strong> R1-m7</p>
+</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Redundancy</li>
+<li><strong>Affected element</strong> Conclusion relative to main text</li>
+<li><strong>Evidence pointer</strong> Conclusion, paragraphs 1 to 3</li>
+<li><strong>Issue</strong> The Conclusion restates the three-tier framework and the AI cross-layer role at nearly the same level of detail as the Abstract and the final section of the main text, adding little synthesis.</li>
+<li>
+<p><strong>Required correction</strong> Condense the Conclusion and use the space for a decision-oriented summary, for example which strategy to choose under which structural-information and throughput constraints.</p>
+</li>
+<li>
+<p><strong>Technical failings that need to be addressed before the case is established</strong> R1-M1 (gap claim unsubstantiated), R1-M2 (comparative performance claims lack matched quantitative context), R1-M4 (mechanistic and attribution claims not verifiable from supplied material), R1-M5 (validated results and projections not separated), R1-M6 (no search methodology for a review claiming comprehensive coverage). R1-M3 is a structural and integration issue that affects readability and focus rather than the core case.</p>
+</li>
+<li>
+<p><strong>Assessment against Nature-style criteria</strong></p>
+</li>
+<li><strong>Originality</strong> Limited as presented. The three-tier framework is a reasonable pedagogical organization but is not a new conceptual contribution, and the AI cross-layer role is asserted rather than demonstrated to be novel. The AI tool table (Table 3) is the most original element, but its novelty is as a curated inventory rather than as an analytical advance. The gap claim in the abstract is not supported by any comparison to existing literature.</li>
+<li><strong>Scientific importance</strong> Moderate. The topic is important and the synthesis could be useful for orientation, particularly for groups entering the field or deciding where to place computational versus experimental effort. However, importance is currently carried by the topic rather than by the manuscript's analysis. The absence of matched benchmarking and of a critical treatment of conflicting results limits the value to specialists.</li>
+<li><strong>Interdisciplinary readership</strong> Potentially broad. The material spans protein engineering, structural biology, machine learning, delivery science, and translational and regulatory considerations, which is appropriate for a wide audience. The delivery tables and the AI tool table support this breadth. However, the weak integration of the delivery content and the uneven depth across sections mean the interdisciplinary appeal is more nominal than realized.</li>
+<li><strong>Technical soundness</strong> Insufficient as supplied. Quantitative claims lack measurement context, several mechanistic statements are too compressed to be checkable, one internal contradiction is present (R1-m2), and the reference list is not available for verification. The manuscript's own caveats about AI limitations are sound and well-judged, which makes the stronger claims elsewhere more conspicuous.</li>
+<li>
+<p><strong>Readability for nonspecialists</strong> Good. The prose is clear, the tiered structure is easy to follow, and the tables are legible. Jargon is generally explained on first use. The main readability issue is length and repetition rather than clarity, and the unintegrated delivery tables interrupt the argument for a reader trying to follow the engineering narrative.</p>
+</li>
+<li>
+<p><strong>Recommendation posture</strong> Currently not established from the provided evidence for the manuscript's stronger claims (gap-filling novelty, comparative performance superiority, AI-driven clinical readiness). The framework and the AI tool inventory are potentially publishable as a narrative review if the gap claim is narrowed or substantiated, quantitative claims are given matched context, validated results are separated from projections, and a search methodology or an explicit selectivity statement is added. Supportive of publication in a review-appropriate venue if these technical concerns are resolved; not supportable in its present form for a venue applying Nature-style originality and technical-soundness thresholds.</p>
+</li>
+</ul>
+<h2>Risk / unsupported claims</h2>
+<ul>
+<li><strong>Unsupported (no evidence in supplied material):</strong> The claim that the review "fills a gap in systematic analysis within the field." No comparison to prior reviews is provided.</li>
+<li><strong>Unsupported (no evidence in supplied material):</strong> "Cutting screening cycles and experimental costs by orders of magnitude" attributed to AI-driven rational design. No measurement or source is given.</li>
+<li><strong>Unsupported (no evidence in supplied material):</strong> The implication that computational pipelines currently enable personalized therapeutic design for HBB sickle cell variants. No study demonstrating an AI-designed editor applied to this target is cited in the supplied text.</li>
+<li><strong>Unsupported (no evidence in supplied material):</strong> "Editing efficiencies of up to 90% in human cells without significant off-target effects or tissue toxicity" for engineered small Cas proteins. No variant, assay, or citation is specified.</li>
+<li><strong>Weak (stated as settled, context-dependent):</strong> "Tenfold increase in activity without increasing the risk of off-target effects" for AsCas12f yham/hkra. Assay conditions and comparator are not stated.</li>
+<li><strong>Weak (stated as settled, context-dependent):</strong> "Eliminates single-base mismatch off-target events" for Sniper2L and "lossless editing activity" for SpCas9-Mut5. Absolute terms require stated detection limits.</li>
+<li><strong>Weak (stated as settled, context-dependent):</strong> The 34% to 80% editing efficiency improvement for Flex-Cas12a. Target, assay, and dose are not specified.</li>
+<li><strong>Weak (stated as settled, context-dependent):</strong> The 3 to 4 fold genomic coverage increase for AsCas12f1-M5. The basis for coverage calculation is not given.</li>
+<li><strong>Weak (attribution not verifiable):</strong> Team-level attributions (Behlke, Doudna, University of Texas, Chinese Academy of Sciences, Huida Genomics, Shanghai Jiao Tong University) cannot be verified because the reference list is not supplied.</li>
+<li><strong>Not assessable from supplied material:</strong> Accuracy of Table 1, Table 2, Table 3, and Table 4 entries, since primary sources are not available for cross-checking.</li>
+<li><strong>Not assessable from supplied material:</strong> Figure content and whether figures support the claims made in their captions, since figure files are not provided.</li>
+<li><strong>Not assessable from supplied material:</strong> Coverage completeness of the literature, since no search strategy, database list, or date range is stated.</li>
+</ul></div>
+  </section>
+  
+</article>
+</main>
+</body>
+</html>

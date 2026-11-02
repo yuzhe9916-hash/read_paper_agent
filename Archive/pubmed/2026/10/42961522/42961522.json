@@ -1,0 +1,140 @@
+{
+  "identity": {
+    "pmid": "42961522",
+    "doi": "10.1007/s11033-026-12907-3",
+    "title": "A comprehensive review of mixed-species biofilm infections and innovative therapeutic strategies."
+  },
+  "content": {
+    "abstract": "Mixed-species biofilm infections are important causes of persistent and difficult-to-treat infections. Compared with monospecies biofilms, mixed-species communities contain microorganisms with different physiological and genetic characteristics that interact through metabolic cooperation, chemical signaling, competition, and modification of the local environment. These interactions, together with the EPS matrix, physiological heterogeneity, and HGT, can increase antimicrobial tolerance, contributing to treatment failure and infection recurrence. Polymicrobial biofilms are associated with chronic wounds, respiratory infections, catheter- and device-associated infections, and other persistent infections. However, treatment of polymicrobial biofilms remains challenging because their complex structure and interspecies interactions can reduce antimicrobial efficacy. This review summarizes the clinical significance, formation, and persistence of mixed-species biofilms and discusses recent therapeutic strategies for their control. We also discuss recent approaches for controlling polymicrobial biofilms, including natural compounds, QS inhibition, CRISPR-Cas-based approaches, biofilm matrix targeting, metabolic and nutrient disruption, nanotechnology, and phage therapy. Recent studies show that these approaches can inhibit biofilm formation, disrupt established biofilms, enhance antimicrobial activity, and selectively target specific microbial populations. However, their effectiveness varies with microbial composition, biofilm maturity, matrix characteristics, and treatment conditions. Overall, current evidence supports the development of targeted and combination-based strategies for mixed-species biofilms. Further studies using clinically relevant models are needed to exactly define treatment efficacy and support the translation of these approaches into clinical practice.",
+    "keywords": [
+      "CRISPR-Cas System",
+      "Nanotechnology",
+      "Natural Compound",
+      "Phage Therapy",
+      "Polymicrobial Biofilm",
+      "Quorum Sensing System"
+    ],
+    "mesh_terms": [
+      "*Biofilms/drug effects/growth & development",
+      "Humans",
+      "Quorum Sensing/drug effects",
+      "*Coinfection/microbiology/therapy",
+      "Animals",
+      "Bacteria",
+      "CRISPR-Cas Systems",
+      "Phage Therapy/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nazari, Mohsen",
+        "Kardan, Romina",
+        "Ahmadi, Amjad",
+        "Abolhasani, Fatemeh Sadat",
+        "Hemmati, Jaber"
+      ],
+      "short_names": [
+        "Nazari M",
+        "Kardan R",
+        "Ahmadi A",
+        "Abolhasani FS",
+        "Hemmati J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Faculty of Medicine, Khor. C., Islamic Azad University, Khorramabad, Iran.",
+        "Department of Neuroscience and Addiction Studies, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, Tehran, Iran.",
+        "Zoonoses Research Center, Research Institute for Health Development, Kurdistan University of Medical Sciences, Sanandaj, Iran.",
+        "Department of Pathobiology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.",
+        "Department of Microbiology, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran. jaberhemmati@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nazari, Mohsen",
+        "short_name": "Nazari M",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Medicine, Khor. C., Islamic Azad University, Khorramabad, Iran."
+        ]
+      },
+      {
+        "full_name": "Kardan, Romina",
+        "short_name": "Kardan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuroscience and Addiction Studies, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Ahmadi, Amjad",
+        "short_name": "Ahmadi A",
+        "identifiers": [],
+        "affiliations": [
+          "Zoonoses Research Center, Research Institute for Health Development, Kurdistan University of Medical Sciences, Sanandaj, Iran."
+        ]
+      },
+      {
+        "full_name": "Abolhasani, Fatemeh Sadat",
+        "short_name": "Abolhasani FS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathobiology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Hemmati, Jaber",
+        "short_name": "Hemmati J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran. jaberhemmati@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology reports"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Rep"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 17:43",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42961522"
+    ],
+    "review": [
+      "42961522"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11033-026-12907-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

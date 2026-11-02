@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42959896",
+  "title": "Structure- and Exonuclease-Guided Engineering of Cas12o1 Enhances Genome Editing Efficiency and Deletion Outcomes.",
+  "authors": "Wang, Linli; Wang, Yanlu; He, Xiaoya; Chen, Jian; Ai, Yue; Han, Hongbing",
+  "journal": "ACS omega",
+  "published_date": "2026-10-30",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 8,
+  "one_liner_zh": "该研究通过结构引导的突变和T5外切酶融合工程化Cas12o1，提升编辑效率并重塑DNA修复产物（富集长片段缺失），直接涉及CRISPR核酸酶切割与修复机制调控，对碱基编辑和交错切割机制研究有重要参考价值。",
+  "abstract": "Small and efficient CRISPR nucleases hold great promise for genome engineering but often exhibit suboptimal activity and limited control over DNA repair outcomes. Here, we engineer Cas12o1 using a structure- and exonuclease-guided strategy to enhance both editing efficiency and deletion profiles in mammalian cells. Structure-guided arginine-scanning mutagenesis of 42 residues identifies a single substitution, D534R, that markedly improves editing efficiency across multiple genomic loci, outperforming combinatorial variants. In parallel, fusion of T5 exonuclease (T5 exo) profoundly remodels DNA repair outcomes, strongly enriching long-fragment deletions without compromising overall activity. Integrating the D534R mutation with T5 exo fusion increases Cas12o1 editing efficiency by 1.2-1.9-fold and yields a higher proportion of deletions exceeding 10 bp. Notably, at selected loci such as HBB, the enhanced Cas12o1-T5 exonuclease (enCas12o1-T5 exo) achieved comparable or higher editing efficiencies than canonical SpCas9 and LbCas12a. Together, these results establish a rational framework for simultaneously enhancing the efficiency and repair outcomes of compact CRISPR nucleases, expanding the genome-engineering potential of Cas12o1.",
+  "abstract_zh": "小型高效的CRISPR核酸酶在基因组工程中具有巨大前景，但往往表现出次优的活性和对DNA修复结果有限的控制。在此，我们采用结构和核酸外切酶指导的策略对Cas12o1进行工程化改造，以增强哺乳动物细胞中的编辑效率和缺失谱。对42个残基进行结构指导的精氨酸扫描诱变，鉴定出单一替换D534R，该替换在多个基因组位点上显著提高编辑效率，优于组合变体。与此同时，T5核酸外切酶（T5 exo）的融合深刻重塑了DNA修复结果，在不损害整体活性的情况下强烈富集长片段缺失。将D534R突变与T5 exo融合相结合，使Cas12o1编辑效率提高1.2-1.9倍，并产生更高比例的超过10 bp的缺失。值得注意的是，在诸如HBB等选定基因座上，增强型Cas12o1-T5核酸外切酶（enCas12o1-T5 exo）实现了与经典SpCas9和LbCas12a相当或更高的编辑效率。总之，这些结果建立了一个合理框架，可同时增强紧凑型CRISPR核酸酶的效率和修复结果，扩展了Cas12o1的基因组工程潜力。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42959896/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42959896/",
+  "paper_page_path": "papers/pubmed/42959896/index.html"
+}

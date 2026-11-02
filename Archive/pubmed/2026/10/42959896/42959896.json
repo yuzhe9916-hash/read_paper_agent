@@ -1,0 +1,168 @@
+{
+  "identity": {
+    "pmid": "42959896",
+    "doi": "10.1021/acsomega.6c04743",
+    "title": "Structure- and Exonuclease-Guided Engineering of Cas12o1 Enhances Genome Editing Efficiency and Deletion Outcomes."
+  },
+  "content": {
+    "abstract": "Small and efficient CRISPR nucleases hold great promise for genome engineering but often exhibit suboptimal activity and limited control over DNA repair outcomes. Here, we engineer Cas12o1 using a structure- and exonuclease-guided strategy to enhance both editing efficiency and deletion profiles in mammalian cells. Structure-guided arginine-scanning mutagenesis of 42 residues identifies a single substitution, D534R, that markedly improves editing efficiency across multiple genomic loci, outperforming combinatorial variants. In parallel, fusion of T5 exonuclease (T5 exo) profoundly remodels DNA repair outcomes, strongly enriching long-fragment deletions without compromising overall activity. Integrating the D534R mutation with T5 exo fusion increases Cas12o1 editing efficiency by 1.2-1.9-fold and yields a higher proportion of deletions exceeding 10 bp. Notably, at selected loci such as HBB, the enhanced Cas12o1-T5 exonuclease (enCas12o1-T5 exo) achieved comparable or higher editing efficiencies than canonical SpCas9 and LbCas12a. Together, these results establish a rational framework for simultaneously enhancing the efficiency and repair outcomes of compact CRISPR nucleases, expanding the genome-engineering potential of Cas12o1.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Linli",
+        "Wang, Yanlu",
+        "He, Xiaoya",
+        "Chen, Jian",
+        "Ai, Yue",
+        "Han, Hongbing"
+      ],
+      "short_names": [
+        "Wang L",
+        "Wang Y",
+        "He X",
+        "Chen J",
+        "Ai Y",
+        "Han H"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5248-3495"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+        "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+        "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+        "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Frontiers Science Center for Molecular Design Breeding (MOE), China Agricultural University, Beijing 100193, China. RINGGOLD: 34752",
+        "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+        "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Frontiers Science Center for Molecular Design Breeding (MOE), China Agricultural University, Beijing 100193, China. RINGGOLD: 34752",
+        "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+        "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Linli",
+        "short_name": "Wang L",
+        "identifiers": [
+          "0000-0001-5248-3495"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+          "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+          "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yanlu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+          "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+          "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaoya",
+        "short_name": "He X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+          "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+          "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jian",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Frontiers Science Center for Molecular Design Breeding (MOE), China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Ai, Yue",
+        "short_name": "Ai Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+          "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+          "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Han, Hongbing",
+        "short_name": "Han H",
+        "identifiers": [],
+        "affiliations": [
+          "Frontiers Science Center for Molecular Design Breeding (MOE), China Agricultural University, Beijing 100193, China.",
+          "State Key Laboratory of Animal Biotech Breeding, China Agricultural University, Beijing 100193, China.",
+          "Beijing Key Laboratory of Animal Genetic Improvement, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+          "Key Laboratory of Animal Genetics, Breeding and Reproduction of the Ministry of Agriculture and Rural Affairs, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42959896"
+    ],
+    "review": [
+      "42959896"
+    ],
+    "pmc": [
+      "13717751"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42959896/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/acsodf/article-lookup/doi/10.1021/acsomega.6c04743",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

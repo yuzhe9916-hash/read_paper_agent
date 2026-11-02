@@ -1,0 +1,111 @@
+{
+  "identity": {
+    "pmid": "42963919",
+    "doi": "10.1016/j.bpj.2026.10.029",
+    "title": "A novel FRET-force biosensor for nucleoporin gp210 reveals that the nuclear pore complex experiences mechanical tension."
+  },
+  "content": {
+    "abstract": "The nuclear pore complex (NPC) is a large multi-protein structure that enables movement of macromolecules, such as mRNA and proteins, between the nucleoplasm and cytoplasm. There has been great interest in how the physical state of the NPC can influence nuclear-cytoplasmic transport. The hypothesis that the NPC may be mechanosensitive is supported by prior reports showing that the diameter of the NPC increases with nuclear envelope stretch as well as increased ECM stiffness. We therefore sought to develop a biosensor-based approach to determine if the NPC experiences mechanical tension. Using a previously developed FRET-force biosensor, known as TSMod, we developed a gp210 tension sensor. gp210 is a transmembrane nucleoporin, which may serve to anchor the NPC into the nuclear envelope. Using a CRISPR knock-in strategy, we developed a HeLa cell line which expresses the gp210 tension sensor at endogenous levels. The FRET-force responsiveness of the gp210 tension sensor was validated using hypo-osmotic and hyper-osmotic nuclear swelling experiments. Additionally, we observed that gp210 forces are sensitive to the ECM, nuclear LINC complex, chromatin condensation, and actomyosin contractility. Our results indicate that both nuclear strain and cytoskeletal forces contribute to mechanical tension across gp210. Our studies provide the first direct measurements of protein-level mechanical forces on the NPC. We anticipate that the gp210 force sensor will be of use for future studies of NPC mechanobiology.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Peipei",
+        "Denis, Kevin",
+        "Luxton, G W Gant",
+        "Conway, Daniel E"
+      ],
+      "short_names": [
+        "Wang P",
+        "Denis K",
+        "Luxton GWG",
+        "Conway DE"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Engineering, The Ohio State University, Columbus Ohio.",
+        "Department of Biomedical Engineering, Virginia Commonwealth University, Richmond Virginia.",
+        "Department of Molecular and Cellular Biology, University of California Davis, Davis California.",
+        "Department of Biomedical Engineering, The Ohio State University, Columbus Ohio; The James Comprehensive Cancer Center, The Ohio State University, Columbus Ohio. Electronic address: conway.362@osu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Peipei",
+        "short_name": "Wang P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, The Ohio State University, Columbus Ohio."
+        ]
+      },
+      {
+        "full_name": "Denis, Kevin",
+        "short_name": "Denis K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Virginia Commonwealth University, Richmond Virginia."
+        ]
+      },
+      {
+        "full_name": "Luxton, G W Gant",
+        "short_name": "Luxton GWG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Biology, University of California Davis, Davis California."
+        ]
+      },
+      {
+        "full_name": "Conway, Daniel E",
+        "short_name": "Conway DE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, The Ohio State University, Columbus Ohio; The James Comprehensive Cancer Center, The Ohio State University, Columbus Ohio. Electronic address: conway.362@osu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biophysical journal"
+    ],
+    "journal_abbrev": [
+      "Biophys J"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 05:32",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42963919"
+    ],
+    "review": [
+      "42963919"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(26)00745-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

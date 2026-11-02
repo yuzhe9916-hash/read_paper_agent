@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42953285",
+  "title": "Structural Empowerment Sensing: Decoding the Structure-Activity Relationship and Detection Application of G‑Quadruplex Aptamer.",
+  "authors": "Bao, Wenji; Su, Ailing; Ao, Denggerile; Ga, Lu; Yu, Lan; Ai, Jun",
+  "journal": "Precision chemistry",
+  "published_date": "2026-10-29",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 5,
+  "one_liner_zh": "该综述从结构-活性关系角度总结G-四链体适配体的生物传感应用，虽涉及CRISPR平台整合，但核心对象非CRISPR/碱基编辑，机制深度偏向传感信号转导而非核酸酶切割或碱基编辑机制。",
+  "abstract": "G-Quadruplex (G4) aptamers have emerged as versatile functional nucleic acid architectures for biosensing because of their unique conformational plasticity, programmable topologies, and intrinsic signal-regulation capabilities. Unlike conventional recognition elements that mainly function as passive binding scaffolds, G4 aptamers can actively regulate signal generation and transduction through topology-dependent structural dynamics. Increasing evidence indicates that biosensing performance is closely governed by conformational energetics, folding kinetics, loop organization, ion coordination, and nano-interfacial coupling. This review summarizes recent advances in structure-guided G4 aptamer biosensing from the perspective of \"structural empowerment\", where conformational architectures directly determine sensing behavior and analytical output. We first discuss the structural fundamentals of G4 aptamers, including topology diversity, thermodynamic stability, folding pathways, and environmental responsiveness, emphasizing their influence on molecular recognition and signal accessibility. We then analyze the mechanistic relationship between G4 conformational transitions and multiple signal transduction modes, including fluorescence, electrochemical, colorimetric, surface-enhanced Raman scattering, photoelectrochemical, and catalytic sensing systems. Particular attention is given to the integration of G4 architectures with CRISPR platforms, nanozymes, DNA amplification circuits, metal-organic frameworks, and nanointerfacial engineering strategies. Importantly, this review establishes a structure-performance framework correlating G4 topological features and kinetic behaviors with analytical outcomes. Current limitations, including structural polymorphism, ionic dependence, reproducibility issues, and limited quantitative predictability, are critically discussed. Finally, future opportunities in adaptive biosensing, intelligent molecular interfaces, and AI-assisted structural design are highlighted. This review establishes a quantitative structure-performance framework by correlating G4 structural descriptors, conformational energetics, kinetic parameters, and analytical outputs, providing a basis for predictive design of G4-based sensing systems.",
+  "abstract_zh": "G-四链体 (G-quadruplex, G4) 适配体因其独特的构象可塑性、可编程拓扑结构以及内在的信号调控能力，已成为生物传感中多功能的核酸功能架构。与主要作为被动结合支架发挥作用的传统识别元件不同，G4适配体能够通过拓扑依赖的结构动力学主动调控信号的产生与转导。越来越多的证据表明，生物传感性能密切受构象能量学、折叠动力学、环区组织、离子配位以及纳米界面耦合的支配。本综述从“结构赋能”的视角总结了结构导向G4适配体生物传感的最新进展，其中构象架构直接决定传感行为和分析输出。我们首先讨论G4适配体的结构基础，包括拓扑多样性、热力学稳定性、折叠路径和环境响应性，强调其对分子识别和信号可及性的影响。随后，我们分析G4构象转变与多种信号转导模式之间的机制关系，包括荧光、电化学、比色、表面增强拉曼散射、光电化学和催化传感系统。特别关注G4架构与CRISPR平台、纳米酶、DNA扩增电路、金属有机框架以及纳米界面工程策略的整合。重要的是，本综述建立了一个结构-性能框架，将G4拓扑特征和动力学行为与分析结果相关联。当前局限性，包括结构多态性、离子依赖性、重现性问题以及有限的定量可预测性，均被批判性地讨论。最后，展望了自适应生物传感、智能分子界面和AI辅助结构设计方面的未来机遇。本综述通过关联G4结构描述符、构象能量学、动力学参数和分析输出，建立了一个定量结构-性能框架，为基于G4的传感系统的预测性设计提供了基础。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42953285/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42953285/",
+  "paper_page_path": "papers/pubmed/42953285/index.html"
+}

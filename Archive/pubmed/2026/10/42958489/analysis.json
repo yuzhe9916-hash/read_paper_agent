@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42958489",
+  "title": "Two novel phosphodiesterases (PDEs) found from woody plant jujube exhibit diverse biological functions via regulating cAMP, cGMP and hormones.",
+  "authors": "Zhao, Xin; Wang, Di; Deng, Xiaofeng; Mai, Junyan; Liu, Zhiguo; Liu, Mengjun",
+  "journal": "BMC plant biology",
+  "published_date": "2026-10-30",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 3,
+  "one_liner_zh": "该文从枣树中鉴定两个磷酸二酯酶并研究其通过cAMP/cGMP调控植物发育，虽用CRISPR/Cas9敲除但仅作工具，未涉及切割/碱基编辑机制，与本课题无关。",
+  "abstract": "Phosphodiesterases (PDEs) are the key enzymes hydrolyzing cAMP (cyclic adenosine monophosphate) and cGMP (cyclic guanosine monophosphate), two important second messengers triggering many physiological responses, and regulating growth, development and defense in plants. As the identification of PDEs from plants is really puzzling, only very few herbaceous plant PDEs have been functionally verified, and the biological functions of plant PDEs are still unclear. Here, we identified two novel PDE genes (ZjPDE1 and ZjPDE2) of cAMP/cGMP dual-specificity from a woody plant jujube (Ziziphus jujuba Mill.) known for its fruit rich in cAMP and cGMP. The two PDE genes have very poor sequence similarity but quite similar secondary structure, motif, and binding mode to cAMP/cGMP. Their phosphodiesterase activities were verified via in vitro catalytic assays, in vivo transient overexpression, and stable genetic transformation. After knocking out the homologous sequences of ZjPDE1 and ZjPDE2 in model plant tomato via CRISPR/Cas9, the mutants, compared to WT, showed increased cAMP/cGMP accumulation, accelerated seed germination, promoted flowering, as well as advanced fruiting and coloration, which were largely consist with the effects of spraying cAMP/cGMP. These biological functions are the combined effects of cAMP and cGMP cross talking with phytohorones including GA and ABA. These results demonstrate that ZjPDE1 and ZjPDE2 are functional PDEs capable of hydrolyzing cAMP and cGMP, and PDE-mediated cAMP/cGMP signaling may crosstalk with phytohormone pathways such as IAA, GA and ABA, to regulate plant growth, flowering and fruiting.",
+  "abstract_zh": "磷酸二酯酶（PDEs）是水解cAMP（环腺苷酸）和cGMP（环鸟苷酸）的关键酶，这两种重要的第二信使触发许多生理反应，并调控植物的生长、发育和防御。由于从植物中鉴定PDEs非常困难，仅有极少数草本植物PDEs得到了功能验证，植物PDEs的生物学功能仍不清楚。在此，我们从以果实富含cAMP和cGMP而闻名的木本植物枣（Ziziphus jujuba Mill.）中鉴定了两个新型cAMP/cGMP双特异性PDE基因（ZjPDE1和ZjPDE2）。这两个PDE基因序列相似性极低，但二级结构、基序及与cAMP/cGMP的结合模式相当相似。其磷酸二酯酶活性通过体外催化实验、体内瞬时过表达和稳定遗传转化得到验证。通过CRISPR/Cas9在模式植物番茄中敲除ZjPDE1和ZjPDE2的同源序列后，与野生型相比，突变体表现出cAMP/cGMP积累增加、种子萌发加速、开花提前以及结果和着色提前，这些与喷施cAMP/cGMP的效果基本一致。这些生物学功能是cAMP和cGMP与植物激素（包括GA和ABA）交叉对话的综合效应。这些结果表明，ZjPDE1和ZjPDE2是能够水解cAMP和cGMP的功能性PDEs，PDE介导的cAMP/cGMP信号可能与植物激素途径如IAA、GA和ABA交叉对话，以调控植物生长、开花和结果。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958489/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42958489/",
+  "paper_page_path": "papers/pubmed/42958489/index.html"
+}

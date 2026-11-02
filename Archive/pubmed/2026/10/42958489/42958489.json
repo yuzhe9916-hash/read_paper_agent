@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "42958489",
+    "doi": "10.1186/s12870-026-09024-5",
+    "title": "Two novel phosphodiesterases (PDEs) found from woody plant jujube exhibit diverse biological functions via regulating cAMP, cGMP and hormones."
+  },
+  "content": {
+    "abstract": "Phosphodiesterases (PDEs) are the key enzymes hydrolyzing cAMP (cyclic adenosine monophosphate) and cGMP (cyclic guanosine monophosphate), two important second messengers triggering many physiological responses, and regulating growth, development and defense in plants. As the identification of PDEs from plants is really puzzling, only very few herbaceous plant PDEs have been functionally verified, and the biological functions of plant PDEs are still unclear. Here, we identified two novel PDE genes (ZjPDE1 and ZjPDE2) of cAMP/cGMP dual-specificity from a woody plant jujube (Ziziphus jujuba Mill.) known for its fruit rich in cAMP and cGMP. The two PDE genes have very poor sequence similarity but quite similar secondary structure, motif, and binding mode to cAMP/cGMP. Their phosphodiesterase activities were verified via in vitro catalytic assays, in vivo transient overexpression, and stable genetic transformation. After knocking out the homologous sequences of ZjPDE1 and ZjPDE2 in model plant tomato via CRISPR/Cas9, the mutants, compared to WT, showed increased cAMP/cGMP accumulation, accelerated seed germination, promoted flowering, as well as advanced fruiting and coloration, which were largely consist with the effects of spraying cAMP/cGMP. These biological functions are the combined effects of cAMP and cGMP cross talking with phytohorones including GA and ABA. These results demonstrate that ZjPDE1 and ZjPDE2 are functional PDEs capable of hydrolyzing cAMP and cGMP, and PDE-mediated cAMP/cGMP signaling may crosstalk with phytohormone pathways such as IAA, GA and ABA, to regulate plant growth, flowering and fruiting.",
+    "keywords": [
+      "ABA",
+      "GA",
+      "Jujube",
+      "Phosphodiesterase",
+      "cAMP",
+      "cGMP"
+    ],
+    "mesh_terms": [
+      "*Ziziphus/genetics/enzymology/metabolism",
+      "*Cyclic GMP/metabolism",
+      "*Cyclic AMP/metabolism",
+      "*Plant Growth Regulators/metabolism",
+      "*Phosphoric Diester Hydrolases/metabolism/genetics",
+      "*Plant Proteins/genetics/metabolism",
+      "Phylogeny",
+      "Gene Expression Regulation, Plant",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Xin",
+        "Wang, Di",
+        "Deng, Xiaofeng",
+        "Mai, Junyan",
+        "Liu, Zhiguo",
+        "Liu, Mengjun"
+      ],
+      "short_names": [
+        "Zhao X",
+        "Wang D",
+        "Deng X",
+        "Mai J",
+        "Liu Z",
+        "Liu M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+        "College of Horticulture, Xinjiang Agricultural University, Urumqi, 830052, China.",
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+        "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China. kjliu@hebau.edu.cn.",
+        "College of Horticulture, Xinjiang Agricultural University, Urumqi, 830052, China. kjliu@hebau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Xin",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China.",
+          "College of Horticulture, Xinjiang Agricultural University, Urumqi, 830052, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Di",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xiaofeng",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China."
+        ]
+      },
+      {
+        "full_name": "Mai, Junyan",
+        "short_name": "Mai J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhiguo",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Mengjun",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Horticulture, Research Center of Chinese Jujube, Hebei Agricultural University, Baoding, Hebei, 071001, China. kjliu@hebau.edu.cn.",
+          "College of Horticulture, Xinjiang Agricultural University, Urumqi, 830052, China. kjliu@hebau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC plant biology"
+    ],
+    "journal_abbrev": [
+      "BMC Plant Biol"
+    ],
+    "pub_date": "2026 Aug 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 05:31",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42958489"
+    ],
+    "review": [
+      "42958489"
+    ],
+    "pmc": [
+      "13721472"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-026-09024-5",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42958489/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

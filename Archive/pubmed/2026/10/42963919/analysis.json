@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42963919",
+  "title": "A novel FRET-force biosensor for nucleoporin gp210 reveals that the nuclear pore complex experiences mechanical tension.",
+  "authors": "Wang, Peipei; Denis, Kevin; Luxton, G W Gant; Conway, Daniel E",
+  "journal": "Biophysical journal",
+  "published_date": "2026-10-31",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 2,
+  "one_liner_zh": "该研究利用CRISPR敲入构建gp210 FRET力传感器，测量核孔复合体的机械张力，与CRISPR切割机制、碱基编辑或交错切割无直接关联。",
+  "abstract": "The nuclear pore complex (NPC) is a large multi-protein structure that enables movement of macromolecules, such as mRNA and proteins, between the nucleoplasm and cytoplasm. There has been great interest in how the physical state of the NPC can influence nuclear-cytoplasmic transport. The hypothesis that the NPC may be mechanosensitive is supported by prior reports showing that the diameter of the NPC increases with nuclear envelope stretch as well as increased ECM stiffness. We therefore sought to develop a biosensor-based approach to determine if the NPC experiences mechanical tension. Using a previously developed FRET-force biosensor, known as TSMod, we developed a gp210 tension sensor. gp210 is a transmembrane nucleoporin, which may serve to anchor the NPC into the nuclear envelope. Using a CRISPR knock-in strategy, we developed a HeLa cell line which expresses the gp210 tension sensor at endogenous levels. The FRET-force responsiveness of the gp210 tension sensor was validated using hypo-osmotic and hyper-osmotic nuclear swelling experiments. Additionally, we observed that gp210 forces are sensitive to the ECM, nuclear LINC complex, chromatin condensation, and actomyosin contractility. Our results indicate that both nuclear strain and cytoskeletal forces contribute to mechanical tension across gp210. Our studies provide the first direct measurements of protein-level mechanical forces on the NPC. We anticipate that the gp210 force sensor will be of use for future studies of NPC mechanobiology.",
+  "abstract_zh": "核孔复合体 (nuclear pore complex, NPC) 是一种大型多蛋白结构，能够使大分子（如 mRNA 和蛋白质）在核质与细胞质之间移动。NPC 的物理状态如何影响核质运输一直备受关注。先前的研究表明，NPC 的直径随核膜拉伸以及细胞外基质 (extracellular matrix, ECM) 硬度增加而增大，这支持了 NPC 可能具有机械敏感性的假说。因此，我们试图开发一种基于生物传感器的方法来确定 NPC 是否经历机械张力。利用先前开发的 FRET 力生物传感器 TSMod，我们开发了 gp210 张力传感器。gp210 是一种跨膜核孔蛋白，可能起到将 NPC 锚定在核膜中的作用。利用 CRISPR 敲入策略，我们开发了一种在内源水平表达 gp210 张力传感器的 HeLa 细胞系。gp210 张力传感器的 FRET 力响应性通过低渗和高渗核膨胀实验进行了验证。此外，我们观察到 gp210 力对 ECM、核 LINC 复合体、染色质凝聚和肌动球蛋白收缩性敏感。我们的结果表明，核应变和细胞骨架力均对 gp210 上的机械张力有贡献。我们的研究首次提供了 NPC 上蛋白质水平机械力的直接测量。我们预期 gp210 力传感器将有助于未来 NPC 机械生物学的研究。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963919/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42963919/",
+  "paper_page_path": "papers/pubmed/42963919/index.html"
+}

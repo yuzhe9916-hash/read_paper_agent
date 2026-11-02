@@ -1,0 +1,159 @@
+{
+  "identity": {
+    "pmid": "42953285",
+    "doi": "10.1021/prechem.6c00083",
+    "title": "Structural Empowerment Sensing: Decoding the Structure-Activity Relationship and Detection Application of G‑Quadruplex Aptamer."
+  },
+  "content": {
+    "abstract": "G-Quadruplex (G4) aptamers have emerged as versatile functional nucleic acid architectures for biosensing because of their unique conformational plasticity, programmable topologies, and intrinsic signal-regulation capabilities. Unlike conventional recognition elements that mainly function as passive binding scaffolds, G4 aptamers can actively regulate signal generation and transduction through topology-dependent structural dynamics. Increasing evidence indicates that biosensing performance is closely governed by conformational energetics, folding kinetics, loop organization, ion coordination, and nano-interfacial coupling. This review summarizes recent advances in structure-guided G4 aptamer biosensing from the perspective of \"structural empowerment\", where conformational architectures directly determine sensing behavior and analytical output. We first discuss the structural fundamentals of G4 aptamers, including topology diversity, thermodynamic stability, folding pathways, and environmental responsiveness, emphasizing their influence on molecular recognition and signal accessibility. We then analyze the mechanistic relationship between G4 conformational transitions and multiple signal transduction modes, including fluorescence, electrochemical, colorimetric, surface-enhanced Raman scattering, photoelectrochemical, and catalytic sensing systems. Particular attention is given to the integration of G4 architectures with CRISPR platforms, nanozymes, DNA amplification circuits, metal-organic frameworks, and nanointerfacial engineering strategies. Importantly, this review establishes a structure-performance framework correlating G4 topological features and kinetic behaviors with analytical outcomes. Current limitations, including structural polymorphism, ionic dependence, reproducibility issues, and limited quantitative predictability, are critically discussed. Finally, future opportunities in adaptive biosensing, intelligent molecular interfaces, and AI-assisted structural design are highlighted. This review establishes a quantitative structure-performance framework by correlating G4 structural descriptors, conformational energetics, kinetic parameters, and analytical outputs, providing a basis for predictive design of G4-based sensing systems.",
+    "keywords": [
+      "Biosensing",
+      "Conformational regulation",
+      "G-quadruplex aptamers",
+      "Nano-interface effects",
+      "Signal transduction",
+      "Structural logic",
+      "Structure-driven sensing",
+      "Structure-activity relationship"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bao, Wenji",
+        "Su, Ailing",
+        "Ao, Denggerile",
+        "Ga, Lu",
+        "Yu, Lan",
+        "Ai, Jun"
+      ],
+      "short_names": [
+        "Bao W",
+        "Su A",
+        "Ao D",
+        "Ga L",
+        "Yu L",
+        "Ai J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3093-4539"
+      ],
+      "affiliations": [
+        "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China. RINGGOLD: 71203",
+        "School of Mining and Chemistry & Chemical Engineering, Hulunbuir University, Hulunbuir 021008, China.",
+        "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China. RINGGOLD: 71203",
+        "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China. RINGGOLD: 71203",
+        "College of Pharmacy, Inner Mongolia Medical University, Jinchuankaifaqu, Hohhot 010110, China. RINGGOLD: 66287",
+        "Key Laboratory of Metabolic Disease Regulation and Biomedical Therapy of Inner Mongolia Autonomous Region, Inner Mongolia Academy of Medical Sciences, Inner Mongolia People's Hospital, Hohhot 010010, China. RINGGOLD: 159377",
+        "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China. RINGGOLD: 71203"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bao, Wenji",
+        "short_name": "Bao W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China.",
+          "School of Mining and Chemistry & Chemical Engineering, Hulunbuir University, Hulunbuir 021008, China."
+        ]
+      },
+      {
+        "full_name": "Su, Ailing",
+        "short_name": "Su A",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China."
+        ]
+      },
+      {
+        "full_name": "Ao, Denggerile",
+        "short_name": "Ao D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China."
+        ]
+      },
+      {
+        "full_name": "Ga, Lu",
+        "short_name": "Ga L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Inner Mongolia Medical University, Jinchuankaifaqu, Hohhot 010110, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Lan",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Metabolic Disease Regulation and Biomedical Therapy of Inner Mongolia Autonomous Region, Inner Mongolia Academy of Medical Sciences, Inner Mongolia People's Hospital, Hohhot 010010, China."
+        ]
+      },
+      {
+        "full_name": "Ai, Jun",
+        "short_name": "Ai J",
+        "identifiers": [
+          "0000-0002-3093-4539"
+        ],
+        "affiliations": [
+          "College of Chemistry and Enviromental Science, Inner Mongolia Normal University, 81 Zhaowudalu, Hohhot 010022, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Precision chemistry"
+    ],
+    "journal_abbrev": [
+      "Precis Chem"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 15:20",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42953285"
+    ],
+    "review": [
+      "42953285"
+    ],
+    "pmc": [
+      "13715359"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42953285/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/pcrhej/article-lookup/doi/10.1021/prechem.6c00083",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

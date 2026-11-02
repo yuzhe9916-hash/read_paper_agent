@@ -1,0 +1,160 @@
+{
+  "identity": {
+    "pmid": "42950501",
+    "doi": "10.1016/j.jpba.2026.117774",
+    "title": "Exonuclease-gated CRISPR/Cas12a biosensing strategy for sensitive detection of lncRNA MIR155HG."
+  },
+  "content": {
+    "abstract": "Long non-coding RNAs (lncRNAs) have been shown to be important regulatory factors in initiation and progression of cancer. However, sensitive detection of lncRNAs remains challenging due to their low abundance, complex structure and susceptibility to nuclease degradation. Among various lncRNAs, MIR155HG has been shown to be involved in the progression of cervical cancer and serve as a potential target for biomarker analysis. Here, we developed an exonuclease-gated CRISPR/Cas12a biosensing platform (E-CRISPR) for the detection of MIR155HG without target pre-amplification. This strategy relies on a bifunctional single-stranded DNA (ssDNA) probe containing both a MIR155HG recognition region and a CRISPR/Cas12a activation region. In the absence of target RNA, exonuclease I (Exo I) degrades the ssDNA probe, thereby reducing background signals. Upon binding to MIR155HG, RNA-DNA hybridization reduces the probe's susceptibility to Exo I digestion and allows the retained probe to activate CRISPR/Cas12a and generate an enhanced fluorescence signal. Under optimized conditions, the E-CRISPR assay achieved a limit of detection of 4.76 pM and a linear range of 4.76 pM to 0.4 nM. The entire assay could be completed within 100 min while maintaining sensitive detection of MIR155HG and showed good sequence specificity and reliable performance in complex biological environment. This exonuclease-regulated CRISPR/Cas12a strategy provides a simple analytical approach for extracellular lncRNA analysis.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "DNA aptamer",
+      "Exonuclease I",
+      "LncRNA MIR155HG"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Qiufeng",
+        "Cai, Yongliang",
+        "Zhu, Shiyu",
+        "Yin, Feifan",
+        "Jiang, Yihao",
+        "Sun, Heliang",
+        "Xiang, Yang",
+        "Wang, Zhongyun"
+      ],
+      "short_names": [
+        "Wang Q",
+        "Cai Y",
+        "Zhu S",
+        "Yin F",
+        "Jiang Y",
+        "Sun H",
+        "Xiang Y",
+        "Wang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China.",
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China.",
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China.",
+        "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, 210023, PR China.",
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China.",
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China. Electronic address: njmu528@163.com.",
+        "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, 210023, PR China; State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing, 100191, PR China. Electronic address: xiangy@nju.edu.cn.",
+        "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China. Electronic address: zywang1970@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Qiufeng",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China."
+        ]
+      },
+      {
+        "full_name": "Cai, Yongliang",
+        "short_name": "Cai Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Shiyu",
+        "short_name": "Zhu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China."
+        ]
+      },
+      {
+        "full_name": "Yin, Feifan",
+        "short_name": "Yin F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, 210023, PR China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Yihao",
+        "short_name": "Jiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China."
+        ]
+      },
+      {
+        "full_name": "Sun, Heliang",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China. Electronic address: njmu528@163.com."
+        ]
+      },
+      {
+        "full_name": "Xiang, Yang",
+        "short_name": "Xiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing, 210023, PR China; State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing, 100191, PR China. Electronic address: xiangy@nju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhongyun",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Anesthesiology and Perioperative Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, PR China. Electronic address: zywang1970@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of pharmaceutical and biomedical analysis"
+    ],
+    "journal_abbrev": [
+      "J Pharm Biomed Anal"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/28 23:27",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42950501"
+    ],
+    "review": [
+      "42950501"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0731-7085(26)00442-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

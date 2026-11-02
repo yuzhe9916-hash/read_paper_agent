@@ -1,0 +1,118 @@
+## Review setup
+- **Input scope** 全文（摘要、引言、结果、讨论、方法；补充材料未提供）
+- **Assessment boundary** 仅基于所提供的手稿文本进行评估；补充图表（Figure S1、S2，Tables S1–S6）未提供，无法核实
+- **Shared manuscript claim summary** 作者通过结构引导的精氨酸扫描诱变和T5外切酶融合，工程化改造Cas12o1，获得D534R单点突变和C端T5 exo融合（enCas12o1-T5 exo），在HEK293T细胞中实现1.2–1.9倍的编辑效率提升，并将>10 bp缺失比例从64.0%提高至97.0%，在部分位点效率超过SpCas9和LbCas12a
+- **Visible evidence base** 结果部分文字描述（含效率数值、位点名称、缺失长度分布）；方法部分（质粒构建、细胞培养、转染、测序分析流程）；未提供原始测序数据、凝胶图像、流式细胞术数据或补充图表
+- **Missing materials affecting confidence** 所有补充图表（Figure S1、S2，Tables S1–S6）缺失；正文中所有图（Figure A–H）均未实际提供；原始测序数据未提供；off-target位点预测方法未详细描述
+
+## Reviewer
+- **Overall assessment** 该手稿描述了一种针对紧凑型CRISPR核酸酶Cas12o1的合理工程化策略，结合结构引导的突变筛选和外切酶融合来同时改善编辑效率和缺失结果。核心发现——D534R单点突变增强活性以及C端T5 exo融合富集长片段缺失——在概念上具有趣味性，且与Cas12i等系统的已有文献一致。然而，当前版本存在若干关键缺陷：所有数据图表均未提供，补充材料不可获取，统计方法存在严重问题（n=2的探索性筛选被用于得出主要结论），且缺乏机制验证。手稿的呈现方式远未达到可发表标准，核心结论的证据基础在目前形式下无法充分评估。
+- **Who would be interested in the results, and why** 从事CRISPR核酸酶工程、紧凑型Cas直系同源物开发以及基因编辑修复结果调控的研究人员会对此感兴趣。将D534R与T5 exo融合相结合以产生长片段缺失的策略，对功能基因组学中破坏顺式调控元件以及农业生物技术中的等位基因多样性生成具有潜在应用价值。然而，除非提供完整的数据和验证，否则其更广泛的影响力将受到限制。
+- **Major strengths** 1) 工程化策略在逻辑上是合理的，将结构信息（精氨酸扫描）与生化原理（外切酶介导的末端修剪）相结合，以解决效率和修复结果这两个独立问题。2) 对8种融合架构（N/C端×4种连接子）的系统评估体现了方法上的严谨性。3) 作者在讨论中适当承认了局限性，包括机制解释的初步性以及不同核酸酶之间比较的注意事项。4) 与SpCas9和LbCas12a的基准比较提供了实际参考点。
+- **Major Concerns** 
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 数据可用性
+  - **Claim pointer** 所有结果主张，包括D534R的鉴定、T5 exo融合效应以及enCas12o1-T5 exo的性能
+  - **Evidence pointer** 正文中所有图（Figure A–H）；补充材料（Figure S1、S2，Tables S1–S6）
+  - **Concern** 手稿中未包含任何实际图表。所有结果仅以文字形式描述，引用的图（Figure A–H）未提供，所有补充材料（Figure S1、S2，Tables S1–S6）均缺失。因此，无法独立验证任何报告的数据，包括编辑效率、缺失长度分布、off-target分析或质粒构建细节。
+  - **Why it matters** 在没有任何数据图表的情况下，手稿的核心科学主张无法评估。编辑效率的定量声明（例如“1.2–1.9-fold”“64.0% vs 97.0%”）缺乏支持证据。这是阻止任何有意义审阅的根本性缺陷。
+  - **Resolution test** 提供所有图和补充材料，包括编辑效率的柱状图、缺失长度分布图、代表性测序结果以及Sanger测序或凝胶验证。
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 统计严谨性
+  - **Claim pointer** “D534R emerges as the most active Cas12o1 variant among single and combinatorial mutants”以及所有相关效率比较
+  - **Evidence pointer** Methods, Statistical Analysis部分；Results部分（Figure A–H）
+  - **Concern** 统计方法部分指出，初始筛选（Figure B–G）使用了两次独立生物学重复，且未进行正态性检验。然而，基于n=2的筛选结果，作者得出了关于D534R为最优变体的确定性结论。此外，正文中多处报告了效率数值（例如“0.5% vs 1.0%”“33.8% vs 36.8%”），但未说明这些数值是来自单次实验、两次重复的平均值，还是包含误差范围。n=2的样本量无法提供有意义的统计功效，且未报告方差度量。
+  - **Why it matters** 核心工程化结论——D534R优于所有组合变体——完全依赖于这一探索性筛选。如果该结论基于n=2的数据且无误差范围，则无法与组合变体进行有意义的比较。这直接影响手稿的主要主张。
+  - **Resolution test** 提供所有关键比较的独立重复数据（至少n=3），报告均值±s.e.m.，并明确说明哪些实验是探索性的、哪些是验证性的。对于D534R与组合变体的比较，需提供效应量和变异性度量。
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 机制验证
+  - **Claim pointer** “Structure-guided arginine-scanning mutagenesis”和“D534R is located in close proximity to the crRNA-binding interface and the RuvC catalytic region”
+  - **Evidence pointer** Results部分（Identification of High-Activity Cas12o1 Single-Point Mutants）；Discussion部分；Figure S2（未提供）
+  - **Concern** 作者声称使用“AlphaFold-based structural modeling”和已发表的冷冻电镜结构来指导突变选择，但未提供任何结构模型、残基位置图或D534在结构中的定位说明。讨论中关于D534R可能增强静电相互作用或影响RuvC结构域构象动力学的机制解释，被明确承认为假设，但未提供任何生化或生物物理数据（如EMSA、体外切割实验、结构比较）来支持这些说法。
+  - **Why it matters** 手稿标题强调“Structure-Guided Engineering”，但结构依据完全未展示。没有结构图或生化验证，读者无法评估突变选择的合理性，也无法判断D534R效应的机制基础。
+  - **Resolution test** 提供D534在Cas12o1-crRNA-DNA复合物结构中的位置图，展示与核酸底物的距离和方向。理想情况下，应提供体外切割实验或结合实验来直接测试D534R对催化活性或底物结合的影响。
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 缺失结果表征
+  - **Claim pointer** “T5 exo-assisted editing typically induces longer deletions—often exceeding 10 bp”以及enCas12o1-T5 exo在多个位点产生更高比例>10 bp缺失的声明
+  - **Evidence pointer** Results部分（T5 Exo Fusion Increases Long-Fragment Deletions部分；Figure D–F）
+  - **Concern** 作者报告了>10 bp缺失的比例（例如64.0% vs 97.0%），但未提供缺失大小分布的实际数据。缺失是集中在10–20 bp范围还是广泛分布？缺失断点是否具有序列偏好性？与SpCas9和LbCas12a相比，缺失谱系的具体差异是什么？此外，作者未报告这些长缺失是否主要为纯合或杂合，也未报告是否影响等位基因的读码框。
+  - **Why it matters** 长缺失富集是手稿的核心卖点之一，但缺乏详细的缺失谱系分析。对于声称“enhanced deletion outcomes”的工作，读者需要看到缺失大小的分布、断点特征以及不同位点间的一致性。
+  - **Resolution test** 提供所有测试位点的缺失大小分布图（例如小提琴图或累积分布图），包括中位缺失大小、四分位范围，以及代表性等位基因的序列比对。
+  - **Concern ID** R1-M5
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 特异性评估
+  - **Claim pointer** “no appreciable increase in off-target activity for enCas12o1-T5 exo”
+  - **Evidence pointer** Results部分（Figure D）；Methods部分（off-target分析）
+  - **Concern** Off-target分析仅限于计算预测的候选位点（CXCR4和GRIN2B），且未提供预测方法、候选位点数量、错配容忍度或测序深度。作者承认“targeted deep sequencing of predicted sites provides a focused assessment rather than a comprehensive evaluation of genome-wide specificity”，但未提供任何无偏的全基因组数据（如GUIDE-seq、CIRCLE-seq）。
+  - **Why it matters** 增强的核酸酶活性通常引发对特异性降低的担忧。T5 exo融合可能改变末端处理方式，从而影响脱靶位点的突变谱系。没有全基因组特异性数据，无法评估该工程化变体的安全性。
+  - **Resolution test** 提供候选位点预测的详细方法（算法、错配标准、位点数量），并考虑在至少一个位点进行全基因组脱靶分析（如GUIDE-seq）。
+  - **Concern ID** R1-M6
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 泛化性
+  - **Claim pointer** “enCas12o1-T5 exo generated indels at these seven sites with frequencies of 47.9%”以及“1.2- to 1.9-fold higher than those of Cas12o1”
+  - **Evidence pointer** Results部分（enCas12o1-T5 Exo Exhibits Enhanced Indel Activity部分；Figure B）
+  - **Concern** 所有实验仅在HEK293T细胞中进行。未提供其他细胞类型（如原代细胞、iPSC、其他永生化细胞系）或体内数据。作者在讨论中承认了这一局限性，但未提供任何初步数据来表明该策略在其他环境中有效。
+  - **Why it matters** 基因组编辑效率和修复结果高度依赖于细胞环境。如果该平台仅在一个永生化细胞系中有效，其实际应用价值将受到严重限制。
+  - **Resolution test** 至少在一种额外的细胞类型中提供验证数据，或明确说明当前研究范围仅限于HEK293T细胞，并将其他细胞类型的验证列为未来工作。
+- **Minor Comments** 
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** 可重复性
+  - **Affected element** 质粒构建和序列可用性
+  - **Evidence pointer** Methods, Plasmid Construction部分；Table S1（未提供）
+  - **Issue** 所有序列均引用至Table S1，但该表未提供。此外，未提及质粒或序列是否已存入公共数据库（如Addgene）。
+  - **Required correction** 提供所有质粒的完整序列信息，或明确说明其可获取方式。
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** 数据呈现
+  - **Affected element** 效率数值报告
+  - **Evidence pointer** Results部分（Identification of High-Activity Cas12o1 Single-Point Mutants部分）
+  - **Concern** 报告了Δefficiency值（例如16.61%、13.46%），但未说明这些是绝对百分比增加还是相对增加。例如，“0.5% vs 1.0%”是2倍增加，但Δefficiency仅为0.5个百分点。
+  - **Required correction** 明确说明Δefficiency的计算方式，并统一报告格式。
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** 文献引用
+  - **Affected element** 引言和讨论中的引用
+  - **Evidence pointer** Introduction部分；Discussion部分
+  - **Issue** 讨论中关于T5 exo在Cas9、Cas12a和Cas12i中应用的引用格式不完整（“,−”），且部分引用编号缺失。
+  - **Required correction** 修正所有引用格式，确保完整性和一致性。
+  - **Concern ID** R1-m4
+  - **Severity** Minor
+  - **Axis** 术语一致性
+  - **Affected element** 缺失大小阈值
+  - **Evidence pointer** Results部分（T5 Exo Fusion Increases Long-Fragment Deletions部分）
+  - **Issue** 摘要中使用“exceeding 10 bp”，结果部分使用“≥11 bp”和“>10 bp”，讨论中使用“>10 bp”。这些阈值在数值上等价（整数缺失），但表述不一致。
+  - **Required correction** 统一使用一种表述方式。
+  - **Concern ID** R1-m5
+  - **Severity** Minor
+  - **Axis** 方法细节
+  - **Affected element** 转染和筛选条件
+  - **Evidence pointer** Methods, Cell Culture and Transfection部分
+  - **Issue** 未报告转染效率、细胞活力或筛选时间点。对于突变体筛选实验，这些参数影响结果的可重复性。
+  - **Required correction** 补充转染效率数据或说明其已优化。
+- **Technical failings that need to be addressed before the case is established** R1-M1（无数据图表）、R1-M2（n=2统计）、R1-M3（无结构数据）
+- **Assessment against Nature-style criteria** 
+  - **Originality** 中等。将结构引导突变与外切酶融合相结合以同时优化效率和缺失结果，具有一定新颖性，但T5 exo融合增强缺失的概念已在其他Cas系统中报道。D534R的鉴定是新的，但其机制意义尚不明确。
+  - **Scientific importance** 中等。紧凑型Cas核酸酶具有实际价值，长缺失生成对功能基因组学有用。然而，该工作本质上是增量式的——它优化了一个已有系统，而非引入范式转变。
+  - **Interdisciplinary readership** 有限。主要面向CRISPR工程和基因组编辑领域的研究人员。除非提供更广泛的适用性证据，否则不太可能吸引结构生物学、医学或农业科学领域的广泛读者。
+  - **Technical soundness** 当前无法评估。所有数据图表缺失，统计方法存在缺陷（n=2），off-target分析不完整。在数据可用之前，技术可靠性无法判断。
+  - **Readability for nonspecialists** 可接受。手稿结构清晰，但存在大量格式问题（缺失图题、引用格式错误、术语不一致），且缺少必要的背景说明来解释为何长缺失具有价值。
+- **Recommendation posture** 当前不推荐发表。在提供所有数据图表、以适当样本量重新进行关键实验、补充结构数据和更全面的特异性分析之前，手稿的核心主张无法得到支持。
+
+## Risk / unsupported claims
+- 所有定量效率数据（例如“1.2–1.9-fold”“47.9%”“0.5% vs 1.0%”）——无图表支持
+- “D534R emerges as the most active variant”——基于n=2的探索性筛选，无统计支持
+- “no appreciable increase in off-target activity”——仅基于有限的计算预测位点，无全基因组数据
+- 关于D534R机制的讨论（静电相互作用、RuvC结构域构象）——明确为假设，无实验验证
+- “enCas12o1-T5 exo surpassed SpCas9 and LbCas12a”在HBB位点的声明——无图表支持，且作者承认不同核酸酶需要不同PAM和gRNA，使直接比较存在混淆
+- 关于长缺失在顺式调控元件靶向中的应用价值——推测性，无功能数据支持

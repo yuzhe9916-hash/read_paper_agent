@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42966306",
+    "doi": "10.1016/j.plaphy.2026.111885",
+    "title": "PSK2a is required for cambial development and xylem formation during secondary growth in poplar."
+  },
+  "content": {
+    "abstract": "Phytosulfokines (PSKs) are sulfated peptide hormones involved in plant growth, development, and stress responses. However, direct genetic evidence for the involvement of PSK peptide in cambium development and secondary vascular development in woody plants remains largely lacking. Here, we identified nine PSK family members in Populus trichocarpa. Phylogenetic, gene structure, conserved motif, and local synteny analyses indicated that the poplar PSK family is evolutionarily conserved, and some members may have arisen from the whole-genome duplication (WGD) event. PSK2a is one of several PSK family genes that are highly expressed in poplar stem vascular tissues, but shows low expression in roots. Subsequently, we generated PtrPSK2a (cloned from P. trichocarpa) overexpression lines in hybrid poplar 717 and CRISPR/Cas9-mediated knockout lines targeting its endogenous orthologs PtaPSK2a_HAP1 and HAP2hybrid poplar 717. Both gain-of-function and loss-of-function of PSK2a exhibited growth defects, characterized by reduced plant height and stem diameter, with more severe overall growth defects in OE lines. Consistently, histological analysis demonstrated that cambium activity and secondary xylem development were significantly inhibited in both transgenic lines, as reflected by fewer cambium cell layers, narrower xylem, and fewer vessels in young stems. In addition, genes associated with cambial development, vessel differentiation, and secondary cell wall formation were broadly downregulated, accompanied by altered expression of several hormone-related marker genes in transgenic lines. Together, these findings demonstrate that PSK2a is required for normal cambial activity and xylem development during secondary growth in poplar, providing the first direct genetic evidence for PSK function in woody plant vascular development.",
+    "keywords": [
+      "Cambium",
+      "Phytosulfokine (PSK)",
+      "Populus",
+      "Secondary growth",
+      "Xylem development"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yue, Songqing",
+        "Tian, Dongdong",
+        "Ma, Xiao",
+        "Qi, Cheng",
+        "Wan, Mengjie",
+        "Qi, Juan",
+        "Cheng, Qian",
+        "Tian, Lidan",
+        "Shi, Xueping",
+        "Zheng, Bo"
+      ],
+      "short_names": [
+        "Yue S",
+        "Tian D",
+        "Ma X",
+        "Qi C",
+        "Wan M",
+        "Qi J",
+        "Cheng Q",
+        "Tian L",
+        "Shi X",
+        "Zheng B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "Shandong Peanut Research Institute, Qingdao, 266100, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: xpshi@mail.hzau.edu.cn.",
+        "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: bo.zheng@mail.hzau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yue, Songqing",
+        "short_name": "Yue S",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Dongdong",
+        "short_name": "Tian D",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Peanut Research Institute, Qingdao, 266100, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xiao",
+        "short_name": "Ma X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Cheng",
+        "short_name": "Qi C",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Mengjie",
+        "short_name": "Wan M",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Juan",
+        "short_name": "Qi J",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Qian",
+        "short_name": "Cheng Q",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Lidan",
+        "short_name": "Tian L",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Xueping",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: xpshi@mail.hzau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Bo",
+        "short_name": "Zheng B",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University, Wuhan, 430070, China; College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China; Poplar Research Center, Huazhong Agricultural University, Wuhan, 430070, China. Electronic address: bo.zheng@mail.hzau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant physiology and biochemistry : PPB"
+    ],
+    "journal_abbrev": [
+      "Plant Physiol Biochem"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:53",
+    "fetched_at": "2026-11-02 07:46:16"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42966306"
+    ],
+    "review": [
+      "42966306"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0981-9428(26)00871-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-APEX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1515",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
