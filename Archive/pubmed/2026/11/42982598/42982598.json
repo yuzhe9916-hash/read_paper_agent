@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42982598",
+    "doi": "10.1101/gr.282262.126",
+    "title": "Fast and accurate resolution of ecDNA sequence using Cycle-Extractor."
+  },
+  "content": {
+    "abstract": "Extrachromosomal DNA (ecDNA) plays a key role in cancer pathology. ecDNAs mediate high oncogene amplification and expression and are associated with worse patient outcomes. Accurately determining the structure of these circular molecules is essential for understanding their function, yet reconstructing ecDNA cycles from sequencing data remains challenging. We introduce Cycle-Extractor (CE) for this task. CE takes as input a breakpoint graph derived from either short or long read sequencing data and extracts cycles of maximum length-weighted copy number. CE utilizes a mixed-integer linear program (MILP) and a separate traversal procedure, enabling fast optimization and compatibility with open-source ILP solvers. We evaluated CE against CoRAL (long-read, mixed-integer quadratically constrained programming), Decoil (long-reads), and AmpliconArchitect (AA; short reads) on both simulated data and real cancer cell lines. On simulated ecDNA, CE achieves accuracy comparable to CoRAL across three metrics and consistently outperforms AA and Decoil. On cancer cell lines, CE produces longer and heavier cycles than AA, and performs comparably to CoRAL, while being on average 40x faster. These results demonstrate that CE accurately reconstructs ecDNA from both short and long-read sequencing data, and that long-read inputs allow CE to recover more complete, higher-confidence ecDNA structures. CE improved the prediction of many ecDNA structures. On PC3 ecDNA containing MYC, CE uses ONT data to reconstruct a substantially larger and higher-copy sequence (4.2 Mbp) compared to the short-read-derived reconstruction (690 kbp). CRISPR-CATCH experiments confirm the presence of a large ecDNA molecule, validating the long-read-based CE reconstruction.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Faizrahnemoon, Mahsa",
+        "Luebeck, Jens",
+        "Hung, King L",
+        "Rao, Suhas",
+        "Prasad, Gino",
+        "Wong, Ivy Tsz-Lo",
+        "Kandarpa, Hitesh",
+        "Jones, Matthew G",
+        "Mischel, Paul S",
+        "Chang, Howard Y",
+        "Zhu, Kaiyuan",
+        "Bafna, Vineet"
+      ],
+      "short_names": [
+        "Faizrahnemoon M",
+        "Luebeck J",
+        "Hung KL",
+        "Rao S",
+        "Prasad G",
+        "Wong IT",
+        "Kandarpa H",
+        "Jones MG",
+        "Mischel PS",
+        "Chang HY",
+        "Zhu K",
+        "Bafna V"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4590-1278",
+        "ORCID: 0000-0002-5810-6241"
+      ],
+      "affiliations": [
+        "University of California San Diego.",
+        "University of California San Diego.",
+        "Scripps Research.",
+        "University of California San Diego, Harvard Medical School.",
+        "University of California San Diego.",
+        "Stanford University School of Medicine.",
+        "Indian Institute of Technology.",
+        "Massachusetts Institute of Technology.",
+        "Stanford University.",
+        "Amgen Research.",
+        "University of California San Diego, Shanghai Jiao Tong University.",
+        "University of California San Diego; vbafna@ucsd.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Faizrahnemoon, Mahsa",
+        "short_name": "Faizrahnemoon M",
+        "identifiers": [],
+        "affiliations": [
+          "University of California San Diego."
+        ]
+      },
+      {
+        "full_name": "Luebeck, Jens",
+        "short_name": "Luebeck J",
+        "identifiers": [],
+        "affiliations": [
+          "University of California San Diego."
+        ]
+      },
+      {
+        "full_name": "Hung, King L",
+        "short_name": "Hung KL",
+        "identifiers": [],
+        "affiliations": [
+          "Scripps Research."
+        ]
+      },
+      {
+        "full_name": "Rao, Suhas",
+        "short_name": "Rao S",
+        "identifiers": [],
+        "affiliations": [
+          "University of California San Diego, Harvard Medical School."
+        ]
+      },
+      {
+        "full_name": "Prasad, Gino",
+        "short_name": "Prasad G",
+        "identifiers": [
+          "0000-0003-4590-1278"
+        ],
+        "affiliations": [
+          "University of California San Diego."
+        ]
+      },
+      {
+        "full_name": "Wong, Ivy Tsz-Lo",
+        "short_name": "Wong IT",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University School of Medicine."
+        ]
+      },
+      {
+        "full_name": "Kandarpa, Hitesh",
+        "short_name": "Kandarpa H",
+        "identifiers": [],
+        "affiliations": [
+          "Indian Institute of Technology."
+        ]
+      },
+      {
+        "full_name": "Jones, Matthew G",
+        "short_name": "Jones MG",
+        "identifiers": [],
+        "affiliations": [
+          "Massachusetts Institute of Technology."
+        ]
+      },
+      {
+        "full_name": "Mischel, Paul S",
+        "short_name": "Mischel PS",
+        "identifiers": [],
+        "affiliations": [
+          "Stanford University."
+        ]
+      },
+      {
+        "full_name": "Chang, Howard Y",
+        "short_name": "Chang HY",
+        "identifiers": [],
+        "affiliations": [
+          "Amgen Research."
+        ]
+      },
+      {
+        "full_name": "Zhu, Kaiyuan",
+        "short_name": "Zhu K",
+        "identifiers": [],
+        "affiliations": [
+          "University of California San Diego, Shanghai Jiao Tong University."
+        ]
+      },
+      {
+        "full_name": "Bafna, Vineet",
+        "short_name": "Bafna V",
+        "identifiers": [
+          "0000-0002-5810-6241"
+        ],
+        "affiliations": [
+          "University of California San Diego; vbafna@ucsd.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome research"
+    ],
+    "journal_abbrev": [
+      "Genome Res"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 23:28",
+    "fetched_at": "2026-11-09 08:07:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42982598"
+    ],
+    "review": [
+      "42982598"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://genome.cshlp.org/lookup/pmidlookup?view=long&pmid=42982598",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1475",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

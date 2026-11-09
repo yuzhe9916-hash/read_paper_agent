@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fast and accurate resolution of ecDNA sequence using Cycle-Extractor. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-low">2</span>
+    <div>
+      <h1>Fast and accurate resolution of ecDNA sequence using Cycle-Extractor.</h1>
+      <div class="meta">Faizrahnemoon, Mahsa; Luebeck, Jens; Hung, King L; Rao, Suhas; Prasad, Gino; Wong, Ivy Tsz-Lo; Kandarpa, Hitesh; Jones, Matthew G; Mischel, Paul S; Chang, Howard Y; Zhu, Kaiyuan; Bafna, Vineet</div>
+      <div class="meta muted">
+        
+        <span class="journal">Genome research</span>
+        · 2026-11-04
+         · 仅摘要
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/42982598/">原文</a>
+      </div>
+      <p class="one-liner">该文开发Cycle-Extractor算法从测序数据重建ecDNA环状结构，与CRISPR/碱基编辑的切割机制无关，仅涉及ecDNA结构预测，对本课题无直接启发。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Extrachromosomal DNA (ecDNA) plays a key role in cancer pathology. ecDNAs mediate high oncogene amplification and expression and are associated with worse patient outcomes. Accurately determining the structure of these circular molecules is essential for understanding their function, yet reconstructing ecDNA cycles from sequencing data remains challenging. We introduce Cycle-Extractor (CE) for this task. CE takes as input a breakpoint graph derived from either short or long read sequencing data and extracts cycles of maximum length-weighted copy number. CE utilizes a mixed-integer linear program (MILP) and a separate traversal procedure, enabling fast optimization and compatibility with open-source ILP solvers. We evaluated CE against CoRAL (long-read, mixed-integer quadratically constrained programming), Decoil (long-reads), and AmpliconArchitect (AA; short reads) on both simulated data and real cancer cell lines. On simulated ecDNA, CE achieves accuracy comparable to CoRAL across three metrics and consistently outperforms AA and Decoil. On cancer cell lines, CE produces longer and heavier cycles than AA, and performs comparably to CoRAL, while being on average 40x faster. These results demonstrate that CE accurately reconstructs ecDNA from both short and long-read sequencing data, and that long-read inputs allow CE to recover more complete, higher-confidence ecDNA structures. CE improved the prediction of many ecDNA structures. On PC3 ecDNA containing MYC, CE uses ONT data to reconstruct a substantially larger and higher-copy sequence (4.2 Mbp) compared to the short-read-derived reconstruction (690 kbp). CRISPR-CATCH experiments confirm the presence of a large ecDNA molecule, validating the long-read-based CE reconstruction.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">染色体外DNA（ecDNA）在癌症病理中扮演关键角色。ecDNA介导高水平的癌基因扩增和表达，并与患者更差的预后相关。准确确定这些环状分子的结构对于理解其功能至关重要，然而从测序数据中重建ecDNA环仍具挑战性。我们为此任务引入了Cycle-Extractor（CE）。CE以从短读长或长读长测序数据衍生的断点图作为输入，并提取最大长度加权拷贝数的环。CE利用混合整数线性规划（MILP）和独立的遍历程序，实现快速优化并与开源ILP求解器兼容。我们在模拟数据和真实癌细胞系上，将CE与CoRAL（长读长，混合整数二次约束规划）、Decoil（长读长）和AmpliconArchitect（AA；短读长）进行了评估。在模拟ecDNA上，CE在三个指标上达到与CoRAL相当的准确性，并持续优于AA和Decoil。在癌细胞系中，CE产生比AA更长且更重的环，并与CoRAL表现相当，同时平均快40倍。这些结果表明，CE能从短读长和长读长测序数据中准确重建ecDNA，且长读长输入使CE能恢复更完整、更高置信度的ecDNA结构。CE改善了许多ecDNA结构的预测。在含有MYC的PC3 ecDNA上，CE利用ONT数据重建了一个显著更大且拷贝数更高的序列（4.2 Mbp），相比之下，基于短读长的重建仅为690 kbp。CRISPR-CATCH实验确认了大型ecDNA分子的存在，验证了基于长读长的CE重建。</div>
+  </section>
+  
+  
+  
+</article>
+</main>
+</body>
+</html>

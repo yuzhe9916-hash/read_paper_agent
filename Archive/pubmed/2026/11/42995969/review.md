@@ -1,0 +1,88 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no methods, figures, or supplementary data were provided for verification
+- **Shared manuscript claim summary** The authors report a genome-scale CRISPR base editing screen in yeast measuring growth effects of 308,461 variants across coding and noncoding regions. They identify 18,009 significant-effect variants (17,784 growth-reducing, 225 growth-increasing), characterize variant effects by functional annotation, conservation, and protein structure, identify condition-dependent effects (glucose vs. galactose), and report evidence of purifying selection against large-effect protein-altering variants. They conclude that genome-scale base editing is a systematic approach for linking genotype to phenotype at nucleotide resolution.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials were provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, methods description, statistical analysis details, variant effect size distributions, validation experiments, and comparison with existing variant effect maps
+
+## Reviewer
+- **Overall assessment** The abstract describes a technically ambitious and potentially valuable resource for yeast functional genomics. The scale of the screen (308,461 variants) and the integration of multiple biological annotations are commendable. However, the abstract alone does not provide sufficient methodological detail to assess the reliability of the variant effect measurements, the specificity of the base editing approach, or the statistical rigor of the significance calls. Several claims, particularly those regarding noncoding RNA effects and condition-dependent phenotypes, would require substantial validation evidence that is not visible here. The work is likely of interest to the yeast genetics and functional genomics communities, but the case for broad significance and technical soundness cannot be fully established from the provided material.
+- **Who would be interested in the results, and why** Yeast geneticists and functional genomicists would be the primary audience, as the work provides a large-scale variant effect map in a model organism. Researchers studying noncoding RNA function, splicing regulation, and condition-dependent fitness effects would also find the data relevant. Additionally, those developing or applying CRISPR base editing as a functional genomics tool would be interested in the methodological demonstration. The purifying selection analysis may appeal to evolutionary geneticists.
+- **Major strengths** 
+  - The scale of the screen is substantial, with over 300,000 variants assayed, representing a significant technical undertaking.
+  - The integration of multiple biological annotations (functional consequence, gene essentiality, conservation, protein structure) to contextualize variant effects is a thoughtful analytical approach.
+  - The identification of condition-dependent effects (glucose vs. galactose) adds a dimension beyond static fitness measurements.
+  - The comparison with natural population data to infer purifying selection provides an evolutionary perspective that strengthens the relevance of the findings.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** The screen measured growth effects of 308,461 variants and identified 18,009 with significant effects.
+  - **Evidence pointer** Abstract; no methods or quality control data provided
+  - **Concern** The abstract does not describe the base editing efficiency, the number of biological replicates, the statistical model used to call significant effects, or the false discovery rate control. Without this information, the reliability of the 18,009 significant variant calls cannot be assessed. Base editing is known to have variable efficiency and off-target effects, and the specificity of the guide RNAs and the editing outcomes (C-to-T vs. other edits) are not described.
+  - **Why it matters** The central claim of the paper is the identification of functional variants at scale. If the editing efficiency is low or the statistical thresholds are permissive, the list of significant variants could include many false positives, undermining all downstream analyses and conclusions.
+  - **Resolution test** The full methods must describe the base editing system, guide RNA design and coverage, editing efficiency per site, replicate structure, statistical model, and multiple testing correction. Ideally, a subset of significant variants should be validated by independent assays (e.g., individual growth curves or competition assays).
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** Variant effects depend on functional consequence, gene essentiality, evolutionary conservation and protein structure.
+  - **Evidence pointer** Abstract; no supporting figures or statistical analyses provided
+  - **Concern** The abstract states these dependencies without presenting any quantitative support. It is unclear whether these are correlations, regression coefficients, or enrichment analyses, and what the effect sizes and significance levels are. The claim that effects depend on protein structure is particularly vague, as it is not specified which structural features were examined (e.g., solvent accessibility, secondary structure, active sites).
+  - **Why it matters** These dependencies are presented as key biological findings. Without quantitative support, the reader cannot evaluate the strength or novelty of these associations, which may be trivial (e.g., essential genes have larger effects) or may reflect known principles.
+  - **Resolution test** The full manuscript must include figures showing the relationship between variant effects and each annotation, with appropriate statistical tests and effect sizes. The protein structure analysis should specify the structural features and the method used to map variants onto structures.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Technical soundness
+  - **Claim pointer** Effects of noncoding variants revealed sites critical for splicing and RNA function, with certain substitutions in noncoding RNAs causing some of the largest growth defects in our screen.
+  - **Evidence pointer** Abstract; no specific examples or validation provided
+  - **Concern** This is a strong claim that noncoding RNA variants can cause the largest growth defects in the entire screen. The abstract does not provide any examples, the number of such variants, or how splicing effects were inferred. It is also unclear whether these effects were validated by molecular assays (e.g., RNA-seq or splicing reporters) or are purely inferred from genomic position.
+  - **Why it matters** Noncoding variant effects are often difficult to interpret, and the claim that they can cause the largest defects is surprising and would be a notable finding. However, without validation, this could be an artifact of the base editing system (e.g., editing at a splice site may disrupt a nearby coding sequence or regulatory element).
+  - **Resolution test** The full manuscript must provide specific examples of noncoding variants with large effects, show their genomic context, and include molecular validation (e.g., splicing assays, RNA quantification) for at least a subset. The number of such variants and their distribution across noncoding RNA classes should be reported.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Scientific importance
+  - **Claim pointer** Comparison between growth in glucose and galactose identified 418 variants with condition-dependent effects, including variants in negative regulators of Ras signalling that cause strong growth defects in glucose.
+  - **Evidence pointer** Abstract; no condition-specific data or validation provided
+  - **Concern** The identification of 418 condition-dependent variants is a potentially interesting result, but the abstract does not describe the criteria for calling a variant condition-dependent, the magnitude of the condition-specific effects, or the reproducibility of the phenotype across replicates. The specific mention of Ras signalling regulators is intriguing but lacks detail on which genes and which variants.
+  - **Why it matters** Condition-dependent effects are a key aspect of the paper's novelty, as most large-scale screens are performed in a single condition. However, if the condition-dependent calls are not robust, this claim would be a major weakness.
+  - **Resolution test** The full manuscript must describe the statistical test for condition dependence, show the distribution of condition-specific effect sizes, and provide validation of at least a subset of the Ras signalling variants by independent growth assays in both conditions.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Abstract wording
+  - **Evidence pointer** Abstract, first sentence
+  - **Issue** The phrase "catalogued vast genetic diversity" is vague and does not specify the context (e.g., human populations, yeast isolates, etc.).
+  - **Required correction** Specify the context of the genetic diversity being referenced, or rephrase to focus on the yeast genome.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Completeness
+  - **Affected element** Variant classification
+  - **Evidence pointer** Abstract, variant counts
+  - **Issue** The abstract reports 17,784 growth-reducing and 225 growth-increasing variants, but the total is 18,009, which is correct. However, it is unclear whether the remaining variants (i.e., those not significant) were classified as neutral or were simply not called.
+  - **Required Correction** Clarify whether non-significant variants are considered to have no detectable effect or were simply below the significance threshold.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Interpretation
+  - **Affected element** Purifying selection claim
+  - **Evidence pointer** Abstract, penultimate sentence
+  - **Issue** The statement that protein-altering variants with large growth defects are less likely to be observed in natural populations is presented as consistent with purifying selection. This is a reasonable interpretation, but the abstract does not specify the source of the natural population data or whether the comparison was controlled for variant frequency or coverage.
+  - **Required Correction** Specify the natural population dataset used and describe any potential confounders (e.g., variant calling biases) in the full manuscript.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (base editing efficiency and statistical rigor), R1-M2 (quantitative support for annotation dependencies), R1-M3 (validation of noncoding variant effects)
+- **Assessment against Nature-style criteria** 
+  - Originality: The application of base editing at genome scale in yeast is not entirely unprecedented, as similar approaches have been reported in mammalian cells, but the scale and the focus on noncoding regions may offer a novel contribution. The originality cannot be fully assessed without the methods.
+  - Scientific importance: The potential to link genotype to phenotype at nucleotide resolution in a model organism is important, and the condition-dependent and noncoding variant findings could be significant. However, the importance depends on the reliability of the data, which is not yet established.
+  - Interdisciplinary readership: The work is likely to appeal primarily to genetics and genomics researchers. The relevance to a broader readership (e.g., evolutionary biologists, systems biologists) is plausible but not clearly demonstrated in the abstract.
+  - Technical soundness: This is the major concern. The abstract does not provide sufficient methodological detail to assess the reliability of the screen, the statistical analysis, or the validation of key findings.
+  - Readability for nonspecialists: The abstract is generally clear and accessible, with appropriate use of terminology. The key findings are stated in a way that a broad scientific audience can follow.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract describes a potentially valuable resource, but the technical soundness and the validity of the key claims cannot be assessed without the full methods, figures, and validation data. A supportive recommendation would require that the concerns raised above, particularly R1-M1 and R1-M3, be addressed in the full manuscript.
+
+## Risk / unsupported claims
+- The claim that noncoding RNA variants cause some of the largest growth defects in the screen is unsupported without specific examples and validation.
+- The claim that variant effects depend on protein structure is unsupported without specifying the structural features and the analytical method.
+- The identification of 418 condition-dependent variants is unsupported without describing the statistical criteria and validation.
+- The conclusion that genome-scale base editing is a systematic approach for linking genotype to phenotype is a reasonable aspiration but is not fully supported by the abstract alone, given the lack of methodological detail.

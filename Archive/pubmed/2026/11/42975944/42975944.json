@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "42975944",
+    "doi": "10.1073/pnas.2627912123",
+    "title": "Core effectors of the Fusarium pan-effectome contribute to host specificity."
+  },
+  "content": {
+    "abstract": "Fusarium fungi cause economically important diseases of cereal crops, including Fusarium head blight, ear blight, and root rot. Central to these interactions are secreted effector proteins that manipulate host biology to promote infection. In turn, plants have evolved to recognize effector activity to activate immune responses and restrict disease. Despite their importance, the diversity, conservation, and evolution of Fusarium effectors remain poorly understood. Here, we present the Fusarium sambucinum Species complex Effector Compendium (FUSEC), a sequence-defined pan-effectome constructed from 188 high-quality genomes representing 27 species. FUSEC comprises 4,057 sequence-defined effector families, including a conserved soft-core repertoire of 235 families present in at least 95% of isolates. Structure-guided comparisons reorganized these conserved families into 184 structure-defined groups, revealing relationships that extend beyond sequence similarity and identifying similarities to numerous experimentally characterized fungal (a)virulence factors. Despite their broad conservation, soft-core families exhibited substantial within-family sequence diversity, and analyses of diversifying selection identified 44 candidate families undergoing adaptive evolution. Functional screening revealed that the majority of these candidates altered wheat immune responses, and CRISPR-Cas9-mediated gene deletions in Fusarium graminearum demonstrated that multiple conserved effectors contribute to cultivar-dependent Fusarium head blight severity.",
+    "keywords": [
+      "Fusarium",
+      "disease",
+      "effectors",
+      "immunity",
+      "phytopathogen"
+    ],
+    "mesh_terms": [
+      "*Fusarium/genetics/pathogenicity",
+      "*Fungal Proteins/genetics/metabolism",
+      "*Host Specificity/genetics",
+      "*Plant Diseases/microbiology",
+      "Host-Pathogen Interactions",
+      "Genome, Fungal",
+      "Virulence Factors/genetics",
+      "Triticum/microbiology",
+      "Phylogeny"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Blackman, Chris T",
+        "Aguayo-Limon, Alexia",
+        "Lei, Tian",
+        "Zarrouki, Malaika",
+        "Balcerzak, Margaret",
+        "Witte, Thomas",
+        "Rampitsch, Christof",
+        "Desveaux, Darrell",
+        "Subramaniam, Rajagopal"
+      ],
+      "short_names": [
+        "Blackman CT",
+        "Aguayo-Limon A",
+        "Lei T",
+        "Zarrouki M",
+        "Balcerzak M",
+        "Witte T",
+        "Rampitsch C",
+        "Desveaux D",
+        "Subramaniam R"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-8149-8144",
+        "ORCID: 0000-0003-4270-2791",
+        "ORCID: 0000-0002-4726-3612"
+      ],
+      "affiliations": [
+        "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada. ROR: https://ror.org/03dbr7087",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada. ROR: https://ror.org/02qtvee93",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada. ROR: https://ror.org/02qtvee93",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada. ROR: https://ror.org/02qtvee93",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Morden Research and Development Centre, Agriculture and Agrifood Canada, Morden, MB R6M 1Y5, Canada. ROR: https://ror.org/04e0p6b62",
+        "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada. ROR: https://ror.org/03dbr7087",
+        "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada. ROR: https://ror.org/03dbr7087",
+        "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada. ROR: https://ror.org/03fx3ra47",
+        "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada. ROR: https://ror.org/02qtvee93"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Blackman, Chris T",
+        "short_name": "Blackman CT",
+        "identifiers": [
+          "0009-0007-8149-8144"
+        ],
+        "affiliations": [
+          "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada.",
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Aguayo-Limon, Alexia",
+        "short_name": "Aguayo-Limon A",
+        "identifiers": [],
+        "affiliations": [
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada.",
+          "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada."
+        ]
+      },
+      {
+        "full_name": "Lei, Tian",
+        "short_name": "Lei T",
+        "identifiers": [],
+        "affiliations": [
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada.",
+          "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada."
+        ]
+      },
+      {
+        "full_name": "Zarrouki, Malaïka",
+        "short_name": "Zarrouki M",
+        "identifiers": [],
+        "affiliations": [
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada.",
+          "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada."
+        ]
+      },
+      {
+        "full_name": "Balcerzak, Margaret",
+        "short_name": "Balcerzak M",
+        "identifiers": [],
+        "affiliations": [
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Witte, Thomas",
+        "short_name": "Witte T",
+        "identifiers": [],
+        "affiliations": [
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Rampitsch, Christof",
+        "short_name": "Rampitsch C",
+        "identifiers": [],
+        "affiliations": [
+          "Morden Research and Development Centre, Agriculture and Agrifood Canada, Morden, MB R6M 1Y5, Canada."
+        ]
+      },
+      {
+        "full_name": "Desveaux, Darrell",
+        "short_name": "Desveaux D",
+        "identifiers": [
+          "0000-0003-4270-2791"
+        ],
+        "affiliations": [
+          "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada."
+        ]
+      },
+      {
+        "full_name": "Subramaniam, Rajagopal",
+        "short_name": "Subramaniam R",
+        "identifiers": [
+          "0000-0002-4726-3612"
+        ],
+        "affiliations": [
+          "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S3G5, Canada.",
+          "Ottawa Research and Development Centre, Agriculture and Agrifood Canada, Ottawa, ON K1A 0C6, Canada.",
+          "Department of Biology, Carleton University, Ottawa, ON K1S5B6, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 17:35",
+    "fetched_at": "2026-11-09 08:07:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42975944"
+    ],
+    "review": [
+      "42975944"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2627912123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

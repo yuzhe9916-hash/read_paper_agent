@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42992774",
+  "title": "Mosaic Cell Targeting for Visualization and Functional Characterization of Single-Cell Dynamics During Zebrafish Organogenesis.",
+  "authors": "Douglas, E Swanee; Andrews, Toby G R",
+  "journal": "Journal of visualized experiments : JoVE",
+  "published_date": "2026-11-06",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 3,
+  "one_liner_zh": "该文描述斑马鱼器官发生中通过Tol2转座子和单卵裂球注射实现马赛克细胞标记，并整合CRISPR-Cas9进行基因编辑，但核心是细胞追踪与可视化方法，而非CRISPR/碱基编辑的切割或编辑分子机制，仅作为工具应用参考。",
+  "abstract": "Animal morphogenesis relies on complex sets of cell behavior that elicit changes in the form and function of developing tissues, including cell growth and division, movement, shape changes, and death. To characterize these dynamics in vivo and define their respective contributions to specific morphogenetic events, approaches are needed to robustly mark and track cells across their lifetime in living embryos and functionally dissect regulatory mechanisms. Here, we detail a protocol for mosaic cell targeting in developing zebrafish embryos by combining Tol2 transgenesis with single-blastomere injections, thereby enabling titration of cell-labeling density for analysis of tissues, cell collectives, and single cells. Using the developing cardiovascular system as an example, we demonstrate that this method facilitates visual isolation of single cells within intact developing organs regardless of tissue depth and accessibility. Moreover, we show how this protocol can be expanded to incorporate gene editing strategies like CRISPR-Cas9 for highly specific perturbations of cell structure and function, while preserving wild-type developmental dynamics in surrounding cells and tissues.",
+  "abstract_zh": "动物形态发生依赖于复杂的细胞行为集合，这些行为引发发育中组织形态与功能的变化，包括细胞生长与分裂、运动、形态改变及死亡。为了在体内表征这些动态过程，并明确它们对特定形态发生事件的各自贡献，需要采用能够在活体胚胎中稳健标记并追踪细胞整个生命周期的方法，以及功能性地解析调控机制。在此，我们详细描述了一种通过结合Tol2转基因技术与单卵裂球注射，在发育中的斑马鱼胚胎中进行镶嵌细胞靶向的协议，从而能够调节细胞标记密度，以分析组织、细胞群体及单个细胞。以发育中的心血管系统为例，我们证明该方法有助于在完整发育器官内，无论组织深度和可及性如何，都能视觉上分离单个细胞。此外，我们展示了如何将该协议扩展至整合如CRISPR-Cas9等基因编辑策略，以实现对细胞结构和功能的高度特异性扰动，同时保持周围细胞和组织中野生型发育动态的完整性。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992774/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42992774/",
+  "paper_page_path": "papers/pubmed/42992774/index.html"
+}

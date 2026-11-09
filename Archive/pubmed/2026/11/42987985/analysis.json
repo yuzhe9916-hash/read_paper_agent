@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42987985",
+  "title": "AI-enhanced CRISPR-Cas9 therapeutics: Advances in precision, safety, and delivery.",
+  "authors": "Boretti, Alberto",
+  "journal": "Progress in biophysics and molecular biology",
+  "published_date": "2026-11-05",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 6,
+  "one_liner_zh": "该综述整合AI与CRISPR-Cas9在精准性、安全性和递送方面的进展，涵盖碱基编辑和工程化Cas变体，但以应用和工具优化为主，机制深度有限。",
+  "abstract": "CRISPR-Cas9 genome editing has transformed biomedical research and is advancing toward clinical translation. The integration of artificial intelligence (AI) offers improved precision in guide RNA design, off-target prediction, and delivery optimization. This review synthesizes recent advances in CRISPR-Cas9 for medical applications, covering core mechanisms, engineered variants, base and prime editors, and therapeutic applications including CAR T-cell and CAR-NK engineering, genetic disorders, infectious diseases, and regenerative medicine. Delivery strategies are evaluated with emphasis on AI-driven optimization. AI applications are highlighted across deep learning architectures for guide RNA design, AI-designed nucleases such as OpenCRISPR-1, structure-guided and AI-assisted design of compact high-fidelity SaCas9 variants, reinforcement learning for pipeline optimization, and roles in CAR T-cell therapy and safety assessment. Safety challenges are examined, including off-target effects, chromosomal rearrangements, immunogenicity, and regulatory concerns. Future directions emphasize multi-scale modeling, explainable AI, clinical validation, and integration with synthetic biology, single-cell sequencing, organoids, and nanomaterials. The convergence of AI and CRISPR-Cas9 holds substantial potential for personalized medicine.",
+  "abstract_zh": "CRISPR-Cas9基因组编辑已彻底改变了生物医学研究，并正朝着临床转化迈进。人工智能（AI）的整合在引导RNA设计、脱靶预测和递送优化方面提供了更高的精度。本综述综合了CRISPR-Cas9在医学应用中的最新进展，涵盖核心机制、工程化变体、碱基编辑器和先导编辑器，以及治疗应用，包括CAR T细胞和CAR-NK工程、遗传疾病、传染病和再生医学。递送策略被评估，重点强调AI驱动的优化。AI应用在以下方面得到突出展示：用于引导RNA设计的深度学习架构、AI设计的核酸酶如OpenCRISPR-1、结构引导和AI辅助设计紧凑型高保真SaCas9变体、用于流程优化的强化学习，以及在CAR T细胞治疗和安全性评估中的作用。安全性挑战被审视，包括脱靶效应、染色体重排、免疫原性和监管问题。未来方向强调多尺度建模、可解释AI、临床验证，以及与合成生物学、单细胞测序、类器官和纳米材料的整合。AI与CRISPR-Cas9的融合为个性化医学带来了巨大潜力。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42987985/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42987985/",
+  "paper_page_path": "papers/pubmed/42987985/index.html"
+}

@@ -1,0 +1,89 @@
+{
+  "identity": {
+    "pmid": "42987985",
+    "doi": "10.1016/j.pbiomolbio.2026.101967",
+    "title": "AI-enhanced CRISPR-Cas9 therapeutics: Advances in precision, safety, and delivery."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas9 genome editing has transformed biomedical research and is advancing toward clinical translation. The integration of artificial intelligence (AI) offers improved precision in guide RNA design, off-target prediction, and delivery optimization. This review synthesizes recent advances in CRISPR-Cas9 for medical applications, covering core mechanisms, engineered variants, base and prime editors, and therapeutic applications including CAR T-cell and CAR-NK engineering, genetic disorders, infectious diseases, and regenerative medicine. Delivery strategies are evaluated with emphasis on AI-driven optimization. AI applications are highlighted across deep learning architectures for guide RNA design, AI-designed nucleases such as OpenCRISPR-1, structure-guided and AI-assisted design of compact high-fidelity SaCas9 variants, reinforcement learning for pipeline optimization, and roles in CAR T-cell therapy and safety assessment. Safety challenges are examined, including off-target effects, chromosomal rearrangements, immunogenicity, and regulatory concerns. Future directions emphasize multi-scale modeling, explainable AI, clinical validation, and integration with synthetic biology, single-cell sequencing, organoids, and nanomaterials. The convergence of AI and CRISPR-Cas9 holds substantial potential for personalized medicine.",
+    "keywords": [
+      "Artificial intelligence",
+      "Base editing",
+      "CAR T-cell therapy",
+      "CRISPR-Cas9",
+      "Genome editing",
+      "Guide RNA design",
+      "Off-target prediction",
+      "Prime editing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Boretti, Alberto"
+      ],
+      "short_names": [
+        "Boretti A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Wellington, 6037, New Zealand. Electronic address: a.a.boretti@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Boretti, Alberto",
+        "short_name": "Boretti A",
+        "identifiers": [],
+        "affiliations": [
+          "Wellington, 6037, New Zealand. Electronic address: a.a.boretti@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Progress in biophysics and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Prog Biophys Mol Biol"
+    ],
+    "pub_date": "2026 Nov 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/05 23:28",
+    "fetched_at": "2026-11-09 08:07:40"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42987985"
+    ],
+    "review": [
+      "42987985"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079-6107(26)00084-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
