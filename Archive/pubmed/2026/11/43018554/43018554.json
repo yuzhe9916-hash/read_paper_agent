@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "43018554",
+    "doi": "10.1021/acs.jmedchem.6c02184",
+    "title": "Discovery and Optimization of Anticancer Dibenzothiazepinones That Target the Ribosome Biogenesis Factor NVL."
+  },
+  "content": {
+    "abstract": "Using inducible forward genetics, we recently discovered a dibenzothiazepinone (1) with activity against cancer cells via inhibition of the ribosome biogenesis factor NVL (nuclear valosin-containing protein-like). Herein, we delineate a comprehensive structure-activity relationship (SAR) study that explores the structural space surrounding the dibenzothiazepinone scaffold. A series of 115 analogs were synthesized and evaluated for activity against the colorectal cancer cell line HCT116 and counter-screened against cells CRISPR engineered to express a compound-resistant mutation in NVL. Our initial medicinal chemistry-driven campaign focused on improving potency, metabolic stability, and in vivo exposure and clearance. A fluorescence polarization assay with recombinant human NVL established a correlation between NVL-binding and antiproliferative activity. Cryo-EM structures of human NVL with select inhibitors revealed a binding mode that is consistent with the SAR data. This study led to the in vivo analog 100 (MM927), which we reported to suppress tumor growth in vivo without detectable toxicity via targeting the NVL.",
+    "keywords": [
+      "AAA+ ATPase",
+      "anticancer",
+      "nuclear valosin-containing protein-like",
+      "ribosome biogenesis",
+      "structure-activity relationship"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Antineoplastic Agents/pharmacology/chemistry/chemical synthesis/metabolism/therapeutic use",
+      "Structure-Activity Relationship",
+      "Animals",
+      "*Valosin Containing Protein/antagonists & inhibitors/metabolism/genetics/chemistry",
+      "Cell Proliferation/drug effects",
+      "HCT116 Cells",
+      "*Drug Discovery",
+      "Mice",
+      "Drug Screening Assays, Antitumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tao, Ye",
+        "Guo, Holly H",
+        "Cruz, Victor E",
+        "Reddy, Divya",
+        "Leach, Ashley",
+        "Williams, Noelle S",
+        "Aurora, Arin B",
+        "Khivansara, Vishal",
+        "Han, Yan",
+        "Erzberger, Jan P",
+        "Nijhawan, Deepak",
+        "De Brabander, Jef K"
+      ],
+      "short_names": [
+        "Tao Y",
+        "Guo HH",
+        "Cruz VE",
+        "Reddy D",
+        "Leach A",
+        "Williams NS",
+        "Aurora AB",
+        "Khivansara V",
+        "Han Y",
+        "Erzberger JP",
+        "Nijhawan D",
+        "De Brabander JK"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5338-0973",
+        "ORCID: 0009-0009-1909-256X",
+        "ORCID: 0000-0002-0266-8835",
+        "ORCID: 0000-0001-6253-4268",
+        "ORCID: 0000-0001-8816-5798"
+      ],
+      "affiliations": [
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+        "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tao, Ye",
+        "short_name": "Tao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Guo, Holly H",
+        "short_name": "Guo HH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Cruz, Victor E",
+        "short_name": "Cruz VE",
+        "identifiers": [
+          "0000-0001-5338-0973"
+        ],
+        "affiliations": [
+          "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Reddy, Divya",
+        "short_name": "Reddy D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Leach, Ashley",
+        "short_name": "Leach A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Williams, Noelle S",
+        "short_name": "Williams NS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Aurora, Arin B",
+        "short_name": "Aurora AB",
+        "identifiers": [
+          "0009-0009-1909-256X"
+        ],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Khivansara, Vishal",
+        "short_name": "Khivansara V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Han, Yan",
+        "short_name": "Han Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Erzberger, Jan P",
+        "short_name": "Erzberger JP",
+        "identifiers": [
+          "0000-0002-0266-8835"
+        ],
+        "affiliations": [
+          "Department of Biophysics, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "Nijhawan, Deepak",
+        "short_name": "Nijhawan D",
+        "identifiers": [
+          "0000-0001-6253-4268"
+        ],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+          "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      },
+      {
+        "full_name": "De Brabander, Jef K",
+        "short_name": "De Brabander JK",
+        "identifiers": [
+          "0000-0001-8816-5798"
+        ],
+        "affiliations": [
+          "Department of Radiation Oncology, Section of Molecular Medicine, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States.",
+          "Department of Biochemistry, UT Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, Texas75390, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Nov 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 11:32",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43018554"
+    ],
+    "review": [
+      "43018554"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3877",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jmcmar/article-lookup/doi/10.1021/acs.jmedchem.6c02184",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

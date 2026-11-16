@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "pmid": "43023175",
+    "doi": "10.1016/j.crfs.2026.101600",
+    "title": "Structure-activity relationship and antibacterial mechanism of saponins from quinoa husks against Bacillus cereus and their application in rice."
+  },
+  "content": {
+    "abstract": "Bacillus cereus (B. cereus) is a major foodborne pathogen and a persistent food safety concern. Although plant saponins are promising natural antimicrobials, the antibacterial activity of Chenopodium quinoa Willd. husk saponins against B. cereus remains poorly understood. This study investigated the structure-activity relationship and antibacterial mechanism of quinoa husk saponins against B. cereus and evaluate their potential application in rice preservation. In this study, less polar saponins exhibited stronger antibacterial activity against B. cereus than more polar saponins among the twelve tested saponins. Among them, phytolaccagenic acid (Q8), isolated from quinoa husks for the first time, exhibited the strongest antibacterial activity, with minimum inhibitory concentration and minimum bactericidal concentration values of 125 and 1000 mug/mL, respectively. Q8 showed low cytotoxicity in GES-1 and effectively inhibited B. cereus proliferation and spoilage in rice. Further assays showed that Q8 disrupted membrane stability, causing membrane potential dissipation, protein leakage, cell deformation, and reactive oxygen species accumulation. Metabolomic and lipidomic analyses revealed Q8 mainly affected glutathione metabolism, cysteine and methionine metabolism, fatty acid degradation, and glycerophospholipid/glycerolipid metabolism. Molecular docking, RT-qPCR, CRISPR-Cas9 knockout, and genetic complementation analyses confirmed that squalene-hopene cyclase is essential for hopanoid biosynthesis, and hopanoids protect B. cereus against Q8-induced membrane damage. These findings support the potential application of quinoa saponins as natural antibacterial agents in food systems.",
+    "keywords": [
+      "Antibacterial mechanism",
+      "Bacillus cereus",
+      "Quinoa husks",
+      "Rice preservation",
+      "Saponins"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Han, Chengcheng",
+        "Wang, Yan",
+        "Yang, Lijing",
+        "He, Yi",
+        "Song, Linmeng",
+        "Zhang, Ruoyu",
+        "Lu, Hao",
+        "Xue, Peng"
+      ],
+      "short_names": [
+        "Han C",
+        "Wang Y",
+        "Yang L",
+        "He Y",
+        "Song L",
+        "Zhang R",
+        "Lu H",
+        "Xue P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "Research Institute of Marine Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Qingdao, 266109, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China.",
+        "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Han, Chengcheng",
+        "short_name": "Han C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lijing",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Research Institute of Marine Traditional Chinese Medicine, Shandong University of Traditional Chinese Medicine, Qingdao, 266109, China."
+        ]
+      },
+      {
+        "full_name": "He, Yi",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Song, Linmeng",
+        "short_name": "Song L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ruoyu",
+        "short_name": "Zhang R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Hao",
+        "short_name": "Lu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Peng",
+        "short_name": "Xue P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, 261053, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current research in food science"
+    ],
+    "journal_abbrev": [
+      "Curr Res Food Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 11:29",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43023175"
+    ],
+    "review": [
+      "43023175"
+    ],
+    "pmc": [
+      "13755452"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2665-9271(26)00300-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43023175/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

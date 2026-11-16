@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43011899",
+  "title": "The recognition pathway: reconceiving inventorship and obviousness for iterative CRISPR-AI convergence.",
+  "authors": "Bahebe, Hassan Abdulhakim; Xiaoming, Li",
+  "journal": "Journal of law and the biosciences",
+  "published_date": "2026-11-11",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 1,
+  "one_liner_zh": "该文讨论CRISPR-AI融合中的专利发明人资格与显而易见性法律标准，属于法律政策分析，不涉及切割机制或碱基编辑的分子研究，与本课题无关。",
+  "abstract": "Clustered Regularly Interspaced Short Palindromic Repeats -Artificial Intelligence (CRISPR-AI) convergence generate therapeutic candidates via iterative human-machine workflows that disrupt the inventorship criterion of patent law based on conception. In CRISPR-AI studies, AI systems suggest thousands of guide RNAs or Cas variants; human researchers select, confirm, and optimize them via experimental feedback loops that conceal the locus of conception. The existing patent doctrine, which demands a clear and final concept in the human mind, fails to align with inventions in which AI comes up with solutions that human researchers had not anticipated. This Article advances a recognition pathway for CRISPR-AI inventorship that maintains the natural-person baseline while attributing inventorship to humans who exercise claim-defining technical judgment in identifying patentable value within AI outputs. The Article reconceives the person having ordinary skill in the art standard for AI-enhanced biotechnology, rejecting both inflexible pre-AI baselines and the 'computer having ordinary skill in the art' proposal. A five-factor test is employed to assess AI-generated CRISPR inventions on non-obviousness in terms of problem structure, predictability of solutions, and quality of human judgment. The framework provides a computational biotechnology human-accountability grammar that is administrable, but not legally granted to machines.",
+  "abstract_zh": "规律成簇间隔短回文重复序列-人工智能（CRISPR-AI）融合通过迭代人机工作流程生成治疗候选物，这一流程扰乱了基于构思的专利法发明人资格标准。在CRISPR-AI研究中，AI系统提出数千种引导RNA或Cas变体；人类研究人员通过实验反馈循环选择、确认并优化它们，从而掩盖了构思的所在位置。现有专利原则要求人类头脑中存在清晰且最终的概念，却无法与AI提出人类研究人员未曾预见的解决方案的发明相契合。本文提出了一种CRISPR-AI发明人资格的识别路径，该路径维持自然人基线，同时将发明人资格归于在AI输出中行使界定权利要求的技术判断以识别可专利价值的人类。本文重新构思了AI增强生物技术领域的普通技术人员标准，既拒绝僵化的前AI基线，也拒绝“具有普通技能的计算机”提案。采用五因素测试来评估AI生成的CRISPR发明在非显而易见性方面的问题结构、解决方案可预测性及人类判断质量。该框架提供了一种可管理的计算生物技术人类问责语法，但并未在法律上授予机器。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43011899/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43011899/",
+  "paper_page_path": "papers/pubmed/43011899/index.html"
+}

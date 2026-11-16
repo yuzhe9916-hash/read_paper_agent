@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "43029178",
+    "doi": "10.3390/molecules31213862",
+    "title": "CRISPR/Cas9 Editing of Starch Branching Enzyme Genes Remodels Starch Structure and Improves Nutritional Quality in Sweet Potato."
+  },
+  "content": {
+    "abstract": "Starch branching enzymes (SBEs) play a central role in determining amylopectin architecture and starch functionality, yet their contribution to starch nutritional quality and crop performance in sweet potato remains unclear. In this study, CRISPR/Cas9 was used to target SBEI and SBEII in sweet potato, generating lines with reduced SBE activity. Edited lines showed markedly increased amylose and resistant starch contents compared with the wild type. Amylopectin chain length analysis revealed a decrease in short chains and a relative increase in longer chains, indicating substantial remodeling of branch structure. Microscopic observations further showed reduced birefringence and structural irregularities in starch granules. These structural changes resulted in altered physicochemical properties, including decreased swelling power and solubility, elevated gelatinization temperature, and modified pasting behavior. In vitro digestion assays demonstrated significantly reduced starch digestibility and lower predicted glycemic index values. Whole-genome resequencing confirmed the stable integration of T-DNA and predicted limited insertion-associated effects, further supporting that the improved starch traits were primarily derived from targeted SBE editing. Importantly, storage root yield remained comparable to that of wild-type plants. Collectively, these results demonstrate that CRISPR/Cas9-mediated SBE editing effectively improves starch nutritional quality without compromising yield, providing a promising strategy for developing health-oriented sweet potato varieties.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "amylopectin structure",
+      "resistant starch",
+      "starch branching enzyme",
+      "starch digestibility",
+      "sweet potato"
+    ],
+    "mesh_terms": [
+      "*Ipomoea batatas/genetics/enzymology/metabolism",
+      "*1,4-alpha-Glucan Branching Enzyme/genetics/metabolism",
+      "*Starch/chemistry/metabolism/genetics",
+      "*CRISPR-Cas Systems/genetics",
+      "*Gene Editing",
+      "*Nutritive Value",
+      "Amylopectin/chemistry",
+      "Plants, Genetically Modified",
+      "Amylose"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fan, Weijuan",
+        "Li, Yanshen",
+        "Xu, Ziyin",
+        "Nie, Haozhen",
+        "Gao, Yusen",
+        "Yang, Jun",
+        "Wang, Hongxia"
+      ],
+      "short_names": [
+        "Fan W",
+        "Li Y",
+        "Xu Z",
+        "Nie H",
+        "Gao Y",
+        "Yang J",
+        "Wang H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4400-3145",
+        "ORCID: 0000-0002-0371-8814",
+        "ORCID: 0000-0003-1433-3693"
+      ],
+      "affiliations": [
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "College of Life Sciences, Shanghai Normal University, Shanghai 200234, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+        "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fan, Weijuan",
+        "short_name": "Fan W",
+        "identifiers": [
+          "0000-0002-4400-3145"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yanshen",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+          "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ziyin",
+        "short_name": "Xu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Haozhen",
+        "short_name": "Nie H",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yusen",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+          "College of Life Sciences, Shanghai Normal University, Shanghai 200234, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jun",
+        "short_name": "Yang J",
+        "identifiers": [
+          "0000-0002-0371-8814"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+          "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hongxia",
+        "short_name": "Wang H",
+        "identifiers": [
+          "0000-0003-1433-3693"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Plant Functional Genomics and Resources, Shanghai Chenshan Botanical Garden, Shanghai 201602, China.",
+          "CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology & Ecology, Chinese Academy of Sciences, Shanghai 200032, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43029178"
+    ],
+    "review": [
+      "43029178"
+    ],
+    "pmc": [
+      "13765049"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=molecules31213862",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

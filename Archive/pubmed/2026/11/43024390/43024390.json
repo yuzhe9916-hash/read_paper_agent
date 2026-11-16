@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "43024390",
+    "doi": "10.1099/mgen.0.001905",
+    "title": "Population structure of group B Streptococcus from semen reveals virulent and resistant lineages with implications for surveillance."
+  },
+  "content": {
+    "abstract": "Group B Streptococcus (GBS) is a major agent of perinatal infections. Although extensively studied as a pathogen in pregnant individuals and neonates, little is known about GBS from male adults, despite occasional reports of its occurrence in semen. We characterized 120 GBS isolates obtained from semen samples in Brazil between 2017 and 2022 to determine serotypes, antimicrobial susceptibility profile, virulence-associated determinants, clustered regularly interspaced short palindromic repeats (CRISPR) diversity and phylogenetic relationships with isolates from other clinical sources. Serotype V was the most frequent, followed by Ia, Ib, III, II and IV. Resistance was observed for tetracycline (84.1%), erythromycin (30.8%), levofloxacin (8.3%) and 12.5% exhibited multidrug resistance (MDR). The most common sequence types (STs) were ST1, ST144 and ST19. The isolates clustered into five major clonal complexes (CC1, CC17, CC19, CC23 and CC24) and six singletons. Serotypes, antimicrobial resistance and virulence-associated determinants markers varied across CCs. Resistance determinants detected included tetM, mefA, msrD, ermA and ermB. Levofloxacin-resistant isolates contained mutations in gyrA and/or parC and were predominantly linked to the serotype V/ST19 lineage. All isolates except one carried at least one alpha-like protein (Alp) gene. Phylogenetic analysis of isolates from semen, rectovaginal samples, urine and invasive infections showed that isolates clustered according to CC regardless of clinical source. CRISPR1 analysis revealed intra-clonal diversity, as isolates within the same CC displayed different CRISPR compositions. These findings indicate that GBS isolates recovered from semen belong to established GBS lineages also identified in other clinical sources and support the co-circulation of GBS lineages across different human niches.",
+    "keywords": [
+      "Streptococcus agalactiae",
+      "antimicrobial resistance",
+      "phylogeny",
+      "semen",
+      "sequence types"
+    ],
+    "mesh_terms": [
+      "*Streptococcus agalactiae/genetics/pathogenicity/drug effects/classification/isolation & purification",
+      "Humans",
+      "*Semen/microbiology",
+      "Male",
+      "Phylogeny",
+      "*Streptococcal Infections/microbiology",
+      "Anti-Bacterial Agents/pharmacology",
+      "Microbial Sensitivity Tests",
+      "Brazil",
+      "Virulence/genetics",
+      "*Drug Resistance, Multiple, Bacterial/genetics",
+      "Serogroup",
+      "Drug Resistance, Bacterial",
+      "Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Merces, Ana Clarisse",
+        "Costa, Natalia Silva",
+        "Oliveira, Laura Maria Andrade",
+        "Botelho, Ana Caroline Nunes",
+        "Barros, Laylla Graca",
+        "Silva, Luisa de Miranda Basto",
+        "Teixeira, Lucia Martins",
+        "Fracalanzza, Sergio Eduardo Longo",
+        "Khan, Uzma",
+        "Bentley, Stephen",
+        "Jamrozy, Dorota",
+        "Pinto, Tatiana Castro Abreu"
+      ],
+      "short_names": [
+        "Merces AC",
+        "Costa NS",
+        "Oliveira LMA",
+        "Botelho ACN",
+        "Barros LG",
+        "Silva LMB",
+        "Teixeira LM",
+        "Fracalanzza SEL",
+        "Khan U",
+        "Bentley S",
+        "Jamrozy D",
+        "Pinto TCA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Laboratorio de Enterobacterias (LABENT), Instituto Oswaldo Cruz (IOC), Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+        "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK.",
+        "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK.",
+        "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK.",
+        "Instituto de Microbiologia Paulo de Goes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Merces, Ana Clarisse",
+        "short_name": "Merces AC",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Costa, Natália Silva",
+        "short_name": "Costa NS",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+          "Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Oliveira, Laura Maria Andrade",
+        "short_name": "Oliveira LMA",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
+          "Laboratório de Enterobactérias (LABENT), Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Botelho, Ana Caroline Nunes",
+        "short_name": "Botelho ACN",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Barros, Laylla Graça",
+        "short_name": "Barros LG",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Silva, Luisa de Miranda Basto",
+        "short_name": "Silva LMB",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Teixeira, Lucia Martins",
+        "short_name": "Teixeira LM",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Fracalanzza, Sergio Eduardo Longo",
+        "short_name": "Fracalanzza SEL",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      },
+      {
+        "full_name": "Khan, Uzma",
+        "short_name": "Khan U",
+        "identifiers": [],
+        "affiliations": [
+          "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK."
+        ]
+      },
+      {
+        "full_name": "Bentley, Stephen",
+        "short_name": "Bentley S",
+        "identifiers": [],
+        "affiliations": [
+          "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK."
+        ]
+      },
+      {
+        "full_name": "Jamrozy, Dorota",
+        "short_name": "Jamrozy D",
+        "identifiers": [],
+        "affiliations": [
+          "Parasties and Microbes, Wellcome Sanger Institute, Saffron Walden, UK."
+        ]
+      },
+      {
+        "full_name": "Pinto, Tatiana Castro Abreu",
+        "short_name": "Pinto TCA",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbial genomics"
+    ],
+    "journal_abbrev": [
+      "Microb Genom"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 17:33",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43024390"
+    ],
+    "review": [
+      "43024390"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://mgen.microbiologyresearch.org/pubmed/content/journal/mgen/10.1099/mgen.0.001905",
+        "provider": "Ingenta plc",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/streptococcalinfections.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Streptococcal Infections"
+      }
+    ],
+    "text_mined": []
+  }
+}

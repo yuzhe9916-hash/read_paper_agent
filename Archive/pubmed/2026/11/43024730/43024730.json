@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "43024730",
+    "doi": "10.1126/sciadv.adz3328",
+    "title": "Noncanonical enhancers control gene expression and cell fate in human pluripotent stem cells."
+  },
+  "content": {
+    "abstract": "Enhancers are key gene regulatory elements that ensure the precise spatiotemporal execution of developmental gene expression programs. However, recent findings indicate that current approaches to identify enhancers may not capture the full repertoire of active enhancers in mammalian genomes. Here, we combine massively parallel enhancer assays with chromatin structure and transcriptome profiling to functionally annotate enhancers genome-wide in human induced pluripotent stem cells. We find that a substantial fraction ( approximately 40%) of accessible chromatin regions with enhancer function lack key features associated with active enhancers, including the active enhancer mark histone H3 lysine-27 acetylation and enhancer-associated RNAs. Perturbation of this class of noncanonical enhancers by CRISPR-mediated epigenome editing or deletion results in decreased levels of target gene expression and, in one instance, loss of pluripotent stem cell characteristics. Collectively, our data demonstrate enhancer activity for a class of gene regulatory elements that had, until now, only been associated with a neutral or inactive status, challenging current models of enhancer function.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Enhancer Elements, Genetic",
+      "*Pluripotent Stem Cells/metabolism/cytology",
+      "Epigenome Editing",
+      "*Gene Expression Regulation",
+      "Histones/metabolism",
+      "Chromatin/genetics/metabolism",
+      "*Cell Differentiation/genetics",
+      "Acetylation",
+      "*Induced Pluripotent Stem Cells/metabolism/cytology",
+      "Gene Expression Profiling",
+      "*Cell Lineage/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Yang",
+        "Dovgusha, Oleksandr",
+        "Ebrahimi, Ayyub",
+        "Cruz, Carmela Rieline V",
+        "Bevan, Stephen",
+        "Widmer, Lukas",
+        "Torabi, Fereshteh",
+        "Kurlovich, Julia",
+        "Rodriguez-Polo, Ignacio",
+        "Khan, Soumen",
+        "Patel, Manthan",
+        "Shiels, Oliver T",
+        "Pradeepa, Madapura M",
+        "Flynn, Sean M",
+        "Gunesdogan, Ufuk",
+        "Schoenfelder, Stefan"
+      ],
+      "short_names": [
+        "Cao Y",
+        "Dovgusha O",
+        "Ebrahimi A",
+        "Cruz CRV",
+        "Bevan S",
+        "Widmer L",
+        "Torabi F",
+        "Kurlovich J",
+        "Rodriguez-Polo I",
+        "Khan S",
+        "Patel M",
+        "Shiels OT",
+        "Pradeepa MM",
+        "Flynn SM",
+        "Gunesdogan U",
+        "Schoenfelder S"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-7656-6789",
+        "ORCID: 0000-0003-4846-9409",
+        "ORCID: 0000-0003-4683-5102",
+        "ORCID: 0009-0009-3755-7631",
+        "ORCID: 0000-0003-1254-4972",
+        "ORCID: 0000-0002-6012-2232",
+        "ORCID: 0000-0003-3913-0948",
+        "ORCID: 0009-0001-6304-5527",
+        "ORCID: 0000-0001-9095-9247",
+        "ORCID: 0000-0001-7326-2659",
+        "ORCID: 0000-0002-8658-8022",
+        "ORCID: 0000-0002-3200-8133"
+      ],
+      "affiliations": [
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Institute for Biomedical Research, Health and Medical University, Dalbergsweg 5, 99084 Erfurt, Germany.",
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK.",
+        "Blizard Institute, Barts and the London School of Medicine and Dentistry, The Blizard Building 4, Newark Street, London E1 2AT, UK.",
+        "Department of Clinical and Biomedical Sciences, Faculty of Health and Life Sciences, University of Exeter, Exeter EX2 5DW, UK.",
+        "Blizard Institute, Barts and the London School of Medicine and Dentistry, The Blizard Building 4, Newark Street, London E1 2AT, UK.",
+        "Department of Clinical and Biomedical Sciences, Faculty of Health and Life Sciences, University of Exeter, Exeter EX2 5DW, UK.",
+        "Gottingen Center for Molecular Biology, Department of Developmental Biology, University of Gottingen, Justus-von-Liebig Weg 11, 37077 Gottingen, Germany.",
+        "Institute for Biomedical Research, Health and Medical University, Dalbergsweg 5, 99084 Erfurt, Germany.",
+        "Department of Molecular Developmental Biology, Max-Planck-Institute for Multidisciplinary Sciences, Am Fassberg 11, 37077 Gottingen, Germany.",
+        "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Yang",
+        "short_name": "Cao Y",
+        "identifiers": [
+          "0009-0000-7656-6789"
+        ],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      },
+      {
+        "full_name": "Dovgusha, Oleksandr",
+        "short_name": "Dovgusha O",
+        "identifiers": [
+          "0000-0003-4846-9409"
+        ],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Ebrahimi, Ayyub",
+        "short_name": "Ebrahimi A",
+        "identifiers": [
+          "0000-0003-4683-5102"
+        ],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      },
+      {
+        "full_name": "Cruz, Carmela Rieline V",
+        "short_name": "Cruz CRV",
+        "identifiers": [
+          "0009-0009-3755-7631"
+        ],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany.",
+          "Institute for Biomedical Research, Health and Medical University, Dalbergsweg 5, 99084 Erfurt, Germany."
+        ]
+      },
+      {
+        "full_name": "Bevan, Stephen",
+        "short_name": "Bevan S",
+        "identifiers": [],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      },
+      {
+        "full_name": "Widmer, Lukas",
+        "short_name": "Widmer L",
+        "identifiers": [],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Torabi, Fereshteh",
+        "short_name": "Torabi F",
+        "identifiers": [],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      },
+      {
+        "full_name": "Kurlovich, Julia",
+        "short_name": "Kurlovich J",
+        "identifiers": [],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Polo, Ignacio",
+        "short_name": "Rodríguez-Polo I",
+        "identifiers": [
+          "0000-0003-1254-4972"
+        ],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Khan, Soumen",
+        "short_name": "Khan S",
+        "identifiers": [
+          "0000-0002-6012-2232"
+        ],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      },
+      {
+        "full_name": "Patel, Manthan",
+        "short_name": "Patel M",
+        "identifiers": [
+          "0000-0003-3913-0948"
+        ],
+        "affiliations": [
+          "Blizard Institute, Barts and the London School of Medicine and Dentistry, The Blizard Building 4, Newark Street, London E1 2AT, UK."
+        ]
+      },
+      {
+        "full_name": "Shiels, Oliver T",
+        "short_name": "Shiels OT",
+        "identifiers": [
+          "0009-0001-6304-5527"
+        ],
+        "affiliations": [
+          "Department of Clinical and Biomedical Sciences, Faculty of Health and Life Sciences, University of Exeter, Exeter EX2 5DW, UK."
+        ]
+      },
+      {
+        "full_name": "Pradeepa, Madapura M",
+        "short_name": "Pradeepa MM",
+        "identifiers": [
+          "0000-0001-9095-9247"
+        ],
+        "affiliations": [
+          "Blizard Institute, Barts and the London School of Medicine and Dentistry, The Blizard Building 4, Newark Street, London E1 2AT, UK."
+        ]
+      },
+      {
+        "full_name": "Flynn, Sean M",
+        "short_name": "Flynn SM",
+        "identifiers": [
+          "0000-0001-7326-2659"
+        ],
+        "affiliations": [
+          "Department of Clinical and Biomedical Sciences, Faculty of Health and Life Sciences, University of Exeter, Exeter EX2 5DW, UK."
+        ]
+      },
+      {
+        "full_name": "Günesdogan, Ufuk",
+        "short_name": "Günesdogan U",
+        "identifiers": [
+          "0000-0002-8658-8022"
+        ],
+        "affiliations": [
+          "Göttingen Center for Molecular Biology, Department of Developmental Biology, University of Göttingen, Justus-von-Liebig Weg 11, 37077 Göttingen, Germany.",
+          "Institute for Biomedical Research, Health and Medical University, Dalbergsweg 5, 99084 Erfurt, Germany.",
+          "Department of Molecular Developmental Biology, Max-Planck-Institute for Multidisciplinary Sciences, Am Faßberg 11, 37077 Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Schoenfelder, Stefan",
+        "short_name": "Schoenfelder S",
+        "identifiers": [
+          "0000-0002-3200-8133"
+        ],
+        "affiliations": [
+          "Epigenetics Program, Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 17:33",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43024730"
+    ],
+    "review": [
+      "43024730"
+    ],
+    "pmc": [
+      "13763835"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.adz3328?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

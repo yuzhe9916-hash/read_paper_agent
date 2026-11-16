@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "43009987",
+    "doi": "10.1186/s12951-026-04916-y",
+    "title": "A quantitative and visual detection probe based on isothermal nucleic acid amplification coupled with CRISPR/Cas12a system (INACS) for miR155 detection."
+  },
+  "content": {
+    "abstract": "MicroRNAs (miRNAs) have emerged as ideal biomarkers for early clinical diagnosis. Achieving the accurate detection of miRNAs plays a critical role for assuring its implementation in their clinical applications. In this study, we developed a dual-signal amplified ultrasensitive fluorescent sensing platform for miR155 detection by coupling isothermal nucleic acid amplification with the CRISPR/Cas12a system (INACS). Using a hairpin nucleic acid probe (HP) as the substrate, the system specifically recognizes the target miR155, triggering the opening of the hairpin loop structure. Subsequently, under the catalysis of Bst DNA polymerase, target gene amplification produces dsDNA with a specific sequence. This dsDNA activates the trans-cleavage activity of Cas12a, which cleaves reporter strands labeled with quencher and fluorescent groups, restoring the fluorescence signal. The fluorescence intensity is proportional to miR155 concentration, exhibiting a strong linear relationship between fluorescence intensity ratio and the logarithm of miR155 concentration over the range of 0.5-50 pM (r = 0.9961). By integrating nucleic acid amplification with CRISPR/Cas12a amplification, INACS achieves high sensitivity, excellent selectivity, and a detection limit as low as 34.46 fM. INACS was successfully applied to human serum samples, revealing elevated miR155 levels in breast cancer patients compared to non-cancer controls. Moreover, INACS was adapted for semi-quantitative detection using lateral flow assay (LFA) test strips. Results were assessed by naked-eye color comparison, facilitating rapid onsite auxiliary diagnosis of breast cancer. The LFA outcomes were consistent with serum fluorescence measurements, enabling efficient and user-friendly visual detection. This work thus provides a promising tool for early clinical diagnosis.",
+    "keywords": [
+      "CRISPR/Cas12a",
+      "Fluorescence detection",
+      "Isothermal nucleic acid amplification",
+      "Lateral flow assay",
+      "MiR155"
+    ],
+    "mesh_terms": [
+      "*MicroRNAs/analysis/genetics/blood",
+      "*Nucleic Acid Amplification Techniques/methods",
+      "Humans",
+      "*CRISPR-Cas Systems/genetics",
+      "Limit of Detection",
+      "Biosensing Techniques/methods",
+      "Rapid Diagnostic Tests"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Yunsu",
+        "Li, Jing",
+        "Jin, Xiaojuan",
+        "Liu, Sunan",
+        "Chang, Yajuan",
+        "Lin, Tongze",
+        "Zhang, Chengchen",
+        "Zhu, Ling"
+      ],
+      "short_names": [
+        "Ma Y",
+        "Li J",
+        "Jin X",
+        "Liu S",
+        "Chang Y",
+        "Lin T",
+        "Zhang C",
+        "Zhu L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China. yunsu@xzhmu.edu.cn.",
+        "Digital Health and Biomedical Engineering, School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK. yunsu@xzhmu.edu.cn.",
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China.",
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China.",
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China.",
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China.",
+        "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China.",
+        "Digital Health and Biomedical Engineering, School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK.",
+        "Institute for Life Sciences, University of Southampton, Southampton, SO17 1BJ, UK.",
+        "Department of Pharmacy, The Affiliated Jiangyin Hospital of Nantong University, Wuxi, 214400, PR China. zhuzhu09315@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Yunsu",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China. yunsu@xzhmu.edu.cn.",
+          "Digital Health and Biomedical Engineering, School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK. yunsu@xzhmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China."
+        ]
+      },
+      {
+        "full_name": "Jin, Xiaojuan",
+        "short_name": "Jin X",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Sunan",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China."
+        ]
+      },
+      {
+        "full_name": "Chang, Yajuan",
+        "short_name": "Chang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China."
+        ]
+      },
+      {
+        "full_name": "Lin, Tongze",
+        "short_name": "Lin T",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou Medical University, Xuzhou, 221004, Jiangsu, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chengchen",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Digital Health and Biomedical Engineering, School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK.",
+          "Institute for Life Sciences, University of Southampton, Southampton, SO17 1BJ, UK."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ling",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, The Affiliated Jiangyin Hospital of Nantong University, Wuxi, 214400, PR China. zhuzhu09315@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of nanobiotechnology"
+    ],
+    "journal_abbrev": [
+      "J Nanobiotechnology"
+    ],
+    "pub_date": "2026 Aug 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43009987"
+    ],
+    "review": [
+      "43009987"
+    ],
+    "pmc": [
+      "13753282"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-026-04916-y",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43009987/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-DLC1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-671",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

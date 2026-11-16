@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "43014460",
+    "doi": "10.1016/j.gene.2026.150492",
+    "title": "Functional characterization of os9 reveals its role in zebrafish developmental regulation."
+  },
+  "content": {
+    "abstract": "Endoplasmic reticulum (ER)-associated degradation (ERAD) plays a critical role in maintaining proteostasis during development, yet its in vivo functions remain incompletely understood. Here, we investigated the role of os9, a key ERAD component, in zebrafish development. Sequence and protein-protein interaction analyses revealed that Os9 is highly conserved across vertebrates and participates in ER protein quality control. Using CRISPR/Cas9, we generated os9 knockout zebrafish lines and found that loss of os9 leads to developmental defects with incomplete penetrance. Affected os9 mutant larvae exhibited cardiovascular abnormalities, including pericardial edema, disrupted cardiac structure, and abnormal erythrocyte distribution. In addition, affected os9 mutants displayed microphthalmia with reduced retinal size, while retinal lamination was largely preserved. Ultrastructural analysis revealed pronounced ER dilation and mitochondrial disruption in photoreceptor cells, accompanied by downregulation of photoreceptor marker genes and impaired photoreceptor development. Furthermore, os9 deficiency was associated with increased apoptosis and oxidative stress, as evidenced by elevated Caspase 9 activity, altered expression of apoptosis-related genes, and imbalance of antioxidant markers. Transcriptome analysis of affected os9 mutants revealed extensive gene expression reprogramming, characterized by enrichment of stress- and apoptosis-related pathways and suppression of metabolic and redox-associated processes. Notably, genes involved in protein processing in ER were significantly upregulated, while pathways related to retinol metabolism and phototransduction were downregulated. Collectively, these findings suggest that os9 is required for maintaining cellular homeostasis during zebrafish development and that its loss leads to ER stress, oxidative stress, apoptosis, and tissue-specific developmental defects, particularly in the cardiovascular system and retina.",
+    "keywords": [
+      "Apoptosis",
+      "Embryonic development",
+      "Metabolic homeostasis",
+      "Os9",
+      "Oxidative stress",
+      "Zebrafish"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Qiuting",
+        "Wu, Lingxin",
+        "Wu, Jiayi",
+        "He, Meiling",
+        "Li, Wenhua"
+      ],
+      "short_names": [
+        "Xie Q",
+        "Wu L",
+        "Wu J",
+        "He M",
+        "Li W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China.",
+        "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China.",
+        "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China.",
+        "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China.",
+        "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China. Electronic address: wenhuali@hqu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Qiuting",
+        "short_name": "Xie Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Lingxin",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiayi",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China."
+        ]
+      },
+      {
+        "full_name": "He, Meiling",
+        "short_name": "He M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Wenhua",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Fujian Molecular Medicine, Key Laboratory of Xiamen Marine and Gene Drugs, Key Laboratory of Precision Medicine and Molecular Diagnosis, Fujian Provincial Department of Education, School of Biomedical Sciences, Huaqiao University, Xiamen, 361021, PR China. Electronic address: wenhuali@hqu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Gene"
+    ],
+    "journal_abbrev": [
+      "Gene"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 23:27",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43014460"
+    ],
+    "review": [
+      "43014460"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378-1119(26)00503-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

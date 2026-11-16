@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "pmid": "43015465",
+    "doi": "10.1038/s41586-026-11264-2",
+    "title": "Suppression of epithelial proliferation and tumorigenesis by IgA."
+  },
+  "content": {
+    "abstract": "Immunoglobulin A (IgA) is the most abundant antibody isotype produced by mammals, and has a specialized role in mucosal homeostasis(1). IgA is constantly secreted into the intestinal lumen and binds to commensal microorganisms to regulate their colonization and function(2,3), with unclear implications for health. IgA deficiency is common in humans, but difficult to study, because of its complex aetiology and comorbidities(4-8). Here we use genetically and environmentally controlled mice to show that various models of IgA deficiency result in increased susceptibility to several models of endogenous colorectal cancer. Cellular and molecular analyses revealed that, in the absence of IgA, colonic epithelial cells induce antibacterial factors and accelerate cell cycling in response to the microbiota. Oral treatment with IgA was sufficient to reduce steady-state proliferation and protect mice from tumours; however, this function was due to the structure of the antibody rather than to binding specificity. In a reductionist culture system, IgA directly suppressed epithelial growth. Co-immunoprecipitation mass spectrometry and targeted CRISPR screening identified DMBT1 as an IgA-binding epithelial surface protein that is required for IgA-mediated suppression of proliferation. Together, IgA and DMBT1 tune the normal cycling of absorptive colonocyte progenitors. In IgA-knockout mice, deleting the transmembrane and cytoplasmic signalling portions of DMBT1 was sufficient to reverse both the increased epithelial cell proliferation and the increased tumour susceptibility seen in these mice. These experiments establish a homeostatic function for IgA in tempering physiological epithelial responses to the microbiota to maintain mucosal health.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Donaldson, Gregory P",
+        "Lima Dos Reis, Gabriella",
+        "Saad, Marwa",
+        "Wichmann, Christopher",
+        "Mamede, Izabela",
+        "Chen, Guo",
+        "Harrer, Caroline E",
+        "DelGaudio, Nicole L",
+        "Zhang, Dayu",
+        "Aydin, Begum",
+        "Castro, Tiago B R",
+        "Grivennikov, Sergei I",
+        "Reis, Bernardo S",
+        "Liu, Elise G",
+        "Eisenbarth, Stephanie C",
+        "Birsoy, Kivanc",
+        "Tavazoie, Sohail F",
+        "Stadtmueller, Beth M",
+        "Victora, Gabriel D",
+        "Mucida, Daniel"
+      ],
+      "short_names": [
+        "Donaldson GP",
+        "Lima Dos Reis G",
+        "Saad M",
+        "Wichmann C",
+        "Mamede I",
+        "Chen G",
+        "Harrer CE",
+        "DelGaudio NL",
+        "Zhang D",
+        "Aydin B",
+        "Castro TBR",
+        "Grivennikov SI",
+        "Reis BS",
+        "Liu EG",
+        "Eisenbarth SC",
+        "Birsoy K",
+        "Tavazoie SF",
+        "Stadtmueller BM",
+        "Victora GD",
+        "Mucida D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8551-374X",
+        "ORCID: 0000-0001-7511-1379",
+        "ORCID: 0009-0009-4784-7747",
+        "ORCID: 0000-0002-2591-2810",
+        "ORCID: 0000-0002-0707-5588",
+        "ORCID: 0000-0002-3857-3600",
+        "ORCID: 0000-0003-2937-9029",
+        "ORCID: 0009-0007-9794-4938",
+        "ORCID: 0000-0002-7066-5257",
+        "ORCID: 0000-0002-0359-0611",
+        "ORCID: 0000-0003-2987-0555",
+        "ORCID: 0000-0002-1244-208X",
+        "ORCID: 0000-0002-7579-9895",
+        "ORCID: 0000-0003-0637-3206",
+        "ORCID: 0000-0001-8807-348X",
+        "ORCID: 0000-0002-0000-0452"
+      ],
+      "affiliations": [
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA. donaldson@g.ucla.edu.",
+        "Department of Microbiology, Immunology, & Molecular Genetics, University of California, Los Angeles, Los Angeles, CA, USA. donaldson@g.ucla.edu.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Department of Biochemistry, University of Illinois, Urbana, IL, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA.",
+        "Departments of Medicine and Biomedical Sciences, Cedars-Sinai Cancer, Cedars-Sinai Medical Center, Los Angeles, CA, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+        "Section of Rheumatology, Allergy and Immunology, Department of Medicine, Yale University School of Medicine, New Haven, CT, USA.",
+        "Division of Allergy and Immunology, Department of Medicine, and Center for Human Immunobiology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
+        "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Systems Cancer Biology, The Rockefeller University, New York, NY, USA.",
+        "Department of Biochemistry, University of Illinois, Urbana, IL, USA.",
+        "Carl R. Woese Institute for Genomic Biology and Department of Biomedical and Translational Sciences, Carle Illinois College of Medicine, University of Illinois, Urbana, IL, USA.",
+        "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA.",
+        "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA.",
+        "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA. mucida@rockefeller.edu.",
+        "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA. mucida@rockefeller.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Donaldson, Gregory P",
+        "short_name": "Donaldson GP",
+        "identifiers": [
+          "0000-0002-8551-374X"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA. donaldson@g.ucla.edu.",
+          "Department of Microbiology, Immunology, & Molecular Genetics, University of California, Los Angeles, Los Angeles, CA, USA. donaldson@g.ucla.edu."
+        ]
+      },
+      {
+        "full_name": "Lima Dos Reis, Gabriella",
+        "short_name": "Lima Dos Reis G",
+        "identifiers": [
+          "0000-0001-7511-1379"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Saad, Marwa",
+        "short_name": "Saad M",
+        "identifiers": [
+          "0009-0009-4784-7747"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wichmann, Christopher",
+        "short_name": "Wichmann C",
+        "identifiers": [
+          "0000-0002-2591-2810"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA.",
+          "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Mamede, Izabela",
+        "short_name": "Mamede I",
+        "identifiers": [
+          "0000-0002-0707-5588"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Guo",
+        "short_name": "Chen G",
+        "identifiers": [
+          "0000-0002-3857-3600"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Harrer, Caroline E",
+        "short_name": "Harrer CE",
+        "identifiers": [
+          "0000-0003-2937-9029"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "DelGaudio, Nicole L",
+        "short_name": "DelGaudio NL",
+        "identifiers": [
+          "0009-0007-9794-4938"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Dayu",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Illinois, Urbana, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Aydin, Begüm",
+        "short_name": "Aydin B",
+        "identifiers": [
+          "0000-0002-7066-5257"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Castro, Tiago B R",
+        "short_name": "Castro TBR",
+        "identifiers": [
+          "0000-0002-0359-0611"
+        ],
+        "affiliations": [
+          "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Grivennikov, Sergei I",
+        "short_name": "Grivennikov SI",
+        "identifiers": [
+          "0000-0003-2987-0555"
+        ],
+        "affiliations": [
+          "Departments of Medicine and Biomedical Sciences, Cedars-Sinai Cancer, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Reis, Bernardo S",
+        "short_name": "Reis BS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Elise G",
+        "short_name": "Liu EG",
+        "identifiers": [],
+        "affiliations": [
+          "Section of Rheumatology, Allergy and Immunology, Department of Medicine, Yale University School of Medicine, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Eisenbarth, Stephanie C",
+        "short_name": "Eisenbarth SC",
+        "identifiers": [
+          "0000-0002-1244-208X"
+        ],
+        "affiliations": [
+          "Division of Allergy and Immunology, Department of Medicine, and Center for Human Immunobiology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Birsoy, Kivanç",
+        "short_name": "Birsoy K",
+        "identifiers": [
+          "0000-0002-7579-9895"
+        ],
+        "affiliations": [
+          "Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tavazoie, Sohail F",
+        "short_name": "Tavazoie SF",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Systems Cancer Biology, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Stadtmueller, Beth M",
+        "short_name": "Stadtmueller BM",
+        "identifiers": [
+          "0000-0003-0637-3206"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Illinois, Urbana, IL, USA.",
+          "Carl R. Woese Institute for Genomic Biology and Department of Biomedical and Translational Sciences, Carle Illinois College of Medicine, University of Illinois, Urbana, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Victora, Gabriel D",
+        "short_name": "Victora GD",
+        "identifiers": [
+          "0000-0001-8807-348X"
+        ],
+        "affiliations": [
+          "Laboratory of Lymphocyte Dynamics, The Rockefeller University, New York, NY, USA.",
+          "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Mucida, Daniel",
+        "short_name": "Mucida D",
+        "identifiers": [
+          "0000-0002-0000-0452"
+        ],
+        "affiliations": [
+          "Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY, USA. mucida@rockefeller.edu.",
+          "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA. mucida@rockefeller.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Nov 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/12 05:29",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43015465"
+    ],
+    "review": [
+      "43015465"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11264-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1178",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "identity": {
+    "pmid": "43034267",
+    "doi": "10.1007/s13346-026-02237-z",
+    "title": "Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence."
+  },
+  "content": {
+    "abstract": "Recent advances in precision oncology fueled the development of nanotherapeutics,​ molecularly targeted drugs, engineered immunotherapies, RNA therapeutics, and smart biomaterials for more selective cancer treatment. However, long-term therapeutic responses remain restricted by interconnected adaptive mechanisms, including ABC transporter-mediated drug efflux, dysregulated signaling pathways, apoptosis evasion, immune escape, epithelial-to-mesenchymal transition, and tumor microenvironment​ remodeling. In this review article, these processes are collectively framed as tumor-mediated molecular hijacking, describing malignant cell exploitation and microenvironmental pathways that promote multidrug resistance and therapeutic failure. The review critically examines nanotherapeutic and advanced biotherapeutic strategies to counteract these mechanisms, including functionalized nanocarriers, antibody-drug conjugates, CAR-T cells, tumor-infiltrating lymphocyte therapy, immune checkpoint blockade, mesenchymal stem-cell (MSC)-based therapeutics, CRISPR-mediated genome editing, bispecific T-cell engagers, and RNA-based approaches. Particular focus includes drug-delivery elements such as tumour penetration, intracellular trafficking, controlled release, pharmacokinetics, biodistribution, and critical formulation attributes, as well as translational challenges such as manufacturability, scalability, reproducibility, stability, safety, and regulatory feasibility. Emerging biofabrication approaches enable the fabrication of adaptive and personalized delivery systems, while artificial intelligence and machine learning are utilized as tools for structure-guided design, nanocarrier optimization, treatment-response prediction, and patient-specific digital-twin modelling. This paper combines tumor-mediated molecular hijacking with drug delivery technology at the forefront and translational aspects to create a comprehensive platform for clinically relevant precision cancer therapeutics.Clinical trial number: Not applicable.",
+    "keywords": [
+      "Artificial intelligence",
+      "Biofabrication",
+      "Biotherapies",
+      "CAR-T therapy",
+      "Drug resistance",
+      "Nanotherapeutics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kumar, Vivek",
+        "Batra, Priyanka",
+        "Das, Nivedita",
+        "Shende, Pravin"
+      ],
+      "short_names": [
+        "Kumar V",
+        "Batra P",
+        "Das N",
+        "Shende P"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-9929-0727"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Technology (Formulations), National Institute of Pharmaceutical Education and Research (NIPER), Sector-67, SAS Nagar (Mohali), Punjab, 160062, India.",
+        "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India.",
+        "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India.",
+        "Department of Pharmaceutical Technology (Formulations), National Institute of Pharmaceutical Education and Research (NIPER), Sector-67, SAS Nagar (Mohali), Punjab, 160062, India. pravinshende@niper.ac.in.",
+        "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India. pravinshende@niper.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kumar, Vivek",
+        "short_name": "Kumar V",
+        "identifiers": [
+          "0009-0001-9929-0727"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Technology (Formulations), National Institute of Pharmaceutical Education and Research (NIPER), Sector-67, SAS Nagar (Mohali), Punjab, 160062, India."
+        ]
+      },
+      {
+        "full_name": "Batra, Priyanka",
+        "short_name": "Batra P",
+        "identifiers": [],
+        "affiliations": [
+          "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India."
+        ]
+      },
+      {
+        "full_name": "Das, Nivedita",
+        "short_name": "Das N",
+        "identifiers": [],
+        "affiliations": [
+          "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India."
+        ]
+      },
+      {
+        "full_name": "Shende, Pravin",
+        "short_name": "Shende P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Technology (Formulations), National Institute of Pharmaceutical Education and Research (NIPER), Sector-67, SAS Nagar (Mohali), Punjab, 160062, India. pravinshende@niper.ac.in.",
+          "Shobhaben Pratapbhai Patel School of Pharmacy and Technology Management, SVKM's NMIMS, V.L. Mehta Road, Vile Parle (W), Mumbai, India. pravinshende@niper.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Drug delivery and translational research"
+    ],
+    "journal_abbrev": [
+      "Drug Deliv Transl Res"
+    ],
+    "pub_date": "2026 Nov 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 05:39",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43034267"
+    ],
+    "review": [
+      "43034267"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "pmid": "43011899",
+    "doi": "10.1093/jlb/lsag028",
+    "title": "The recognition pathway: reconceiving inventorship and obviousness for iterative CRISPR-AI convergence."
+  },
+  "content": {
+    "abstract": "Clustered Regularly Interspaced Short Palindromic Repeats -Artificial Intelligence (CRISPR-AI) convergence generate therapeutic candidates via iterative human-machine workflows that disrupt the inventorship criterion of patent law based on conception. In CRISPR-AI studies, AI systems suggest thousands of guide RNAs or Cas variants; human researchers select, confirm, and optimize them via experimental feedback loops that conceal the locus of conception. The existing patent doctrine, which demands a clear and final concept in the human mind, fails to align with inventions in which AI comes up with solutions that human researchers had not anticipated. This Article advances a recognition pathway for CRISPR-AI inventorship that maintains the natural-person baseline while attributing inventorship to humans who exercise claim-defining technical judgment in identifying patentable value within AI outputs. The Article reconceives the person having ordinary skill in the art standard for AI-enhanced biotechnology, rejecting both inflexible pre-AI baselines and the 'computer having ordinary skill in the art' proposal. A five-factor test is employed to assess AI-generated CRISPR inventions on non-obviousness in terms of problem structure, predictability of solutions, and quality of human judgment. The framework provides a computational biotechnology human-accountability grammar that is administrable, but not legally granted to machines.",
+    "keywords": [
+      "CRISPR",
+      "PHOSITA",
+      "artificial intelligence",
+      "biotechnology",
+      "inventorship",
+      "patent law"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bahebe, Hassan Abdulhakim",
+        "Xiaoming, Li"
+      ],
+      "short_names": [
+        "Bahebe HA",
+        "Xiaoming L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Law, Xi'an Jiaotong University, Xi'an, Shaanxi, China.",
+        "School of Law, Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bahebe, Hassan Abdulhakim",
+        "short_name": "Bahebe HA",
+        "identifiers": [],
+        "affiliations": [
+          "School of Law, Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+        ]
+      },
+      {
+        "full_name": "Xiaoming, Li",
+        "short_name": "Xiaoming L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Law, Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of law and the biosciences"
+    ],
+    "journal_abbrev": [
+      "J Law Biosci"
+    ],
+    "pub_date": "2026 Jul-Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:37",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43011899"
+    ],
+    "review": [
+      "43011899"
+    ],
+    "pmc": [
+      "13750369"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43011899/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/jlb/article-lookup/doi/10.1093/jlb/lsag028",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "pmid": "43033677",
+    "doi": "10.1016/j.micres.2026.128819",
+    "title": "An engineered probiotic yeast converts extracellular ATP into adenosine to alleviate experimental colitis."
+  },
+  "content": {
+    "abstract": "Inflammatory bowel disease (IBD) is a chronic relapsing intestinal disorder characterized by mucosal inflammation, epithelial barrier disruption, and gut microbial dysbiosis. Excessive extracellular ATP (eATP) accumulates in inflamed intestinal tissues and amplifies immune activation through purinergic signaling, whereas adenosine generated from extracellular nucleotide metabolism exerts immunoregulatory effects. Here, we engineered the probiotic yeast Saccharomyces boulardii to sense eATP and convert it into adenosine through a CRISPR-engineered dual-enzyme pathway consisting of apyrase and 5'-nucleotidase. The engineered strain showed ATP-responsive pathway activation and efficiently generated adenosine from eATP, allowing extracellular nucleotide metabolism to be modulated in inflammatory settings. Oral administration of this strain significantly alleviated disease severity in acute dextran sulfate sodium (DSS)-induced colitis and showed beneficial effects in a repeated-DSS model, improved barrier-related epithelial features, reduced pro-inflammatory cytokine production, and supported mucosal recovery. Integrated microbiome and transcriptome analyses further showed partial restoration of gut microbial community structure, partial recovery of predicted microbial purine-related pathways, and attenuation of mucosal T-cell activation. Together, these findings indicate that engineered Saccharomyces boulardii can regulate extracellular purine metabolism in the inflamed gut and provide a microbial strategy for modulating intestinal inflammation.",
+    "keywords": [
+      "Adenosine",
+      "Engineered probiotic",
+      "Extracellular ATP",
+      "Gut microbiota",
+      "Inflammatory bowel disease",
+      "Purine metabolism",
+      "Saccharomyces boulardii"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Huiye",
+        "Zhang, Mingxin",
+        "Wu, Weizhen",
+        "Deng, Qingyun",
+        "Li, Xiaofang",
+        "Ma, Rongwei",
+        "Bai, Lan",
+        "Huang, Bing"
+      ],
+      "short_names": [
+        "Liu H",
+        "Zhang M",
+        "Wu W",
+        "Deng Q",
+        "Li X",
+        "Ma R",
+        "Bai L",
+        "Huang B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China. Electronic address: bailan_99@yeah.net.",
+        "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China. Electronic address: huangb1ng@smu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Huiye",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Mingxin",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Weizhen",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Qingyun",
+        "short_name": "Deng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaofang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Rongwei",
+        "short_name": "Ma R",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Lan",
+        "short_name": "Bai L",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China. Electronic address: bailan_99@yeah.net."
+        ]
+      },
+      {
+        "full_name": "Huang, Bing",
+        "short_name": "Huang B",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Gastroenterology, Department of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China. Electronic address: huangb1ng@smu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiological research"
+    ],
+    "journal_abbrev": [
+      "Microbiol Res"
+    ],
+    "pub_date": "2026 Nov 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/15 00:57",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43033677"
+    ],
+    "review": [
+      "43033677"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0944-5013(26)00383-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NT5E-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

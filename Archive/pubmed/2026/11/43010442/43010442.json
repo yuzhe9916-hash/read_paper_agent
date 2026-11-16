@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "43010442",
+    "doi": "10.1021/acs.analchem.6c05197",
+    "title": "Decoupled Signal Transduction via a Non-Copper Laccase Mimic for CRISPR-Based Electrochemical Detection of Hepatocellular Carcinoma."
+  },
+  "content": {
+    "abstract": "Laccase-mimicking nanozymes have been overwhelmingly copper-dependent, and largely confined to environmental contexts, with clinical translation remaining unrealized. Here, we depart from this paradigm by designing a non-copper nanozyme, Mn-Trp NR, assembled through manganese-tryptophan coordination. Spectroscopic and theoretical analyses show that tryptophan coordination finely modulates the Mn electronic structure, strengthening O2 adsorption and lowering the reaction barrier, thereby conferring laccase-like activity, substrate affinity, and stability superior to the native enzyme. To overcome broad-substrate promiscuity that precludes specific biomarker recognition, we decoupled signal transduction from target identification: Mn-Trp NR serves as a universal amplifier, whereas CRISPR/Cas12a confers high specificity. Accordingly, a cascaded electrochemical biosensor was built on a DNA triangular prism integrating catalytic hairpin assembly, hybridization chain reaction, and CRISPR/Cas12a activation. The platform detects hepatocellular carcinoma (HCC) biomarkers microRNA-122 (miRNA-122) and alpha-fetoprotein (AFP) with limits of 11.98 aM and 10.31 fg/mL, respectively, in a streamlined 160 min, two-step procedure. In clinical sera, the biosensor perfectly distinguishes HCC patients from healthy donors (AUC = 1.00) and agrees strongly with benchmark methods (RT-qPCR for miRNA-122, ELISA for AFP, R2 > 0.97). By expanding laccase-mimic synthesis beyond copper via ligand-field engineering and establishing a decoupled architecture that reconciles broad-spectrum catalysis with high-specificity recognition, this work provides a generalizable strategy for deploying nanozymes in precision diagnostics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Laccase/chemistry/metabolism",
+      "Humans",
+      "*Electrochemical Techniques/methods",
+      "*Liver Neoplasms/diagnosis",
+      "*Biosensing Techniques/methods",
+      "*Carcinoma, Hepatocellular/diagnosis",
+      "*CRISPR-Cas Systems/genetics",
+      "alpha-Fetoproteins/analysis",
+      "MicroRNAs/blood/analysis",
+      "Signal Transduction",
+      "Manganese/chemistry",
+      "Tryptophan/chemistry",
+      "Biomarkers, Tumor/blood/analysis",
+      "Copper",
+      "*Biomimetic Materials/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Huimin",
+        "Zhou, Ya",
+        "Yan, Yifan",
+        "Ye, Jing",
+        "Dong, Xuefei",
+        "Chen, Mengjie",
+        "Meng, Tian",
+        "Jiao, Dongxu",
+        "Wang, Dewen",
+        "Zhu, Liping",
+        "Yang, Xiurong"
+      ],
+      "short_names": [
+        "Li H",
+        "Zhou Y",
+        "Yan Y",
+        "Ye J",
+        "Dong X",
+        "Chen M",
+        "Meng T",
+        "Jiao D",
+        "Wang D",
+        "Zhu L",
+        "Yang X"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-0234-5395",
+        "ORCID: 0000-0002-6482-9286",
+        "ORCID: 0000-0003-0021-5135"
+      ],
+      "affiliations": [
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "National Key Laboratory of Black Soils Conservation and Utilization, Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun130102, China.",
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "College of Energy, Soochow University, Suzhou215006, China.",
+        "College of Chemistry, Chemical Engineering and Resource Utilization, Northeast Forestry University, Harbin150040, China.",
+        "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun130022, China.",
+        "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China.",
+        "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun130022, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Huimin",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ya",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Yifan",
+        "short_name": "Yan Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Jing",
+        "short_name": "Ye J",
+        "identifiers": [
+          "0009-0003-0234-5395"
+        ],
+        "affiliations": [
+          "National Key Laboratory of Black Soils Conservation and Utilization, Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun130102, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Xuefei",
+        "short_name": "Dong X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Mengjie",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Tian",
+        "short_name": "Meng T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Energy, Soochow University, Suzhou215006, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Dongxu",
+        "short_name": "Jiao D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Chemical Engineering and Resource Utilization, Northeast Forestry University, Harbin150040, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dewen",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun130022, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Liping",
+        "short_name": "Zhu L",
+        "identifiers": [
+          "0000-0002-6482-9286"
+        ],
+        "affiliations": [
+          "College of Chemistry and Materials Science, Sichuan Normal University, Chengdu610066, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiurong",
+        "short_name": "Yang X",
+        "identifiers": [
+          "0000-0003-0021-5135"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun130022, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/11 11:33",
+    "fetched_at": "2026-11-16 08:04:15"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43010442"
+    ],
+    "review": [
+      "43010442"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c05197",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

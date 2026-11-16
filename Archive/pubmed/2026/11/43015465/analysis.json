@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43015465",
+  "title": "Suppression of epithelial proliferation and tumorigenesis by IgA.",
+  "authors": "Donaldson, Gregory P; Lima Dos Reis, Gabriella; Saad, Marwa; Wichmann, Christopher; Mamede, Izabela; Chen, Guo; Harrer, Caroline E; DelGaudio, Nicole L; Zhang, Dayu; Aydin, Begum; Castro, Tiago B R; Grivennikov, Sergei I; Reis, Bernardo S; Liu, Elise G; Eisenbarth, Stephanie C; Birsoy, Kivanc; Tavazoie, Sohail F; Stadtmueller, Beth M; Victora, Gabriel D; Mucida, Daniel",
+  "journal": "Nature",
+  "published_date": "2026-11-12",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 2,
+  "one_liner_zh": "该文研究IgA通过DMBT1抑制肠道上皮增殖和肿瘤发生，虽使用CRISPR筛选但对象与机制均非CRISPR/碱基编辑/交错切割，仅筛选工具应用，与本课题无实质关联。",
+  "abstract": "Immunoglobulin A (IgA) is the most abundant antibody isotype produced by mammals, and has a specialized role in mucosal homeostasis(1). IgA is constantly secreted into the intestinal lumen and binds to commensal microorganisms to regulate their colonization and function(2,3), with unclear implications for health. IgA deficiency is common in humans, but difficult to study, because of its complex aetiology and comorbidities(4-8). Here we use genetically and environmentally controlled mice to show that various models of IgA deficiency result in increased susceptibility to several models of endogenous colorectal cancer. Cellular and molecular analyses revealed that, in the absence of IgA, colonic epithelial cells induce antibacterial factors and accelerate cell cycling in response to the microbiota. Oral treatment with IgA was sufficient to reduce steady-state proliferation and protect mice from tumours; however, this function was due to the structure of the antibody rather than to binding specificity. In a reductionist culture system, IgA directly suppressed epithelial growth. Co-immunoprecipitation mass spectrometry and targeted CRISPR screening identified DMBT1 as an IgA-binding epithelial surface protein that is required for IgA-mediated suppression of proliferation. Together, IgA and DMBT1 tune the normal cycling of absorptive colonocyte progenitors. In IgA-knockout mice, deleting the transmembrane and cytoplasmic signalling portions of DMBT1 was sufficient to reverse both the increased epithelial cell proliferation and the increased tumour susceptibility seen in these mice. These experiments establish a homeostatic function for IgA in tempering physiological epithelial responses to the microbiota to maintain mucosal health.",
+  "abstract_zh": "免疫球蛋白A（IgA）是哺乳动物产生的最丰富的抗体同种型，并在黏膜稳态中具有专门作用(1)。IgA持续分泌到肠腔中，并与共生微生物结合以调节其定植和功能(2,3)，但其对健康的影响尚不明确。IgA缺乏在人类中常见，但由于其复杂的病因和合并症(4-8)，难以研究。在此，我们使用遗传和环境可控的小鼠，证明多种IgA缺乏模型导致对内源性结直肠癌多种模型的易感性增加。细胞和分子分析揭示，在缺乏IgA的情况下，结肠上皮细胞诱导抗菌因子并加速细胞周期以响应微生物群。口服IgA治疗足以减少稳态增殖并保护小鼠免受肿瘤侵害；然而，这一功能归因于抗体的结构而非结合特异性。在还原论培养系统中，IgA直接抑制上皮生长。免疫共沉淀质谱和靶向CRISPR筛选鉴定出DMBT1为一种IgA结合的上皮表面蛋白，是IgA介导的增殖抑制所必需的。IgA和DMBT1共同调节吸收性结肠细胞祖细胞的正常周期。在IgA敲除小鼠中，删除DMBT1的跨膜和胞质信号部分足以逆转这些小鼠中观察到的上皮细胞增殖增加和肿瘤易感性增加。这些实验确立了IgA在调节上皮对微生物群的生理反应以维持黏膜健康中的稳态功能。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015465/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43015465/",
+  "paper_page_path": "papers/pubmed/43015465/index.html"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43034267",
+  "title": "Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.",
+  "authors": "Kumar, Vivek; Batra, Priyanka; Das, Nivedita; Shende, Pravin",
+  "journal": "Drug delivery and translational research",
+  "published_date": "2026-11-15",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 2,
+  "one_liner_zh": "该综述讨论肿瘤耐药机制与纳米/生物治疗递送策略，仅泛泛提及CRISPR基因组编辑作为工具，未涉及碱基编辑、交错切割或Cas-DNA分子机制，与本课题核心无关。",
+  "abstract": "Recent advances in precision oncology fueled the development of nanotherapeutics,​ molecularly targeted drugs, engineered immunotherapies, RNA therapeutics, and smart biomaterials for more selective cancer treatment. However, long-term therapeutic responses remain restricted by interconnected adaptive mechanisms, including ABC transporter-mediated drug efflux, dysregulated signaling pathways, apoptosis evasion, immune escape, epithelial-to-mesenchymal transition, and tumor microenvironment​ remodeling. In this review article, these processes are collectively framed as tumor-mediated molecular hijacking, describing malignant cell exploitation and microenvironmental pathways that promote multidrug resistance and therapeutic failure. The review critically examines nanotherapeutic and advanced biotherapeutic strategies to counteract these mechanisms, including functionalized nanocarriers, antibody-drug conjugates, CAR-T cells, tumor-infiltrating lymphocyte therapy, immune checkpoint blockade, mesenchymal stem-cell (MSC)-based therapeutics, CRISPR-mediated genome editing, bispecific T-cell engagers, and RNA-based approaches. Particular focus includes drug-delivery elements such as tumour penetration, intracellular trafficking, controlled release, pharmacokinetics, biodistribution, and critical formulation attributes, as well as translational challenges such as manufacturability, scalability, reproducibility, stability, safety, and regulatory feasibility. Emerging biofabrication approaches enable the fabrication of adaptive and personalized delivery systems, while artificial intelligence and machine learning are utilized as tools for structure-guided design, nanocarrier optimization, treatment-response prediction, and patient-specific digital-twin modelling. This paper combines tumor-mediated molecular hijacking with drug delivery technology at the forefront and translational aspects to create a comprehensive platform for clinically relevant precision cancer therapeutics.Clinical trial number: Not applicable.",
+  "abstract_zh": "精准肿瘤学的最新进展推动了纳米治疗药物、分子靶向药物、工程化免疫疗法、RNA治疗药物及智能生物材料的发展，以实现更具选择性的癌症治疗。然而，长期治疗反应仍受到相互关联的适应性机制的限制，包括ABC转运体介导的药物外排、信号通路失调、凋亡逃逸、免疫逃逸、上皮-间质转化及肿瘤微环境重塑。在本综述文章中，这些过程被统称为肿瘤介导的分子劫持，描述了恶性细胞利用及微环境通路促进多药耐药和治疗失败的现象。本文批判性地审视了对抗这些机制的纳米治疗和先进生物治疗策略，包括功能化纳米载体、抗体-药物偶联物、CAR-T细胞、肿瘤浸润淋巴细胞疗法、免疫检查点阻断、间充质干细胞（MSC）基础疗法、CRISPR介导的基因组编辑、双特异性T细胞衔接器及RNA基础方法。特别关注药物递送要素，如肿瘤穿透、细胞内运输、控释、药代动力学、生物分布及关键制剂属性，以及转化挑战，如可制造性、可扩展性、重现性、稳定性、安全性和监管可行性。新兴生物制造方法能够制造适应性和个性化递送系统，而人工智能和机器学习被用作结构导向设计、纳米载体优化、治疗反应预测及患者特异性数字孪生建模的工具。本文将肿瘤介导的分子劫持与前沿药物递送技术及转化方面相结合，为临床相关的精准癌症治疗创建了一个综合平台。临床试验编号：不适用。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43034267/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43034267/",
+  "paper_page_path": "papers/pubmed/43034267/index.html"
+}

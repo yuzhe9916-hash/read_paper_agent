@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43033677",
+  "title": "An engineered probiotic yeast converts extracellular ATP into adenosine to alleviate experimental colitis.",
+  "authors": "Liu, Huiye; Zhang, Mingxin; Wu, Weizhen; Deng, Qingyun; Li, Xiaofang; Ma, Rongwei; Bai, Lan; Huang, Bing",
+  "journal": "Microbiological research",
+  "published_date": "2026-11-15",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 2,
+  "one_liner_zh": "该文利用CRISPR工程化益生酵母将胞外ATP转化为腺苷以缓解结肠炎，虽涉及CRISPR工具应用，但核心是微生物代谢调控与炎症表型，未研究Cas切割、交错断裂或碱基编辑的分子机制，与本课题关联微弱。",
+  "abstract": "Inflammatory bowel disease (IBD) is a chronic relapsing intestinal disorder characterized by mucosal inflammation, epithelial barrier disruption, and gut microbial dysbiosis. Excessive extracellular ATP (eATP) accumulates in inflamed intestinal tissues and amplifies immune activation through purinergic signaling, whereas adenosine generated from extracellular nucleotide metabolism exerts immunoregulatory effects. Here, we engineered the probiotic yeast Saccharomyces boulardii to sense eATP and convert it into adenosine through a CRISPR-engineered dual-enzyme pathway consisting of apyrase and 5'-nucleotidase. The engineered strain showed ATP-responsive pathway activation and efficiently generated adenosine from eATP, allowing extracellular nucleotide metabolism to be modulated in inflammatory settings. Oral administration of this strain significantly alleviated disease severity in acute dextran sulfate sodium (DSS)-induced colitis and showed beneficial effects in a repeated-DSS model, improved barrier-related epithelial features, reduced pro-inflammatory cytokine production, and supported mucosal recovery. Integrated microbiome and transcriptome analyses further showed partial restoration of gut microbial community structure, partial recovery of predicted microbial purine-related pathways, and attenuation of mucosal T-cell activation. Together, these findings indicate that engineered Saccharomyces boulardii can regulate extracellular purine metabolism in the inflamed gut and provide a microbial strategy for modulating intestinal inflammation.",
+  "abstract_zh": "炎症性肠病（IBD）是一种慢性复发性肠道疾病，其特征为黏膜炎症、上皮屏障破坏及肠道微生物失调。过量的细胞外ATP（eATP）在发炎肠道组织中积累，并通过嘌呤能信号传导放大免疫激活，而由细胞外核苷酸代谢产生的腺苷则发挥免疫调节作用。在此，我们工程化改造了益生酵母布拉氏酵母菌（Saccharomyces boulardii），使其通过CRISPR工程化的双酶通路（由apyrase和5'-核苷酸酶组成）感知eATP并将其转化为腺苷。该工程菌株表现出ATP响应性通路激活，并能高效地从eATP生成腺苷，从而在炎症环境中调节细胞外核苷酸代谢。口服该菌株显著减轻了急性葡聚糖硫酸钠（DSS）诱导结肠炎的疾病严重程度，并在重复DSS模型中显示出有益效果，改善了屏障相关上皮特征，减少了促炎细胞因子产生，并支持黏膜恢复。整合的微生物组和转录组分析进一步显示，肠道微生物群落结构部分恢复，预测的微生物嘌呤相关通路部分重建，以及黏膜T细胞激活减弱。综合这些发现表明，工程化布拉氏酵母菌能够调节发炎肠道中的细胞外嘌呤代谢，并为调节肠道炎症提供了一种微生物策略。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033677/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43033677/",
+  "paper_page_path": "papers/pubmed/43033677/index.html"
+}
