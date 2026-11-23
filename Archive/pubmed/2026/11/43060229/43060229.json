@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "43060229",
+    "doi": "10.64898/2026.11.11.765976",
+    "title": "Regulation of the Epstein-Barr Epigenome by Histone Variant MacroH2A."
+  },
+  "content": {
+    "abstract": "Histone variants play an important role in regulating chromatin dynamics of Epstein-Barr Virus (EBV). Here, we investigate the role of histone variant macroH2A in EBV chromatin structure, gene expression and copy number control during latent infection. ChIP-seq analysis in EBV (+) SNU719 gastric carcinoma and Mutu I Burkitt lymphoma cells revealed that macroH2A was most enriched at repetitive DNA elements, including oriLyt, BHLF1, LF3 and terminal repeat (TR) regions of the EBV genome. MacroH2A depletion in EBV-associated gastric cancer cell line SNU719 led to a small increase in some viral lytic genes and increase in viral DNA copy number. RNAseq transcriptomics after macroH2A depletion identified major perturbations in cellular gene pathways, including beta-catenin/TCF signaling and chromatin remodeling. Depletion of macroH2A during EBV lytic reactivation reduced EBV lytic gene activation, but increased EBV DNA copy number. Previous study demonstrated a colocalization and cooperative binding between histone variant H2A.Z and EBNA1. We now show that depletion of macroH2A causes an increase in both H2A.Z and EBNA1 at oriP and cellular binding sites for EBNA1. We also found that gammaH2AX localizes to oriP and that this depends on macroH2A. Finally, we show that CRISPR/Cas9 knockout of macroH2A increases the replication and episome maintenance of oriP-containing plasmids. Taken together, these findings indicate that macroH2A localizes to the repetitive elements of EBV, including oriLyt, and can function to limit H2A.Z and EBNA1 binding at oriP, which alters DNA damage signaling at oriP and limits episomal replication. These findings provide a novel role for macroH2A in maintaining EBV copy number and genome integrity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Castro-Munoz, Leonardo Josue",
+        "Yoon, Leena",
+        "Karisetty, Bhanu Chandra",
+        "Bharti, Aradhana",
+        "Tempera, Italo",
+        "Soldan, Samantha S",
+        "Lieberman, Paul"
+      ],
+      "short_names": [
+        "Castro-Munoz LJ",
+        "Yoon L",
+        "Karisetty BC",
+        "Bharti A",
+        "Tempera I",
+        "Soldan SS",
+        "Lieberman P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7893-2914",
+        "ORCID: 0000-0002-3935-9921"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Castro-Muñoz, Leonardo Josué",
+        "short_name": "Castro-Muñoz LJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yoon, Leena",
+        "short_name": "Yoon L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Karisetty, Bhanu Chandra",
+        "short_name": "Karisetty BC",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bharti, Aradhana",
+        "short_name": "Bharti A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tempera, Italo",
+        "short_name": "Tempera I",
+        "identifiers": [
+          "0000-0001-7893-2914"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Soldan, Samantha S",
+        "short_name": "Soldan SS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lieberman, Paul",
+        "short_name": "Lieberman P",
+        "identifiers": [
+          "0000-0002-3935-9921"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060229",
+      "40657913",
+      "39975074",
+      "31142669",
+      "27009953",
+      "31941781",
+      "33109754",
+      "41378909",
+      "11443858",
+      "20929547",
+      "26468528",
+      "41841741",
+      "36037477",
+      "28701406",
+      "15498777",
+      "42283463",
+      "32999023",
+      "20219917",
+      "32119176",
+      "29743367",
+      "24344309",
+      "36744959",
+      "8262037",
+      "28228591",
+      "40950008",
+      "24486954",
+      "38766209",
+      "26858444",
+      "9930345",
+      "28077791",
+      "31921057",
+      "39877093",
+      "30996097",
+      "19244323",
+      "42132380",
+      "19073720",
+      "38113273",
+      "14557661",
+      "21910783",
+      "33482082",
+      "39821265",
+      "38451083",
+      "21490103",
+      "28794029",
+      "15015577",
+      "10207059",
+      "36728436",
+      "8806482",
+      "41216873",
+      "19834552",
+      "25950714",
+      "29976663",
+      "14585343",
+      "25355892",
+      "11734622",
+      "28490592",
+      "30606931",
+      "29142137",
+      "30817940",
+      "37262099",
+      "40197026",
+      "19265546",
+      "2846181",
+      "11017796",
+      "36478267",
+      "30355690",
+      "36696451",
+      "25031339",
+      "29132393",
+      "25948750",
+      "33883224",
+      "42294882",
+      "33929613",
+      "20930215",
+      "21416002",
+      "30073532",
+      "15479791",
+      "36625581",
+      "31822610",
+      "15507618",
+      "10954558",
+      "24522918",
+      "9625252",
+      "23836915",
+      "20200249",
+      "36094314",
+      "30021895",
+      "30594162",
+      "21717425",
+      "34969765",
+      "30842315",
+      "7739569",
+      "2542579",
+      "32581094",
+      "8384755",
+      "38635661",
+      "26889033",
+      "30487153",
+      "18096263",
+      "11602702"
+    ],
+    "review": [
+      "43060229",
+      "11443858"
+    ],
+    "pmc": [
+      "13779397"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060229/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.11.765976",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

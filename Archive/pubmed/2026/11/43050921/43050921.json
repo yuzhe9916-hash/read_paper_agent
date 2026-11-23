@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "43050921",
+    "doi": "10.1016/j.jtherbio.2026.104615",
+    "title": "Heat stress impairs pharyngeal tooth mineralization via TRPV1 in zebrafish."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Ambient temperature is a fundamental environmental factor that governs a wide range of biological processes in ectotherms. Heat stress is known to disrupt development, yet its impact on specific physiological processes such as tooth biomineralization, and the underlying molecular thermosensing mechanisms, remain poorly understood. OBJECTIVE: To determine whether elevated temperature impairs pharyngeal mineralization in zebrafish and if so, whether the thermosensitive TRPV1 channel mediates this effect. METHODS: Zebrafish larvae were reared at 28  degrees C, 30  degrees C, 32  degrees C or 34  degrees C for 20 days. Pharyngeal tooth mineralization was assessed by Alizarin Red S staining and scanning electron microscopy. Expression of mineralization-related genes (odam, scpp5, scpp1, scpp9) was quantified by qRT-PCR. Tissue morphology was examined by HE staining. TRPV1 involvement was tested by pharmacological inhibition (AMG517) and CRISPR/Cas9-mediated trpv1 knockdown. RESULTS: Higher temperatures progressively impaired tooth mineralization, with patchy staining, changes in ameloblast-like cell morphology, and rough, pitted enameloid surfaces, despite normal survival and morphology. Gene expression of odam, scpp5, scpp1 and scpp9 was consistently downregulated. Both TRPV1 inhibition and trpv1 knockdown substantially rescued the heat-induced defects, restoring mineralization, surface structure and gene expression without affecting viability. CONCLUSION: Heat stress disrupts pharyngeal tooth biomineralization in zebrafish via TRPV1. TRPV1 is essential for this effect, positioning it as a key molecular link between environmental temperature and tooth formation.",
+    "keywords": [
+      "Heat stress",
+      "TRPV1",
+      "Tooth mineralization",
+      "Zebrafish"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ren, Yujia",
+        "Liu, Jingyun",
+        "Wang, Zhen",
+        "Fu, Jing",
+        "Zheng, Huiwen",
+        "Xing, Xianghui"
+      ],
+      "short_names": [
+        "Ren Y",
+        "Liu J",
+        "Wang Z",
+        "Fu J",
+        "Zheng H",
+        "Xing X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China.",
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China.",
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China.",
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China.",
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China. Electronic address: 781063817@qq.com.",
+        "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China. Electronic address: dr.xing@nju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ren, Yujia",
+        "short_name": "Ren Y",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jingyun",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhen",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Jing",
+        "short_name": "Fu J",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Huiwen",
+        "short_name": "Zheng H",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China. Electronic address: 781063817@qq.com."
+        ]
+      },
+      {
+        "full_name": "Xing, Xianghui",
+        "short_name": "Xing X",
+        "identifiers": [],
+        "affiliations": [
+          "Nanjing Stomatological Hospital, Affiliated Hospital of Medical School, Institute of Stomatology, Nanjing University, Nanjing, China. Electronic address: dr.xing@nju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of thermal biology"
+    ],
+    "journal_abbrev": [
+      "J Therm Biol"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 23:29",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43050921",
+      "32117623",
+      "42242477",
+      "42824438",
+      "42475469",
+      "42965308",
+      "34904892",
+      "23516290",
+      "42580047",
+      "33723934",
+      "40915893",
+      "33407019",
+      "33863444",
+      "30867839",
+      "41937026",
+      "40994782",
+      "39865316",
+      "41793424",
+      "42055597",
+      "21506114",
+      "15355794",
+      "30676872",
+      "27227029",
+      "27699868",
+      "37457309",
+      "41512776",
+      "41692957",
+      "27569393",
+      "37742481",
+      "21118524",
+      "28689714",
+      "42308665",
+      "37821862",
+      "40874972",
+      "23497345",
+      "28222767",
+      "31894108",
+      "27558883",
+      "26787303",
+      "34803495",
+      "35830921",
+      "41721489",
+      "42829192",
+      "39675109",
+      "38997017",
+      "11131132",
+      "41008981",
+      "40654443",
+      "26926195",
+      "31070548",
+      "39047882",
+      "41762047",
+      "41207993",
+      "40112540",
+      "31049835",
+      "23223305",
+      "22666345",
+      "36226668",
+      "32461255",
+      "40900250",
+      "32641982",
+      "29320695",
+      "34126160",
+      "15467255",
+      "27979980",
+      "17508023",
+      "31019527",
+      "34498418",
+      "18503554",
+      "26552234",
+      "40645107",
+      "30652078",
+      "38020910",
+      "40898708",
+      "31790806",
+      "20665536",
+      "42526140",
+      "28024869",
+      "38597725",
+      "23760765",
+      "29783951",
+      "41714024",
+      "19386094",
+      "22427437",
+      "30643696",
+      "38318762",
+      "29147715",
+      "35886843",
+      "30606114",
+      "42977007",
+      "33452817",
+      "41520848",
+      "33809683",
+      "40753765",
+      "41184008",
+      "3166612",
+      "31686903",
+      "33508145",
+      "21666106",
+      "23632418"
+    ],
+    "review": [
+      "43050921",
+      "27227029"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0306-4565(26)00248-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

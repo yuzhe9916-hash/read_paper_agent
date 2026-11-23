@@ -1,0 +1,506 @@
+{
+  "identity": {
+    "pmid": "43054469",
+    "doi": "10.34133/cancomm.0066",
+    "title": "SLC38A2-Driven Glutamine Metabolic Reprogramming Promotes Hypoxic Survival in Glioblastoma."
+  },
+  "content": {
+    "abstract": "Background: Glioblastoma (GBM) is highly refractory to standard therapies, including anti-angiogenic agents such as bevacizumab. While bevacizumab prunes tumor vasculature, it exacerbates intratumoral hypoxia, which drives a metabolically resilient phenotype that limits survival benefits. This study aimed to identify the metabolic dependencies underlying GBM adaptation to hypoxia and to evaluate whether targeting these dependencies could enhance the antitumor efficacy of bevacizumab. Methods: We analyzed the spatial distribution of key metabolites in GBM patients and orthotopic xenograft mouse models using magnetic resonance spectroscopy and chemical shift imaging. A dual-vector hypoxia fate-mapping system paired with an in vivo genome-wide clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated protein 9 (Cas9) knockout screen was employed to identify metabolic vulnerabilities within the hypoxic niche. Metabolic flux was analyzed utilizing (13)C(5)-labeled glutamine tracers. The molecular mechanisms governing solute carrier family 38 member 2 (SLC38A2) regulation were investigated using chromatin immunoprecipitation, cycloheximide chase assays, liquid chromatography-tandem mass spectrometry, and co-immunoprecipitation. The efficacy of targeting SLC38A2 was evaluated through structure-based virtual screening and in vivo orthotopic xenograft models treated concurrently with zonisamide and bevacizumab. Results: Imaging and tissue metabolite analyses revealed a spatial metabolic mismatch in the hypoxic tumor core, characterized by lactate accumulation alongside glutamine depletion. In vivo CRISPR-Cas9 screening identified SLC38A2 as an essential metabolic dependency for GBM cell survival under hypoxic stress. Under hypoxic conditions, hypoxia-inducible factor 1 alpha (HIF-1alpha) promoted SLC38A2 transcription, while elevated lactate stabilized the SLC38A2 protein through alanyl-tRNA synthetase 1 (AARS1)-mediated lactylation at Lys472. These changes were accompanied by increased glutamine uptake and glutathione biosynthesis, reduced reactive oxygen species levels, and decreased mitochondrial-fission-mediated apoptosis. Pharmacological screening identified the US Food and Drug Administration-approved, brain-penetrant anticonvulsant zonisamide as an inhibitor of SLC38A2. In orthotopic GBM xenograft models, combined treatment with zonisamide and bevacizumab markedly suppressed tumor growth compared with bevacizumab alone. Conclusions: This study defines a spatially organized lactate-glutamine metabolic axis essential for hypoxic adaptation in GBM. The dual transcriptional and posttranslational up-regulation of SLC38A2 represents a critical survival mechanism. This axis can be pharmacologically dismantled by zonisamide, offering a clinically actionable combinational strategy to overcome anti-angiogenic therapy resistance.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Glioblastoma/metabolism/pathology/drug therapy/genetics",
+      "Animals",
+      "Humans",
+      "Metabolic Reprogramming",
+      "Mice",
+      "*Glutamine/metabolism",
+      "Bevacizumab/pharmacology",
+      "Xenograft Model Antitumor Assays",
+      "Cell Line, Tumor",
+      "*Brain Neoplasms/metabolism/pathology/drug therapy/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qi, Yanhua",
+        "Xia, Huize",
+        "Gao, Zijie",
+        "Li, Boyan",
+        "Pan, Ziwen",
+        "Feng, Bowen",
+        "Wang, Chuanzheng",
+        "Ma, Weiyang",
+        "Li, Ruochuan",
+        "Qiu, Jiawei",
+        "Han, Zhe",
+        "Chen, Zheyuan",
+        "Tang, Weijie",
+        "Wang, Qingtong",
+        "Wang, Daiyan",
+        "Hao, Leyang",
+        "Liu, Junzhi",
+        "Zhao, Rongrong",
+        "Zhao, Hongyu",
+        "Li, Gang",
+        "Xue, Hao"
+      ],
+      "short_names": [
+        "Qi Y",
+        "Xia H",
+        "Gao Z",
+        "Li B",
+        "Pan Z",
+        "Feng B",
+        "Wang C",
+        "Ma W",
+        "Li R",
+        "Qiu J",
+        "Han Z",
+        "Chen Z",
+        "Tang W",
+        "Wang Q",
+        "Wang D",
+        "Hao L",
+        "Liu J",
+        "Zhao R",
+        "Zhao H",
+        "Li G",
+        "Xue H"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7787-9330"
+      ],
+      "affiliations": [
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qi, Yanhua",
+        "short_name": "Qi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xia, Huize",
+        "short_name": "Xia H",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Gao, Zijie",
+        "short_name": "Gao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Boyan",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Pan, Ziwen",
+        "short_name": "Pan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Feng, Bowen",
+        "short_name": "Feng B",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chuanzheng",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Ma, Weiyang",
+        "short_name": "Ma W",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Ruochuan",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Jiawei",
+        "short_name": "Qiu J",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Han, Zhe",
+        "short_name": "Han Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zheyuan",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Tang, Weijie",
+        "short_name": "Tang W",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Qingtong",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Daiyan",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Hao, Leyang",
+        "short_name": "Hao L",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Liu, Junzhi",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Rongrong",
+        "short_name": "Zhao R",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Hongyu",
+        "short_name": "Zhao H",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Li, Gang",
+        "short_name": "Li G",
+        "identifiers": [
+          "0000-0001-7787-9330"
+        ],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xue, Hao",
+        "short_name": "Xue H",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China.",
+          "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, Shandong, P. R. China.",
+          "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, Shandong, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer communications (London, England)"
+    ],
+    "journal_abbrev": [
+      "Cancer Commun (Lond)"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 18:02",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43054469",
+      "41476110",
+      "41995718",
+      "32641990",
+      "42260484",
+      "42028950",
+      "32041837",
+      "38456228",
+      "38773970",
+      "25322816",
+      "32173479",
+      "41484630",
+      "22447568",
+      "25798620",
+      "27591677",
+      "29969452",
+      "42458724",
+      "40050992",
+      "42134086",
+      "41695483",
+      "41608571",
+      "25370472",
+      "38892084",
+      "42668078",
+      "40373963",
+      "26965451",
+      "41212520",
+      "25071012",
+      "43045097",
+      "42530074",
+      "42310297",
+      "42770249",
+      "40088740",
+      "34470658",
+      "30425242",
+      "41317711",
+      "43004348",
+      "27329597",
+      "39373211",
+      "41791532",
+      "25932951",
+      "38098117",
+      "41881949",
+      "31694905",
+      "34625658",
+      "41901300",
+      "40971821",
+      "31078621",
+      "38582396",
+      "42316258",
+      "42803128",
+      "34335968",
+      "21935366",
+      "40084746",
+      "41660917",
+      "34488821",
+      "40983628",
+      "42014887",
+      "41381783",
+      "41045986",
+      "29059154",
+      "26083570",
+      "27370399",
+      "28138554",
+      "41559600",
+      "42661193",
+      "37563692",
+      "28720668",
+      "40639044",
+      "41041071",
+      "42352372",
+      "29492900",
+      "30144594",
+      "22946104",
+      "38635885",
+      "39631468",
+      "28912141",
+      "40974912",
+      "41608585",
+      "40482922",
+      "28218903",
+      "41805027",
+      "39673809",
+      "28619042",
+      "40772310",
+      "41664181",
+      "31963507",
+      "39055895",
+      "42090721",
+      "42975782",
+      "40684232",
+      "41840642",
+      "40686478",
+      "40998915",
+      "41275140",
+      "38506351",
+      "30670496",
+      "40102981",
+      "27940247",
+      "41962607"
+    ],
+    "review": [
+      "43054469",
+      "39055895"
+    ],
+    "pmc": [
+      "13778286"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/braintumors.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Brain Tumors"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43054469/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

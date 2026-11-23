@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.11.16.766972",
+  "title": "Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing",
+  "authors": "Shi X; Li C; Li J; Liu Y; Wu Q",
+  "journal": "bioRxiv",
+  "published_date": "2026-11-17",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 9,
+  "one_liner_zh": "该研究通过大规模CRISPR编辑文库系统比较A-rich与G-rich PAM Cas9编辑器，揭示单核苷酸微同源性与交错切割决定编辑结果的可预测性，并开发深度学习模型，直接聚焦CRISPR切割机制与碱基编辑产物形成，高度契合本课题。",
+  "abstract": "The CRISPR/Cas9 system has emerged as a revolutionary tool with diverse applications in genome engineering; however, the role of nanoscale hydrogen bonds between single nucleotides in precision editing remains unknown. Here we systematically compared A-rich and G-rich PAM-recognizing Cas9 editors through comprehensive analyses of ~37,000 targeting sites with about half million libraries of ~0.36 billion types of editing outcomes. We showed that the A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM. In addition, the A-rich Cas9 editors induce a higher frequency of staggered cleavages, resulting in predictable editing with donor-independent templated insertions. Moreover, we identified distinct DNA sequence motifs for predictable insertions with the A-rich Cas9 editors. In particular, we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively. Furthermore, we found that PolQ plays a key role in enhanced random insertions. Finally, we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage. Together, these findings establish PAM-dependent cleavage geometry as a tunable determinant of Cas9 editing outcomes and provide a framework for predictive and precision genome engineering.",
+  "abstract_zh": "CRISPR/Cas9系统已成为基因组工程中具有多种应用的革命性工具；然而，单核苷酸之间纳米尺度氢键在精准编辑中的作用仍属未知。在此，我们通过对约37,000个靶向位点及约5亿种编辑结果类型的大约50万文库进行综合分析，系统比较了识别富含A和富含G的PAM的Cas9编辑器。我们发现，与传统的富含G的PAM的Cas9编辑器相比，富含A的Cas9编辑器表现出更强的编辑结果可预测性。此外，富含A的Cas9编辑器诱导更高频率的 staggered 切割，从而产生不依赖供体的模板化插入的可预测编辑。而且，我们识别出富含A的Cas9编辑器用于可预测插入的独特DNA序列基序。特别地，我们揭示了-4位置的单核苷酸分别通过两个或三个氢键与富含A或富含G的PAM相互作用，在精准工程中作为MMEJ微同源序列。进一步地，我们发现PolQ在增强随机插入中发挥关键作用。最后，我们开发了一种深度学习离散空间扩散模型CRIfuser，用于预测具有 staggered 切割的编辑结果。综合这些发现，确立了PAM依赖性切割几何形状作为Cas9编辑结果的可调决定因素，并为预测性和精准基因组工程提供了框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766972",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766972",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.11.16.766972/index.html"
+}

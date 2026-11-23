@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Inferring gene regulatory networks from single-cell perturbation data by optimizing causal reach of latent mediator dynamics. · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-low">3</span>
+    <div>
+      <h1>Inferring gene regulatory networks from single-cell perturbation data by optimizing causal reach of latent mediator dynamics.</h1>
+      <div class="meta">Qian, Weizhou; Song, Yuxuan; Welch, Joshua D</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv : the preprint server for biology</span>
+        · 2026-11-20
+         · 全文(pmc)
+         · <a href="https://pubmed.ncbi.nlm.nih.gov/43060182/">原文</a>
+      </div>
+      <p class="one-liner">该文开发CausalODE从单细胞CRISPR扰动数据推断基因调控网络，虽涉及CRISPR筛选但聚焦网络因果推断，未研究Cas切割或碱基编辑的分子机制，仅边缘相关。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Resolving the causal structure of gene regulatory networks is central to understanding cellular regulation. Pooled CRISPR screens with single-cell RNA readouts measure the transcriptional consequences of many interventions in parallel, providing a powerful resource for causal discovery. Combinatorial designs that perturb multiple regulators per cell increase throughput and can reveal responses that single-gene perturbations do not. However, inferring causal gene networks from these experiments remains challenging because gene regulatory interactions are nonlinear, dynamic, and often involve feedback. Thus, attributing the combined effect of several perturbations to individual regulators remains difficult. Additionally, transcriptional regulation is ultimately carried out by proteins, while single-cell perturbation datasets generally measure only RNA levels. Existing methods often simplify regulatory dynamics or rely on assumptions that conflict with gene regulation, such as acyclicity. Moreover, current evaluation practices usually rely on expression prediction error, which is readily computable in real datasets, but does not necessarily reflect graph quality. A complementary metric is needed to assess inferred regulatory connections using observed perturbation responses in real data. To address these challenges, we present CausalODE, a differentiable framework for learning causal graphs from single-cell perturbation data. Our approach incorporates three central insights to improve upon previous methods. First, genes that are differentially expressed when a gene is perturbed should be downstream of the target gene in the regulatory network; we quantify this property with a metric we term causal reach. Second, causal interactions involve transient cellular responses in RNA transcription, splicing, and degradation. Third, gene regulatory interactions are mediated by proteins, whose levels are not directly measured in single-cell RNA-seq experiments. Building on these insights, CausalODE learns a graph that optimizes the causal reach metric, captures transient cellular responses to perturbation, and explicitly models the latent dynamics of protein levels. Together, these components allow nonlinear responses, feedback loops, and time-lagged regulation. Across simulated Perturb-seq datasets with different sparsities and graph structures, CausalODE improves AUPRC and precision among top-ranked edges compared with baselines and competing methods, while achieving competitive AUROC. We introduce a metric to evaluate the causal reach of inferred graphs on real data by measuring how well the graphs explain differentially expressed genes in single-cell perturbation experiments. Using this metric, CausalODE outperforms the strongest competing method or baseline by approximately 60% on the CaRPool-seq knockdown dataset and 80% on the Norman et al. activation dataset. Its top-ranked edges generally show greater enrichment for high-confidence evidence from cell-type-matched ChIP-seq, CollecTRI, and regulatory STRING than those of other methods. The inferred graphs also distin-guish non-additive from approximately additive genetic interactions in held-out perturbation pairs. Finally, ablation analyses show that optimizing causal reach improves performance on held-out perturbations, and the learned latent regulator activities track simulated protein dynamics, with median temporal correlations ranging from 0.79 to 0.99.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">解析基因调控网络的因果结构是理解细胞调控的核心。利用单细胞RNA读出的混合CRISPR筛选能够并行测量多种干预的转录后果，为因果发现提供了强大资源。组合设计通过扰动每个细胞中的多个调控因子，提高了通量，并能揭示单基因扰动无法显现的响应。然而，从这些实验中推断因果基因网络仍具挑战性，因为基因调控相互作用是非线性、动态的，且常涉及反馈。因此，将多种扰动的联合效应归因于单个调控因子仍然困难。此外，转录调控最终由蛋白质执行，而单细胞扰动数据集通常仅测量RNA水平。现有方法往往简化调控动态，或依赖与基因调控相冲突的假设，如无环性。同时，当前评估实践通常依赖于表达预测误差，这在真实数据集中易于计算，但不一定反映图质量。需要一种补充指标，利用真实数据中的观察扰动响应来评估推断的调控连接。为应对这些挑战，我们提出了CausalODE，一个用于从单细胞扰动数据学习因果图的可微分框架。我们的方法融合了三个核心见解以改进先前方法。第一，当基因被扰动时差异表达的基因应在调控网络中位于目标基因下游；我们通过一种称为因果可达性 (causal reach) 的指标量化这一特性。第二，因果相互作用涉及RNA转录、剪接和降解中的瞬时细胞响应。第三，基因调控相互作用由蛋白质介导，其水平在单细胞RNA-seq实验中未直接测量。基于这些见解，CausalODE学习一个优化因果可达性指标的图，捕捉对扰动的瞬时细胞响应，并显式建模蛋白质水平的潜在动态。这些组件共同允许非线性响应、反馈环和时滞调控。在具有不同稀疏性和图结构的模拟Perturb-seq数据集中，与基线和竞争方法相比，CausalODE在AUPRC和排名靠前边的精确度上有所提升，同时达到竞争性的AUROC。我们引入一种指标，通过测量推断图在单细胞扰动实验中解释差异表达基因的程度，来评估真实数据上推断图的因果可达性。使用该指标，CausalODE在CaRPool-seq敲低数据集上比最强竞争方法或基线提升约60%，在Norman等人激活数据集上提升约80%。其排名靠前的边通常比其它方法更富集于来自细胞类型匹配的ChIP-seq、CollecTRI和调控STRING的高置信度证据。推断图还能区分保留扰动对中的非加性与近似加性遗传相互作用。最后，消融分析表明，优化因果可达性提高了保留扰动上的性能，且学习到的潜在调控因子活性追踪模拟蛋白质动态，中位时间相关性范围为0.79至0.99。</div>
+  </section>
+  
+  
+  
+</article>
+</main>
+</body>
+</html>

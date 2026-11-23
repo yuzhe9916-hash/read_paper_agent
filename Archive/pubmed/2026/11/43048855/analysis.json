@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43048855",
+  "title": "Fully modified SpyCas9 guide RNAs enable robust genome editing in cells and in vivo.",
+  "authors": "Vu, Kim Anh; Zhang, Han; Amrani, Nadia; Devi, Gitali; Gaston, Nicholas; Lee, Jonathan; Maitland, Stacy A; Chen, Zexiang; Echeverria, Dimas; Liu, Pengpeng; Ponnienselvan, Karthikeyan; Hanlon, Matthew B; Lucas, Connor; Luk, Kevin; Sousa, Jacquelyn; Cooper, David; Srnka, Alyxandr; Rembetsy-Brown, Julia M; Ansodaria, Aditya Valji; Hedger, Adam K; Wagh, Atish; Bamidele, Nathan; Mir, Aamir; Yamada, Ken; Alterman, Julia F; Khvorova, Anastasia; Wolfe, Scot A; Sontheimer, Erik J; Watts, Jonathan K",
+  "journal": "Nucleic acids research",
+  "published_date": "2026-11-18",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 7,
+  "one_liner_zh": "该文通过结构引导的迭代优化，系统评估了SpyCas9 gRNA的全面化学修饰（如2'-氨基、4'-硫代、exNA）对基因组编辑活性的影响，虽聚焦于gRNA工程化而非切割机制本身，但涉及gRNA-Cas9互作的结构机制，对碱基编辑工具中gRNA设计与稳定性优化有直接启发。",
+  "abstract": "Precision engineering of CRISPR/Cas9 components has advanced genome editing toward therapeutic applications. Fully chemically modified guide RNAs (gRNAs) have the potential to improve stability and broaden therapeutic delivery strategies. However, extensive chemical modification of CRISPR guides can compromise genome editing activity by disrupting gRNA-Cas9 interactions. Here, we employed an iterative, structure-guided optimization strategy to systematically evaluate chemical modifications throughout SpyCas9 gRNAs. Extending beyond commonly used nucleotide modifications, we incorporated 2'-amino-RNA, 4'-thio-RNA, and extended nucleic acid (exNA) to generate gRNAs in which 90%-100% of nucleotides are sugar- or backbone-modified. Although the performance of individual modification patterns varied among target sequences, we established a repertoire of guides that support robust genome editing in vitro and in vivo. Collectively, these findings provide a systematic framework for rational engineering of heavily and fully modified gRNAs using diverse nucleotide chemistries for nonviral CRISPR genome editing.",
+  "abstract_zh": "CRISPR/Cas9组件的精密工程已推动基因组编辑向治疗应用迈进。全化学修饰的引导RNA（gRNAs）有望提高稳定性并拓宽治疗性递送策略。然而，对CRISPR引导RNA的广泛化学修饰可能通过破坏gRNA-Cas9相互作用而损害基因组编辑活性。在此，我们采用了一种迭代的、结构引导的优化策略，系统评估了SpyCas9 gRNAs中的化学修饰。超越常用的核苷酸修饰，我们引入了2'-氨基-RNA、4'-硫代-RNA和扩展核酸（exNA），生成了90%-100%核苷酸为糖或骨架修饰的gRNAs。尽管各修饰模式在不同靶序列上的表现有所差异，我们建立了一套支持体外和体内稳健基因组编辑的引导RNA库。总体而言，这些发现为利用多种核苷酸化学策略合理工程化重度和全修饰gRNAs用于非病毒CRISPR基因组编辑提供了系统性框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43048855/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43048855/",
+  "paper_page_path": "papers/pubmed/43048855/index.html"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43052755",
+  "title": "Comparison of interventional causal structure learning algorithms for gene regulatory network inference.",
+  "authors": "Sprengel, Jan L; Velten, Britta",
+  "journal": "BMC bioinformatics",
+  "published_date": "2026-11-19",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 4,
+  "one_liner_zh": "该文比较因果结构学习算法在基因调控网络推断中的表现，使用CRISPR筛选数据但仅作为数据来源，未涉及Cas切割或碱基编辑的分子机制，与本课题关联有限。",
+  "abstract": "BACKGROUND: Causal structure learning offers a promising approach to studying gene regulation in cells, aiming to provide deeper mechanistic insights than purely association-based methods. Theoretical groundwork indicating that interventions improve identifiability of causal structure motivates the use of causal structure learning methods in scenarios with interventional information. RESULTS: This benchmark investigates the ability of existing causal structure learning algorithms to leverage the information revealed by targeted interventions to infer gene regulatory networks (GRNs). In this study synthetic single-cell perturbation data and experimental data from a clustered regularly interspaced short palindromic repeats (CRISPR) screen are leveraged, and a suite of causal structure learning algorithms is evaluated on metrics tailored to synthetic ground truth and real biological data respectively. On synthetic data, accurate recovery of GRNs was achieved under favourable conditions: strong interventions, large sample sizes, and low measurement noise. For experimental data, no reliable ground truth is available, so inferred GRNs were assessed indirectly, using observed perturbation effects and curated regulatory annotations. Here, performance remained unreliable, with technical and biological noise and algorithmic scalability as limiting factors. This highlights a current gap between theoretical potential and practical application of causal structure learning for GRNs. CONCLUSIONS: The benchmark provides insight into algorithm strengths and limitations and offers groundwork for further methodological development. We also provide an accessible software package for applying modern causal structure learning to custom datasets and thereby foster future exploration of its potential.",
+  "abstract_zh": "背景：因果结构学习为研究细胞中的基因调控提供了一种有前景的方法，旨在提供比纯基于关联的方法更深入的机制性见解。理论基础表明，干预措施能提高因果结构的可识别性，这促使在具有干预信息的情景中使用因果结构学习方法。结果：本基准测试考察了现有因果结构学习算法利用靶向干预所揭示信息来推断基因调控网络（GRNs）的能力。本研究利用了合成的单细胞扰动数据和来自聚集规则间隔短回文重复序列（CRISPR）筛选的实验数据，并针对合成真实数据和真实生物数据分别定制了评估指标，对一系列因果结构学习算法进行了评价。在合成数据上，在有利条件下（强干预、大样本量和低测量噪声）实现了对GRNs的准确恢复。对于实验数据，由于缺乏可靠的真实基准，推断出的GRNs通过观察到的扰动效应和精选的调控注释进行间接评估。在此情况下，性能仍不可靠，技术和生物噪声以及算法可扩展性是限制因素。这凸显了因果结构学习在GRNs应用中理论潜力与实际应用之间的当前差距。结论：该基准测试提供了对算法优势和局限性的洞察，并为进一步的方法学发展奠定了基础。我们还提供了一个易于使用的软件包，用于将现代因果结构学习应用于自定义数据集，从而促进对其潜力的未来探索。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052755/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43052755/",
+  "paper_page_path": "papers/pubmed/43052755/index.html"
+}

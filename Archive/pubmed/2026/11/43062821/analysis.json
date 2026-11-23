@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43062821",
+  "title": "The Acr-Aca Fusion Protein AcrIF16 Dually Inhibits the Type I-F CRISPR-Cas System Through DNA Sequestration.",
+  "authors": "Yang, Lingguang; Liu, Xi; Hou, Jiaxin; Liu, Hui; Yin, Peipei; Wang, Hao; Zhang, Yi",
+  "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "published_date": "2026-11-20",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 6,
+  "one_liner_zh": "该文报道AcrIF16通过DNA隔离而非直接结合Cas效应物，双重抑制I-F型CRISPR-Cas系统的靶标识别与DNA切割，虽非碱基编辑/交错切割，但揭示了CRISPR-Cas抑制的DNA结合新机制，对理解Cas-DNA互作有启发。",
+  "abstract": "Anti-CRISPR (Acr) proteins are natural inhibitors of CRISPR-Cas systems, offering valuable tools for regulating genome editing. Most characterized Acrs function through direct protein-protein interactions with Cas effectors. Here, we report that AcrIF16, an Acr-Aca fusion protein from Pectobacterium parmentieri, inhibits the type I-F CRISPR-Cas system through a DNA-binding-dependent dual mechanism without forming stable complexes with the Csy surveillance complex or the Cas2/3 nuclease. The high-resolution crystal structure of its N-terminal domain (NTD) reveals a canonical helix-turn-helix (HTH) motif that specifically binds inverted repeat sequences upstream of the acrIF16 locus. Structural prediction of the C-terminal domain (CTD) suggests a previously uncharacterized fold, although its functional role remains to be determined. Biochemical assays demonstrate that AcrIF16 binds double-stranded DNA in a sequence-non-specific manner, thereby competing with Csy for target DNA binding and destabilizing pre-assembled Csy-DNA complexes. Furthermore, AcrIF16 inhibits Cas2/3-mediated single-stranded and double-stranded DNA cleavage, an effect attributable to substrate sequestration rather than direct Cas2/3 binding. In vivo, AcrIF16 restores phage plaque formation in E. coli cells expressing the type I-F CRISPR-Cas system, supporting its anti-CRISPR activity. Thus, AcrIF16 employs a DNA-sequestration strategy to block both target recognition and DNA degradation in the type I-F CRISPR-Cas system. This work expands the mechanistic repertoire of anti-CRISPR proteins and highlights DNA-binding Acrs as a distinct class of CRISPR inhibitors.",
+  "abstract_zh": "抗CRISPR（Acr）蛋白是CRISPR-Cas系统的天然抑制剂，为调控基因组编辑提供了有价值的工具。大多数已表征的Acr通过直接与Cas效应物的蛋白质-蛋白质相互作用发挥功能。在此，我们报道来自Pectobacterium parmentieri的AcrIF16（一种Acr-Aca融合蛋白）通过依赖于DNA结合的双重机制抑制I-F型CRISPR-Cas系统，而无需与Csy监视复合物或Cas2/3核酸酶形成稳定复合物。其N端结构域（NTD）的高分辨率晶体结构揭示了一个典型的螺旋-转角-螺旋（HTH）基序，该基序特异性结合acrIF16基因座上游的反向重复序列。C端结构域（CTD）的结构预测提示其具有先前未表征的折叠，尽管其功能作用仍有待确定。生化实验表明，AcrIF16以序列非特异性方式结合双链DNA，从而与Csy竞争靶DNA结合，并 destabilizing 预组装的Csy-DNA复合物。此外，AcrIF16抑制Cas2/3介导的单链和双链DNA切割，该效应归因于底物隔离而非直接结合Cas2/3。在体内，AcrIF16在表达I-F型CRISPR-Cas系统的大肠杆菌细胞中恢复噬菌体噬斑形成，支持其抗CRISPR活性。因此，AcrIF16采用DNA隔离策略来阻断I-F型CRISPR-Cas系统中的靶标识别和DNA降解。这项工作扩展了抗CRISPR蛋白的机制库，并强调DNA结合型Acr作为一类独特的CRISPR抑制剂。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062821/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43062821/",
+  "paper_page_path": "papers/pubmed/43062821/index.html"
+}

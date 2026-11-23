@@ -1,0 +1,347 @@
+{
+  "identity": {
+    "pmid": "43040370",
+    "doi": "10.1186/s12931-026-03844-7",
+    "title": "A cilia-associated epithelial alteration axis nominates ERICH3 as an entry point to PI3K engagement in lung adenocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: LUAD adopts heterogeneous oncogenic signalling states, and bias toward a PI3K-AKT-mTOR-engaged state is not fully explained by canonical pathway lesions. Because membrane-proximal spatial organization can tune receptor-proximal signalling yet is difficult to quantify in human tumours, we used cilia-associated epithelial programs as a hypothesis-generating entry point to identify convergently perturbed candidates and evaluate their relationship with PI3K engagement. METHODS: We performed intersection-based multi-omic prioritization in TCGA-LUAD, evaluated dependency directionality using DepMap/CCLE expression with CRISPR dependency profiles, and tested the functional relationship between ERICH3 loss and PI3K engagement by siRNA perturbation with PI3K-inhibitor rescue. We anchored tumour context using bulk co-expression, spatial transcriptomics, and single-cell analyses with ERICH3 stratified by transcript \"detection\", complemented by CellChat-based communication inference and structure/variant-informed hypothesis nomination. RESULTS: ERICH3 was prioritized through a cilia-informed screen as a convergently attenuated candidate, showed reduced protein in paired LUAD specimens (16/24, 66.7%; P = 0.014), promoter hypermethylation, and favourable survival association. An external DepMap dependency screen nominated PI3K-AKT-mTOR dependency directionality in ERICH3-low contexts (Hallmark NES = - 1.79; P = 1.04 x 10(-)(4)), which was subsequently evaluated functionally in LUAD cell lines. In LUAD cell lines, ERICH3 knockdown increased PI3K-AKT-mTOR phosphorylation and malignant phenotypes, which were attenuated by PI3K inhibition, supporting a functional relationship between ERICH3 loss and PI3K pathway engagement. Multi-scale transcriptomic analyses showed that ERICH3 transcripts were detected predominantly in a mucous epithelial compartment and non-tumour epithelium; CellChat suggested hypothesis-generating immune-interaction signals associated with ERICH3-detected mucous cells. Structural modelling and tumour-variant mapping nominated discrete membrane-proximal regions for mechanism-discriminating follow-up. CONCLUSIONS: Our findings support a testable model in which attenuation of ERICH3, identified through a cilia-informed epithelial framework, is associated with a PI3K-engaged malignant state in LUAD. The present study does not establish that ERICH3 directly regulates primary-cilium formation, ciliary protein localization, or ligand-induced ciliary signalling; the precise upstream membrane-proximal and/or cilia-related route remains to be defined.",
+    "keywords": [
+      "ERICH3",
+      "CRISPR dependency",
+      "LUAD",
+      "PI3K-AKT-mTOR signaling",
+      "Primary cilia",
+      "Spatial organization"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Cilia/metabolism/pathology/genetics",
+      "*Phosphatidylinositol 3-Kinases/metabolism/genetics",
+      "*Adenocarcinoma of Lung/metabolism/pathology/genetics",
+      "*Lung Neoplasms/metabolism/pathology/genetics",
+      "*Membrane Proteins/genetics/metabolism",
+      "Cell Line, Tumor",
+      "Signal Transduction",
+      "*Epithelial Cells/metabolism/pathology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Qiang",
+        "Wang, Yixuan",
+        "Zhang, Yang",
+        "Ying, Shuo",
+        "Feng, Huazhuo",
+        "Hou, Kai",
+        "Zhang, Li",
+        "Zhou, Xuexia",
+        "Li, Xuebing",
+        "Qin, Jianwen",
+        "Huang, Dingzhi"
+      ],
+      "short_names": [
+        "Chen Q",
+        "Wang Y",
+        "Zhang Y",
+        "Ying S",
+        "Feng H",
+        "Hou K",
+        "Zhang L",
+        "Zhou X",
+        "Li X",
+        "Qin J",
+        "Huang D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0803-3822",
+        "ORCID: 0009-0006-5565-2876",
+        "ORCID: 0000-0002-2798-9459"
+      ],
+      "affiliations": [
+        "National Clinical Research Center for Cancer; Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.",
+        "Tianjin's Clinical Research Center for Cancer, Department of Thoracic Oncology, Tianjin Lung Cancer Center, Tianjin Cancer Institute & Hospital, Tianjin Medical University, Tianjin, China.",
+        "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China.",
+        "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China.",
+        "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China.",
+        "Department of Cardiology, Tianjin Chest Hospital, Tianjin University, Tianjin, China.",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangdong Key Laboratory of Vascular Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Pu'er People's Hospital, Pu'er, Yunnan, China.",
+        "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China. dnxhxnm@gmail.com.",
+        "Department of Neuropathology, Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Key Laboratory of Post-Trauma Neuro-Repair and Regeneration in Central Nervous System of Education Ministry, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China. xxzhou@tmu.edu.cn.",
+        "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China. xbli@tmu.edu.cn.",
+        "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China. zl81253755@163.com.",
+        "National Clinical Research Center for Cancer; Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Institute and Hospital, Tianjin, China. oliachen@tmu.edu.cn.",
+        "Tianjin's Clinical Research Center for Cancer, Department of Thoracic Oncology, Tianjin Lung Cancer Center, Tianjin Cancer Institute & Hospital, Tianjin Medical University, Tianjin, China. oliachen@tmu.edu.cn.",
+        "Department of Thoracic Medical Oncology, Lung Cancer Diagnosis and Treatment Centre, Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Instituteand Hospital, National Clinical Research Centre for Cancer, No. 1, Huanhu West Road, Hexi District, Tianjin, 300060, China. oliachen@tmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Qiang",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0000-0002-0803-3822"
+        ],
+        "affiliations": [
+          "National Clinical Research Center for Cancer; Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.",
+          "Tianjin's Clinical Research Center for Cancer, Department of Thoracic Oncology, Tianjin Lung Cancer Center, Tianjin Cancer Institute & Hospital, Tianjin Medical University, Tianjin, China.",
+          "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China.",
+          "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yixuan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yang",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ying, Shuo",
+        "short_name": "Ying S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cardiology, Tianjin Chest Hospital, Tianjin University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Huazhuo",
+        "short_name": "Feng H",
+        "identifiers": [
+          "0009-0006-5565-2876"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangdong Key Laboratory of Vascular Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Kai",
+        "short_name": "Hou K",
+        "identifiers": [],
+        "affiliations": [
+          "Pu'er People's Hospital, Pu'er, Yunnan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Li",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China. dnxhxnm@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xuexia",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neuropathology, Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Key Laboratory of Post-Trauma Neuro-Repair and Regeneration in Central Nervous System of Education Ministry, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China. xxzhou@tmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Xuebing",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Department of Lung Cancer Surgery, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, 300052, People's Republic of China. xbli@tmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Qin, Jianwen",
+        "short_name": "Qin J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory and Critical Medicine, Tianjin Chest Hospital, Tianjin University, Tianjin, China. zl81253755@163.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Dingzhi",
+        "short_name": "Huang D",
+        "identifiers": [
+          "0000-0002-2798-9459"
+        ],
+        "affiliations": [
+          "National Clinical Research Center for Cancer; Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Institute and Hospital, Tianjin, China. oliachen@tmu.edu.cn.",
+          "Tianjin's Clinical Research Center for Cancer, Department of Thoracic Oncology, Tianjin Lung Cancer Center, Tianjin Cancer Institute & Hospital, Tianjin Medical University, Tianjin, China. oliachen@tmu.edu.cn.",
+          "Department of Thoracic Medical Oncology, Lung Cancer Diagnosis and Treatment Centre, Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University Cancer Instituteand Hospital, National Clinical Research Centre for Cancer, No. 1, Huanhu West Road, Hexi District, Tianjin, 300060, China. oliachen@tmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Respiratory research"
+    ],
+    "journal_abbrev": [
+      "Respir Res"
+    ],
+    "pub_date": "2026 Aug 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 05:32",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43040370",
+      "42929236",
+      "43040303",
+      "39631830",
+      "41276573",
+      "42298019",
+      "42774450",
+      "42210008",
+      "42173180",
+      "32108133",
+      "41795741",
+      "42067902",
+      "43040278",
+      "40107782",
+      "42665721",
+      "41488674",
+      "42508754",
+      "38282149",
+      "37547956",
+      "41218582",
+      "40812730",
+      "38718735",
+      "41716413",
+      "42046060",
+      "42611083",
+      "40816503",
+      "38894536",
+      "41622242",
+      "42464299",
+      "42148660",
+      "37069006",
+      "30791942",
+      "41930176",
+      "42689992",
+      "42495647",
+      "38361754",
+      "31712586",
+      "40396179",
+      "41499386",
+      "35150399",
+      "40167359",
+      "37479901",
+      "40594106",
+      "36944484",
+      "43026586",
+      "41567189",
+      "31699997",
+      "42985469",
+      "42089585",
+      "36972188",
+      "42209795",
+      "33301764",
+      "41388437",
+      "32792503",
+      "39216120",
+      "42310642",
+      "42240917",
+      "42472388",
+      "42136962",
+      "42702944",
+      "39191354",
+      "42079738",
+      "36275477",
+      "30822475",
+      "41407812",
+      "42142700",
+      "42459691",
+      "41445727",
+      "38323374",
+      "37219677",
+      "42942502",
+      "42206269",
+      "36919755",
+      "41389617",
+      "42530242",
+      "41168822",
+      "41029392",
+      "39511658",
+      "39733926",
+      "32561075",
+      "28173828",
+      "38696904",
+      "41326474",
+      "42972594",
+      "41437307",
+      "42170260",
+      "39256509",
+      "42253258",
+      "33349268",
+      "30325015",
+      "34252710",
+      "37278172",
+      "37418984",
+      "36219369",
+      "38430032",
+      "42003422",
+      "36627670",
+      "26023239",
+      "39751722",
+      "38940035"
+    ],
+    "review": [
+      "43040370"
+    ],
+    "pmc": [
+      "13776218"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-026-03844-7",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43040370/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1360",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

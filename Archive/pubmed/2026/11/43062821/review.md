@@ -1,0 +1,85 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as presented in the abstract; no access to figures, methods, or supplementary data
+- **Shared manuscript claim summary** The authors report that AcrIF16, an Acr-Aca fusion protein from *Pectobacterium parmentieri*, inhibits the type I-F CRISPR-Cas system via a dual mechanism based on DNA sequestration rather than stable protein-protein interactions with Cas effectors. The N-terminal domain (NTD) contains a helix-turn-helix (HTH) motif that binds inverted repeat sequences upstream of the *acrIF16* locus, while the C-terminal domain (CTD) is predicted to adopt a novel fold. The protein binds dsDNA non-specifically, competes with the Csy complex for target DNA, destabilizes pre-assembled Csy-DNA complexes, and inhibits Cas2/3-mediated DNA cleavage via substrate sequestration. In vivo, AcrIF16 restores phage plaque formation in *E. coli* expressing type I-F CRISPR-Cas.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, experimental methods, structural coordinates, statistical details, and supplementary data
+
+## Reviewer
+- **Overall assessment** The abstract presents a potentially interesting mechanistic finding: an Acr protein that functions through DNA sequestration rather than canonical Cas-binding inhibition. The dual-target strategy (interfering with both Csy-mediated target recognition and Cas2/3-mediated cleavage) is conceptually novel and would be of interest to the CRISPR biology and genome editing communities. However, the abstract alone provides insufficient evidence to evaluate the rigor of the structural, biochemical, and in vivo claims. Several key assertions, particularly regarding the CTD fold, the mechanism of Csy-DNA complex destabilization, and the in vivo relevance, require careful experimental validation that cannot be assessed from the provided material.
+- **Who would be interested in the results, and why** Researchers studying CRISPR-Cas regulation, anti-CRISPR biology, phage-host interactions, and those developing CRISPR-based tools who may be interested in Acrs as potential off-switches. The proposed DNA-sequestration mechanism would also be of interest to structural biologists and biochemists studying protein-DNA interactions.
+- **Major strengths** The proposed mechanism is conceptually novel, as most characterized Acrs act via direct Cas protein binding. The dual inhibition strategy targeting both recognition and cleavage steps is elegant and mechanistically distinct. The combination of structural, biochemical, and in vivo approaches suggests a comprehensive study design.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "AcrIF16 inhibits the type I-F CRISPR-Cas system through a DNA-binding-dependent dual mechanism without forming stable complexes with the Csy surveillance complex or the Cas2/3 nuclease"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The central claim that AcrIF16 functions without forming stable complexes with Csy or Cas2/3 is stated categorically, but the abstract provides no experimental details on how this was determined. The absence of stable complex formation is a negative result that requires sensitive detection methods (e.g., pull-downs, size-exclusion chromatography, cross-linking, or biophysical binding assays) with appropriate positive and negative controls. Without seeing these data, the claim cannot be evaluated.
+  - **Why it matters** This is the foundational claim distinguishing AcrIF16 from previously characterized Acrs. If weak or transient interactions with Cas proteins exist but were not detected, the mechanistic model would be substantially altered.
+  - **Resolution test** Provide the binding assay data (e.g., gel filtration traces, pull-down blots, or ITC/MST curves) with proper controls demonstrating that AcrIF16 does not interact with Csy or Cas2/3 under physiologically relevant conditions.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Mechanistic clarity
+  - **Claim pointer** "AcrIF16 binds double-stranded DNA in a sequence-non-specific manner, thereby competing with Csy for target DNA binding and destabilizing pre-assembled Csy-DNA complexes"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract claims both competition with Csy for target DNA binding and destabilization of pre-assembled Csy-DNA complexes. These are mechanistically distinct processes: the former implies a kinetic competition, while the latter implies active displacement or allosteric destabilization. The abstract does not clarify whether AcrIF16 can actively dissociate a pre-formed Csy-DNA complex or merely prevent its formation. The distinction is critical for understanding the mechanism.
+  - **Why it matters** If AcrIF16 only prevents complex formation, its efficacy would depend on the order of addition and the relative kinetics of Csy-DNA assembly versus AcrIF16-DNA binding. If it actively destabilizes pre-formed complexes, the mechanism is more potent and physiologically relevant, as Csy complexes may already be bound to DNA when AcrIF16 is expressed during phage infection.
+  - **Resolution test** Provide kinetic and equilibrium binding data (e.g., EMSA competition assays with varying order of addition, off-rate measurements, or single-molecule experiments) that distinguish between prevention of complex formation and active destabilization.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Structural evidence
+  - **Claim pointer** "Structural prediction of the C-terminal domain (CTD) suggests a previously uncharacterized fold, although its functional role remains to be determined"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The CTD is described as having a "previously uncharacterized fold" based on structural prediction, yet its functional role is stated to be undetermined. This raises the question of why the CTD is included in the mechanistic model at all. If the CTD has no demonstrated function, the claim that AcrIF16 is a "dual mechanism" inhibitor is weakened, as the dual mechanism may reside entirely within the NTD or involve the full-length protein in ways not yet characterized.
+  - **Why it matters** The title and abstract emphasize the "dual" nature of the inhibition mechanism. If the CTD's role is unknown, the dual mechanism may be incomplete or misattributed. Additionally, the claim of a "previously uncharacterized fold" based solely on prediction is speculative without experimental structural validation.
+  - **Resolution test** Provide experimental structural data for the CTD (e.g., crystal structure, NMR, or cryo-EM) or functional data demonstrating its role in inhibition. Alternatively, clarify whether the dual mechanism is fully attributable to the NTD alone.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** In vivo relevance
+  - **Claim pointer** "In vivo, AcrIF16 restores phage plaque formation in *E. coli* cells expressing the type I-F CRISPR-Cas system, supporting its anti-CRISPR activity"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The in vivo assay demonstrates that AcrIF16 can inhibit CRISPR-Cas function, but the abstract does not specify the level of restoration (e.g., efficiency of plaquing, comparison to known Acrs, or dose-dependence). Without quantitative details, the physiological relevance and potency of AcrIF16 relative to other Acrs cannot be assessed.
+  - **Why it matters** The in vivo data are the ultimate test of biological relevance. If the restoration is weak or requires overexpression, the physiological significance of the DNA-sequestration mechanism would be questionable.
+  - **Resolution test** Provide quantitative plaque assay data (e.g., efficiency of plaquing values, comparison to positive controls such as AcrIF1 or AcrIF3, and expression level controls).
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Specificity of DNA binding
+  - **Affected element** "binds double-stranded DNA in a sequence-non-specific manner"
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract states that AcrIF16 binds dsDNA non-specifically, yet the NTD specifically binds inverted repeat sequences upstream of the *acrIF16* locus. These two statements appear contradictory. Does the protein have both specific and non-specific DNA binding modes, or does the non-specific binding refer to the full-length protein while the specific binding is a property of the isolated NTD?
+  - **Required correction** Clarify whether the specific and non-specific binding activities are attributable to different domains or different conditions, and explain how these two modes relate to the inhibitory mechanism.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Mechanistic terminology
+  - **Affected element** "substrate sequestration rather than direct Cas2/3 binding"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The term "substrate sequestration" implies that AcrIF16 binds to the DNA substrate that Cas2/3 would otherwise cleave. However, if AcrIF16 binds DNA non-specifically, it is unclear how it selectively sequesters Cas2/3 substrates without also sequestering all other DNA in the cell, which would have pleiotropic effects.
+  - **Required correction** Provide a more precise mechanistic explanation of how non-specific DNA binding results in effective inhibition of Cas2/3-mediated cleavage without globally sequestering cellular DNA.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Structural resolution
+  - **Affected element** "high-resolution crystal structure of its N-terminal domain (NTD)"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract does not specify the resolution of the crystal structure or whether the structure was determined in the presence or absence of DNA. This information is important for assessing the reliability of the structural claims.
+  - **Required correction** Include the resolution of the crystal structure and the crystallization conditions (e.g., apo vs. DNA-bound) in the abstract or indicate where this information can be found.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (absence of stable complex formation not demonstrated with sufficient evidence), R1-M2 (competition vs. destabilization not distinguished), R1-M3 (CTD role undetermined despite being part of the mechanistic model)
+- **Assessment against Nature-style criteria** 
+  - Originality: The proposed DNA-sequestration mechanism is a novel concept in the Acr field, where most characterized inhibitors act via direct protein-protein interactions. This originality is a clear strength.
+  - Scientific importance: The finding would be of interest to the CRISPR biology community and could inform the design of new CRISPR inhibitors. However, the importance is somewhat limited by the focus on a type I-F system, which is less widely used than type II (Cas9) systems.
+  - Interdisciplinary readership: The work would appeal primarily to CRISPR researchers, structural biologists, and microbiologists. The broader genome editing community may find the implications for tool development interesting, but the type I-F focus limits cross-disciplinary reach.
+  - Technical soundness: Cannot be fully assessed from the abstract alone. The structural, biochemical, and in vivo claims require scrutiny of the full data. The apparent contradiction between specific and non-specific DNA binding is a concern.
+  - Readability for nonspecialists: The abstract is clearly written and accessible, with logical flow from discovery to mechanism to significance. Technical terms are used appropriately.
+- **Recommendation posture** Currently not established from the provided evidence. The conceptual advance is promising, but the abstract alone does not provide sufficient evidence to evaluate the rigor of the key claims. The manuscript may become supportive if the full data address the concerns raised, particularly regarding the absence of stable complex formation, the distinction between competition and destabilization, and the role of the CTD.
+
+## Risk / unsupported claims
+- The claim that AcrIF16 does not form stable complexes with Csy or Cas2/3 is unsupported without binding assay data.
+- The claim that AcrIF16 "destabilizes pre-assembled Csy-DNA complexes" is unsupported without kinetic or displacement data.
+- The claim that the CTD adopts a "previously uncharacterized fold" is speculative without experimental structural validation.
+- The mechanistic distinction between specific (inverted repeat) and non-specific DNA binding is unclear and potentially contradictory.
+- The in vivo relevance is asserted but not quantified, making the physiological significance unassessable.

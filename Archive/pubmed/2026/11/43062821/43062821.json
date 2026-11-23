@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "43062821",
+    "doi": "10.1096/fj.202602129R",
+    "title": "The Acr-Aca Fusion Protein AcrIF16 Dually Inhibits the Type I-F CRISPR-Cas System Through DNA Sequestration."
+  },
+  "content": {
+    "abstract": "Anti-CRISPR (Acr) proteins are natural inhibitors of CRISPR-Cas systems, offering valuable tools for regulating genome editing. Most characterized Acrs function through direct protein-protein interactions with Cas effectors. Here, we report that AcrIF16, an Acr-Aca fusion protein from Pectobacterium parmentieri, inhibits the type I-F CRISPR-Cas system through a DNA-binding-dependent dual mechanism without forming stable complexes with the Csy surveillance complex or the Cas2/3 nuclease. The high-resolution crystal structure of its N-terminal domain (NTD) reveals a canonical helix-turn-helix (HTH) motif that specifically binds inverted repeat sequences upstream of the acrIF16 locus. Structural prediction of the C-terminal domain (CTD) suggests a previously uncharacterized fold, although its functional role remains to be determined. Biochemical assays demonstrate that AcrIF16 binds double-stranded DNA in a sequence-non-specific manner, thereby competing with Csy for target DNA binding and destabilizing pre-assembled Csy-DNA complexes. Furthermore, AcrIF16 inhibits Cas2/3-mediated single-stranded and double-stranded DNA cleavage, an effect attributable to substrate sequestration rather than direct Cas2/3 binding. In vivo, AcrIF16 restores phage plaque formation in E. coli cells expressing the type I-F CRISPR-Cas system, supporting its anti-CRISPR activity. Thus, AcrIF16 employs a DNA-sequestration strategy to block both target recognition and DNA degradation in the type I-F CRISPR-Cas system. This work expands the mechanistic repertoire of anti-CRISPR proteins and highlights DNA-binding Acrs as a distinct class of CRISPR inhibitors.",
+    "keywords": [
+      "AcrIF16",
+      "Acr-Aca fusion protein",
+      "DNA sequestration",
+      "anti-CRISPR",
+      "type I-F CRISPR-Cas"
+    ],
+    "mesh_terms": [
+      "*CRISPR-Cas Systems",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "*DNA/metabolism",
+      "Protein Binding",
+      "Recombinant Fusion Proteins/metabolism/genetics/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Lingguang",
+        "Liu, Xi",
+        "Hou, Jiaxin",
+        "Liu, Hui",
+        "Yin, Peipei",
+        "Wang, Hao",
+        "Zhang, Yi"
+      ],
+      "short_names": [
+        "Yang L",
+        "Liu X",
+        "Hou J",
+        "Liu H",
+        "Yin P",
+        "Wang H",
+        "Zhang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0584-0178",
+        "ORCID: 0000-0002-8702-6005"
+      ],
+      "affiliations": [
+        "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+        "Jiangxi Provincial Engineering Research Center for Recycling Technology of Traditional Chinese Medicine Herbal Residue, School of Pharmacy, Yichun University, Yichun, China.",
+        "Yichun City Natural Medicines Bionic Delivery Technology Innovation Center, School of Pharmacy, Yichun University, Yichun, China.",
+        "Yichun University Center for Innovative Technologies in Gene-Based Precision Therapeutics, School of Pharmacy, Yichun University, Yichun, China.",
+        "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China.",
+        "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+        "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+        "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China.",
+        "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+        "Jiangxi Provincial Engineering Research Center for Recycling Technology of Traditional Chinese Medicine Herbal Residue, School of Pharmacy, Yichun University, Yichun, China.",
+        "Yichun City Natural Medicines Bionic Delivery Technology Innovation Center, School of Pharmacy, Yichun University, Yichun, China.",
+        "Yichun University Center for Innovative Technologies in Gene-Based Precision Therapeutics, School of Pharmacy, Yichun University, Yichun, China.",
+        "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China.",
+        "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Lingguang",
+        "short_name": "Yang L",
+        "identifiers": [
+          "0000-0002-0584-0178"
+        ],
+        "affiliations": [
+          "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+          "Jiangxi Provincial Engineering Research Center for Recycling Technology of Traditional Chinese Medicine Herbal Residue, School of Pharmacy, Yichun University, Yichun, China.",
+          "Yichun City Natural Medicines Bionic Delivery Technology Innovation Center, School of Pharmacy, Yichun University, Yichun, China.",
+          "Yichun University Center for Innovative Technologies in Gene-Based Precision Therapeutics, School of Pharmacy, Yichun University, Yichun, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xi",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Jiaxin",
+        "short_name": "Hou J",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Hui",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+          "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Peipei",
+        "short_name": "Yin P",
+        "identifiers": [],
+        "affiliations": [
+          "Jiangxi Key Laboratory of Natural Microbial Medicine Research, School of Pharmacy, Yichun University, Yichun, China.",
+          "Jiangxi Provincial Engineering Research Center for Recycling Technology of Traditional Chinese Medicine Herbal Residue, School of Pharmacy, Yichun University, Yichun, China.",
+          "Yichun City Natural Medicines Bionic Delivery Technology Innovation Center, School of Pharmacy, Yichun University, Yichun, China.",
+          "Yichun University Center for Innovative Technologies in Gene-Based Precision Therapeutics, School of Pharmacy, Yichun University, Yichun, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Hao",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yi",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0002-8702-6005"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Green Biomanufacturing, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "journal_abbrev": [
+      "FASEB J"
+    ],
+    "pub_date": "2026 Nov 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 17:32",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43062821",
+      "35697070",
+      "29348170",
+      "35411005",
+      "36209819",
+      "25368186",
+      "42156407",
+      "33049228",
+      "32539804",
+      "32170016",
+      "36163386",
+      "33660777",
+      "40178896",
+      "37094126",
+      "28438998",
+      "40694851",
+      "35301482",
+      "32156733",
+      "28985564",
+      "30872121",
+      "34432044",
+      "38987591",
+      "33338493",
+      "35085557",
+      "41137488",
+      "33332569",
+      "41542957",
+      "40810510",
+      "41430372",
+      "28611213",
+      "36243977",
+      "41402624",
+      "28781236",
+      "40414010",
+      "30514786",
+      "28602637",
+      "31748409",
+      "35389256",
+      "30606466",
+      "36413017",
+      "31506266",
+      "38977786",
+      "35947749",
+      "42675078",
+      "40540289",
+      "39251884",
+      "28574055",
+      "37494395",
+      "38418450",
+      "32385085",
+      "39399829",
+      "28634692",
+      "41475348",
+      "41856106",
+      "29666291",
+      "41298934",
+      "23226499",
+      "27096362",
+      "38441767",
+      "28781234",
+      "42258724",
+      "39541974",
+      "26929403",
+      "28238733",
+      "41414667",
+      "33472057",
+      "41854513",
+      "42708411",
+      "37833505",
+      "26950513",
+      "41832226",
+      "32810226",
+      "41492065",
+      "33544853",
+      "25662606",
+      "41553775",
+      "28448066",
+      "34116143",
+      "35166843",
+      "39171866",
+      "37426982",
+      "32325051",
+      "28431230",
+      "28869593",
+      "34606423",
+      "33333018",
+      "39676682",
+      "34676610",
+      "36736884",
+      "31467167",
+      "40121070",
+      "30691647",
+      "33764415",
+      "32186918",
+      "40318042",
+      "27936513",
+      "41630633",
+      "41137484",
+      "32483187",
+      "41803127"
+    ],
+    "review": [
+      "43062821",
+      "39399829",
+      "28634692",
+      "38441767",
+      "37426982",
+      "34606423",
+      "32186918"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1096/fj.202602129R",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

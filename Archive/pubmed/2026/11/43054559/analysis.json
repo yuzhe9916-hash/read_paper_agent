@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43054559",
+  "title": "Molecular mechanisms of AcrVA-mediated Cas12a inhibition and their potential applications.",
+  "authors": "Kang, Yong Jun; Park, Hyun Ho",
+  "journal": "Frontiers in microbiology",
+  "published_date": "2026-11-19",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 7,
+  "one_liner_zh": "该综述总结AcrVA蛋白通过多种机制（crRNA切割、mRNA降解、DNA切割、变构阻断、乙酰化）抑制Cas12a的结构与生化研究，并探讨其作为Cas12a活性开关以减少脱靶效应的应用潜力；虽为综述且非直接实验，但聚焦Cas12a抑制的分子机制，对碱基编辑/CRISPR工具调控有启发。",
+  "abstract": "CRISPR-Cas12a is widely used for genome editing because it is simple, efficient, and suitable for multiplex targeting. However, strong or prolonged Cas12a activity can increase unwanted cleavage at off-target sites. This problem is especially important when Cas12a is used in complex microbial communities, where unintended editing may affect non-target microorganisms or mobile genetic elements. Anti-CRISPR (Acr) proteins are natural inhibitors of CRISPR-Cas systems. Acr proteins targeting type V-A CRISPR-Cas12a systems are called AcrV proteins. Recent structural and biochemical studies have shown that AcrVA proteins inhibit Cas12a through highly different mechanisms. AcrVA1 induces cleavage of Cas12a-bound crRNA. AcrVA2 recognizes the nascent Cas12a polypeptide and promotes translation-dependent degradation of cas12a mRNA. AcrVA3 directly cleaves double-stranded DNA and indirectly reduces Cas12a activity. AcrVA4 allosterically blocks target DNA binding, whereas AcrVA5-AcrVA8 inhibit Cas12a by acetylating important lysine residues. These studies provide a structural basis for using AcrVA proteins as potential Cas12a off-switches. Importantly, AcrV proteins may reduce off-target effects by limiting the strength and duration of Cas12a activity after sufficient on-target editing has occurred. In this mini review, we summarize the structural mechanisms of AcrVA proteins and critically discuss the evidence and experimental requirements for their potential use in controlled Cas12a-based microbial engineering.",
+  "abstract_zh": "CRISPR-Cas12a因其简单、高效且适用于多重靶向而被广泛用于基因组编辑。然而，强烈或持续的Cas12a活性可能增加非目标位点的意外切割。这一问题在Cas12a用于复杂微生物群落时尤为重要，因为非预期编辑可能影响非目标微生物或移动遗传元件。抗CRISPR（Acr）蛋白是CRISPR-Cas系统的天然抑制剂。靶向V-A型CRISPR-Cas12a系统的Acr蛋白被称为AcrV蛋白。最近的结构和生化研究表明，AcrVA蛋白通过高度不同的机制抑制Cas12a。AcrVA1诱导Cas12a结合的crRNA切割。AcrVA2识别新生Cas12a多肽，并促进cas12a mRNA的翻译依赖性降解。AcrVA3直接切割双链DNA，并间接降低Cas12a活性。AcrVA4通过变构阻断靶DNA结合，而AcrVA5-AcrVA8通过乙酰化重要赖氨酸残基抑制Cas12a。这些研究为使用AcrVA蛋白作为潜在的Cas12a关闭开关提供了结构基础。重要的是，AcrV蛋白可能通过在充分的目标编辑发生后限制Cas12a活性的强度和持续时间来减少脱靶效应。在本迷你综述中，我们总结了AcrVA蛋白的结构机制，并批判性讨论了其在基于Cas12a的可控微生物工程中潜在应用的证据和实验要求。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054559/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43054559/",
+  "paper_page_path": "papers/pubmed/43054559/index.html"
+}

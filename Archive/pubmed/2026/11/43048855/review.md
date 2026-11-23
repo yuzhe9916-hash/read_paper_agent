@@ -1,0 +1,79 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no methods, figures, or data tables were provided for verification
+- **Shared manuscript claim summary** The authors report an iterative, structure-guided optimization strategy to generate SpyCas9 guide RNAs (gRNAs) in which 90%–100% of nucleotides carry sugar or backbone modifications, including 2'-amino-RNA, 4'-thio-RNA, and extended nucleic acid (exNA). They claim that a repertoire of such heavily modified gRNAs supports robust genome editing in vitro and in vivo, and that the work provides a systematic framework for engineering fully modified gRNAs for nonviral CRISPR delivery.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary data were supplied
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, experimental methods, statistical analyses, target sequence information, in vivo delivery details, and any comparative benchmarking data against unmodified or partially modified gRNAs
+
+## Reviewer
+- **Overall assessment** The abstract describes a technically ambitious and potentially valuable contribution to the CRISPR genome editing field. The central claim, that heavily modified gRNAs (90%–100% modified) can retain robust editing activity, is significant if substantiated. However, the abstract alone provides no quantitative data, no methodological detail, and no evidence of reproducibility across targets or biological contexts. The claim of "robust" editing is unverifiable from the supplied material. The work is likely of interest to the nucleic acid therapeutics and genome editing communities, but the case is not established from the abstract alone.
+- **Who would be interested in the results, and why** Researchers in CRISPR-based therapeutics, nucleic acid chemistry, and nonviral delivery. The potential to use fully modified gRNAs with enhanced stability could enable new delivery modalities (e.g., lipid nanoparticles, GalNAc conjugates) and improve in vivo editing efficiency. The systematic framework for modification optimization would also interest groups working on other Cas orthologs or RNA-based therapeutics.
+- **Major strengths** 
+  - The scope of chemical modification (90%–100% of nucleotides) is substantially beyond typical partial modification approaches, representing a clear technical advance.
+  - The inclusion of less common chemistries (2'-amino-RNA, 4'-thio-RNA, exNA) broadens the chemical space explored.
+  - The iterative, structure-guided optimization strategy is a rational and potentially generalizable approach.
+  - The claim of in vivo activity, if supported, would have direct translational relevance.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "we established a repertoire of guides that support robust genome editing in vitro and in vivo"
+  - **Evidence pointer** Abstract; no figures or tables provided
+  - **Concern** The abstract asserts robust editing activity but provides no quantitative metrics (e.g., editing efficiency percentages, number of targets tested, number of guides in the "repertoire," in vivo model systems used, delivery method, dosing, or off-target assessment). Without these data, "robust" is undefined and the claim cannot be evaluated.
+  - **Why it matters** The central contribution of the paper is the demonstration that heavily modified gRNAs retain function. If the editing efficiency is substantially lower than unmodified or partially modified controls, the practical utility would be questionable. The absence of any numbers prevents assessment of whether the claim meets the standard of "robust."
+  - **Resolution test** Provide editing efficiency data (with statistical comparisons) for multiple targets, multiple guide designs, and at least one in vivo model, including delivery route and dose. Define "robust" operationally (e.g., ≥50% of unmodified control activity).
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Generalizability
+  - **Claim pointer** "Although the performance of individual modification patterns varied among target sequences, we established a repertoire of guides that support robust genome editing"
+  - **Evidence pointer** Abstract; no sequence-level data provided
+  - **Concern** The abstract acknowledges target-dependent variability but does not indicate how many targets were tested, what fraction of targets showed acceptable activity, or whether the "repertoire" is sufficiently broad to be practically useful. If only a minority of target sequences can be successfully edited with fully modified gRNAs, the framework's utility is limited.
+  - **Why it matters** Target dependence is a known challenge in gRNA design. The claim of a "systematic framework" implies predictive rules or design criteria. Without data on the success rate across a diverse target panel, the framework's predictive power cannot be assessed.
+  - **Resolution test** Report the number of targets tested, the success rate (with a predefined threshold), and any sequence or structural features that correlate with success. Ideally, provide a design rule or algorithm that predicts which modification patterns work for a given target.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Mechanistic insight
+  - **Claim pointer** "we employed an iterative, structure-guided optimization strategy to systematically evaluate chemical modifications throughout SpyCas9 gRNAs"
+  - **Evidence pointer** Abstract; no structural or biophysical data provided
+  - **Concern** The abstract claims structure-guided optimization but provides no structural data (e.g., crystal structures, cryo-EM, or molecular dynamics) or biophysical characterization (e.g., binding affinity, thermal stability) to support the design rationale. The term "structure-guided" could mean anything from computational modeling to empirical iteration.
+  - **Why it matters** For a methods-oriented paper, the mechanistic basis for why certain modification patterns work and others do not is a key contribution. Without structural or biophysical evidence, the "framework" may be purely empirical, which reduces its generalizability.
+  - **Resolution test** Include structural or biophysical data (or at minimum, detailed computational modeling) that explains the observed activity patterns. Alternatively, clearly state that the optimization was empirical and structure-informed rather than structure-determined.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** "90%-100% of nucleotides are sugar- or backbone-modified"
+  - **Evidence pointer** Abstract
+  - **Issue** The percentage range is broad. It is unclear whether 90% modified guides are distinct from 100% modified guides in design or performance, and whether the "fully modified" claim in the title is supported by the 90% lower bound.
+  - **Required correction** Clarify whether "fully modified" refers to 100% modification or includes partially modified guides. Specify how many guides fall into each category and whether activity correlates with modification density.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "robust genome editing"
+  - **Evidence pointer** Abstract
+  - **Issue** "Robust" is a subjective term. Without a comparator (e.g., unmodified gRNA, partially modified gRNA, or a clinically relevant threshold), the claim is ambiguous.
+  - **Required correction** Define "robust" with a quantitative threshold or comparative benchmark in the abstract or main text.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Scope
+  - **Affected element** "in vivo"
+  - **Evidence pointer** Abstract
+  - **Issue** The abstract does not specify the in vivo model (mouse, rat, non-human primate), target tissue, delivery vehicle, or dosing regimen. This limits the reader's ability to gauge translational relevance.
+  - **Required correction** Include at least the model organism, target organ, and delivery method in the abstract or clearly reference a figure/table that provides these details.
+- **Technical failings that need to be addressed before the case is established** R1-M1 (quantitative evidence of editing activity), R1-M2 (target panel breadth and success rate), R1-M3 (structural or biophysical support for the design strategy)
+- **Assessment against Nature-style criteria** 
+  - Originality: High. The use of 2'-amino-RNA, 4'-thio-RNA, and exNA in heavily modified gRNAs is a novel combination not commonly reported. The systematic optimization framework is a potentially original contribution.
+  - Scientific importance: Potentially high. If fully modified gRNAs retain robust activity, this could enable new therapeutic delivery strategies and improve in vivo editing. However, importance is contingent on the quantitative results, which are not provided.
+  - Interdisciplinary readership: Likely. The work bridges nucleic acid chemistry, CRISPR biology, and therapeutic delivery, appealing to multiple communities.
+  - Technical soundness: Not assessable from the abstract. No methods, controls, or statistical analyses are visible.
+  - Readability for nonspecialists: The abstract is reasonably clear but uses specialized terminology (e.g., 2'-amino-RNA, exNA) without definition. A brief explanation of these chemistries would improve accessibility.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract describes a promising approach, but the absence of quantitative data, methodological detail, and target breadth prevents evaluation of the central claims. Supportive if the full manuscript provides the missing evidence and addresses R1-M1 through R1-M3.
+
+## Risk / unsupported claims
+- "Robust genome editing in vitro and in vivo" is unsupported without quantitative data.
+- "Systematic framework for rational engineering" is unsupported without evidence of predictive rules or a defined design algorithm.
+- "Structure-guided optimization" is unsupported without structural or biophysical data.
+- The title's "fully modified" claim is not clearly supported given the 90%–100% range stated in the abstract.

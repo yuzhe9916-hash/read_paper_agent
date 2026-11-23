@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing · CRISPR and repair</title>
+  <link rel="stylesheet" href="/read_paper_agent/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/read_paper_agent/">CRISPR and repair</a>
+    <nav>
+      <a href="/read_paper_agent/">本周</a>
+      <a href="/read_paper_agent/archive.html">归档</a>
+      <a href="/read_paper_agent/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-high">9</span>
+    <div>
+      <h1>Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing</h1>
+      <div class="meta">Shi X; Li C; Li J; Liu Y; Wu Q</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv</span> <span class="preprint-badge">预印本</span>
+        · 2026-11-17
+         · 仅摘要
+         · <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766972">原文</a>
+      </div>
+      <p class="one-liner">该研究通过大规模CRISPR编辑文库系统比较A-rich与G-rich PAM Cas9编辑器，揭示单核苷酸微同源性与交错切割决定编辑结果的可预测性，并开发深度学习模型，直接聚焦CRISPR切割机制与碱基编辑产物形成，高度契合本课题。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">The CRISPR/Cas9 system has emerged as a revolutionary tool with diverse applications in genome engineering; however, the role of nanoscale hydrogen bonds between single nucleotides in precision editing remains unknown. Here we systematically compared A-rich and G-rich PAM-recognizing Cas9 editors through comprehensive analyses of ~37,000 targeting sites with about half million libraries of ~0.36 billion types of editing outcomes. We showed that the A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM. In addition, the A-rich Cas9 editors induce a higher frequency of staggered cleavages, resulting in predictable editing with donor-independent templated insertions. Moreover, we identified distinct DNA sequence motifs for predictable insertions with the A-rich Cas9 editors. In particular, we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively. Furthermore, we found that PolQ plays a key role in enhanced random insertions. Finally, we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage. Together, these findings establish PAM-dependent cleavage geometry as a tunable determinant of Cas9 editing outcomes and provide a framework for predictive and precision genome engineering.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">CRISPR/Cas9系统已成为基因组工程中具有多种应用的革命性工具；然而，单核苷酸之间纳米尺度氢键在精准编辑中的作用仍属未知。在此，我们通过对约37,000个靶向位点及约5亿种编辑结果类型的大约50万文库进行综合分析，系统比较了识别富含A和富含G的PAM的Cas9编辑器。我们发现，与传统的富含G的PAM的Cas9编辑器相比，富含A的Cas9编辑器表现出更强的编辑结果可预测性。此外，富含A的Cas9编辑器诱导更高频率的 staggered 切割，从而产生不依赖供体的模板化插入的可预测编辑。而且，我们识别出富含A的Cas9编辑器用于可预测插入的独特DNA序列基序。特别地，我们揭示了-4位置的单核苷酸分别通过两个或三个氢键与富含A或富含G的PAM相互作用，在精准工程中作为MMEJ微同源序列。进一步地，我们发现PolQ在增强随机插入中发挥关键作用。最后，我们开发了一种深度学习离散空间扩散模型CRIfuser，用于预测具有 staggered 切割的编辑结果。综合这些发现，确立了PAM依赖性切割几何形状作为Cas9编辑结果的可调决定因素，并为预测性和精准基因组工程提供了框架。</div>
+  </section>
+  
+  
+  <section>
+    <h2>Paper Card</h2>
+    <div class="md"><h2>01 基本信息</h2>
+<ul>
+<li><strong>标题</strong>：Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing</li>
+<li><strong>作者</strong>：Shi X; Li C; Li J; Liu Y; Wu Q</li>
+<li><strong>单位</strong>：未提供</li>
+<li><strong>期刊/平台</strong>：bioRxiv（预印本）</li>
+<li><strong>年份</strong>：2026</li>
+<li><strong>论文类型</strong>：预印本（研究论文）</li>
+<li><strong>领域</strong>：CRISPR 基因组工程、碱基编辑、交错切割机制、深度学习预测</li>
+<li><strong>关键词</strong>：CRISPR/Cas9、PAM 识别、staggered cleavage、microhomology、MMEJ、PolQ、diffusion model、编辑结果预测</li>
+<li><strong>DOI/ID</strong>：10.64898/2026.11.16.766972</li>
+<li><strong>代码</strong>：未提供</li>
+<li><strong>数据</strong>：~37,000 个靶向位点，约 50 万文库，约 3.6 亿种编辑结果类型</li>
+<li><strong>阅读日期</strong>：未提供</li>
+<li><strong>在本课题方向中的位置</strong>：本文系统比较了 A-rich 与 G-rich PAM 识别型 Cas9 编辑器的编辑结果，揭示了 PAM 依赖性切割几何（staggered cleavage）作为编辑结果的可调决定因素，并建立了基于单核苷酸微同源（microhomology）的预测框架。该工作直接关联 CRISPR 系统的交错切割机制，并为碱基编辑和精准基因组工程提供了预测性工具（CRIfuser 扩散模型）。</li>
+</ul>
+<hr />
+<h2>02 一句话总结</h2>
+<p>本文通过大规模并行分析约 37,000 个靶位点、约 3.6 亿种编辑结果，系统比较 A-rich 与 G-rich PAM 识别型 Cas9 编辑器，发现 A-rich Cas9 产生更高频率的 staggered cleavage 和更可预测的编辑结果，并揭示 -4 位单核苷酸通过两或三氢键介导 MMEJ 微同源，最终开发了离散空间扩散模型 CRIfuser 用于预测编辑结果。</p>
+<hr />
+<h2>03 研究问题</h2>
+<ul>
+<li><strong>具体问题</strong>：单核苷酸水平的纳米级氢键相互作用在 CRISPR/Cas9 精准编辑中是否以及如何决定编辑结果？PAM 识别类型（A-rich vs G-rich）如何影响 staggered cleavage 频率和编辑结果的可预测性？</li>
+<li><strong>为什么重要</strong>：CRISPR/Cas9 编辑结果的不可预测性限制了精准基因组工程的应用。理解单核苷酸微同源和切割几何的分子机制，可为碱基编辑和精准编辑提供设计原则。</li>
+<li><strong>现有方法为何不足</strong>：以往研究多聚焦于 Cas9 的 gRNA 设计和 PAM 序列优化，但缺乏对 PAM 识别类型（A-rich vs G-rich）如何影响切割几何（staggered vs blunt）及下游修复路径（MMEJ、插入）的系统性理解；且缺乏可预测编辑结果的深度学习工具。</li>
+<li><strong>精确研究问题</strong>：Can PAM-dependent cleavage geometry (staggered vs blunt) and single-nucleotide microhomology at the -4 position determine the predictability and outcome spectrum of Cas9-mediated precision editing?</li>
+</ul>
+<hr />
+<h2>04 背景与发展脉络</h2>
+<p><em>注：以下脉络为「仅本文框架」——基于本文引言和结果推断，未经外部核验。</em></p>
+<ol>
+<li>
+<p><strong>第一代：Cas9 基础编辑工具</strong>（如 SpCas9，G-rich PAM）
+   - 优点：靶向广泛，切割效率高
+   - 局限：编辑结果异质性强，插入/缺失不可预测，随机插入频率高</p>
+</li>
+<li>
+<p><strong>第二代：PAM 变体与工程化 Cas9</strong>
+   - 如 SpCas9-NG、xCas9 等，扩展 PAM 兼容性
+   - 优点：扩大靶向范围
+   - 局限：对编辑结果的可预测性改善有限</p>
+</li>
+<li>
+<p><strong>第三代：碱基编辑与先导编辑</strong>
+   - 优点：可实现单碱基替换或精准小片段插入
+   - 局限：依赖脱氨酶或逆转录酶，编辑窗口受限，仍需 DSB 或 nick 参与</p>
+</li>
+<li>
+<p><strong>本文主张的位置</strong>：
+   - 提出 PAM 识别类型（A-rich vs G-rich）本身即可调节切割几何（staggered vs blunt），从而影响 MMEJ 微同源利用和编辑结果可预测性
+   - 引入深度学习扩散模型（CRIfuser）预测编辑结果，填补了从序列特征到编辑结果端到端预测的空白</p>
+</li>
+</ol>
+<hr />
+<h2>05 核心痛点</h2>
+<table>
+<thead>
+<tr>
+<th>痛点</th>
+<th>表现</th>
+<th>成因或作者解释</th>
+<th>文中证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>编辑结果不可预测</td>
+<td>同一靶位点产生多种插入/缺失类型，难以设计精准编辑</td>
+<td>不同 PAM 识别型 Cas9 的切割几何不同，影响修复路径选择</td>
+<td>摘要：A-rich Cas9 编辑结果可预测性更强</td>
+</tr>
+<tr>
+<td>随机插入频率高</td>
+<td>非模板依赖的随机插入干扰精准编辑</td>
+<td>PolQ 介导的随机插入路径在部分编辑器中活跃</td>
+<td>摘要：PolQ 在增强随机插入中起关键作用</td>
+</tr>
+<tr>
+<td>微同源利用机制不明</td>
+<td>单核苷酸水平的微同源如何决定 MMEJ 修复结果不清楚</td>
+<td>-4 位单核苷酸通过两或三氢键（A-rich vs G-rich PAM）介导 MMEJ 微同源</td>
+<td>摘要：-4 位单核苷酸作为 MMEJ 微同源</td>
+</tr>
+<tr>
+<td>缺乏预测工具</td>
+<td>现有工具无法端到端预测编辑结果</td>
+<td>缺乏考虑 staggered cleavage 的深度学习模型</td>
+<td>摘要：开发 CRIfuser 扩散模型</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>06 核心思想</h2>
+<h3>1) 表面方法</h3>
+<ul>
+<li>大规模并行比较 A-rich 与 G-rich PAM 识别型 Cas9 编辑器</li>
+<li>分析约 37,000 个靶位点、约 50 万文库、约 3.6 亿种编辑结果</li>
+<li>开发离散空间扩散模型 CRIfuser 预测编辑结果</li>
+</ul>
+<h3>2) 核心洞察</h3>
+<ul>
+<li>PAM 识别类型（A-rich vs G-rich）决定了 Cas9 的切割几何（staggered vs blunt），进而影响下游修复路径（MMEJ vs NHEJ）和编辑结果的可预测性</li>
+<li>单核苷酸水平的微同源（-4 位）通过氢键数量（两或三）决定 MMEJ 修复的精确性</li>
+<li>PolQ 是随机插入的关键介导因子，可作为调控靶点</li>
+</ul>
+<h3>3) 可能的普适教训 [Analysis]</h3>
+<ul>
+<li>编辑器的「PAM 偏好」不仅是靶向范围的约束，更是切割几何和修复结果的决定因素——这提示在设计碱基编辑或先导编辑系统时，PAM 选择应被视为功能性参数而非仅靶向参数</li>
+<li>单核苷酸水平的物理化学性质（氢键）可被用作预测编辑结果的微观特征，这一思路可迁移到其他 CRISPR 系统（如 Cas12、Cas13）的编辑结果建模</li>
+</ul>
+<hr />
+<h2>07 方法总览</h2>
+<ul>
+<li><strong>输入</strong>：靶位点序列（含 PAM 类型）、gRNA 序列、编辑结果文库数据</li>
+<li><strong>输出</strong>：编辑结果预测（插入/缺失类型及频率）、微同源位点识别、切割几何分类</li>
+<li><strong>模块</strong>：
+  1. 大规模编辑结果生成（~37,000 靶位点，~3.6 亿结果）
+  2. 编辑结果分类与统计（插入/缺失/替换）
+  3. 微同源 motif 分析（-4 位单核苷酸）
+  4. PolQ 功能验证（敲低/敲除实验）
+  5. CRIfuser 扩散模型训练与评估</li>
+<li><strong>训练</strong>：CRIfuser 使用离散空间扩散模型，输入序列特征，输出编辑结果分布</li>
+<li><strong>反馈回路</strong>：模型预测结果与实验数据比对，迭代优化特征表示</li>
+<li><strong>文字流程</strong>：设计靶位点 → 构建文库 → 转染 Cas9 编辑器 → 高通量测序 → 编辑结果分类 → 微同源分析 → PolQ 验证 → 训练 CRIfuser → 预测新位点编辑结果</li>
+</ul>
+<hr />
+<h2>08 核心模块拆解</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>功能</th>
+<th>为何需要</th>
+<th>输入输出</th>
+<th>支撑证据</th>
+<th>移除后的已知或预期影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大规模编辑结果生成</td>
+<td>产生多样化的编辑结果数据集</td>
+<td>为统计分析和模型训练提供足够样本</td>
+<td>输入：靶位点文库；输出：编辑结果频率表</td>
+<td>摘要：~37,000 靶位点，~3.6 亿结果</td>
+<td>预期影响：数据量不足将导致统计功效下降，模型泛化能力减弱 [Analysis]</td>
+</tr>
+<tr>
+<td>编辑结果分类</td>
+<td>区分插入、缺失、替换类型</td>
+<td>量化编辑结果的可预测性</td>
+<td>输入：测序 reads；输出：编辑类型分布</td>
+<td>摘要：A-rich 编辑器可预测性更强</td>
+<td>预期影响：无法量化可预测性差异 [Analysis]</td>
+</tr>
+<tr>
+<td>微同源 motif 分析</td>
+<td>识别 -4 位单核苷酸与 MMEJ 的关系</td>
+<td>揭示单核苷酸氢键在修复中的角色</td>
+<td>输入：编辑结果序列；输出：微同源 motif 频率</td>
+<td>摘要：-4 位通过两/三氢键介导 MMEJ</td>
+<td>预期影响：无法解释微同源机制 [Analysis]</td>
+</tr>
+<tr>
+<td>PolQ 功能验证</td>
+<td>确认 PolQ 在随机插入中的作用</td>
+<td>提供随机插入的分子机制解释</td>
+<td>输入：PolQ 敲低/敲除细胞；输出：插入频率变化</td>
+<td>摘要：PolQ 增强随机插入</td>
+<td>预期影响：无法解释随机插入的调控路径 [Analysis]</td>
+</tr>
+<tr>
+<td>CRIfuser 扩散模型</td>
+<td>预测编辑结果</td>
+<td>提供端到端预测工具</td>
+<td>输入：序列特征；输出：编辑结果分布</td>
+<td>摘要：开发 CRIfuser</td>
+<td>预期影响：失去预测能力，无法指导精准编辑设计 [Analysis]</td>
+</tr>
+</tbody>
+</table>
+<p><em>注：以上「预期影响」均为 [Analysis] 推断，非文中实测消融数据。</em></p>
+<hr />
+<h2>09 关键公式符号</h2>
+<p>不适用。本文为实验与深度学习建模结合的研究，摘要中未提供具体公式。CRIfuser 的扩散模型细节需查阅全文 Methods 部分，但当前材料中未提供。</p>
+<hr />
+<h2>10 实验设计与证据链</h2>
+<ul>
+<li><strong>数据集</strong>：~37,000 个靶向位点；约 50 万文库；约 3.6 亿种编辑结果类型</li>
+<li><strong>群体</strong>：未提供具体细胞类型（推测为哺乳动物细胞系，但摘要未说明）</li>
+<li><strong>指标</strong>：编辑结果可预测性、staggered cleavage 频率、插入/缺失频率、微同源 motif 频率</li>
+<li><strong>基线</strong>：G-rich PAM 识别型 Cas9（如 SpCas9）作为对照</li>
+<li><strong>预算/资源</strong>：未提供</li>
+<li><strong>骨干/仪器</strong>：未提供</li>
+<li><strong>oracle 输入</strong>：未提供</li>
+<li><strong>评测协议</strong>：未提供（需查阅全文）</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>实验</th>
+<th>检验的 claim</th>
+<th>对比与条件</th>
+<th>结果</th>
+<th>支持的结论</th>
+<th>不支持更强的结论</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A-rich vs G-rich 编辑器比较</td>
+<td>A-rich 编辑器可预测性更强</td>
+<td>约 37,000 靶位点，A-rich vs G-rich PAM</td>
+<td>A-rich 编辑器编辑结果可预测性更强</td>
+<td>PAM 类型影响编辑结果可预测性</td>
+<td>未提供效应量或统计显著性</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Staggered cleavage 频率分析</td>
+<td>A-rich 编辑器诱导更高频率 staggered cleavage</td>
+<td>A-rich vs G-rich 编辑器</td>
+<td>A-rich 编辑器 staggered cleavage 频率更高</td>
+<td>PAM 类型决定切割几何</td>
+<td>未提供定量数据</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>-4 位微同源分析</td>
+<td>单核苷酸氢键介导 MMEJ</td>
+<td>A-rich（两氢键）vs G-rich（三氢键）PAM</td>
+<td>-4 位单核苷酸作为 MMEJ 微同源</td>
+<td>单核苷酸氢键决定 MMEJ 精确性</td>
+<td>未提供具体序列 motif 列表</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>PolQ 功能实验</td>
+<td>PolQ 增强随机插入</td>
+<td>PolQ 敲低/敲除 vs 对照</td>
+<td>PolQ 在增强随机插入中起关键作用</td>
+<td>PolQ 是随机插入的调控因子</td>
+<td>未提供敲除效率或表型数据</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>CRIfuser 模型评估</td>
+<td>模型可预测编辑结果</td>
+<td>模型预测 vs 实验数据</td>
+<td>模型可预测 staggered cleavage 相关编辑结果</td>
+<td>CRIfuser 可用于精准编辑设计</td>
+<td>未提供预测精度或 AUC 等指标</td>
+<td>摘要</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>11 结论正确解读</h2>
+<ul>
+<li><strong>任务范围</strong>：本文结论仅适用于 Cas9 系统（A-rich 与 G-rich PAM 识别型），不涉及 Cas12、Cas13 等其他 CRISPR 系统。</li>
+<li><strong>oracle/真值输入</strong>：编辑结果数据来自高通量测序，但未说明是否经过 Sanger 验证或是否有独立验证集。</li>
+<li><strong>端到端状态</strong>：CRIfuser 模型为端到端预测工具，但未提供独立测试集上的性能指标。</li>
+<li><strong>算力成本</strong>：未提供。</li>
+<li><strong>历史数据依赖</strong>：模型训练依赖大规模编辑结果数据，可能受文库构建偏差和测序深度影响。</li>
+<li><strong>模型依赖</strong>：CRIfuser 为离散空间扩散模型，其预测能力依赖于训练数据分布，可能对稀有编辑类型预测不佳。</li>
+<li><strong>最难情形</strong>：对于低频率编辑结果（如特定插入类型），模型预测可能不可靠。</li>
+<li><strong>群体/领域边界</strong>：结论基于约 37,000 个靶位点，但未说明位点选择的代表性（是否覆盖不同染色质环境、表观遗传状态等）。</li>
+<li><strong>不确定性</strong>：未提供置信区间、效应量或统计显著性。</li>
+</ul>
+<p><strong>有边界的复述</strong>：在约 37,000 个靶位点、约 3.6 亿种编辑结果的范围内，A-rich PAM 识别型 Cas9 编辑器比 G-rich 型产生更高频率的 staggered cleavage 和更可预测的编辑结果；-4 位单核苷酸通过两或三氢键介导 MMEJ 微同源；PolQ 参与增强随机插入；CRIfuser 扩散模型可预测编辑结果。这些结论不超出上述数据范围。</p>
+<hr />
+<h2>12 作者自认局限</h2>
+<p>在提供的材料（摘要）中未发现作者明确承认的局限。</p>
+<p><strong>作者提及的相关约束</strong>（非正式局限）：
+- 摘要中未讨论模型泛化性、细胞类型依赖性、体内 vs 体外差异等潜在约束。
+- 未提供 CRIfuser 与其他预测工具（如 inDelphi、FORECasT）的比较。</p>
+<hr />
+<h2>13 批判性分析</h2>
+<table>
+<thead>
+<tr>
+<th>[Analysis] 观察</th>
+<th>潜在问题或替代解释</th>
+<th>为何重要</th>
+<th>如何检验</th>
+<th>依据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A-rich 编辑器可预测性更强</td>
+<td>可能因 A-rich PAM 编辑器的切割效率更高或修复路径更单一，而非 PAM 类型本身</td>
+<td>若可预测性差异源于效率而非机制，则设计原则需调整</td>
+<td>控制切割效率（如调整 Cas9 表达量）后比较可预测性</td>
+<td>摘要未提供效率数据</td>
+</tr>
+<tr>
+<td>-4 位微同源仅通过氢键数量解释</td>
+<td>可能忽略碱基堆积、DNA 弯曲等物理化学因素</td>
+<td>若仅氢键数量不足以解释，则模型特征需扩展</td>
+<td>对 -4 位进行饱和突变，测量 MMEJ 频率</td>
+<td>摘要仅提及氢键</td>
+</tr>
+<tr>
+<td>PolQ 的作用</td>
+<td>可能 PolQ 仅在特定细胞类型或损伤背景下起作用</td>
+<td>若 PolQ 作用具有背景依赖性，则调控策略需定制</td>
+<td>在不同细胞类型中敲除 PolQ 比较插入频率</td>
+<td>摘要未提供细胞类型信息</td>
+</tr>
+<tr>
+<td>CRIfuser 模型</td>
+<td>未提供与现有工具（如 inDelphi）的比较</td>
+<td>若性能不优于现有工具，则增量贡献有限</td>
+<td>在相同数据集上比较 CRIfuser 与 inDelphi、FORECasT</td>
+<td>摘要未提供比较</td>
+</tr>
+<tr>
+<td>数据规模声明</td>
+<td>~3.6 亿种编辑结果可能包含大量冗余或低质量 reads</td>
+<td>若数据质量未控制，则统计结论可能偏差</td>
+<td>检查数据过滤标准和重复性</td>
+<td>摘要未提供 QC 细节</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>14 学到什么</h2>
+<p><strong>Agent 提炼的知识候选</strong></p>
+<ol>
+<li>
+<p><strong>PAM 类型作为功能性参数</strong>：PAM 识别类型（A-rich vs G-rich）不仅是靶向约束，更是切割几何（staggered vs blunt）和编辑结果可预测性的决定因素。<strong>可迁移到本课题</strong>：在设计碱基编辑器或先导编辑器时，PAM 选择应被视为影响编辑结果质量的参数，而非仅靶向范围。</p>
+</li>
+<li>
+<p><strong>单核苷酸微同源作为预测特征</strong>：-4 位单核苷酸通过氢键数量（两或三）介导 MMEJ 微同源，这一微观特征可用于预测编辑结果。<strong>可迁移到本课题</strong>：在碱基编辑的编辑窗口设计中，可考虑目标位点附近的微同源特征来预测编辑结果。</p>
+</li>
+<li>
+<p><strong>Staggered cleavage 与模板无关插入</strong>：A-rich Cas9 产生更高频率的 staggered cleavage，导致 donor-independent templated insertions。<strong>可迁移到本课题</strong>：在碱基编辑中，若需精确插入，可优先选择 A-rich PAM 编辑器或工程化切割几何。</p>
+</li>
+<li>
+<p><strong>PolQ 作为随机插入调控靶点</strong>：PolQ 在增强随机插入中起关键作用。<strong>可迁移到本课题</strong>：在碱基编辑中，可通过抑制 PolQ 减少非预期插入，提高编辑精准性。</p>
+</li>
+<li>
+<p><strong>扩散模型用于编辑结果预测</strong>：CRIfuser 使用离散空间扩散模型预测编辑结果，这一方法可迁移到碱基编辑的结果预测。<strong>可迁移到本课题</strong>：可借鉴扩散模型架构，训练针对碱基编辑器的结果预测模型。</p>
+</li>
+<li>
+<p><strong>大规模并行比较策略</strong>：通过约 37,000 个靶位点的大规模比较，可系统揭示编辑器的机制差异。<strong>可迁移到本课题</strong>：在碱基编辑研究中，可采用类似的大规模并行策略比较不同碱基编辑器（如 ABE vs CBE）的编辑结果。</p>
+</li>
+</ol>
+<hr />
+<h2>15 与已有知识连接</h2>
+<ul>
+<li><strong>CRISPR/Cas9 切割机制</strong>：已知 SpCas9 产生 blunt 或 1-nt staggered 切割（Jinek et al., 2012; Shou et al., 2018），本文扩展了 A-rich PAM 编辑器产生更高频率 staggered cleavage 的发现，与已知的 Cas9 切割几何多样性一致。</li>
+<li><strong>MMEJ 修复路径</strong>：已知 MMEJ 依赖微同源序列（McVey &amp; Lee, 2008），本文进一步将微同源缩小到单核苷酸水平（-4 位），并关联氢键数量，这是对 MMEJ 机制的新细化。</li>
+<li><strong>PolQ 在 DNA 修复中的角色</strong>：已知 PolQ 介导的 TMEJ（theta-mediated end joining）在 DSB 修复中起重要作用（Wood &amp; Doublié, 2016），本文将其与 Cas9 编辑的随机插入联系起来，与现有文献一致。</li>
+<li><strong>编辑结果预测工具</strong>：已有 inDelphi（Shen et al., 2018）、FORECasT（Allen et al., 2018）等预测工具，本文的 CRIfuser 是首个考虑 staggered cleavage 的扩散模型，属于该方向的增量贡献。</li>
+<li><strong>碱基编辑</strong>：碱基编辑器（Komor et al., 2016; Gaudelli et al., 2017）依赖 nick 而非 DSB，本文的 staggered cleavage 发现可能为碱基编辑器的编辑窗口设计提供新思路（如通过 PAM 选择影响 nick 位置）。</li>
+</ul>
+<p><em>注：以上外部文献连接为 [Analysis] 推断，基于领域常识，未在本文摘要中直接引用。</em></p>
+<hr />
+<h2>16 研究想法</h2>
+<p><strong>Agent 生成的研究候选</strong></p>
+<h3>候选 1：PAM 类型对碱基编辑器编辑窗口的影响</h3>
+<ul>
+<li><strong>名称</strong>：PAM-dependent editing window modulation in base editors</li>
+<li><strong>来源局限/观察</strong>：本文发现 PAM 类型影响 staggered cleavage 频率，而碱基编辑器依赖 nick 位置决定编辑窗口</li>
+<li><strong>核心假设</strong>：A-rich PAM 碱基编辑器（如 SpRY-ABE）的编辑窗口比 G-rich PAM 编辑器更宽或更可预测</li>
+<li><strong>相对本文的增量</strong>：将本文的 PAM-切割几何关系从 Cas9 nuclease 扩展到碱基编辑器</li>
+<li><strong>初步方法</strong>：构建 A-rich 与 G-rich PAM 识别的碱基编辑器，在相同靶位点比较编辑窗口和结果分布</li>
+<li><strong>验证方式</strong>：高通量测序 + 编辑窗口统计</li>
+<li><strong>可能的失败模式</strong>：碱基编辑器的 nick 位置可能不直接受 PAM 类型影响，编辑窗口差异不显著</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 2：微同源特征引导的精确插入设计</h3>
+<ul>
+<li><strong>名称</strong>：Microhomology-guided precise insertion design (MGPID)</li>
+<li><strong>来源局限/观察</strong>：本文揭示 -4 位单核苷酸通过氢键介导 MMEJ 微同源，可用于预测插入结果</li>
+<li><strong>核心假设</strong>：在靶位点 -4 位设计特定单核苷酸可提高精确插入频率</li>
+<li><strong>相对本文的增量</strong>：将微同源发现转化为设计原则</li>
+<li><strong>初步方法</strong>：在靶位点 -4 位引入 A/T 或 G/C 突变，测量插入频率和精确性</li>
+<li><strong>验证方式</strong>：定点突变 + 编辑结果测序</li>
+<li><strong>可能的失败模式</strong>：-4 位突变可能影响 gRNA 结合或 Cas9 切割效率，插入频率不升反降</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 3：PolQ 抑制增强碱基编辑精准性</h3>
+<ul>
+<li><strong>名称</strong>：PolQ inhibition for enhanced base editing precision</li>
+<li><strong>来源局限/观察</strong>：本文发现 PolQ 增强随机插入，而随机插入是碱基编辑中非预期突变的主要来源之一</li>
+<li><strong>核心假设</strong>：抑制 PolQ 可减少碱基编辑中的随机插入，提高编辑精准性</li>
+<li><strong>相对本文的增量</strong>：将 PolQ 从 Cas9 nuclease 背景迁移到碱基编辑背景</li>
+<li><strong>初步方法</strong>：在碱基编辑实验中加入 PolQ 抑制剂（如 ART558），比较编辑结果</li>
+<li><strong>验证方式</strong>：编辑结果测序 + 插入频率统计</li>
+<li><strong>可能的失败模式</strong>：PolQ 抑制可能影响细胞活力或碱基编辑效率，且碱基编辑的随机插入可能不依赖 PolQ</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 4：CRIfuser 迁移到碱基编辑结果预测</h3>
+<ul>
+<li><strong>名称</strong>：Base editing outcome prediction via diffusion model</li>
+<li><strong>来源局限/观察</strong>：CRIfuser 可预测 Cas9 nuclease 的编辑结果，但碱基编辑器的结果预测仍不成熟</li>
+<li><strong>核心假设</strong>：扩散模型架构可迁移到碱基编辑结果预测，且性能优于现有工具</li>
+<li><strong>相对本文的增量</strong>：将 CRIfuser 从 nuclease 扩展到碱基编辑器</li>
+<li><strong>初步方法</strong>：收集碱基编辑结果数据集，训练扩散模型，与现有工具（如 BE-DICT）比较</li>
+<li><strong>验证方式</strong>：独立测试集上的预测精度</li>
+<li><strong>可能的失败模式</strong>：碱基编辑结果分布与 nuclease 差异大，扩散模型需大幅调整</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul>
+<h3>候选 5：PAM 类型与染色质环境的交互效应</h3>
+<ul>
+<li><strong>名称</strong>：PAM type × chromatin context interaction in editing outcomes</li>
+<li><strong>来源局限/观察</strong>：本文未考虑染色质环境对编辑结果的影响，但已知染色质状态影响 Cas9 切割效率</li>
+<li><strong>核心假设</strong>：A-rich 与 G-rich PAM 编辑器的编辑结果差异在不同染色质环境中被放大或缩小</li>
+<li><strong>相对本文的增量</strong>：将 PAM 类型与表观遗传因素结合</li>
+<li><strong>初步方法</strong>：在不同染色质状态（开放 vs 封闭）的位点比较 A-rich 与 G-rich 编辑器的编辑结果</li>
+<li><strong>验证方式</strong>：ATAC-seq + 编辑结果测序</li>
+<li><strong>可能的失败模式</strong>：染色质效应可能掩盖 PAM 类型效应，差异不显著</li>
+<li><strong>创新状态</strong>：unverified</li>
+</ul></div>
+  </section>
+  
+  
+  <section>
+    <h2>审稿人评审</h2>
+    <div class="md"><h2>Review setup</h2>
+<ul>
+<li><strong>Input scope</strong> Abstract only</li>
+<li><strong>Assessment boundary</strong> Claims and conclusions as stated in the abstract; no methods, figures, or data tables were provided for verification</li>
+<li><strong>Shared manuscript claim summary</strong> The authors report a large-scale comparative analysis of A-rich versus G-rich PAM-recognizing Cas9 editors across ~37,000 targeting sites and ~0.36 billion editing outcome types. They claim that A-rich Cas9 editors show stronger editing outcome predictability, higher staggered cleavage frequency, and predictable donor-independent templated insertions. They further report identification of single-nucleotide microhomologies at the -4 position mediated by two or three hydrogen bonds, a role for PolQ in enhanced random insertions, and development of a deep learning model (CRIfuser) for predicting editing outcomes with staggered cleavage.</li>
+<li><strong>Visible evidence base</strong> Abstract text only. No figures, tables, methods, statistical analyses, or model validation data were provided.</li>
+<li><strong>Missing materials affecting confidence</strong> All primary data, experimental methods, bioinformatic pipelines, statistical tests, model architecture and performance metrics, and validation datasets are absent. The scale claims (~37,000 sites, ~0.36 billion outcomes) cannot be independently assessed.</li>
+</ul>
+<h2>Reviewer</h2>
+<ul>
+<li><strong>Overall assessment</strong> The abstract presents a potentially interesting comparative framework for understanding PAM-dependent cleavage geometry in Cas9 editing outcomes. However, the claims are broad and mechanistic, and the evidence base provided is insufficient to evaluate their validity. The central assertions regarding hydrogen-bond-mediated microhomology, PolQ involvement, and the predictive model's performance are stated without supporting quantitative detail. The work may be of interest to the genome engineering community, but the current abstract alone does not establish the case.</li>
+<li><strong>Who would be interested in the results, and why</strong> Genome engineering researchers, particularly those working on CRISPR precision editing, homology-directed repair mechanisms, and predictive modeling of editing outcomes. The comparative analysis of A-rich versus G-rich PAM editors could inform editor selection for therapeutic or research applications. The proposed CRIfuser model may interest computational biologists developing predictive tools for genome editing.</li>
+<li><strong>Major strengths</strong> The scale of the reported dataset is substantial and could provide a valuable resource. The comparative angle between A-rich and G-rich PAM editors is a useful framing that may reveal editor-specific principles. The integration of mechanistic findings (microhomology, PolQ) with a predictive model is an ambitious and potentially impactful combination.</li>
+<li><strong>Major Concerns</strong></li>
+<li><strong>Concern ID</strong> R1-M1</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Evidence sufficiency</li>
+<li><strong>Claim pointer</strong> "we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively"</li>
+<li><strong>Evidence pointer</strong> Abstract only; location not provided</li>
+<li><strong>Concern</strong> The claim that single nucleotides at the -4 position function as MMEJ microhomologies via two or three hydrogen bonds is a specific mechanistic assertion. The abstract provides no experimental or computational evidence demonstrating how hydrogen bond counts were determined, how the -4 position was identified, or how this relates functionally to MMEJ outcomes.</li>
+<li><strong>Why it matters</strong> This is a central mechanistic claim that appears to be a key novelty of the work. Without supporting data, the claim cannot be evaluated, and its validity is essential to the paper's contribution.</li>
+<li><strong>Resolution test</strong> Provide experimental or computational evidence showing position-specific microhomology analysis, hydrogen bond calculations, and functional validation (e.g., mutation of the -4 nucleotide and demonstration of altered editing outcomes).</li>
+<li><strong>Concern ID</strong> R1-M2</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Model validation</li>
+<li><strong>Claim pointer</strong> "we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage"</li>
+<li><strong>Evidence pointer</strong> Abstract only; location not provided</li>
+<li><strong>Concern</strong> The abstract claims development of a deep learning model but provides no performance metrics, comparison to existing models, or validation strategy. It is unclear whether CRIfuser outperforms existing predictors or whether it generalizes beyond the training data.</li>
+<li><strong>Why it matters</strong> Predictive models are only useful if their accuracy and generalizability are demonstrated. Without quantitative benchmarks, the claim of a predictive framework is unsupported.</li>
+<li><strong>Resolution test</strong> Provide model performance metrics (e.g., correlation coefficients, precision/recall) on held-out test sets, comparison with existing tools, and external validation datasets.</li>
+<li><strong>Concern ID</strong> R1-M3</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Statistical rigor</li>
+<li><strong>Claim pointer</strong> "A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM"</li>
+<li><strong>Evidence pointer</strong> Abstract only; location not provided</li>
+<li><strong>Concern</strong> The claim of "stronger predictability" is comparative and requires statistical testing. The abstract does not report effect sizes, confidence intervals, or significance testing. It is also unclear what metric was used to define predictability.</li>
+<li><strong>Why it matters</strong> This is a foundational claim upon which subsequent findings depend. Without statistical support, the comparative conclusion is not established.</li>
+<li><strong>Resolution test</strong> Report the predictability metric used, effect sizes, and statistical significance for the comparison between A-rich and G-rich editors.</li>
+<li><strong>Concern ID</strong> R1-M4</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Mechanistic attribution</li>
+<li><strong>Claim pointer</strong> "we found that PolQ plays a key role in enhanced random insertions"</li>
+<li><strong>Evidence pointer</strong> Abstract only; location not provided</li>
+<li><strong>Concern</strong> The role of PolQ is stated as a finding, but no experimental approach (e.g., knockdown, knockout, inhibitor) or quantitative outcome is described. The specificity of PolQ's role versus other polymerases is not addressed.</li>
+<li><strong>Why it matters</strong> Attributing a mechanistic role to a specific polymerase requires loss-of-function or gain-of-function evidence. Without this, the claim is speculative.</li>
+<li><strong>Resolution test</strong> Provide experimental evidence with PolQ perturbation and demonstrate altered insertion frequencies, ideally with complementation or specificity controls.</li>
+<li><strong>Minor Comments</strong></li>
+<li><strong>Concern ID</strong> R1-m1</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Clarity</li>
+<li><strong>Affected element</strong> Dataset description</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The relationship between "~37,000 targeting sites," "about half million libraries," and "~0.36 billion types of editing outcomes" is unclear. It is not obvious how these numbers relate to each other or what they represent.</li>
+<li><strong>Required correction</strong> Clarify the hierarchical structure of the dataset (sites, libraries, outcomes) and define what constitutes an "editing outcome type."</li>
+<li><strong>Concern ID</strong> R1-m2</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Terminology</li>
+<li><strong>Affected element</strong> "nanoscale hydrogen bonds"</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The phrase "nanoscale hydrogen bonds" is unusual. Hydrogen bonds are typically described at the molecular level, and "nanoscale" may be imprecise or misleading.</li>
+<li><strong>Required correction</strong> Use standard terminology such as "hydrogen bonding interactions" or specify the structural scale being referenced.</li>
+<li><strong>Concern ID</strong> R1-m3</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Model naming</li>
+<li><strong>Affected element</strong> "CRIfuser"</li>
+<li><strong>Evidence pointer</strong> Abstract; location not provided</li>
+<li><strong>Issue</strong> The model name "CRIfuser" is introduced without explanation of its derivation or relation to existing models.</li>
+<li><strong>Required correction</strong> Briefly explain the name or provide a reference to the model's conceptual basis.</li>
+<li><strong>Technical failings that need to be addressed before the case is established</strong> R1-M1, R1-M2, R1-M3. The central mechanistic claim, the model's utility, and the comparative predictability claim all require supporting evidence that is not present in the abstract.</li>
+<li><strong>Assessment against Nature-style criteria</strong> Originality: the comparative A-rich versus G-rich PAM framing and the proposed hydrogen-bond-based microhomology mechanism are potentially original, but novelty cannot be fully assessed without seeing how this relates to prior work. Scientific importance: if substantiated, the findings could inform editor selection and predictive modeling, which is of practical importance. Interdisciplinary readership: the work bridges molecular biology, genomics, and machine learning, which could appeal to a broad audience. Technical soundness: cannot be evaluated from the abstract alone; the absence of methods and statistical detail is a major limitation. Readability for nonspecialists: the abstract is dense and uses specialized terminology without sufficient context, which may limit accessibility.</li>
+<li><strong>Recommendation posture</strong> Currently not established from the provided evidence. The abstract presents an ambitious set of claims, but the absence of methods, data, and validation means the case is not made. A full manuscript with supporting evidence would be required for a meaningful evaluation.</li>
+</ul>
+<h2>Risk / unsupported claims</h2>
+<ul>
+<li>The claim of hydrogen-bond-mediated microhomology at the -4 position is unsupported by any presented evidence.</li>
+<li>The claim that CRIfuser predicts editing outcomes is unsupported without performance metrics or validation.</li>
+<li>The comparative claim of stronger predictability for A-rich editors is unsupported without statistical analysis.</li>
+<li>The role of PolQ in enhanced random insertions is stated without experimental support.</li>
+<li>The dataset scale claims (~37,000 sites, ~0.36 billion outcomes) cannot be verified from the abstract alone.</li>
+</ul></div>
+  </section>
+  
+</article>
+</main>
+</body>
+</html>

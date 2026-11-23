@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43039554",
+  "title": "Polysaccharide-centered engineering of biomass-derived nanoparticles for precision medicine: From molecular assembly and structural deconstruction to therapeutic design.",
+  "authors": "Li, Yumeng; Yang, Huan; Xiang, Wenchao; Yang, Xu; Tao, Lu; Jiang, Zhenyu; Han, Shiqi; Chen, Guoqiang; Jia, Haiyang; Liu, Qi",
+  "journal": "Carbohydrate polymers",
+  "published_date": "2026-11-16",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 5,
+  "one_liner_zh": "该综述聚焦多糖基生物质纳米颗粒的工程化设计及其在精准医学中的应用，虽涉及CRISPR-Cas9递送，但核心是纳米材料组装与递送，而非碱基编辑或交错切割的分子机制，仅部分相关。",
+  "abstract": "Polysaccharide-centered engineering of biomass-derived nanoparticles (BNPs) is emerging as a sustainable and biologically compatible strategy for precision medicine. Polysaccharide-derived nanoparticles offer renewable sources, structural diversity, tunable physicochemical properties, and intrinsic biological functions that enable their rational engineering for targeted delivery and therapeutic modulation. This review focuses on cellulose-, chitosan-, alginate-, and hyaluronic acid-based nanoplatforms and examines how their molecular and supramolecular characteristics govern nanoparticle construction, nano-bio interactions, and therapeutic performance. Selected protein-derived systems are discussed where they form hybrid architectures with polysaccharides or provide mechanistic insights directly relevant to polysaccharide nanoengineering. We integrate bottom-up molecular assembly and top-down structural deconstruction as complementary fabrication paradigms and analyze how BNPs navigate physiological barriers through mechanisms including receptor-mediated transport, tight-junction modulation, and stimulus-responsive structural reconfiguration. We further examine their applications in CRISPR-Cas9 delivery and precision immunotherapy, with particular attention to design principles, translational constraints, and opportunities for scalable manufacturing. By linking molecular structure, assembly behavior, biological transport, and therapeutic function, this review provides a polysaccharide-centered framework for the rational development of adaptive biomass-derived nanoplatforms for precision medicine.",
+  "abstract_zh": "以多糖为中心的生物质衍生纳米颗粒（BNPs）工程化，正成为一种可持续且生物相容的精准医学策略。多糖衍生纳米颗粒具有可再生来源、结构多样性、可调理化性质及内在生物功能，使其能够通过合理工程化实现靶向递送和治疗调控。本综述聚焦于基于纤维素、壳聚糖、海藻酸盐和透明质酸的纳米平台，并考察其分子及超分子特性如何决定纳米颗粒的构建、纳米-生物相互作用及治疗性能。文中还讨论了部分蛋白质衍生系统，这些系统与多糖形成杂化结构，或提供与多糖纳米工程直接相关的机制性见解。我们将自下而上的分子组装和自上而下的结构解构视为互补的制造范式，并分析BNPs如何通过受体介导转运、紧密连接调节和刺激响应性结构重构等机制穿越生理屏障。我们进一步审视了它们在CRISPR-Cas9递送和精准免疫治疗中的应用，特别关注设计原则、转化限制及可规模化制造的机会。通过将分子结构、组装行为、生物转运和治疗功能联系起来，本综述为精准医学中适应性生物质衍生纳米平台的合理开发提供了一个以多糖为中心的框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039554/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43039554/",
+  "paper_page_path": "papers/pubmed/43039554/index.html"
+}

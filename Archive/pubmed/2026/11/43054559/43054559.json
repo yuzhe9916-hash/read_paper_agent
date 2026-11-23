@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "43054559",
+    "doi": "10.3389/fmicb.2026.1998134",
+    "title": "Molecular mechanisms of AcrVA-mediated Cas12a inhibition and their potential applications."
+  },
+  "content": {
+    "abstract": "CRISPR-Cas12a is widely used for genome editing because it is simple, efficient, and suitable for multiplex targeting. However, strong or prolonged Cas12a activity can increase unwanted cleavage at off-target sites. This problem is especially important when Cas12a is used in complex microbial communities, where unintended editing may affect non-target microorganisms or mobile genetic elements. Anti-CRISPR (Acr) proteins are natural inhibitors of CRISPR-Cas systems. Acr proteins targeting type V-A CRISPR-Cas12a systems are called AcrV proteins. Recent structural and biochemical studies have shown that AcrVA proteins inhibit Cas12a through highly different mechanisms. AcrVA1 induces cleavage of Cas12a-bound crRNA. AcrVA2 recognizes the nascent Cas12a polypeptide and promotes translation-dependent degradation of cas12a mRNA. AcrVA3 directly cleaves double-stranded DNA and indirectly reduces Cas12a activity. AcrVA4 allosterically blocks target DNA binding, whereas AcrVA5-AcrVA8 inhibit Cas12a by acetylating important lysine residues. These studies provide a structural basis for using AcrVA proteins as potential Cas12a off-switches. Importantly, AcrV proteins may reduce off-target effects by limiting the strength and duration of Cas12a activity after sufficient on-target editing has occurred. In this mini review, we summarize the structural mechanisms of AcrVA proteins and critically discuss the evidence and experimental requirements for their potential use in controlled Cas12a-based microbial engineering.",
+    "keywords": [
+      "CRISPR-Cas12a",
+      "anti-CRISPR",
+      "genome editing",
+      "off-target effect",
+      "protein structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kang, Yong Jun",
+        "Park, Hyun Ho"
+      ],
+      "short_names": [
+        "Kang YJ",
+        "Park HH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul, Republic of Korea.",
+        "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul, Republic of Korea.",
+        "College of Pharmacy, Chung-Ang University, Seoul, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kang, Yong Jun",
+        "short_name": "Kang YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Hyun Ho",
+        "short_name": "Park HH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Global Innovative Drugs, Graduate School of Chung-Ang University, Seoul, Republic of Korea.",
+          "College of Pharmacy, Chung-Ang University, Seoul, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 18:02",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43054559",
+      "31155345",
+      "39158766",
+      "31467167",
+      "30936531",
+      "31397669",
+      "33819020",
+      "31671185",
+      "30639240",
+      "42143446",
+      "28431230",
+      "36682874",
+      "38714643",
+      "42045650",
+      "32687187",
+      "41854513",
+      "30936526",
+      "39009379",
+      "36537251",
+      "32161115",
+      "42749264",
+      "40403646",
+      "35670376",
+      "39929897",
+      "30514786",
+      "30190307",
+      "40617436",
+      "38575054",
+      "42056528",
+      "39676682",
+      "37426982",
+      "34455224",
+      "41229123",
+      "38402312",
+      "40754777",
+      "32682455",
+      "33754170",
+      "28602637",
+      "38483978",
+      "42272755",
+      "38407550",
+      "38442486",
+      "34853172",
+      "30503205",
+      "33782402",
+      "39399829",
+      "32233423",
+      "40334424",
+      "32843348",
+      "35174354",
+      "35468792",
+      "31989168",
+      "40398570",
+      "31581942",
+      "35774104",
+      "29281823",
+      "39971060",
+      "31656887",
+      "41814651",
+      "38772660",
+      "39693940",
+      "30078724",
+      "41063348",
+      "35505967",
+      "29449511",
+      "34648747",
+      "38441767",
+      "34951459",
+      "40966510",
+      "30950179",
+      "37636103",
+      "36117747",
+      "41500123",
+      "37531567",
+      "42716355",
+      "33162553",
+      "41137484",
+      "28781234",
+      "29972722",
+      "41288355",
+      "39258555",
+      "32374858",
+      "31526005",
+      "41783155",
+      "31800219",
+      "38242128",
+      "29790280",
+      "38284432",
+      "35842430",
+      "38468087",
+      "40688512",
+      "34713259",
+      "39183441",
+      "30730047",
+      "39020310",
+      "41603277",
+      "41330674",
+      "40541695",
+      "40897312",
+      "30582653"
+    ],
+    "review": [
+      "43054559",
+      "31671185",
+      "42045650",
+      "37426982",
+      "33754170",
+      "42272755",
+      "39399829",
+      "35174354",
+      "38441767",
+      "41500123",
+      "42716355",
+      "41783155",
+      "29790280",
+      "40688512"
+    ],
+    "pmc": [
+      "13778320"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43054559/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fmicb.2026.1998134",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

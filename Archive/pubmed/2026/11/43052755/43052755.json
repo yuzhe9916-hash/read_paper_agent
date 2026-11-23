@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "pmid": "43052755",
+    "doi": "10.1186/s12859-026-06728-1",
+    "title": "Comparison of interventional causal structure learning algorithms for gene regulatory network inference."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Causal structure learning offers a promising approach to studying gene regulation in cells, aiming to provide deeper mechanistic insights than purely association-based methods. Theoretical groundwork indicating that interventions improve identifiability of causal structure motivates the use of causal structure learning methods in scenarios with interventional information. RESULTS: This benchmark investigates the ability of existing causal structure learning algorithms to leverage the information revealed by targeted interventions to infer gene regulatory networks (GRNs). In this study synthetic single-cell perturbation data and experimental data from a clustered regularly interspaced short palindromic repeats (CRISPR) screen are leveraged, and a suite of causal structure learning algorithms is evaluated on metrics tailored to synthetic ground truth and real biological data respectively. On synthetic data, accurate recovery of GRNs was achieved under favourable conditions: strong interventions, large sample sizes, and low measurement noise. For experimental data, no reliable ground truth is available, so inferred GRNs were assessed indirectly, using observed perturbation effects and curated regulatory annotations. Here, performance remained unreliable, with technical and biological noise and algorithmic scalability as limiting factors. This highlights a current gap between theoretical potential and practical application of causal structure learning for GRNs. CONCLUSIONS: The benchmark provides insight into algorithm strengths and limitations and offers groundwork for further methodological development. We also provide an accessible software package for applying modern causal structure learning to custom datasets and thereby foster future exploration of its potential.",
+    "keywords": [
+      "Benchmarking",
+      "Causal structure learning",
+      "Gene regulatory networks",
+      "Single-cell CRISPR screening"
+    ],
+    "mesh_terms": [
+      "*Gene Regulatory Networks",
+      "*Algorithms",
+      "*Computational Biology/methods",
+      "*Machine Learning",
+      "Clustered Regularly Interspaced Short Palindromic Repeats"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sprengel, Jan L",
+        "Velten, Britta"
+      ],
+      "short_names": [
+        "Sprengel JL",
+        "Velten B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre for Organismal Studies, Heidelberg University, Im Neuenheimer Feld 230, Heidelberg, 69120, Germany. jan.sprengel@cos.uni-heidelberg.de.",
+        "Centre for Organismal Studies, Heidelberg University, Im Neuenheimer Feld 230, Heidelberg, 69120, Germany. britta.velten@cos.uni-heidelberg.de.",
+        "Interdisciplinary Center for Scientific Computing, Heidelberg University, Im Neuenheimer Feld 205, Heidelberg, 69120, Germany. britta.velten@cos.uni-heidelberg.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sprengel, Jan L",
+        "short_name": "Sprengel JL",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Organismal Studies, Heidelberg University, Im Neuenheimer Feld 230, Heidelberg, 69120, Germany. jan.sprengel@cos.uni-heidelberg.de."
+        ]
+      },
+      {
+        "full_name": "Velten, Britta",
+        "short_name": "Velten B",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Organismal Studies, Heidelberg University, Im Neuenheimer Feld 230, Heidelberg, 69120, Germany. britta.velten@cos.uni-heidelberg.de.",
+          "Interdisciplinary Center for Scientific Computing, Heidelberg University, Im Neuenheimer Feld 205, Heidelberg, 69120, Germany. britta.velten@cos.uni-heidelberg.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC bioinformatics"
+    ],
+    "journal_abbrev": [
+      "BMC Bioinformatics"
+    ],
+    "pub_date": "2026 Nov 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/19 05:30",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43052755",
+      "40069299",
+      "30547796",
+      "42475469",
+      "37897702",
+      "40251476",
+      "38879931",
+      "41310253",
+      "42316003",
+      "40966655",
+      "40062616",
+      "42584997",
+      "41826830",
+      "20105328",
+      "28155637",
+      "42482180",
+      "39939367",
+      "42928020",
+      "40662821",
+      "39417321",
+      "31964336",
+      "42398561",
+      "41824946",
+      "41401563",
+      "39266676",
+      "39311699",
+      "39375864",
+      "38744843",
+      "33704425",
+      "40461994",
+      "38896510",
+      "41267133",
+      "29714955",
+      "41067887",
+      "42752548",
+      "40409400",
+      "36626328",
+      "33834216",
+      "35062026",
+      "31263873",
+      "39387266",
+      "42716018",
+      "22369588",
+      "42061403",
+      "29914350",
+      "41704237",
+      "33828122",
+      "26608050",
+      "24669835",
+      "41288963",
+      "37085776",
+      "40596788",
+      "40708222",
+      "33168813",
+      "39095705",
+      "42054465",
+      "42059479",
+      "38861487",
+      "42458246",
+      "41544912",
+      "38950180",
+      "23717196",
+      "19712740",
+      "34495484",
+      "27479082",
+      "21545720",
+      "42710888",
+      "20946602",
+      "39426072",
+      "39679439",
+      "39960893",
+      "29927613",
+      "42379340",
+      "42332576",
+      "41134033",
+      "39934680",
+      "24278007",
+      "39401117",
+      "43060182",
+      "31571287",
+      "40408160",
+      "35692809",
+      "40892899",
+      "41183100",
+      "42335450",
+      "31128452",
+      "39440482",
+      "41206950",
+      "30445315",
+      "37038446",
+      "21696592",
+      "39053644",
+      "31658261",
+      "26394325",
+      "42265576",
+      "25244077",
+      "27045829",
+      "30207963",
+      "42225598",
+      "27553489"
+    ],
+    "review": [
+      "43052755",
+      "40966655",
+      "39939367",
+      "41824946"
+    ],
+    "pmc": [
+      "13783600"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-026-06728-1",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43052755/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

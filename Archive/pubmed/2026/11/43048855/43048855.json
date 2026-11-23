@@ -1,0 +1,563 @@
+{
+  "identity": {
+    "pmid": "43048855",
+    "doi": "10.1093/nar/gkag1105",
+    "title": "Fully modified SpyCas9 guide RNAs enable robust genome editing in cells and in vivo."
+  },
+  "content": {
+    "abstract": "Precision engineering of CRISPR/Cas9 components has advanced genome editing toward therapeutic applications. Fully chemically modified guide RNAs (gRNAs) have the potential to improve stability and broaden therapeutic delivery strategies. However, extensive chemical modification of CRISPR guides can compromise genome editing activity by disrupting gRNA-Cas9 interactions. Here, we employed an iterative, structure-guided optimization strategy to systematically evaluate chemical modifications throughout SpyCas9 gRNAs. Extending beyond commonly used nucleotide modifications, we incorporated 2'-amino-RNA, 4'-thio-RNA, and extended nucleic acid (exNA) to generate gRNAs in which 90%-100% of nucleotides are sugar- or backbone-modified. Although the performance of individual modification patterns varied among target sequences, we established a repertoire of guides that support robust genome editing in vitro and in vivo. Collectively, these findings provide a systematic framework for rational engineering of heavily and fully modified gRNAs using diverse nucleotide chemistries for nonviral CRISPR genome editing.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA, Guide, CRISPR-Cas Systems/chemistry/genetics",
+      "*CRISPR-Cas Systems",
+      "Humans",
+      "Animals",
+      "Mice",
+      "HEK293 Cells",
+      "Base Sequence",
+      "*Gene Editing"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vu, Kim Anh",
+        "Zhang, Han",
+        "Amrani, Nadia",
+        "Devi, Gitali",
+        "Gaston, Nicholas",
+        "Lee, Jonathan",
+        "Maitland, Stacy A",
+        "Chen, Zexiang",
+        "Echeverria, Dimas",
+        "Liu, Pengpeng",
+        "Ponnienselvan, Karthikeyan",
+        "Hanlon, Matthew B",
+        "Lucas, Connor",
+        "Luk, Kevin",
+        "Sousa, Jacquelyn",
+        "Cooper, David",
+        "Srnka, Alyxandr",
+        "Rembetsy-Brown, Julia M",
+        "Ansodaria, Aditya Valji",
+        "Hedger, Adam K",
+        "Wagh, Atish",
+        "Bamidele, Nathan",
+        "Mir, Aamir",
+        "Yamada, Ken",
+        "Alterman, Julia F",
+        "Khvorova, Anastasia",
+        "Wolfe, Scot A",
+        "Sontheimer, Erik J",
+        "Watts, Jonathan K"
+      ],
+      "short_names": [
+        "Vu KA",
+        "Zhang H",
+        "Amrani N",
+        "Devi G",
+        "Gaston N",
+        "Lee J",
+        "Maitland SA",
+        "Chen Z",
+        "Echeverria D",
+        "Liu P",
+        "Ponnienselvan K",
+        "Hanlon MB",
+        "Lucas C",
+        "Luk K",
+        "Sousa J",
+        "Cooper D",
+        "Srnka A",
+        "Rembetsy-Brown JM",
+        "Ansodaria AV",
+        "Hedger AK",
+        "Wagh A",
+        "Bamidele N",
+        "Mir A",
+        "Yamada K",
+        "Alterman JF",
+        "Khvorova A",
+        "Wolfe SA",
+        "Sontheimer EJ",
+        "Watts JK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3862-9002",
+        "ORCID: 0000-0001-9003-8456",
+        "ORCID: 0000-0002-1040-0855",
+        "ORCID: 0000-0003-1529-2598",
+        "ORCID: 0000-0002-5714-8298",
+        "ORCID: 0000-0002-6195-0857",
+        "ORCID: 0000-0001-6928-8071",
+        "ORCID: 0000-0002-7042-201X",
+        "ORCID: 0000-0002-0881-0310",
+        "ORCID: 0000-0001-5706-1734"
+      ],
+      "affiliations": [
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+        "Department of Biochemistry and Molecular Biotechnology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vu, Kim Anh",
+        "short_name": "Vu KA",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Han",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Amrani, Nadia",
+        "short_name": "Amrani N",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Devi, Gitali",
+        "short_name": "Devi G",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Gaston, Nicholas",
+        "short_name": "Gaston N",
+        "identifiers": [
+          "0000-0002-3862-9002"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Lee, Jonathan",
+        "short_name": "Lee J",
+        "identifiers": [
+          "0000-0001-9003-8456"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Maitland, Stacy A",
+        "short_name": "Maitland SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Chen, Zexiang",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Echeverria, Dimas",
+        "short_name": "Echeverria D",
+        "identifiers": [
+          "0000-0002-1040-0855"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Liu, Pengpeng",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Ponnienselvan, Karthikeyan",
+        "short_name": "Ponnienselvan K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Hanlon, Matthew B",
+        "short_name": "Hanlon MB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Lucas, Connor",
+        "short_name": "Lucas C",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Luk, Kevin",
+        "short_name": "Luk K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Sousa, Jacquelyn",
+        "short_name": "Sousa J",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Cooper, David",
+        "short_name": "Cooper D",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Srnka, Alyxandr",
+        "short_name": "Srnka A",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Rembetsy-Brown, Julia M",
+        "short_name": "Rembetsy-Brown JM",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Ansodaria, Aditya Valji",
+        "short_name": "Ansodaria AV",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Hedger, Adam K",
+        "short_name": "Hedger AK",
+        "identifiers": [
+          "0000-0003-1529-2598"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Wagh, Atish",
+        "short_name": "Wagh A",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Bamidele, Nathan",
+        "short_name": "Bamidele N",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Mir, Aamir",
+        "short_name": "Mir A",
+        "identifiers": [],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Yamada, Ken",
+        "short_name": "Yamada K",
+        "identifiers": [
+          "0000-0002-5714-8298"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Alterman, Julia F",
+        "short_name": "Alterman JF",
+        "identifiers": [
+          "0000-0002-6195-0857"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Khvorova, Anastasia",
+        "short_name": "Khvorova A",
+        "identifiers": [
+          "0000-0001-6928-8071"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Wolfe, Scot A",
+        "short_name": "Wolfe SA",
+        "identifiers": [
+          "0000-0002-7042-201X"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cell and Cancer Biology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Sontheimer, Erik J",
+        "short_name": "Sontheimer EJ",
+        "identifiers": [
+          "0000-0002-0881-0310"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      },
+      {
+        "full_name": "Watts, Jonathan K",
+        "short_name": "Watts JK",
+        "identifiers": [
+          "0000-0001-5706-1734"
+        ],
+        "affiliations": [
+          "RNA Therapeutics Institute, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Li Weibo Institute for Rare Diseases Research, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States.",
+          "Department of Biochemistry and Molecular Biotechnology, University of Massachusetts Chan Medical School, Worcester, MA 01605, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Nov 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:30",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43048855",
+      "42244699",
+      "29176845",
+      "29980686",
+      "42634480",
+      "39023463",
+      "25247697",
+      "40905590",
+      "35078986",
+      "28462777",
+      "25398334",
+      "32926376",
+      "29650467",
+      "32926377",
+      "38033325",
+      "29216382",
+      "35446403",
+      "32006393",
+      "39939860",
+      "42758354",
+      "31161741",
+      "32710418",
+      "26589814",
+      "28351759",
+      "39380278",
+      "35543560",
+      "36301478",
+      "35436085",
+      "34086743",
+      "29131148",
+      "42525385",
+      "26121415",
+      "33122087",
+      "40173086",
+      "33905612",
+      "28851809",
+      "31493470",
+      "31694550",
+      "38069437",
+      "39690326",
+      "41555077",
+      "25695951",
+      "42192532",
+      "42106044",
+      "28643248",
+      "36453982",
+      "24984853",
+      "42793032",
+      "29377001",
+      "35078987",
+      "29019352",
+      "39937081",
+      "28656978",
+      "32926385",
+      "40363763",
+      "27340770",
+      "32332735",
+      "27371605",
+      "29490262",
+      "27210042",
+      "41025871",
+      "26747759",
+      "30222773",
+      "40273916",
+      "40181169",
+      "27799472",
+      "42310064",
+      "31601489",
+      "35726625",
+      "39201470",
+      "34713240",
+      "39012601",
+      "32978715",
+      "31373227",
+      "38656525",
+      "40121079",
+      "39111827",
+      "33160457",
+      "32887261",
+      "33685601",
+      "34549979",
+      "26817415",
+      "30962447",
+      "35064134",
+      "30484125",
+      "29150011",
+      "32483117",
+      "40991373",
+      "33397707",
+      "33481178",
+      "34782635",
+      "29450416",
+      "34102014",
+      "27374403",
+      "32807781",
+      "36362256",
+      "34517842",
+      "31827197",
+      "38212640",
+      "29637228"
+    ],
+    "review": [
+      "43048855",
+      "42634480",
+      "40905590",
+      "32006393",
+      "42758354",
+      "33122087",
+      "40173086",
+      "31493470",
+      "39690326",
+      "24984853",
+      "42793032",
+      "40363763",
+      "27340770",
+      "27210042",
+      "34713240",
+      "33685601"
+    ],
+    "pmc": [
+      "13778624"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43048855/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1105",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

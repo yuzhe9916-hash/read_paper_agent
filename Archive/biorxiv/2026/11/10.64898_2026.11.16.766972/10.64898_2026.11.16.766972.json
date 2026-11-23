@@ -1,0 +1,112 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.16.766972",
+  "title": "Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing",
+  "doi": "10.64898/2026.11.16.766972",
+  "abstract": "The CRISPR/Cas9 system has emerged as a revolutionary tool with diverse applications in genome engineering; however, the role of nanoscale hydrogen bonds between single nucleotides in precision editing remains unknown. Here we systematically compared A-rich and G-rich PAM-recognizing Cas9 editors through comprehensive analyses of ~37,000 targeting sites with about half million libraries of ~0.36 billion types of editing outcomes. We showed that the A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM. In addition, the A-rich Cas9 editors induce a higher frequency of staggered cleavages, resulting in predictable editing with donor-independent templated insertions. Moreover, we identified distinct DNA sequence motifs for predictable insertions with the A-rich Cas9 editors. In particular, we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively. Furthermore, we found that PolQ plays a key role in enhanced random insertions. Finally, we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage. Together, these findings establish PAM-dependent cleavage geometry as a tunable determinant of Cas9 editing outcomes and provide a framework for predictive and precision genome engineering.",
+  "authors": [
+    "Shi X",
+    "Li C",
+    "Li J",
+    "Liu Y",
+    "Wu Q"
+  ],
+  "published_date": "2026-11-17",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766972",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766972.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"staggered cleavage\" OR \"CRISPR and structure\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1371254",
+    "raw_record": {
+      "id": "PPR1371254",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.16.766972",
+      "title": "Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing",
+      "authorString": "Shi X, Li C, Li J, Liu Y, Wu Q.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shi X",
+            "lastName": "Shi",
+            "firstName": "Xin",
+            "initials": "X"
+          },
+          {
+            "fullName": "Li C",
+            "lastName": "Li",
+            "firstName": "Chenyu",
+            "initials": "C"
+          },
+          {
+            "fullName": "Li J",
+            "lastName": "Li",
+            "firstName": "Jingwei",
+            "initials": "J"
+          },
+          {
+            "fullName": "Liu Y",
+            "lastName": "Liu",
+            "firstName": "Yuzhe",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Wu Q",
+            "lastName": "Wu",
+            "firstName": "Qiang",
+            "initials": "Q"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The CRISPR/Cas9 system has emerged as a revolutionary tool with diverse applications in genome engineering; however, the role of nanoscale hydrogen bonds between single nucleotides in precision editing remains unknown. Here we systematically compared A-rich and G-rich PAM-recognizing Cas9 editors through comprehensive analyses of ~37,000 targeting sites with about half million libraries of ~0.36 billion types of editing outcomes. We showed that the A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM. In addition, the A-rich Cas9 editors induce a higher frequency of staggered cleavages, resulting in predictable editing with donor-independent templated insertions. Moreover, we identified distinct DNA sequence motifs for predictable insertions with the A-rich Cas9 editors. In particular, we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively. Furthermore, we found that PolQ plays a key role in enhanced random insertions. Finally, we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage. Together, these findings establish PAM-dependent cleavage geometry as a tunable determinant of Cas9 editing outcomes and provide a framework for predictive and precision genome engineering.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.16.766972"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-19",
+      "firstPublicationDate": "2026-11-17",
+      "firstIndexDate": "2026-11-19",
+      "hasEvaluations": "N"
+    }
+  }
+}

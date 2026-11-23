@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43044597",
+  "title": "Dissecting the molecular machinery of CRISPR-associated transposons.",
+  "authors": "Wang, Shukun; Singh, Juhi; Rice, Phoebe A; Chang, Leifu",
+  "journal": "Molecular cell",
+  "published_date": "2026-11-17",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 7,
+  "one_liner_zh": "该综述系统解析CRISPR相关转座子（CAST）的分子机制，涵盖靶标识别、招募和链转移模块，虽非碱基编辑/交错切割，但RNA引导DNA识别与转座酶切割机制对理解Cas-DNA互作和编辑工具工程化有迁移启发。",
+  "abstract": "CRISPR-associated transposons (CASTs) are naturally occurring mobile genetic elements that combine programmable RNA-guided DNA recognition with transposase-mediated integration, enabling site-selective insertion of kilobase-scale DNA without nuclease-induced double-strand breaks. Current structural and biochemical knowledge can be viewed in terms of three functional modules: the transposase module, which performs DNA cleavage and strand transfer; the AAA+ ATPase TnsC, which forms a recruitment and regulatory platform; and TnsD or CRISPR effector-TniQ targeting complexes, which position this platform at selected DNA sites. Here, we synthesize recent structural and biochemical advances in target recognition, recruitment, donor-end pairing, and strand transfer. Comparisons with Tn7 and phage Mu highlight conserved transposase and ATPase functions and system-specific differences in how these components are organized and regulated. We discuss the implications of these advances for engineering programmable DNA-insertion systems and highlight unresolved questions in CAST transposition.",
+  "abstract_zh": "CRISPR相关转座子（CRISPR-associated transposons, CASTs）是天然存在的可移动遗传元件，其结合了可编程的RNA引导DNA识别与转座酶介导的整合功能，从而能够在无核酸酶诱导的双链断裂情况下，实现千碱基规模DNA的位点选择性插入。当前的结构与生化知识可从三个功能模块的角度来理解：转座酶模块，负责DNA切割和链转移；AAA+ ATP酶TnsC，形成招募和调控平台；以及TnsD或CRISPR效应器-TniQ靶向复合物，将该平台定位至选定的DNA位点。在此，我们综合了靶标识别、招募、供体末端配对及链转移方面的最新结构与生化进展。与Tn7和噬菌体Mu的比较突显了转座酶和ATP酶功能的保守性，以及这些组分在组织和调控方式上的系统特异性差异。我们讨论了这些进展对工程化可编程DNA插入系统的意义，并指出了CAST转座中尚未解决的关键问题。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044597/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43044597/",
+  "paper_page_path": "papers/pubmed/43044597/index.html"
+}

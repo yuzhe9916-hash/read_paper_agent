@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43040370",
+  "title": "A cilia-associated epithelial alteration axis nominates ERICH3 as an entry point to PI3K engagement in lung adenocarcinoma.",
+  "authors": "Chen, Qiang; Wang, Yixuan; Zhang, Yang; Ying, Shuo; Feng, Huazhuo; Hou, Kai; Zhang, Li; Zhou, Xuexia; Li, Xuebing; Qin, Jianwen; Huang, Dingzhi",
+  "journal": "Respiratory research",
+  "published_date": "2026-11-17",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 0,
+  "one_liner_zh": "该研究通过纤毛相关上皮程序筛选ERICH3与肺腺癌PI3K信号的关系，未涉及CRISPR切割、交错断裂或碱基编辑机制，与本课题无关。",
+  "abstract": "BACKGROUND: LUAD adopts heterogeneous oncogenic signalling states, and bias toward a PI3K-AKT-mTOR-engaged state is not fully explained by canonical pathway lesions. Because membrane-proximal spatial organization can tune receptor-proximal signalling yet is difficult to quantify in human tumours, we used cilia-associated epithelial programs as a hypothesis-generating entry point to identify convergently perturbed candidates and evaluate their relationship with PI3K engagement. METHODS: We performed intersection-based multi-omic prioritization in TCGA-LUAD, evaluated dependency directionality using DepMap/CCLE expression with CRISPR dependency profiles, and tested the functional relationship between ERICH3 loss and PI3K engagement by siRNA perturbation with PI3K-inhibitor rescue. We anchored tumour context using bulk co-expression, spatial transcriptomics, and single-cell analyses with ERICH3 stratified by transcript \"detection\", complemented by CellChat-based communication inference and structure/variant-informed hypothesis nomination. RESULTS: ERICH3 was prioritized through a cilia-informed screen as a convergently attenuated candidate, showed reduced protein in paired LUAD specimens (16/24, 66.7%; P = 0.014), promoter hypermethylation, and favourable survival association. An external DepMap dependency screen nominated PI3K-AKT-mTOR dependency directionality in ERICH3-low contexts (Hallmark NES = - 1.79; P = 1.04 x 10(-)(4)), which was subsequently evaluated functionally in LUAD cell lines. In LUAD cell lines, ERICH3 knockdown increased PI3K-AKT-mTOR phosphorylation and malignant phenotypes, which were attenuated by PI3K inhibition, supporting a functional relationship between ERICH3 loss and PI3K pathway engagement. Multi-scale transcriptomic analyses showed that ERICH3 transcripts were detected predominantly in a mucous epithelial compartment and non-tumour epithelium; CellChat suggested hypothesis-generating immune-interaction signals associated with ERICH3-detected mucous cells. Structural modelling and tumour-variant mapping nominated discrete membrane-proximal regions for mechanism-discriminating follow-up. CONCLUSIONS: Our findings support a testable model in which attenuation of ERICH3, identified through a cilia-informed epithelial framework, is associated with a PI3K-engaged malignant state in LUAD. The present study does not establish that ERICH3 directly regulates primary-cilium formation, ciliary protein localization, or ligand-induced ciliary signalling; the precise upstream membrane-proximal and/or cilia-related route remains to be defined.",
+  "abstract_zh": "背景：肺腺癌（LUAD）采用异质性致癌信号状态，且对PI3K-AKT-mTOR参与状态的偏向并不能完全由经典通路病变解释。由于膜近端空间组织可调节受体近端信号传导，但在人类肿瘤中难以量化，我们使用纤毛相关上皮程序作为假设生成的切入点，以识别趋同扰动的候选基因，并评估其与PI3K参与的关系。方法：我们在TCGA-LUAD中进行了基于交叉的多组学优先级排序，使用DepMap/CCLE表达与CRISPR依赖性谱评估依赖性方向性，并通过siRNA扰动结合PI3K抑制剂拯救实验测试ERICH3缺失与PI3K参与之间的功能关系。我们使用批量共表达、空间转录组学和单细胞分析，以转录本“检测”状态对ERICH3进行分层，锚定肿瘤背景，并辅以基于CellChat的通信推断和结构/变异知情假设提名。结果：ERICH3通过纤毛知情筛选被优先列为趋同衰减候选基因，在配对LUAD标本中显示蛋白减少（16/24，66.7%；P = 0.014）、启动子高甲基化，并与良好生存关联相关。外部DepMap依赖性筛选在ERICH3低表达背景下提名了PI3K-AKT-mTOR依赖性方向性（Hallmark NES = -1.79；P = 1.04 x 10^(-4)），随后在LUAD细胞系中进行了功能评估。在LUAD细胞系中，ERICH3敲低增加了PI3K-AKT-mTOR磷酸化和恶性表型，这些效应被PI3K抑制所减弱，支持ERICH3缺失与PI3K通路参与之间的功能关系。多尺度转录组学分析显示，ERICH3转录本主要在黏液上皮区室和非肿瘤上皮中检测到；CellChat提示与ERICH3检测的黏液细胞相关的假设生成免疫相互作用信号。结构建模和肿瘤变异映射提名了离散的膜近端区域，用于机制区分性后续研究。结论：我们的发现支持一个可测试模型，即通过纤毛知情上皮框架识别的ERICH3衰减与LUAD中PI3K参与的恶性状态相关。本研究未确立ERICH3直接调控初级纤毛形成、纤毛蛋白定位或配体诱导的纤毛信号传导；精确的上游膜近端和/或纤毛相关途径仍有待定义。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040370/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43040370/",
+  "paper_page_path": "papers/pubmed/43040370/index.html"
+}

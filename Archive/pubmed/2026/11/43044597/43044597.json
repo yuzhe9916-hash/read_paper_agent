@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "43044597",
+    "doi": "10.1016/j.molcel.2026.10.035",
+    "title": "Dissecting the molecular machinery of CRISPR-associated transposons."
+  },
+  "content": {
+    "abstract": "CRISPR-associated transposons (CASTs) are naturally occurring mobile genetic elements that combine programmable RNA-guided DNA recognition with transposase-mediated integration, enabling site-selective insertion of kilobase-scale DNA without nuclease-induced double-strand breaks. Current structural and biochemical knowledge can be viewed in terms of three functional modules: the transposase module, which performs DNA cleavage and strand transfer; the AAA+ ATPase TnsC, which forms a recruitment and regulatory platform; and TnsD or CRISPR effector-TniQ targeting complexes, which position this platform at selected DNA sites. Here, we synthesize recent structural and biochemical advances in target recognition, recruitment, donor-end pairing, and strand transfer. Comparisons with Tn7 and phage Mu highlight conserved transposase and ATPase functions and system-specific differences in how these components are organized and regulated. We discuss the implications of these advances for engineering programmable DNA-insertion systems and highlight unresolved questions in CAST transposition.",
+    "keywords": [
+      "CRISPR-associated transposons",
+      "Mu transposase",
+      "Tn7 transposase",
+      "genome engineering",
+      "structural biology",
+      "transpososome structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Shukun",
+        "Singh, Juhi",
+        "Rice, Phoebe A",
+        "Chang, Leifu"
+      ],
+      "short_names": [
+        "Wang S",
+        "Singh J",
+        "Rice PA",
+        "Chang L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA.",
+        "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL 60637, USA.",
+        "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL 60637, USA. Electronic address: price@uchicago.edu.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA; Purdue Institute for Cancer Research, Purdue University, West Lafayette, IN 47907, USA. Electronic address: lchang18@purdue.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Shukun",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA."
+        ]
+      },
+      {
+        "full_name": "Singh, Juhi",
+        "short_name": "Singh J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL 60637, USA."
+        ]
+      },
+      {
+        "full_name": "Rice, Phoebe A",
+        "short_name": "Rice PA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL 60637, USA. Electronic address: price@uchicago.edu."
+        ]
+      },
+      {
+        "full_name": "Chang, Leifu",
+        "short_name": "Chang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA; Purdue Institute for Cancer Research, Purdue University, West Lafayette, IN 47907, USA. Electronic address: lchang18@purdue.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Nov 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/17 23:30",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43044597",
+      "42282781",
+      "36442503",
+      "36002573",
+      "34759315",
+      "36435179",
+      "42239233",
+      "37557170",
+      "35914146",
+      "37503092",
+      "37379212",
+      "40103227",
+      "38834067",
+      "42792750",
+      "42146515",
+      "41495894",
+      "31853065",
+      "39383864",
+      "42773127",
+      "37267904",
+      "24982178",
+      "40847421",
+      "31189177",
+      "36993517",
+      "38598855",
+      "40393858",
+      "38041553",
+      "39631148",
+      "35051352",
+      "11179236",
+      "33770501",
+      "34385391",
+      "39966887",
+      "39579910",
+      "36384163",
+      "37368499",
+      "38926614",
+      "37191877",
+      "40909480",
+      "36184667",
+      "42753721",
+      "42701218",
+      "12093750",
+      "38834066",
+      "36711804",
+      "38443218",
+      "36991112",
+      "35173349",
+      "36537206",
+      "42427635",
+      "12838611",
+      "34103093",
+      "39345383",
+      "35654042",
+      "40985776",
+      "37972161",
+      "37078593",
+      "26276634",
+      "42876085",
+      "40666904",
+      "40849322",
+      "42706407",
+      "28375731",
+      "42465468",
+      "28811374",
+      "34450043",
+      "34845024",
+      "38445989",
+      "28985291",
+      "37779558",
+      "39696488",
+      "40373119",
+      "37267947",
+      "34872347",
+      "42826193",
+      "42425802",
+      "33271061",
+      "29456189",
+      "42486986",
+      "11292332",
+      "31171706",
+      "38926583",
+      "14592987",
+      "29294068",
+      "10704304",
+      "10737770",
+      "26524520",
+      "20538004",
+      "42026979",
+      "7641701",
+      "26506267",
+      "40310292",
+      "11756424",
+      "37502928",
+      "33596056",
+      "36130724",
+      "35562427",
+      "24651067",
+      "26104363",
+      "20653944"
+    ],
+    "review": [
+      "43044597",
+      "42792750",
+      "38598855",
+      "40393858",
+      "38041553",
+      "39631148",
+      "39579910",
+      "37191877",
+      "38443218",
+      "12838611",
+      "42876085",
+      "42706407",
+      "28375731",
+      "28985291",
+      "39696488",
+      "42425802",
+      "42026979",
+      "26506267",
+      "33596056",
+      "35562427",
+      "24651067"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00755-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu1-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1023",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

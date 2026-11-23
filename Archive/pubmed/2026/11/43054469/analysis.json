@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43054469",
+  "title": "SLC38A2-Driven Glutamine Metabolic Reprogramming Promotes Hypoxic Survival in Glioblastoma.",
+  "authors": "Qi, Yanhua; Xia, Huize; Gao, Zijie; Li, Boyan; Pan, Ziwen; Feng, Bowen; Wang, Chuanzheng; Ma, Weiyang; Li, Ruochuan; Qiu, Jiawei; Han, Zhe; Chen, Zheyuan; Tang, Weijie; Wang, Qingtong; Wang, Daiyan; Hao, Leyang; Liu, Junzhi; Zhao, Rongrong; Zhao, Hongyu; Li, Gang; Xue, Hao",
+  "journal": "Cancer communications (London, England)",
+  "published_date": "2026-11-19",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 2,
+  "one_liner_zh": "该研究利用CRISPR-Cas9筛选鉴定GBM缺氧适应中的代谢依赖SLC38A2，但核心是肿瘤代谢机制，与碱基编辑/交错切割的分子机制无直接关联。",
+  "abstract": "Background: Glioblastoma (GBM) is highly refractory to standard therapies, including anti-angiogenic agents such as bevacizumab. While bevacizumab prunes tumor vasculature, it exacerbates intratumoral hypoxia, which drives a metabolically resilient phenotype that limits survival benefits. This study aimed to identify the metabolic dependencies underlying GBM adaptation to hypoxia and to evaluate whether targeting these dependencies could enhance the antitumor efficacy of bevacizumab. Methods: We analyzed the spatial distribution of key metabolites in GBM patients and orthotopic xenograft mouse models using magnetic resonance spectroscopy and chemical shift imaging. A dual-vector hypoxia fate-mapping system paired with an in vivo genome-wide clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated protein 9 (Cas9) knockout screen was employed to identify metabolic vulnerabilities within the hypoxic niche. Metabolic flux was analyzed utilizing (13)C(5)-labeled glutamine tracers. The molecular mechanisms governing solute carrier family 38 member 2 (SLC38A2) regulation were investigated using chromatin immunoprecipitation, cycloheximide chase assays, liquid chromatography-tandem mass spectrometry, and co-immunoprecipitation. The efficacy of targeting SLC38A2 was evaluated through structure-based virtual screening and in vivo orthotopic xenograft models treated concurrently with zonisamide and bevacizumab. Results: Imaging and tissue metabolite analyses revealed a spatial metabolic mismatch in the hypoxic tumor core, characterized by lactate accumulation alongside glutamine depletion. In vivo CRISPR-Cas9 screening identified SLC38A2 as an essential metabolic dependency for GBM cell survival under hypoxic stress. Under hypoxic conditions, hypoxia-inducible factor 1 alpha (HIF-1alpha) promoted SLC38A2 transcription, while elevated lactate stabilized the SLC38A2 protein through alanyl-tRNA synthetase 1 (AARS1)-mediated lactylation at Lys472. These changes were accompanied by increased glutamine uptake and glutathione biosynthesis, reduced reactive oxygen species levels, and decreased mitochondrial-fission-mediated apoptosis. Pharmacological screening identified the US Food and Drug Administration-approved, brain-penetrant anticonvulsant zonisamide as an inhibitor of SLC38A2. In orthotopic GBM xenograft models, combined treatment with zonisamide and bevacizumab markedly suppressed tumor growth compared with bevacizumab alone. Conclusions: This study defines a spatially organized lactate-glutamine metabolic axis essential for hypoxic adaptation in GBM. The dual transcriptional and posttranslational up-regulation of SLC38A2 represents a critical survival mechanism. This axis can be pharmacologically dismantled by zonisamide, offering a clinically actionable combinational strategy to overcome anti-angiogenic therapy resistance.",
+  "abstract_zh": "背景：胶质母细胞瘤（GBM）对标准疗法（包括贝伐珠单抗等抗血管生成药物）高度难治。尽管贝伐珠单抗可修剪肿瘤血管，但它加剧了瘤内缺氧，从而驱动代谢适应性表型，限制了生存获益。本研究旨在识别GBM适应缺氧所依赖的代谢途径，并评估靶向这些途径是否能增强贝伐珠单抗的抗肿瘤疗效。方法：我们利用磁共振波谱和化学位移成像分析了GBM患者和原位异种移植小鼠模型中关键代谢物的空间分布。采用双载体缺氧命运映射系统结合体内全基因组规律间隔成簇短回文重复序列（CRISPR）-CRISPR相关蛋白9（Cas9）敲除筛选，以识别缺氧微环境中的代谢脆弱点。利用(13)C(5)标记的谷氨酰胺示踪剂分析代谢通量。通过染色质免疫沉淀、环己酰亚胺追踪实验、液相色谱-串联质谱和共免疫沉淀研究了溶质载体家族38成员2（SLC38A2）调控的分子机制。通过基于结构的虚拟筛选和同时使用唑尼沙胺与贝伐珠单抗治疗的体内原位异种移植模型，评估了靶向SLC38A2的疗效。结果：影像和组织代谢物分析揭示了缺氧肿瘤核心中的空间代谢不匹配，其特征为乳酸积累伴随谷氨酰胺耗竭。体内CRISPR-Cas9筛选确定SLC38A2是GBM细胞在缺氧应激下生存所必需的关键代谢依赖。在缺氧条件下，缺氧诱导因子1α（HIF-1α）促进SLC38A2转录，而升高的乳酸通过丙氨酰-tRNA合成酶1（AARS1）介导的Lys472位点乳酰化稳定SLC38A2蛋白。这些变化伴随谷氨酰胺摄取和谷胱甘肽生物合成增加、活性氧水平降低以及线粒体分裂介导的凋亡减少。药理学筛选确定美国食品药品监督管理局批准的、可穿透血脑屏障的抗惊厥药唑尼沙胺为SLC38A2抑制剂。在原位GBM异种移植模型中，与单独使用贝伐珠单抗相比，唑尼沙胺和贝伐珠单抗联合治疗显著抑制了肿瘤生长。结论：本研究定义了一个空间组织的乳酸-谷氨酰胺代谢轴，该轴对GBM的缺氧适应至关重要。SLC38A2的双重转录和翻译后上调代表了一种关键的生存机制。该轴可通过唑尼沙胺进行药理学拆解，为克服抗血管生成治疗耐药提供了一种临床可行的联合策略。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054469/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43054469/",
+  "paper_page_path": "papers/pubmed/43054469/index.html"
+}

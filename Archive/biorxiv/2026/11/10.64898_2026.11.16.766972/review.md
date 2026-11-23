@@ -1,0 +1,80 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no methods, figures, or data tables were provided for verification
+- **Shared manuscript claim summary** The authors report a large-scale comparative analysis of A-rich versus G-rich PAM-recognizing Cas9 editors across ~37,000 targeting sites and ~0.36 billion editing outcome types. They claim that A-rich Cas9 editors show stronger editing outcome predictability, higher staggered cleavage frequency, and predictable donor-independent templated insertions. They further report identification of single-nucleotide microhomologies at the -4 position mediated by two or three hydrogen bonds, a role for PolQ in enhanced random insertions, and development of a deep learning model (CRIfuser) for predicting editing outcomes with staggered cleavage.
+- **Visible evidence base** Abstract text only. No figures, tables, methods, statistical analyses, or model validation data were provided.
+- **Missing materials affecting confidence** All primary data, experimental methods, bioinformatic pipelines, statistical tests, model architecture and performance metrics, and validation datasets are absent. The scale claims (~37,000 sites, ~0.36 billion outcomes) cannot be independently assessed.
+
+## Reviewer
+- **Overall assessment** The abstract presents a potentially interesting comparative framework for understanding PAM-dependent cleavage geometry in Cas9 editing outcomes. However, the claims are broad and mechanistic, and the evidence base provided is insufficient to evaluate their validity. The central assertions regarding hydrogen-bond-mediated microhomology, PolQ involvement, and the predictive model's performance are stated without supporting quantitative detail. The work may be of interest to the genome engineering community, but the current abstract alone does not establish the case.
+- **Who would be interested in the results, and why** Genome engineering researchers, particularly those working on CRISPR precision editing, homology-directed repair mechanisms, and predictive modeling of editing outcomes. The comparative analysis of A-rich versus G-rich PAM editors could inform editor selection for therapeutic or research applications. The proposed CRIfuser model may interest computational biologists developing predictive tools for genome editing.
+- **Major strengths** The scale of the reported dataset is substantial and could provide a valuable resource. The comparative angle between A-rich and G-rich PAM editors is a useful framing that may reveal editor-specific principles. The integration of mechanistic findings (microhomology, PolQ) with a predictive model is an ambitious and potentially impactful combination.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "we revealed single nucleotides at the -4 position as MMEJ microhomologies in precision engineering via two or three hydrogen bonds with A-rich or G-rich PAM, respectively"
+  - **Evidence pointer** Abstract only; location not provided
+  - **Concern** The claim that single nucleotides at the -4 position function as MMEJ microhomologies via two or three hydrogen bonds is a specific mechanistic assertion. The abstract provides no experimental or computational evidence demonstrating how hydrogen bond counts were determined, how the -4 position was identified, or how this relates functionally to MMEJ outcomes.
+  - **Why it matters** This is a central mechanistic claim that appears to be a key novelty of the work. Without supporting data, the claim cannot be evaluated, and its validity is essential to the paper's contribution.
+  - **Resolution test** Provide experimental or computational evidence showing position-specific microhomology analysis, hydrogen bond calculations, and functional validation (e.g., mutation of the -4 nucleotide and demonstration of altered editing outcomes).
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Model validation
+  - **Claim pointer** "we developed a discrete-space diffusion model CRIfuser of deep learning for predicting editing outcomes with staggered cleavage"
+  - **Evidence pointer** Abstract only; location not provided
+  - **Concern** The abstract claims development of a deep learning model but provides no performance metrics, comparison to existing models, or validation strategy. It is unclear whether CRIfuser outperforms existing predictors or whether it generalizes beyond the training data.
+  - **Why it matters** Predictive models are only useful if their accuracy and generalizability are demonstrated. Without quantitative benchmarks, the claim of a predictive framework is unsupported.
+  - **Resolution test** Provide model performance metrics (e.g., correlation coefficients, precision/recall) on held-out test sets, comparison with existing tools, and external validation datasets.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Statistical rigor
+  - **Claim pointer** "A-rich Cas9 editors exhibit stronger editing outcome predictability in comparison with the conventional Cas9 editor of the G-rich PAM"
+  - **Evidence pointer** Abstract only; location not provided
+  - **Concern** The claim of "stronger predictability" is comparative and requires statistical testing. The abstract does not report effect sizes, confidence intervals, or significance testing. It is also unclear what metric was used to define predictability.
+  - **Why it matters** This is a foundational claim upon which subsequent findings depend. Without statistical support, the comparative conclusion is not established.
+  - **Resolution test** Report the predictability metric used, effect sizes, and statistical significance for the comparison between A-rich and G-rich editors.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Mechanistic attribution
+  - **Claim pointer** "we found that PolQ plays a key role in enhanced random insertions"
+  - **Evidence pointer** Abstract only; location not provided
+  - **Concern** The role of PolQ is stated as a finding, but no experimental approach (e.g., knockdown, knockout, inhibitor) or quantitative outcome is described. The specificity of PolQ's role versus other polymerases is not addressed.
+  - **Why it matters** Attributing a mechanistic role to a specific polymerase requires loss-of-function or gain-of-function evidence. Without this, the claim is speculative.
+  - **Resolution test** Provide experimental evidence with PolQ perturbation and demonstrate altered insertion frequencies, ideally with complementation or specificity controls.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Dataset description
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The relationship between "~37,000 targeting sites," "about half million libraries," and "~0.36 billion types of editing outcomes" is unclear. It is not obvious how these numbers relate to each other or what they represent.
+  - **Required correction** Clarify the hierarchical structure of the dataset (sites, libraries, outcomes) and define what constitutes an "editing outcome type."
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "nanoscale hydrogen bonds"
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The phrase "nanoscale hydrogen bonds" is unusual. Hydrogen bonds are typically described at the molecular level, and "nanoscale" may be imprecise or misleading.
+  - **Required correction** Use standard terminology such as "hydrogen bonding interactions" or specify the structural scale being referenced.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Model naming
+  - **Affected element** "CRIfuser"
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The model name "CRIfuser" is introduced without explanation of its derivation or relation to existing models.
+  - **Required correction** Briefly explain the name or provide a reference to the model's conceptual basis.
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The central mechanistic claim, the model's utility, and the comparative predictability claim all require supporting evidence that is not present in the abstract.
+- **Assessment against Nature-style criteria** Originality: the comparative A-rich versus G-rich PAM framing and the proposed hydrogen-bond-based microhomology mechanism are potentially original, but novelty cannot be fully assessed without seeing how this relates to prior work. Scientific importance: if substantiated, the findings could inform editor selection and predictive modeling, which is of practical importance. Interdisciplinary readership: the work bridges molecular biology, genomics, and machine learning, which could appeal to a broad audience. Technical soundness: cannot be evaluated from the abstract alone; the absence of methods and statistical detail is a major limitation. Readability for nonspecialists: the abstract is dense and uses specialized terminology without sufficient context, which may limit accessibility.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract presents an ambitious set of claims, but the absence of methods, data, and validation means the case is not made. A full manuscript with supporting evidence would be required for a meaningful evaluation.
+
+## Risk / unsupported claims
+- The claim of hydrogen-bond-mediated microhomology at the -4 position is unsupported by any presented evidence.
+- The claim that CRIfuser predicts editing outcomes is unsupported without performance metrics or validation.
+- The comparative claim of stronger predictability for A-rich editors is unsupported without statistical analysis.
+- The role of PolQ in enhanced random insertions is stated without experimental support.
+- The dataset scale claims (~37,000 sites, ~0.36 billion outcomes) cannot be verified from the abstract alone.

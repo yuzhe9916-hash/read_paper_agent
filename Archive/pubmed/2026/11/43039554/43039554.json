@@ -1,0 +1,385 @@
+{
+  "identity": {
+    "pmid": "43039554",
+    "doi": "10.1016/j.carbpol.2026.125965",
+    "title": "Polysaccharide-centered engineering of biomass-derived nanoparticles for precision medicine: From molecular assembly and structural deconstruction to therapeutic design."
+  },
+  "content": {
+    "abstract": "Polysaccharide-centered engineering of biomass-derived nanoparticles (BNPs) is emerging as a sustainable and biologically compatible strategy for precision medicine. Polysaccharide-derived nanoparticles offer renewable sources, structural diversity, tunable physicochemical properties, and intrinsic biological functions that enable their rational engineering for targeted delivery and therapeutic modulation. This review focuses on cellulose-, chitosan-, alginate-, and hyaluronic acid-based nanoplatforms and examines how their molecular and supramolecular characteristics govern nanoparticle construction, nano-bio interactions, and therapeutic performance. Selected protein-derived systems are discussed where they form hybrid architectures with polysaccharides or provide mechanistic insights directly relevant to polysaccharide nanoengineering. We integrate bottom-up molecular assembly and top-down structural deconstruction as complementary fabrication paradigms and analyze how BNPs navigate physiological barriers through mechanisms including receptor-mediated transport, tight-junction modulation, and stimulus-responsive structural reconfiguration. We further examine their applications in CRISPR-Cas9 delivery and precision immunotherapy, with particular attention to design principles, translational constraints, and opportunities for scalable manufacturing. By linking molecular structure, assembly behavior, biological transport, and therapeutic function, this review provides a polysaccharide-centered framework for the rational development of adaptive biomass-derived nanoplatforms for precision medicine.",
+    "keywords": [
+      "Biological barriers",
+      "Biomass-derived nanoparticles",
+      "Molecular self-assembly",
+      "Nano-bio interface",
+      "Polysaccharide nanoparticles",
+      "Precision medicine"
+    ],
+    "mesh_terms": [
+      "*Nanoparticles/chemistry",
+      "*Polysaccharides/chemistry",
+      "*Biomass",
+      "*Precision Medicine/methods",
+      "Humans",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yumeng",
+        "Yang, Huan",
+        "Xiang, Wenchao",
+        "Yang, Xu",
+        "Tao, Lu",
+        "Jiang, Zhenyu",
+        "Han, Shiqi",
+        "Chen, Guoqiang",
+        "Jia, Haiyang",
+        "Liu, Qi"
+      ],
+      "short_names": [
+        "Li Y",
+        "Yang H",
+        "Xiang W",
+        "Yang X",
+        "Tao L",
+        "Jiang Z",
+        "Han S",
+        "Chen G",
+        "Jia H",
+        "Liu Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Engineering Medicine, Beihang University, Beijing, 100191, China.",
+        "School of Engineering Medicine, Beihang University, Beijing, 100191, China.",
+        "State Key Laboratory of Petroleum Molecular & Process Engineering, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China.",
+        "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China.",
+        "School of Engineering Medicine, Beihang University, Beijing, 100191, China.",
+        "School of Engineering Medicine, Beihang University, Beijing, 100191, China.",
+        "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China.",
+        "School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing, 100190, China. Electronic address: haiyangjia@bit.edu.cn.",
+        "School of Engineering Medicine, Beihang University, Beijing, 100191, China. Electronic address: qiliu595@buaa.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yumeng",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Medicine, Beihang University, Beijing, 100191, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Huan",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Medicine, Beihang University, Beijing, 100191, China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Wenchao",
+        "short_name": "Xiang W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Petroleum Molecular & Process Engineering, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xu",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Lu",
+        "short_name": "Tao L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhenyu",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Medicine, Beihang University, Beijing, 100191, China."
+        ]
+      },
+      {
+        "full_name": "Han, Shiqi",
+        "short_name": "Han S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Medicine, Beihang University, Beijing, 100191, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guoqiang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Haiyang",
+        "short_name": "Jia H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing, 100190, China. Electronic address: haiyangjia@bit.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Qi",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Medicine, Beihang University, Beijing, 100191, China. Electronic address: qiliu595@buaa.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Carbohydrate polymers"
+    ],
+    "journal_abbrev": [
+      "Carbohydr Polym"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 23:29",
+    "fetched_at": "2026-11-23 09:14:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43039554",
+      "42685887",
+      "42475469",
+      "42551198",
+      "41340279",
+      "42974481",
+      "40992476",
+      "42841037",
+      "42788327",
+      "42654583",
+      "42982153",
+      "42936725",
+      "41924453",
+      "42920144",
+      "41663025",
+      "42219943",
+      "41297807",
+      "42978913",
+      "41187067",
+      "42943293",
+      "43035493",
+      "42853260",
+      "40680959",
+      "42886329",
+      "40728220",
+      "42194344",
+      "42480147",
+      "42976618",
+      "38016614",
+      "42271438",
+      "41461357",
+      "41628746",
+      "23912807",
+      "42298891",
+      "41611150",
+      "42575383",
+      "42464296",
+      "41828476",
+      "42589690",
+      "42442172",
+      "42617782",
+      "26639578",
+      "42683329",
+      "40972919",
+      "42725145",
+      "42547457",
+      "42093314",
+      "41765211",
+      "42366415",
+      "42832092",
+      "42785876",
+      "22612705",
+      "28946131",
+      "42949717",
+      "41932497",
+      "41171701",
+      "42738166",
+      "41688137",
+      "40886985",
+      "42983612",
+      "36347370",
+      "42742672",
+      "33277608",
+      "42345091",
+      "42517682",
+      "41873425",
+      "40516724",
+      "42135733",
+      "42577912",
+      "42005460",
+      "41366426",
+      "41319500",
+      "42945283",
+      "40997974",
+      "42042135",
+      "31888066",
+      "42710106",
+      "42648678",
+      "42557840",
+      "33928990",
+      "42605731",
+      "42338900",
+      "42361998",
+      "41917675",
+      "41724855",
+      "41208512",
+      "42194071",
+      "42659802",
+      "42003459",
+      "42484514",
+      "42514851",
+      "42765443",
+      "41759844",
+      "40274161",
+      "42827811",
+      "42604385",
+      "42699775",
+      "42354425",
+      "41155373",
+      "42425355"
+    ],
+    "review": [
+      "43039554",
+      "42685887",
+      "42551198",
+      "42974481",
+      "40992476",
+      "42841037",
+      "42788327",
+      "42654583",
+      "42982153",
+      "42936725",
+      "41924453",
+      "42920144",
+      "41663025",
+      "42219943",
+      "41297807",
+      "42978913",
+      "41187067",
+      "42943293",
+      "43035493",
+      "42853260",
+      "40680959",
+      "42886329",
+      "40728220",
+      "42194344",
+      "42480147",
+      "42976618",
+      "38016614",
+      "42271438",
+      "41461357",
+      "41628746",
+      "42298891",
+      "41611150",
+      "42575383",
+      "42464296",
+      "41828476",
+      "42589690",
+      "42442172",
+      "42617782",
+      "26639578",
+      "42683329",
+      "40972919",
+      "42725145",
+      "42547457",
+      "42093314",
+      "41765211",
+      "42366415",
+      "42832092",
+      "42785876",
+      "22612705",
+      "28946131",
+      "42949717",
+      "41932497",
+      "41171701",
+      "42738166",
+      "41688137",
+      "40886985",
+      "36347370",
+      "42742672",
+      "33277608",
+      "42345091",
+      "42517682",
+      "41873425",
+      "40516724",
+      "42135733",
+      "42577912",
+      "42005460",
+      "41366426",
+      "41319500",
+      "42945283",
+      "40997974",
+      "42042135",
+      "31888066",
+      "42648678",
+      "42557840",
+      "33928990",
+      "42605731",
+      "42338900",
+      "42361998",
+      "41917675",
+      "41724855",
+      "41208512",
+      "42194071",
+      "42659802",
+      "42003459",
+      "42484514",
+      "42514851",
+      "42765443",
+      "41759844",
+      "40274161",
+      "42827811",
+      "42604385",
+      "42699775",
+      "42354425",
+      "41155373"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0144-8617(26)01082-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

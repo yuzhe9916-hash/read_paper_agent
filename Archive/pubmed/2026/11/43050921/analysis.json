@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43050921",
+  "title": "Heat stress impairs pharyngeal tooth mineralization via TRPV1 in zebrafish.",
+  "authors": "Ren, Yujia; Liu, Jingyun; Wang, Zhen; Fu, Jing; Zheng, Huiwen; Xing, Xianghui",
+  "journal": "Journal of thermal biology",
+  "published_date": "2026-11-18",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究探讨热应激经TRPV1影响斑马鱼咽齿矿化，虽使用CRISPR/Cas9敲降但仅作为工具，未涉及切割机制或碱基编辑，与本课题核心机制无关。",
+  "abstract": "BACKGROUND: Ambient temperature is a fundamental environmental factor that governs a wide range of biological processes in ectotherms. Heat stress is known to disrupt development, yet its impact on specific physiological processes such as tooth biomineralization, and the underlying molecular thermosensing mechanisms, remain poorly understood. OBJECTIVE: To determine whether elevated temperature impairs pharyngeal mineralization in zebrafish and if so, whether the thermosensitive TRPV1 channel mediates this effect. METHODS: Zebrafish larvae were reared at 28  degrees C, 30  degrees C, 32  degrees C or 34  degrees C for 20 days. Pharyngeal tooth mineralization was assessed by Alizarin Red S staining and scanning electron microscopy. Expression of mineralization-related genes (odam, scpp5, scpp1, scpp9) was quantified by qRT-PCR. Tissue morphology was examined by HE staining. TRPV1 involvement was tested by pharmacological inhibition (AMG517) and CRISPR/Cas9-mediated trpv1 knockdown. RESULTS: Higher temperatures progressively impaired tooth mineralization, with patchy staining, changes in ameloblast-like cell morphology, and rough, pitted enameloid surfaces, despite normal survival and morphology. Gene expression of odam, scpp5, scpp1 and scpp9 was consistently downregulated. Both TRPV1 inhibition and trpv1 knockdown substantially rescued the heat-induced defects, restoring mineralization, surface structure and gene expression without affecting viability. CONCLUSION: Heat stress disrupts pharyngeal tooth biomineralization in zebrafish via TRPV1. TRPV1 is essential for this effect, positioning it as a key molecular link between environmental temperature and tooth formation.",
+  "abstract_zh": "背景：环境温度是控制外温动物多种生物过程的基本环境因素。已知热应激会干扰发育，但其对特定生理过程（如牙齿生物矿化）的影响及潜在的分子温度感应机制仍知之甚少。目的：确定升高的温度是否损害斑马鱼的咽部矿化，如果是，温度敏感的TRPV1通道是否介导此效应。方法：斑马鱼幼鱼在28°C、30°C、32°C或34°C下饲养20天。通过茜素红S染色和扫描电子显微镜评估咽部牙齿矿化。通过qRT-PCR定量矿化相关基因（odam、scpp5、scpp1、scpp9）的表达。通过HE染色检查组织形态。通过药理学抑制（AMG517）和CRISPR/Cas9介导的trpv1敲低测试TRPV1的参与。结果：较高温度逐渐损害牙齿矿化，表现为斑驳染色、成釉细胞样细胞形态改变以及釉质样表面粗糙、有凹坑，尽管存活率和形态正常。odam、scpp5、scpp1和scpp9的基因表达持续下调。TRPV1抑制和trpv1敲低均显著挽救热诱导的缺陷，恢复矿化、表面结构和基因表达，而不影响生存能力。结论：热应激通过TRPV1破坏斑马鱼的咽部牙齿生物矿化。TRPV1对此效应至关重要，使其成为环境温度与牙齿形成之间的关键分子联系。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050921/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43050921/",
+  "paper_page_path": "papers/pubmed/43050921/index.html"
+}
